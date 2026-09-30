@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 249,242 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
-| [Dia](https://github.com/raycast/extensions/tree/main/extensions/dia) | 14,832 | Search your open tabs and browsing history in Dia | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/dia) |
+| [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 249,271 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
+| [Dia](https://github.com/raycast/extensions/tree/main/extensions/dia) | 14,833 | Search your open tabs and browsing history in Dia | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/dia) |
 | [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 11,090 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
 | [Shell History](https://github.com/raycast/extensions/tree/main/extensions/shell-history) | 5,590 | Search shell command history from zsh, bash, and fish. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/shell-history) |
 | [TypeWhisper](https://github.com/raycast/extensions/tree/main/extensions/typewhisper) | 3,547 | Voice dictation, transcription history, and profile management for TypeWhisper | SeoFood | macOS, Windows | [store](https://www.raycast.com/SeoFood/typewhisper) |

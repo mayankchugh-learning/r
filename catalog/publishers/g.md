@@ -11,7 +11,7 @@
 | [gamerslouis](https://www.raycast.com/gamerslouis) | 1 | 202 | **Developer Tools:** [Certificate Viewer](https://github.com/raycast/extensions/tree/main/extensions/certificate-viewer) |
 | [gandli](https://www.raycast.com/gandli) | 1 | 1,690 | **Productivity:** [Memorable Password Generator](https://github.com/raycast/extensions/tree/main/extensions/memorable-generate-password) |
 | [gaosunhao](https://www.raycast.com/gaosunhao) | 1 | 134 | **Uncategorized:** [SVG Studio](https://github.com/raycast/extensions/tree/main/extensions/svg-studio) |
-| [gaoyang](https://www.raycast.com/gaoyang) | 2 | 3,440 | **Media:** [DouTu](https://github.com/raycast/extensions/tree/main/extensions/doutu)<br>**Developer Tools:** [NuGet Package Explorer](https://github.com/raycast/extensions/tree/main/extensions/nuget-package-explorer) |
+| [gaoyang](https://www.raycast.com/gaoyang) | 2 | 3,444 | **Media:** [DouTu](https://github.com/raycast/extensions/tree/main/extensions/doutu)<br>**Developer Tools:** [NuGet Package Explorer](https://github.com/raycast/extensions/tree/main/extensions/nuget-package-explorer) |
 | [garon](https://www.raycast.com/garon) | 1 | 3 | **Productivity:** [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse) |
 | [garrett](https://www.raycast.com/garrett) | 2 | 53,086 | **Design Tools:** [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so)<br>**Developer Tools:** [Invisible Text Detector](https://github.com/raycast/extensions/tree/main/extensions/invisible-text-detector) |
 | [garyhtou](https://www.raycast.com/garyhtou) | 1 | 2 | **Productivity:** [Hack Club CDN](https://github.com/raycast/extensions/tree/main/extensions/hack-club-cdn) |

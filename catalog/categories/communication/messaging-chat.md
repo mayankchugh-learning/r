@@ -29,7 +29,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [X.com](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,885 | Browse, search, publish posts, and send direct messages on X | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
-| [Discord](https://github.com/raycast/extensions/tree/main/extensions/discord) | 8,681 | Send message to a specific discord channel using webhook. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/discord) |
+| [Discord](https://github.com/raycast/extensions/tree/main/extensions/discord) | 8,682 | Send message to a specific discord channel using webhook. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/discord) |
 | [Slack Summarizer](https://github.com/raycast/extensions/tree/main/extensions/slack-summarizer) | 272 | Summarize Slack channels, threads and messages using OpenAI | hassan_ahmed | macOS | [store](https://www.raycast.com/hassan_ahmed/slack-summarizer) |
 | [Bark](https://github.com/raycast/extensions/tree/main/extensions/bark) | 218 | Send messages to Bark via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bark) |
 | [Pushover](https://github.com/raycast/extensions/tree/main/extensions/pushover) | 185 | Send a message via the Pushover API. | mattstone | macOS | [store](https://www.raycast.com/mattstone/pushover) |

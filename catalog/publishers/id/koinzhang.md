@@ -1,6 +1,6 @@
 # koinzhang
 
-50 extensions · 287,658 downloads · [store](https://www.raycast.com/koinzhang) · [← publishers](../README.md)
+50 extensions · 287,659 downloads · [store](https://www.raycast.com/koinzhang) · [← publishers](../README.md)
 
 ## Developer Tools (18)
 
@@ -106,7 +106,7 @@
 | [Auto Quit App](https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app) | 4,886 | Automatically quit the application after all windows are closed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/auto-quit-app) |
 | [Stickies](https://github.com/raycast/extensions/tree/main/extensions/stickies) | 3,638 | Search and show macOS's built-in Stickies via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/stickies) |
 | [n8n](https://github.com/raycast/extensions/tree/main/extensions/n8n) | 2,732 | Control n8n via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/n8n) |
-| [Bunch](https://github.com/raycast/extensions/tree/main/extensions/bunch) | 1,668 | Control Bunch via Raycast. Bunch is a Mac automation tool. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bunch) |
+| [Bunch](https://github.com/raycast/extensions/tree/main/extensions/bunch) | 1,669 | Control Bunch via Raycast. Bunch is a Mac automation tool. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bunch) |
 | [Just Focus](https://github.com/raycast/extensions/tree/main/extensions/just-focus) | 1,545 | Control Just Focus via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/just-focus) |
 | [BetterZip](https://github.com/raycast/extensions/tree/main/extensions/betterzip) | 1,202 | Compress and extract selected items in Finder with BetterZip via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/betterzip) |
 | [Bark](https://github.com/raycast/extensions/tree/main/extensions/bark) | 218 | Send messages to Bark via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bark) |

@@ -45,7 +45,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 7,093 | Download videos and audio from popular social media platforms with ease. | aelew | macOS, Windows | [store](https://www.raycast.com/aelew/cobalt) |
+| [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 7,095 | Download videos and audio from popular social media platforms with ease. | aelew | macOS, Windows | [store](https://www.raycast.com/aelew/cobalt) |
 | [Cider](https://github.com/raycast/extensions/tree/main/extensions/cider) | 1,065 | Interact with Cider through Raycast | feyli | macOS, Windows | [store](https://www.raycast.com/feyli/cider) |
 
 ### Media & Photo Apps

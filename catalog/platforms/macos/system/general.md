@@ -10,7 +10,7 @@
 | [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 84,016 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
 | [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 71,791 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 61,369 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
-| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 52,417 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
+| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 52,429 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
 | [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 46,119 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
 | [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 43,384 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
 | [Apple Intelligence](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence) | 38,549 | Use Apple Intelligence from the comfort of Raycast. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-apple-intelligence) |
@@ -22,7 +22,7 @@
 | [Remove Background - Powered by Mac](https://github.com/raycast/extensions/tree/main/extensions/remove-background-powered-by-mac) | 11,178 | Remove background from image with the Mac Vision API | xmorse | macOS | [store](https://www.raycast.com/xmorse/remove-background-powered-by-mac) |
 | [Siri](https://github.com/raycast/extensions/tree/main/extensions/siri) | 10,766 | Interact with Siri through Raycast | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/siri) |
 | [Text Replacements](https://github.com/raycast/extensions/tree/main/extensions/text-replacements) | 7,160 | Search, manage, and import your macOS text replacements. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/text-replacements) |
-| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 6,611 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
+| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 6,612 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
 | [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,728 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |
 | [Shell History](https://github.com/raycast/extensions/tree/main/extensions/shell-history) | 5,590 | Search shell command history from zsh, bash, and fish. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/shell-history) |
 | [Tunnelblick](https://github.com/raycast/extensions/tree/main/extensions/tunnelblick) | 4,608 | Quickly enable and disable vpn connections | SamuelNitsche | macOS | [store](https://www.raycast.com/SamuelNitsche/tunnelblick) |

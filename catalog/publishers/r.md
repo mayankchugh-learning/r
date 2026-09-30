@@ -93,13 +93,13 @@
 | [rogovk](https://www.raycast.com/rogovk) | 1 | 6 | **Productivity:** [Keyboard Layout Search](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search) |
 | [rokartur](https://www.raycast.com/rokartur) | 2 | 1,021 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
 | [rokcso](https://www.raycast.com/rokcso) | 1 | 722 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
-| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,227 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
+| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,355 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
 | [rolfkoenders](https://www.raycast.com/RolfKoenders) | 1 | 21 | **Productivity:** [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) |
 | [Romain](https://www.raycast.com/Romain) | 1 | 636 | **Applications:** [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) |
 | [romain_lajeunesse](https://www.raycast.com/romain_lajeunesse) | 1 | 4 | **Developer Tools:** [Gatus Status](https://github.com/raycast/extensions/tree/main/extensions/gatus-status) |
 | [RomanVPX](https://www.raycast.com/RomanVPX) | 1 | 5 | **Developer Tools:** [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) |
 | [RomiC](https://www.raycast.com/RomiC) | 1 | 2 | **Media:** [AudioCast Control](https://github.com/raycast/extensions/tree/main/extensions/audiocast-control) |
-| [ron-myers](https://www.raycast.com/ron-myers) | 5 | 97,000 | **Applications:** [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm), [Brave](https://github.com/raycast/extensions/tree/main/extensions/brave), [Terminal](https://github.com/raycast/extensions/tree/main/extensions/terminal)<br>**Communication:** [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime)<br>**Media:** [Podcasts](https://github.com/raycast/extensions/tree/main/extensions/podcasts) |
+| [ron-myers](https://www.raycast.com/ron-myers) | 5 | 97,004 | **Applications:** [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm), [Brave](https://github.com/raycast/extensions/tree/main/extensions/brave), [Terminal](https://github.com/raycast/extensions/tree/main/extensions/terminal)<br>**Communication:** [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime)<br>**Media:** [Podcasts](https://github.com/raycast/extensions/tree/main/extensions/podcasts) |
 | [ronglecat](https://www.raycast.com/ronglecat) | 1 | 361 | **Developer Tools:** [Cheetah](https://github.com/raycast/extensions/tree/main/extensions/cheetah) |
 | [rosszurowski](https://www.raycast.com/rosszurowski) | 1 | 69 | **Developer Tools:** [xid](https://github.com/raycast/extensions/tree/main/extensions/xid) |
 | [rosvik](https://www.raycast.com/rosvik) | 1 | 133 | **Web:** [Norwegian Public Transport](https://github.com/raycast/extensions/tree/main/extensions/norwegian-public-transport) |
@@ -109,7 +109,7 @@
 | [rrajath](https://www.raycast.com/rrajath) | 1 | 1,445 | **Other:** [Stoic Quotes](https://github.com/raycast/extensions/tree/main/extensions/stoicquotes) |
 | [rrmaximiliano](https://www.raycast.com/rrmaximiliano) | 1 | 117 | **Developer Tools:** [Positron](https://github.com/raycast/extensions/tree/main/extensions/positron) |
 | [rrroyal](https://www.raycast.com/rrroyal) | 1 | 112 | **Web:** [DekuDeals](https://github.com/raycast/extensions/tree/main/extensions/dekudeals) |
-| [RSO](https://www.raycast.com/RSO) | 1 | 24,645 | **Documentation:** [Dash](https://github.com/raycast/extensions/tree/main/extensions/dash) |
+| [RSO](https://www.raycast.com/RSO) | 1 | 24,647 | **Documentation:** [Dash](https://github.com/raycast/extensions/tree/main/extensions/dash) |
 | [rubisco0211](https://www.raycast.com/rubisco0211) | 1 | 61 | **Applications:** [PicGo](https://github.com/raycast/extensions/tree/main/extensions/picgo) |
 | [ruiaureliano](https://www.raycast.com/ruiaureliano) | 1 | 172 | **Developer Tools:** [Lyne](https://github.com/raycast/extensions/tree/main/extensions/lyne) |
 | [runningdeveloper](https://www.raycast.com/runningdeveloper) | 1 | 35 | **Developer Tools:** [South African Fake ID Number Generator](https://github.com/raycast/extensions/tree/main/extensions/za-fake-id-number-generator) |

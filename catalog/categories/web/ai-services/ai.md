@@ -24,7 +24,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) | 11,374 | AI generation using OpenAI's GPT-3 and DALL·E AI models | josephschmitt | macOS | [store](https://www.raycast.com/josephschmitt/ai-gen) |
+| [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) | 11,376 | AI generation using OpenAI's GPT-3 and DALL·E AI models | josephschmitt | macOS | [store](https://www.raycast.com/josephschmitt/ai-gen) |
 | [Browser AI Companion](https://github.com/raycast/extensions/tree/main/extensions/browser-ai) | 2,241 | Use the best models with Raycast Browser Extension to extend your browsing experience. | lin | macOS | [store](https://www.raycast.com/lin/browser-ai) |
 | [OpenRouter Model Search](https://github.com/raycast/extensions/tree/main/extensions/openrouter-model-search) | 1,826 | Search OpenRouter's AI model catalog. | mutewinter | macOS, Windows | [store](https://www.raycast.com/mutewinter/openrouter-model-search) |
 | [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 967 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |

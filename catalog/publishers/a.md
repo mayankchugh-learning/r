@@ -11,7 +11,7 @@
 | [aaronschneider](https://www.raycast.com/aaronschneider) | 1 | 124 | **Productivity:** [Bibmanager](https://github.com/raycast/extensions/tree/main/extensions/bibmanager) |
 | [aashwin_patki](https://www.raycast.com/aashwin_patki) | 1 | 18 | **Documentation:** [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) |
 | [aayush9029](https://www.raycast.com/Aayush9029) | 1 | 55 | **Applications:** [Petal - Offline Voice to Text](https://github.com/raycast/extensions/tree/main/extensions/petal) |
-| [Aayush9029](./id/aayush9029.md) | 16 | 168,331 | [see all 16 →](./id/aayush9029.md) |
+| [Aayush9029](./id/aayush9029.md) | 16 | 168,332 | [see all 16 →](./id/aayush9029.md) |
 | [aayushpi](https://www.raycast.com/aayushpi) | 1 | 46 | **Fun:** [Scrycast](https://github.com/raycast/extensions/tree/main/extensions/scrycast) |
 | [abdullah_shabib](https://www.raycast.com/abdullah_shabib) | 1 | 31 | **System:** [HDR Toggle](https://github.com/raycast/extensions/tree/main/extensions/hdr-toggle) |
 | [Abdullah-Dev115](https://www.raycast.com/Abdullah-Dev115) | 1 | 72 | **System:** [VPS Explorer](https://github.com/raycast/extensions/tree/main/extensions/vps-explorer) |
@@ -42,7 +42,7 @@
 | [adrian-schnell](https://www.raycast.com/adrian-schnell) | 4 | 1,361 | **Productivity:** [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simplelogin)<br>**Finance:** [DefiScan.live](https://github.com/raycast/extensions/tree/main/extensions/defiscan), [Defichain Dobby](https://github.com/raycast/extensions/tree/main/extensions/defichain-dobby)<br>**Fun:** [Defichain Lottery](https://github.com/raycast/extensions/tree/main/extensions/defichain-lottery) |
 | [adrianbonpin](https://www.raycast.com/adrianbonpin) | 1 | 11 | **Productivity:** [Next Up](https://github.com/raycast/extensions/tree/main/extensions/next-up) |
 | [adrianmarten](https://www.raycast.com/adrianmarten) | 1 | 28 | **Developer Tools:** [Supabase Cron Monitor](https://github.com/raycast/extensions/tree/main/extensions/supabase-cron-monitor) |
-| [aelew](https://www.raycast.com/aelew) | 1 | 7,093 | **Applications:** [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) |
+| [aelew](https://www.raycast.com/aelew) | 1 | 7,095 | **Applications:** [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) |
 | [aerobless](https://www.raycast.com/aerobless) | 1 | 362 | **Productivity:** [Static Marks - Bookmark Search](https://github.com/raycast/extensions/tree/main/extensions/static-marks-bookmarks) |
 | [aesign](https://www.raycast.com/aesign) | 2 | 1,110 | **Design Tools:** [Sketch](https://github.com/raycast/extensions/tree/main/extensions/sketch)<br>**Data:** [BMW](https://github.com/raycast/extensions/tree/main/extensions/bmw) |
 | [afok](https://www.raycast.com/afok) | 1 | 888 | **Security:** [Password Store](https://github.com/raycast/extensions/tree/main/extensions/password-store) |
@@ -68,7 +68,7 @@
 | [akshit_mehta](https://www.raycast.com/akshit_mehta) | 1 | 334 | **Web:** [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) |
 | [alaidriel](https://www.raycast.com/cecelot) | 1 | 1,256 | **Developer Tools:** [UTM Virtual Machines](https://github.com/raycast/extensions/tree/main/extensions/utm-virtual-machines) |
 | [AlanHuang](https://www.raycast.com/AlanHuang) | 1 | 194 | **Productivity:** [Send to E-Reader](https://github.com/raycast/extensions/tree/main/extensions/send-to-e-reader) |
-| [alanzchen](https://www.raycast.com/alanzchen) | 1 | 13,488 | **Productivity:** [ChatGPT Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-quick-actions) |
+| [alanzchen](https://www.raycast.com/alanzchen) | 1 | 13,490 | **Productivity:** [ChatGPT Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-quick-actions) |
 | [alastairsounds](https://www.raycast.com/alastairsounds) | 1 | 5 | **Developer Tools:** [Just](https://github.com/raycast/extensions/tree/main/extensions/just) |
 | [albandum](https://www.raycast.com/albandum) | 1 | 891 | **Productivity:** [Ask Dust](https://github.com/raycast/extensions/tree/main/extensions/dust-tt) |
 | [alberto_lezaun](https://www.raycast.com/alberto_lezaun) | 1 | 3 | **Productivity:** [From](https://github.com/raycast/extensions/tree/main/extensions/from) |
@@ -181,7 +181,7 @@
 | [asnimansari](https://www.raycast.com/asnimansari) | 1 | 269 | **Productivity:** [Scratchpad](https://github.com/raycast/extensions/tree/main/extensions/scratchpad) |
 | [asportnoy](https://www.raycast.com/asportnoy) | 1 | 6,392 | **Developer Tools:** [Date Converter](https://github.com/raycast/extensions/tree/main/extensions/date-converter) |
 | [Astatine-213](https://www.raycast.com/Astatine-213) | 2 | 36 | **Developer Tools:** [Codex Reset Forecast](https://github.com/raycast/extensions/tree/main/extensions/codex-reset-forecast)<br>**Communication:** [Nbnhhsh – Chinese Abbreviations](https://github.com/raycast/extensions/tree/main/extensions/nbnhhsh) |
-| [astrit](https://www.raycast.com/astrit) | 2 | 4,138 | **Productivity:** [CSS.GG](https://github.com/raycast/extensions/tree/main/extensions/css-gg), [Cron](https://github.com/raycast/extensions/tree/main/extensions/cron) |
+| [astrit](https://www.raycast.com/astrit) | 2 | 4,139 | **Productivity:** [CSS.GG](https://github.com/raycast/extensions/tree/main/extensions/css-gg), [Cron](https://github.com/raycast/extensions/tree/main/extensions/cron) |
 | [astroboii47](https://www.raycast.com/astroboii47) | 1 | 422 | **Productivity:** [Blip](https://github.com/raycast/extensions/tree/main/extensions/blip-raycast) |
 | [astronight](https://www.raycast.com/astronight) | 1 | 1,604 | **Developer Tools:** [Snippet Surfer](https://github.com/raycast/extensions/tree/main/extensions/snippetsurfer) |
 | [astroon](https://www.raycast.com/astroon) | 1 | 102 | **Finance:** [Envato Sales, Purchases and Search](https://github.com/raycast/extensions/tree/main/extensions/envato) |

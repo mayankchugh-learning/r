@@ -11,11 +11,11 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 23,341 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
-| [Brave](https://github.com/raycast/extensions/tree/main/extensions/brave) | 16,742 | Search open tabs, bookmarks and history in Brave. | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/brave) |
+| [Brave](https://github.com/raycast/extensions/tree/main/extensions/brave) | 16,746 | Search open tabs, bookmarks and history in Brave. | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/brave) |
 | [Mozilla Firefox](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox) | 14,137 | Search and open tabs from bookmarks and history in Mozilla Firefox. | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/mozilla-firefox) |
 | [Obsidian Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks) | 6,972 | Manage your bookmarked links with Obsidian. Save, search, and access your bookmarks. Supports Safari, Arc and other Chromium-based browsers | dru89 | macOS | [store](https://www.raycast.com/dru89/obsidian-bookmarks) |
 | [Vivaldi](https://github.com/raycast/extensions/tree/main/extensions/vivaldi) | 5,436 | Search open tabs, bookmarks and history in Vivaldi. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/vivaldi) |
-| [Comet](https://github.com/raycast/extensions/tree/main/extensions/comet) | 5,016 | Search open tabs, bookmarks and history in Comet. | xjo_nd | macOS | [store](https://www.raycast.com/xjo_nd/comet) |
+| [Comet](https://github.com/raycast/extensions/tree/main/extensions/comet) | 5,019 | Search open tabs, bookmarks and history in Comet. | xjo_nd | macOS | [store](https://www.raycast.com/xjo_nd/comet) |
 | [Pocket](https://github.com/raycast/extensions/tree/main/extensions/pocket) | 3,800 | Manage Pocket bookmarks from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/pocket) |
 | [Helium](https://github.com/raycast/extensions/tree/main/extensions/helium) | 2,016 | Navigate open tabs, bookmarks, and the web in Helium browser | islamtayeb | macOS, Windows | [store](https://www.raycast.com/islamtayeb/helium) |
 | [(Basic) Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/bmrks) | 1,881 | Companion bookmarking utility for bmrks.com | rauno | macOS | [store](https://www.raycast.com/rauno/bmrks) |

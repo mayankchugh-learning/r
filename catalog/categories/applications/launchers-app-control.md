@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 45,587 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
+| [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 45,596 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
 | [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | 8,778 | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
 | [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 8,703 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
 | [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 8,234 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
@@ -14,7 +14,7 @@
 | [OpenVPN](https://github.com/raycast/extensions/tree/main/extensions/openvpn) | 3,064 | This extension allows you to connect and disconnect from an OpenVPN using applescript to control OpenVPN client. | benekuehn | macOS | [store](https://www.raycast.com/benekuehn/openvpn) |
 | [n8n](https://github.com/raycast/extensions/tree/main/extensions/n8n) | 2,732 | Control n8n via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/n8n) |
 | [Wispr Flow](https://github.com/raycast/extensions/tree/main/extensions/wispr-flow) | 1,899 | Search transcription history, manage your custom dictionary, and control voice recording with Wispr Flow | carterm | macOS, Windows | [store](https://www.raycast.com/carterm/wispr-flow) |
-| [Bunch](https://github.com/raycast/extensions/tree/main/extensions/bunch) | 1,668 | Control Bunch via Raycast. Bunch is a Mac automation tool. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bunch) |
+| [Bunch](https://github.com/raycast/extensions/tree/main/extensions/bunch) | 1,669 | Control Bunch via Raycast. Bunch is a Mac automation tool. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bunch) |
 | [Just Focus](https://github.com/raycast/extensions/tree/main/extensions/just-focus) | 1,545 | Control Just Focus via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/just-focus) |
 | [New Instance](https://github.com/raycast/extensions/tree/main/extensions/raycast-new-instance) | 1,354 | Launch a new instance of any installed application on your Mac | Caramel | macOS | [store](https://www.raycast.com/Caramel/raycast-new-instance) |
 | [Lookaway](https://github.com/raycast/extensions/tree/main/extensions/lookaway) | 1,153 | Control the Lookaway app for managing breaks. | kush | macOS | [store](https://www.raycast.com/kush/lookaway) |

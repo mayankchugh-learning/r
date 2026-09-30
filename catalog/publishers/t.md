@@ -43,7 +43,7 @@
 | [that70schris](https://www.raycast.com/that70schris) | 1 | 455 | **System:** [Bonjour](https://github.com/raycast/extensions/tree/main/extensions/bonjour) |
 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 121,566 | **Productivity:** [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) |
 | [the_revolution](https://www.raycast.com/the_revolution) | 1 | 687 | **Media:** [ShareX](https://github.com/raycast/extensions/tree/main/extensions/sharex) |
-| [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 264,074 | **Web:** [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc)<br>**Productivity:** [Dia](https://github.com/raycast/extensions/tree/main/extensions/dia) |
+| [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 264,104 | **Web:** [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc)<br>**Productivity:** [Dia](https://github.com/raycast/extensions/tree/main/extensions/dia) |
 | [the3ash](https://www.raycast.com/the3ash) | 2 | 2,205 | **Applications:** [Window Sizer](https://github.com/raycast/extensions/tree/main/extensions/window-sizer)<br>**Web:** [Surge Outbound Switcher](https://github.com/raycast/extensions/tree/main/extensions/surge-outbound-switcher) |
 | [theapache64](https://www.raycast.com/theapache64) | 1 | 864 | **Developer Tools:** [Percentage Calculator](https://github.com/raycast/extensions/tree/main/extensions/percentage-calculator) |
 | [thebrokenfinger](https://www.raycast.com/thebrokenfinger) | 1 | 287 | **Web:** [Plausible Analytics](https://github.com/raycast/extensions/tree/main/extensions/plausible-analytics) |
@@ -67,10 +67,10 @@
 | [thilip_lindseth](https://www.raycast.com/thilip_lindseth) | 1 | 182 | **System:** [USB-C Inspector](https://github.com/raycast/extensions/tree/main/extensions/usb-c-inspector) |
 | [third774](https://www.raycast.com/third774) | 3 | 67,978 | **Developer Tools:** [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity), [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent)<br>**Applications:** [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) |
 | [tholanda](https://www.raycast.com/tholanda) | 1 | 9,382 | **Developer Tools:** [Script Commands Store – Find and manage your Rayc…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) |
-| [thomas](./id/thomas.md) | 15 | 1,284,710 | [see all 15 →](./id/thomas.md) |
+| [thomas](./id/thomas.md) | 15 | 1,284,833 | [see all 15 →](./id/thomas.md) |
 | [thomas.harmond](https://www.raycast.com/thomas.harmond) | 1 | 41 | **Developer Tools:** [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) |
 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 64,860 | **Productivity:** [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages)<br>**Developer Tools:** [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) |
-| [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,828 | **Productivity:** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage), [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) |
+| [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,830 | **Productivity:** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage), [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) |
 | [thuoe](https://www.raycast.com/thuoe) | 1 | 167 | **News:** [Footy Report](https://github.com/raycast/extensions/tree/main/extensions/footy-report) |
 | [tiago_duarte](https://www.raycast.com/tiago_duarte) | 1 | 191 | **Productivity:** [Azure Icons](https://github.com/raycast/extensions/tree/main/extensions/azure-icons) |
 | [tiagomichaelsousa](https://www.raycast.com/tiagomichaelsousa) | 1 | 395 | **Developer Tools:** [Helm Documentation](https://github.com/raycast/extensions/tree/main/extensions/helm-docs) |

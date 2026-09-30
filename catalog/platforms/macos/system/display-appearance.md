@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 23,219 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
 | [Screen Saver](https://github.com/raycast/extensions/tree/main/extensions/screen-saver) | 10,762 | Activate screen saver of your Mac. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/screen-saver) |
-| [Display Placer](https://github.com/raycast/extensions/tree/main/extensions/displayplacer) | 9,026 | Manage favorite display configurations | eluce2 | macOS | [store](https://www.raycast.com/eluce2/displayplacer) |
+| [Display Placer](https://github.com/raycast/extensions/tree/main/extensions/displayplacer) | 9,028 | Manage favorite display configurations | eluce2 | macOS | [store](https://www.raycast.com/eluce2/displayplacer) |
 | [Display Modes](https://github.com/raycast/extensions/tree/main/extensions/display-modes) | 7,114 | Manage displays modes (resolution, refresh rate...). | agustin.prats | macOS | [store](https://www.raycast.com/agustin.prats/display-modes) |
 | [Night Light](https://github.com/raycast/extensions/tree/main/extensions/night-light) | 6,671 | Manage Night Shift System Settings | devmoath | macOS | [store](https://www.raycast.com/devmoath/night-light) |
 | [Brightness Control](https://github.com/raycast/extensions/tree/main/extensions/brightness-control) | 6,349 | Quickly controls the brightness levels of your display | cali | macOS, Windows | [store](https://www.raycast.com/cali/brightness-control) |

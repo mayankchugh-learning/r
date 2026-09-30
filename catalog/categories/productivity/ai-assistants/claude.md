@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Claude](https://github.com/raycast/extensions/tree/main/extensions/claude) | 37,463 | Interact with Anthropic's Claude API directly from Raycast | florisdobber | macOS | [store](https://www.raycast.com/florisdobber/claude) |
+| [Claude](https://github.com/raycast/extensions/tree/main/extensions/claude) | 37,467 | Interact with Anthropic's Claude API directly from Raycast | florisdobber | macOS | [store](https://www.raycast.com/florisdobber/claude) |
 | [Claude Code Launcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-launcher) | 4,093 | Quickly open Claude Code in any directory with your preferred terminal. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/claude-code-launcher) |
-| [ClaudeCast](https://github.com/raycast/extensions/tree/main/extensions/claudecast) | 2,728 | Discover, resume, and automate Claude Code sessions: deep full-text search, one-keystroke resume, agentic loops, usage analytics, and quick prompts | qazi0 | macOS, Windows | [store](https://www.raycast.com/qazi0/claudecast) |
+| [ClaudeCast](https://github.com/raycast/extensions/tree/main/extensions/claudecast) | 2,729 | Discover, resume, and automate Claude Code sessions: deep full-text search, one-keystroke resume, agentic loops, usage analytics, and quick prompts | qazi0 | macOS, Windows | [store](https://www.raycast.com/qazi0/claudecast) |
 | [Claude Code Switcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-config-switcher) | 685 | Quickly switch between different Claude Code configurations and manage provider profiles | lavatorywang | macOS | [store](https://www.raycast.com/lavatorywang/claude-code-config-switcher) |
 | [HeyClaude](https://github.com/raycast/extensions/tree/main/extensions/heyclaude) | 208 | Search and copy Claude agents, MCP servers, skills, hooks, rules, commands, guides, and statuslines from HeyClaude. | jsonbored | macOS | [store](https://www.raycast.com/JSONbored/heyclaude) |
 | [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts) | 116 | Quickly find and open your Claude Artifacts. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/claude-artifacts) |

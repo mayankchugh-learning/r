@@ -1,6 +1,6 @@
 # Aayush9029
 
-16 extensions · 168,331 downloads · [store](https://www.raycast.com/Aayush9029) · [← publishers](../README.md)
+16 extensions · 168,332 downloads · [store](https://www.raycast.com/Aayush9029) · [← publishers](../README.md)
 
 ## Applications (1)
 
@@ -18,7 +18,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Discord](https://github.com/raycast/extensions/tree/main/extensions/discord) | 8,681 | Send message to a specific discord channel using webhook. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/discord) |
+| [Discord](https://github.com/raycast/extensions/tree/main/extensions/discord) | 8,682 | Send message to a specific discord channel using webhook. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/discord) |
 
 ## Media (4)
 

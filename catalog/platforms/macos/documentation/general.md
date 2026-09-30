@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 153,561 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
-| [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear) | 14,861 | Control Bear with Raycast | hmarr | macOS | [store](https://www.raycast.com/hmarr/bear) |
+| [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear) | 14,863 | Control Bear with Raycast | hmarr | macOS | [store](https://www.raycast.com/hmarr/bear) |
 | [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq) | 8,144 | Add notes quickly in Logseq | futantan | macOS, Windows | [store](https://www.raycast.com/futantan/logseq) |
 | [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 8,040 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
 | [Oh My Zsh Plugins](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-plugins) | 7,600 | Oh My Zsh Plugins | k8scat | macOS | [store](https://www.raycast.com/k8scat/ohmyzsh-plugins) |

@@ -1,6 +1,6 @@
 # Visual-Studio-Coder
 
-17 extensions · 29,579 downloads · [store](https://www.raycast.com/Visual-Studio-Coder) · [← publishers](../README.md)
+17 extensions · 29,580 downloads · [store](https://www.raycast.com/Visual-Studio-Coder) · [← publishers](../README.md)
 
 ## Productivity (2)
 
@@ -30,7 +30,7 @@
 | [Ingredients Lister](https://github.com/raycast/extensions/tree/main/extensions/ingredients-lister) | 534 | After getting the contents of an entire website using selected text, you will receive a list of every single ingredient necessary in your recipe from online fo… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/ingredients-lister) |
 | [Perchance Generator](https://github.com/raycast/extensions/tree/main/extensions/perchance-generator) | 272 | Input the generator name and receive the generated text. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/perchance-generator) |
 | [Discord Spoiler Spammer](https://github.com/raycast/extensions/tree/main/extensions/spoiler-converter) | 233 | Discord Spoiler Spammer converts every character of the selected text into it's own spoiler. Laugh at your friends on Discord as they continue clicking to reve… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/spoiler-converter) |
-| [Donut](https://github.com/raycast/extensions/tree/main/extensions/donut) | 138 | Show an animation of a donut | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/donut) |
+| [Donut](https://github.com/raycast/extensions/tree/main/extensions/donut) | 139 | Show an animation of a donut | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/donut) |
 
 ## Other (2)
 

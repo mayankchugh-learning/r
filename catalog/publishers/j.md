@@ -81,14 +81,14 @@
 | [jonah_tweed](https://www.raycast.com/jonah_tweed) | 1 | 18 | **Applications:** [Google Find Hub](https://github.com/raycast/extensions/tree/main/extensions/google-find-hub) |
 | [jonas_list](https://www.raycast.com/jonas_list) | 1 | 46 | **Developer Tools:** [OpenCodex Usage](https://github.com/raycast/extensions/tree/main/extensions/opencodex-usage) |
 | [jonathan_ochocki](https://www.raycast.com/jonathan_ochocki) | 1 | 17 | **Productivity:** [CTA - Chicago Transit Authority](https://github.com/raycast/extensions/tree/main/extensions/cta) |
-| [jonathangiardino](https://www.raycast.com/jonathangiardino) | 2 | 28,746 | **Productivity:** [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl)<br>**Developer Tools:** [Next Run](https://github.com/raycast/extensions/tree/main/extensions/next-run) |
+| [jonathangiardino](https://www.raycast.com/jonathangiardino) | 2 | 28,752 | **Productivity:** [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl)<br>**Developer Tools:** [Next Run](https://github.com/raycast/extensions/tree/main/extensions/next-run) |
 | [JonathanRReed](https://www.raycast.com/JonathanRReed) | 2 | 527 | **Fun:** [Ray Clicker](https://github.com/raycast/extensions/tree/main/extensions/ray-clicker)<br>**Developer Tools:** [AI Stats](https://github.com/raycast/extensions/tree/main/extensions/ai-stats) |
 | [JonathanSpeek](https://www.raycast.com/JonathanSpeek) | 1 | 61 | **Developer Tools:** [Fastly](https://github.com/raycast/extensions/tree/main/extensions/fastly) |
 | [jones-sam](https://www.raycast.com/jones-sam) | 1 | 2,149 | **Data:** [Stock Lookup](https://github.com/raycast/extensions/tree/main/extensions/stock-lookup) |
 | [jopcmelo](https://www.raycast.com/jopcmelo) | 2 | 824 | **Uncategorized:** [Resend Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/resend-wallpaper)<br>**Developer Tools:** [Pretty PR Link](https://github.com/raycast/extensions/tree/main/extensions/pretty-pr-link) |
 | [joramser](https://www.raycast.com/joramser) | 1 | 16 | **Web:** [Tallinn Transport](https://github.com/raycast/extensions/tree/main/extensions/tallinn-transport) |
 | [jorandob](https://www.raycast.com/jorandob) | 1 | 295 | **News:** [NOS Nieuws](https://github.com/raycast/extensions/tree/main/extensions/nos-news) |
-| [Jordan-Ellis](https://www.raycast.com/Jordan-Ellis) | 1 | 7,035 | **Applications:** [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) |
+| [Jordan-Ellis](https://www.raycast.com/Jordan-Ellis) | 1 | 7,036 | **Applications:** [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) |
 | [jordelver](https://www.raycast.com/jordelver) | 1 | 494 | **Developer Tools:** [Search Hex](https://github.com/raycast/extensions/tree/main/extensions/search-hexpm) |
 | [Joren-Thijs](https://www.raycast.com/Joren-Thijs) | 1 | 1,302 | **Productivity:** [Clipboard Sequential Paste](https://github.com/raycast/extensions/tree/main/extensions/clipboard-sequential-paste) |
 | [jorgecortesdev](https://www.raycast.com/jorgecortesdev) | 1 | 195 | **Fun:** [Chuck Norris Facts](https://github.com/raycast/extensions/tree/main/extensions/chuck-norris-facts) |
@@ -99,7 +99,7 @@
 | [jose_de_freitas](https://www.raycast.com/jose_de_freitas) | 1 | 341 | **Developer Tools:** [Codex Manager](https://github.com/raycast/extensions/tree/main/extensions/codex-manager) |
 | [jose-elias-alvarez](https://www.raycast.com/jose-elias-alvarez) | 1 | 1,720 | **Developer Tools:** [Alacritty](https://github.com/raycast/extensions/tree/main/extensions/alacritty) |
 | [joseph_emmanuel](https://www.raycast.com/joseph_emmanuel) | 1 | 7 | **System:** [iPF OS](https://github.com/raycast/extensions/tree/main/extensions/ipf-os) |
-| [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 117,399 | **Media:** [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search), [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) |
+| [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 117,401 | **Media:** [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search), [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) |
 | [josha1len](https://www.raycast.com/josha1len) | 1 | 642 | **Applications:** [WHOOP](https://github.com/raycast/extensions/tree/main/extensions/whoop) |
 | [joshandromidas](https://www.raycast.com/joshandromidas) | 1 | 178 | **Media:** [Tautulli](https://github.com/raycast/extensions/tree/main/extensions/tautulli) |
 | [joshdales](https://www.raycast.com/joshdales) | 1 | 370 | **Developer Tools:** [Quick Git](https://github.com/raycast/extensions/tree/main/extensions/quick-git) |

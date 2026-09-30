@@ -13,7 +13,7 @@
 | [cai_aisen](https://www.raycast.com/cai_aisen) | 1 | 16 | **Developer Tools:** [Search Vant Documentation](https://github.com/raycast/extensions/tree/main/extensions/vant-documentation) |
 | [cal](https://www.raycast.com/cal) | 1 | 5,263 | **Communication:** [Cal.com](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) |
 | [caleb531](https://www.raycast.com/caleb531) | 2 | 1,324 | **Productivity:** [YouVersion Bible Suggest](https://github.com/raycast/extensions/tree/main/extensions/youversion-suggest)<br>**Uncategorized:** [Planning Center](https://github.com/raycast/extensions/tree/main/extensions/planning-center) |
-| [cali](https://www.raycast.com/cali) | 2 | 8,732 | **System:** [Brightness Control](https://github.com/raycast/extensions/tree/main/extensions/brightness-control)<br>**Developer Tools:** [Apple Developer Docs](https://github.com/raycast/extensions/tree/main/extensions/apple-developer-docs) |
+| [cali](https://www.raycast.com/cali) | 2 | 8,733 | **System:** [Brightness Control](https://github.com/raycast/extensions/tree/main/extensions/brightness-control)<br>**Developer Tools:** [Apple Developer Docs](https://github.com/raycast/extensions/tree/main/extensions/apple-developer-docs) |
 | [cameron_pak](https://www.raycast.com/cameron_pak) | 1 | 726 | **Productivity:** [Workflowy Inbox](https://github.com/raycast/extensions/tree/main/extensions/workflowy-inbox) |
 | [camib0b](https://www.raycast.com/camib0b) | 1 | 26 | **Fun:** [Zodme](https://github.com/raycast/extensions/tree/main/extensions/zodme) |
 | [camille_maurel](https://www.raycast.com/camille_maurel) | 1 | 79 | **Web:** [Downdetector](https://github.com/raycast/extensions/tree/main/extensions/downdetector) |
@@ -53,7 +53,7 @@
 | [chizitere_david](https://www.raycast.com/chizitere_david) | 1 | 7 | **Productivity:** [Cook](https://github.com/raycast/extensions/tree/main/extensions/cook) |
 | [chkpwd](https://www.raycast.com/chkpwd) | 1 | 3,242 | **Security:** [Ente Auth](https://github.com/raycast/extensions/tree/main/extensions/ente-auth) |
 | [chkzz](https://www.raycast.com/chkzz) | 1 | 197 | **Productivity:** [Snapzy](https://github.com/raycast/extensions/tree/main/extensions/snapzy) |
-| [chrahe](https://www.raycast.com/chrahe) | 1 | 9,073 | **Media:** [AirPods Noise Control](https://github.com/raycast/extensions/tree/main/extensions/airpods-noise-control) |
+| [chrahe](https://www.raycast.com/chrahe) | 1 | 9,074 | **Media:** [AirPods Noise Control](https://github.com/raycast/extensions/tree/main/extensions/airpods-noise-control) |
 | [chris_deeming](https://www.raycast.com/chris_deeming) | 1 | 8 | **Productivity:** [Load-Bearing Reply](https://github.com/raycast/extensions/tree/main/extensions/load-bearing-reply) |
 | [chrisalxlng](https://www.raycast.com/chrisalxlng) | 1 | 951 | **Fun:** [Wordle](https://github.com/raycast/extensions/tree/main/extensions/wordle) |
 | [ChrisChinchilla](https://www.raycast.com/ChrisChinchilla) | 1 | 6,768 | **Productivity:** [Trello](https://github.com/raycast/extensions/tree/main/extensions/trello) |
@@ -83,7 +83,7 @@
 | [cmdr](https://www.raycast.com/cmdr) | 1 | 62 | **Data:** [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) |
 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 | **Documentation:** [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) |
 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 12,609 | **Developer Tools:** [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) |
-| [Codely](https://www.raycast.com/Codely) | 1 | 564,715 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
+| [Codely](https://www.raycast.com/Codely) | 1 | 564,813 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
 | [CodetaroMiura](https://www.raycast.com/CodetaroMiura) | 1 | 1,506 | **Finance:** [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab) |
 | [codiini](https://www.raycast.com/codiini) | 1 | 141 | **Productivity:** [Annotely](https://github.com/raycast/extensions/tree/main/extensions/annotely) |
 | [coding](https://www.raycast.com/coding) | 1 | 778 | **Fun:** [Truth or Dare](https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare) |

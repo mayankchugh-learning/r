@@ -6,14 +6,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 52,417 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
+| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 52,429 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
 | [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 26,886 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
 | [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 14,946 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
 | [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 13,869 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
 | [Amazon AWS](https://github.com/raycast/extensions/tree/main/extensions/amazon-aws) | 10,832 | The best way to interact with your AWS resources | Falcon | macOS | [store](https://www.raycast.com/Falcon/aws) |
-| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 6,611 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
+| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 6,612 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
 | [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) | 5,890 | Search and view your Cloudflare sites, pages, domains, and more | destiner | Windows, macOS | [store](https://www.raycast.com/destiner/cloudflare) |
-| [Dig - DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dig) | 4,588 | DNS lookup and nameserver query using the built-in host command | danielbahl | macOS | [store](https://www.raycast.com/danielbahl/dig) |
+| [Dig - DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dig) | 4,590 | DNS lookup and nameserver query using the built-in host command | danielbahl | macOS | [store](https://www.raycast.com/danielbahl/dig) |
 | [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 3,043 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
 | [Microsoft Azure](https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure) | 2,715 | Quick access to Microsoft Azure resources | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/microsoft-azure) |
 | [Google Cloud Platform Search](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-platform-search) | 2,665 | Browse GCP Products and open them in the browser in the Google Cloud Console, or view the documentation. | klaa97 | macOS | [store](https://www.raycast.com/klaa97/gcp-search) |

@@ -14,4 +14,4 @@
 | [Count Numbers](https://github.com/raycast/extensions/tree/main/extensions/count-numbers) | 270 | A simple but powerful number counter! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/count-numbers) |
 | [YouTube Subscriber Count](https://github.com/raycast/extensions/tree/main/extensions/youtube-subscriber-count) | 270 | Celebrates whenever you get a new subscriber with a confetti 🎉 | iman_neo | macOS | [store](https://www.raycast.com/iman_neo/youtube-subscriber-count) |
 | [FIGlet](https://github.com/raycast/extensions/tree/main/extensions/figlet) | 212 | Generate a FIGlet | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/figlet) |
-| [Donut](https://github.com/raycast/extensions/tree/main/extensions/donut) | 138 | Show an animation of a donut | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/donut) |
+| [Donut](https://github.com/raycast/extensions/tree/main/extensions/donut) | 139 | Show an animation of a donut | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/donut) |

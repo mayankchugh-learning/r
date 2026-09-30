@@ -61,7 +61,7 @@
 | [sevem](https://www.raycast.com/sevem) | 1 | 81 | **Applications:** [WebDAV Uploader](https://github.com/raycast/extensions/tree/main/extensions/webdav-uploader) |
 | [SevicheCC](https://www.raycast.com/SevicheCC) | 4 | 1,047 | **Communication:** [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon), [Akkoma](https://github.com/raycast/extensions/tree/main/extensions/akkoma)<br>**News:** [Miniflux](https://github.com/raycast/extensions/tree/main/extensions/miniflux)<br>**Web:** [NeoDB](https://github.com/raycast/extensions/tree/main/extensions/neodb) |
 | [sezai_c](https://www.raycast.com/sezai_c) | 1 | 36 | **Design Tools:** [Mozaika — Decode Design Systems](https://github.com/raycast/extensions/tree/main/extensions/mozaika) |
-| [sfkmk](https://www.raycast.com/sfkmk) | 1 | 14,776 | **Productivity:** [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs) |
+| [sfkmk](https://www.raycast.com/sfkmk) | 1 | 14,777 | **Productivity:** [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs) |
 | [sfominx](https://www.raycast.com/sfominx) | 1 | 2 | **Security:** [Starline](https://github.com/raycast/extensions/tree/main/extensions/starline) |
 | [SGGb0nd](https://www.raycast.com/SGGb0nd) | 1 | 110 | **Web:** [AList Downloder](https://github.com/raycast/extensions/tree/main/extensions/alist-downloder) |
 | [shadeov](https://www.raycast.com/Shadeov) | 2 | 634 | **Developer Tools:** [Cursor Costs](https://github.com/raycast/extensions/tree/main/extensions/cursor-costs)<br>**News:** [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) |
@@ -102,7 +102,7 @@
 | [skaj](https://www.raycast.com/skaj) | 1 | 1,593 | **Finance:** [TradingView Controls](https://github.com/raycast/extensions/tree/main/extensions/tradingview-controls) |
 | [skeletorjs](https://www.raycast.com/skeletorjs) | 1 | 70 | **Developer Tools:** [Zo](https://github.com/raycast/extensions/tree/main/extensions/zo-raycast) |
 | [skroll](https://www.raycast.com/skroll) | 3 | 152 | **Web:** [Foodle Recipes](https://github.com/raycast/extensions/tree/main/extensions/foodle-recipes), [CommerceQuest](https://github.com/raycast/extensions/tree/main/extensions/commercequest)<br>**Productivity:** [Desk.ly](https://github.com/raycast/extensions/tree/main/extensions/raycast-deskly) |
-| [skydiver](https://www.raycast.com/skydiver) | 1 | 4,310 | **Productivity:** [Open Browsers Profiles](https://github.com/raycast/extensions/tree/main/extensions/browsers-profiles) |
+| [skydiver](https://www.raycast.com/skydiver) | 1 | 4,311 | **Productivity:** [Open Browsers Profiles](https://github.com/raycast/extensions/tree/main/extensions/browsers-profiles) |
 | [skyline-123](https://www.raycast.com/skyline-123) | 3 | 3,271 | **Productivity:** [Markdown to Plain Text](https://github.com/raycast/extensions/tree/main/extensions/markdown-to-plain-text), [Intention Clarifier](https://github.com/raycast/extensions/tree/main/extensions/intention-clarifier), [BibiGPT AI Summarize Audio and Video](https://github.com/raycast/extensions/tree/main/extensions/bibigpt-summarize-audiovideo-with-ai) |
 | [slavarazum](https://www.raycast.com/slavarazum) | 1 | 8,872 | **Design Tools:** [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) |
 | [Slus](https://www.raycast.com/Slus) | 1 | 231 | **Productivity:** [Wrike](https://github.com/raycast/extensions/tree/main/extensions/wrike) |

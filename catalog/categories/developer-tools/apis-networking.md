@@ -11,7 +11,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) | 13,680 | Use the powerful models via Perplexity API from the comfort of Raycast. | ilian | macOS, Windows | [store](https://www.raycast.com/ilian/perplexity-api) |
-| [CSS.GG](https://github.com/raycast/extensions/tree/main/extensions/css-gg) | 3,475 | Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API | astrit | macOS | [store](https://www.raycast.com/astrit/css-gg) |
+| [CSS.GG](https://github.com/raycast/extensions/tree/main/extensions/css-gg) | 3,476 | Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API | astrit | macOS | [store](https://www.raycast.com/astrit/css-gg) |
 | [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs) | 2,973 | Search Raycast's documentation quickly, copy the URL, or open it in your browser | teziovsky | macOS, Windows | [store](https://www.raycast.com/teziovsky/raydocs) |
 | [Speech to Text](https://github.com/raycast/extensions/tree/main/extensions/speech-to-text) | 1,177 | A simple extension that allows Speech to Text using your own Groq API. | facundo_prieto | macOS | [store](https://www.raycast.com/facundo_prieto/speech-to-text) |
 | [Ngrok](https://github.com/raycast/extensions/tree/main/extensions/ngrok) | 1,149 | Serve Web Apps with one command ngrok is a simplified API-first ingress-as-a-service that adds connectivity, security, and observability to your apps in one li… | ubinatus | macOS | [store](https://www.raycast.com/ubinatus/ngrok) |
@@ -63,7 +63,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 28,432 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
+| [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 28,438 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
 | [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 21,157 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
 | [HTTP.cat Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http.cat) | 750 | Quickly look up HTTP.cat 🐈‍⬛🐈 status codes with funny cats | lucasmezencio | macOS | [store](https://www.raycast.com/lucasmezencio/http-dot-cat) |
 | [HTTP MIME Types](https://github.com/raycast/extensions/tree/main/extensions/http-mime) | 353 | Search MIME types for HTTP Content-Type | Envl | macOS | [store](https://www.raycast.com/Envl/http-mime) |

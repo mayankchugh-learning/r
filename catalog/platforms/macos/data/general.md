@@ -8,9 +8,9 @@
 | --- | --- | --- | --- | --- | --- |
 | [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | 13,375 | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
 | [Wolfram Alpha](https://github.com/raycast/extensions/tree/main/extensions/wolfram-alpha) | 9,834 | Query Wolfram Alpha right from Raycast | mathieudutour | macOS, Windows | [store](https://www.raycast.com/mathieudutour/wolfram-alpha) |
-| [ChatGPT3 Prompt](https://github.com/raycast/extensions/tree/main/extensions/chatgpt3-prompt) | 9,125 | Prompt list for interacting with ChatGPT3 | denizyoldas | macOS | [store](https://www.raycast.com/denizyoldas/chatgpt3-prompt) |
+| [ChatGPT3 Prompt](https://github.com/raycast/extensions/tree/main/extensions/chatgpt3-prompt) | 9,126 | Prompt list for interacting with ChatGPT3 | denizyoldas | macOS | [store](https://www.raycast.com/denizyoldas/chatgpt3-prompt) |
 | [Numi](https://github.com/raycast/extensions/tree/main/extensions/numi) | 8,195 | Query Numi from Raycast | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/numi) |
-| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 6,611 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
+| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 6,612 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
 | [Prompt Stash](https://github.com/raycast/extensions/tree/main/extensions/prompt-stash) | 3,976 | Efficiently manage and organize your AI prompts. Save, tag, and favorite your most effective prompts for quick access across any LLM or chatbot. | renzo | macOS | [store](https://www.raycast.com/renzo/prompt-stash) |
 | [iLovePDF](https://github.com/raycast/extensions/tree/main/extensions/ilovepdf) | 3,240 | Set of commands to interact with iLovePDF | mohamedk1 | macOS | [store](https://www.raycast.com/mohamedk1/ilovepdf) |
 | [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 3,158 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |

@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 766,227 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 766,355 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,893 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | 1,360 | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Window Walker](https://github.com/raycast/extensions/tree/main/extensions/window-walker) | 826 | Quickly switch between open windows. Search by app name or window title, minimize, close, or bring any window to the front. | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/window-walker) |
@@ -98,7 +98,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 84,016 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 61,369 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
-| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 52,417 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
+| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 52,429 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
 | [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 3,107 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
 | [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 3,009 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
 | [Command Scheduler](https://github.com/raycast/extensions/tree/main/extensions/scheduler) | 2,164 | Allows you to schedule Raycast commands to run at specific days, times or intervals ⏰. | cps | macOS, Windows | [store](https://www.raycast.com/cps/scheduler) |

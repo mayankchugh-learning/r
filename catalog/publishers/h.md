@@ -40,7 +40,7 @@
 | [hieudinh](https://www.raycast.com/hieudinh) | 1 | 3,581 | **Applications:** [Compresto](https://github.com/raycast/extensions/tree/main/extensions/compressx) |
 | [hjm79](https://www.raycast.com/hjm79) | 2 | 51 | **Productivity:** [Korean Add Calendar](https://github.com/raycast/extensions/tree/main/extensions/korean-add-calendar)<br>**Applications:** [Vesslo](https://github.com/raycast/extensions/tree/main/extensions/vesslo) |
 | [hk_raycast](https://www.raycast.com/hk_raycast) | 1 | 13 | **Productivity:** [PomoNotion Raycast Extension](https://github.com/raycast/extensions/tree/main/extensions/raycast-pomodoro-notion) |
-| [hmarr](https://www.raycast.com/hmarr) | 3 | 25,543 | **Productivity:** [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear)<br>**Finance:** [Stock Tracker](https://github.com/raycast/extensions/tree/main/extensions/stock-tracker)<br>**System:** [Network Diagnostics](https://github.com/raycast/extensions/tree/main/extensions/network-diagnostics) |
+| [hmarr](https://www.raycast.com/hmarr) | 3 | 25,545 | **Productivity:** [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear)<br>**Finance:** [Stock Tracker](https://github.com/raycast/extensions/tree/main/extensions/stock-tracker)<br>**System:** [Network Diagnostics](https://github.com/raycast/extensions/tree/main/extensions/network-diagnostics) |
 | [hmims](https://www.raycast.com/hmims) | 1 | 4 | **Developer Tools:** [AWX Deploy](https://github.com/raycast/extensions/tree/main/extensions/awx-deploy) |
 | [ho991217](https://www.raycast.com/ho991217) | 1 | 55 | **Productivity:** [Control Kef](https://github.com/raycast/extensions/tree/main/extensions/kef-control) |
 | [hoando](https://www.raycast.com/hoando) | 2 | 41 | **Productivity:** [Vietnamese Calendar](https://github.com/raycast/extensions/tree/main/extensions/vietnamese-calendar), [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) |
@@ -73,4 +73,4 @@
 | [hwb](https://www.raycast.com/hwb) | 1 | 153 | **Fun:** [Fantasy Premier League](https://github.com/raycast/extensions/tree/main/extensions/fantasy-premier-league-rankings) |
 | [Hydrapse](https://www.raycast.com/Hydrapse) | 1 | 1,693 | **Fun:** [DLmoji](https://github.com/raycast/extensions/tree/main/extensions/dlmoji) |
 | [hyokwonkim](https://www.raycast.com/hyokwonkim) | 1 | 333 | **Documentation:** [Simple Memo](https://github.com/raycast/extensions/tree/main/extensions/simple-memo) |
-| [hypercode](https://www.raycast.com/hypercode) | 1 | 106 | **Productivity:** [awork](https://github.com/raycast/extensions/tree/main/extensions/awork) |
+| [hypercode](https://www.raycast.com/hypercode) | 1 | 107 | **Productivity:** [awork](https://github.com/raycast/extensions/tree/main/extensions/awork) |

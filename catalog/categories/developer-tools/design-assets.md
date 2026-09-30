@@ -11,7 +11,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,872 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
-| [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 7,035 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
+| [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 7,036 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
 | [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) | 5,510 | Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. | lekoarts | macOS | [store](https://www.raycast.com/lekoarts/polished) |
 | [Color Shades](https://github.com/raycast/extensions/tree/main/extensions/color-shades) | 2,699 | Generate color shades from a base color and manage your generated color shades palettes. | qeude | macOS | [store](https://www.raycast.com/qeude/color-shades) |
 | [Palette Colors](https://github.com/raycast/extensions/tree/main/extensions/palette-colors) | 2,494 | Pick nice palette colors directly from Raycast | douglas-pires | macOS | [store](https://www.raycast.com/douglas-pires/palette-colors) |
