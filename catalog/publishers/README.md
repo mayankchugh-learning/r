@@ -8,9 +8,9 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,284,604 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,284,605 |
 | 2 | [raycast](./id/raycast.md) | 11 | 897,749 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,111 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,113 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 564,617 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 492,967 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 489,246 |
@@ -48,7 +48,7 @@
 | 38 | [huzef44](https://www.raycast.com/huzef44) | 6 | 84,058 |
 | 39 | [ike-gg](https://www.raycast.com/ike-gg) | 1 | 77,888 |
 | 40 | [FezVrasta](https://www.raycast.com/FezVrasta) | 5 | 77,762 |
-| 41 | [benvp](https://www.raycast.com/benvp) | 1 | 75,548 |
+| 41 | [benvp](https://www.raycast.com/benvp) | 1 | 75,549 |
 | 42 | [lucaschultz](https://www.raycast.com/lucaschultz) | 4 | 68,612 |
 | 43 | [third774](https://www.raycast.com/third774) | 3 | 67,978 |
 | 44 | [Kang](https://www.raycast.com/Kang) | 3 | 66,168 |

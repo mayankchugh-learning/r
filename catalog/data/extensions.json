@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "653165a9493e6e94fdbf34935333a4e762557ae5",
-  "generatedAt": "2026-09-30T04:16:40.361Z",
-  "downloadsRefreshedAt": "2026-09-30T04:16:39.650Z",
+  "commit": "8859fb29b51bad0dd128e737870ba8fe56b07a24",
+  "generatedAt": "2026-09-30T04:18:16.072Z",
+  "downloadsRefreshedAt": "2026-09-30T04:18:15.671Z",
   "count": 3341,
   "extensions": [
     {
@@ -3443,8 +3443,8 @@
       ],
       "store": "https://www.raycast.com/benvp/audio-device",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/audio-device",
-      "treeSha": "be22e08cda1f0d26056a903f2a15b91c243b9b86",
-      "downloads": 75548
+      "treeSha": "8f10d9156592cfa21169470978b9095f5db37a10",
+      "downloads": 75549
     },
     {
       "dir": "audio-writer",
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 607299
+      "downloads": 607300
     },
     {
       "dir": "color-shades",
@@ -29406,7 +29406,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 766111
+      "downloads": 766113
     },
     {
       "dir": "kimai",
