@@ -79,11 +79,11 @@
 | [clins1994](https://www.raycast.com/clins1994) | 8 | 1,360 | **System:** [Default Web Browser Manager](https://github.com/raycast/extensions/tree/main/extensions/default-web-browser-manager), [Display Input Switcher](https://github.com/raycast/extensions/tree/main/extensions/display-input-switcher)<br>**Data:** [Hevy](https://github.com/raycast/extensions/tree/main/extensions/hevy), [Moneytree](https://github.com/raycast/extensions/tree/main/extensions/moneytree)<br>**Fun:** [The Matrix](https://github.com/raycast/extensions/tree/main/extensions/the-matrix), [Your Name in Landsat](https://github.com/raycast/extensions/tree/main/extensions/your-name-in-landsat)<br>**Media:** [Arcane Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/arcane-wallpaper)<br>**Developer Tools:** [Greptile](https://github.com/raycast/extensions/tree/main/extensions/greptile) |
 | [clipmate](https://www.raycast.com/clipmate) | 1 | 106 | **Productivity:** [Clipmate AI](https://github.com/raycast/extensions/tree/main/extensions/clipmate) |
 | [clnhs](https://www.raycast.com/clnhs) | 1 | 465 | **Productivity:** [Jotoba — Japanese Dictionary](https://github.com/raycast/extensions/tree/main/extensions/jotoba) |
-| [cloudy9101](https://www.raycast.com/cloudy9101) | 1 | 1,294 | **Fun:** [Podcasts Now](https://github.com/raycast/extensions/tree/main/extensions/podcasts-now) |
+| [cloudy9101](https://www.raycast.com/cloudy9101) | 1 | 1,295 | **Fun:** [Podcasts Now](https://github.com/raycast/extensions/tree/main/extensions/podcasts-now) |
 | [cmdr](https://www.raycast.com/cmdr) | 1 | 62 | **Data:** [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) |
 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 | **Documentation:** [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) |
 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 12,609 | **Developer Tools:** [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) |
-| [Codely](https://www.raycast.com/Codely) | 1 | 564,903 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
+| [Codely](https://www.raycast.com/Codely) | 1 | 564,924 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
 | [CodetaroMiura](https://www.raycast.com/CodetaroMiura) | 1 | 1,506 | **Finance:** [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab) |
 | [codiini](https://www.raycast.com/codiini) | 1 | 141 | **Productivity:** [Annotely](https://github.com/raycast/extensions/tree/main/extensions/annotely) |
 | [coding](https://www.raycast.com/coding) | 1 | 778 | **Fun:** [Truth or Dare](https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare) |
@@ -97,7 +97,7 @@
 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 | **Applications:** [Zoomer](https://github.com/raycast/extensions/tree/main/extensions/zoomer) |
 | [colinlienard](https://www.raycast.com/colinlienard) | 1 | 804 | **Productivity:** [Mistral](https://github.com/raycast/extensions/tree/main/extensions/mistral) |
 | [colorage](https://www.raycast.com/colorage) | 1 | 81 | **Communication:** [Lacinka](https://github.com/raycast/extensions/tree/main/extensions/lacinka) |
-| [comes](https://www.raycast.com/comes) | 1 | 2,147 | **Developer Tools:** [PHP Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/php-docs) |
+| [comes](https://www.raycast.com/comes) | 1 | 2,148 | **Developer Tools:** [PHP Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/php-docs) |
 | [comoser](https://www.raycast.com/comoser) | 3 | 7,177 | **Productivity:** [Simple Reminder](https://github.com/raycast/extensions/tree/main/extensions/simple-reminder)<br>**Developer Tools:** [Typescript Mock Generator](https://github.com/raycast/extensions/tree/main/extensions/typescript-mock-generator)<br>**Fun:** [Surfs Up](https://github.com/raycast/extensions/tree/main/extensions/surfs-up) |
 | [conner_luzier](https://www.raycast.com/conner_luzier) | 1 | 1,291 | **Data:** [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) |
 | [connorforsyth](https://www.raycast.com/connorforsyth) | 1 | 222 | **Design Tools:** [Pinch SVG](https://github.com/raycast/extensions/tree/main/extensions/pinch-svg) |

@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 766,497 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 766,532 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 183,171 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 110,255 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 67,492 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
+| [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 67,514 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
 | [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) | 25,957 | Navigate DevUtils faster with this All-in-one Toolbox for Developers | devutils (org) | macOS | [store](https://www.raycast.com/devutils/devutils) |
 | [Ghostty](https://github.com/raycast/extensions/tree/main/extensions/ghostty) | 16,990 | Control Ghostty with Raycast | jarry_chung | macOS | [store](https://www.raycast.com/jarry_chung/ghostty) |
 | [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) | 11,787 | Fastest Notion to-do app ever | reboot (org) | macOS | [store](https://www.raycast.com/reboot/hypersonic) |
@@ -52,7 +52,7 @@
 | [kubectx](https://github.com/raycast/extensions/tree/main/extensions/kubectx) | 1,646 | Switch between clusters from Raycast | oktay | macOS | [store](https://www.raycast.com/oktay/kubectx) |
 | [SimpleTexOCR](https://github.com/raycast/extensions/tree/main/extensions/simpletexocr) | 1,645 | A LaTeX OCR by Simpletex | Arthals | macOS | [store](https://www.raycast.com/Arthals/simpletexocr) |
 | [Laravel Herd](https://github.com/raycast/extensions/tree/main/extensions/laravel-herd) | 1,643 | Provides quick access to Laravel Herd features and settings. | beyond-code (org) | macOS | [store](https://www.raycast.com/beyond-code/laravel-herd) |
-| [Passphrase Generator](https://github.com/raycast/extensions/tree/main/extensions/passphrase-generator) | 1,599 | Generates a set of random passwords using different generators. | omBratteng | macOS | [store](https://www.raycast.com/omBratteng/passphrase-generator) |
+| [Passphrase Generator](https://github.com/raycast/extensions/tree/main/extensions/passphrase-generator) | 1,600 | Generates a set of random passwords using different generators. | omBratteng | macOS | [store](https://www.raycast.com/omBratteng/passphrase-generator) |
 | [PX to Rem Converter](https://github.com/raycast/extensions/tree/main/extensions/px-to-rem-converter) | 1,574 | Conversions between PX and REM | raulanatol | macOS | [store](https://www.raycast.com/raulanatol/px-to-rem-converter) |
 | [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,409 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [SwitchHosts](https://github.com/raycast/extensions/tree/main/extensions/switchhosts) | 1,382 | An extension for hosts management & switching | tiancheng92 | macOS | [store](https://www.raycast.com/tiancheng92/switchhosts) |

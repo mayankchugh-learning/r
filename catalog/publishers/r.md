@@ -50,7 +50,7 @@
 | [RenderCoder](https://www.raycast.com/RenderCoder) | 1 | 3,821 | **Media:** [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) |
 | [renfei_song](https://www.raycast.com/renfei_song) | 1 | 8,860 | **Developer Tools:** [SnippetsLab](https://github.com/raycast/extensions/tree/main/extensions/snippetslab) |
 | [rennesis](https://www.raycast.com/rennesis) | 1 | 85 | **Productivity:** [Voice-to-Text for Windows](https://github.com/raycast/extensions/tree/main/extensions/voice-to-text-windows) |
-| [RensHoogendam](https://www.raycast.com/RensHoogendam) | 1 | 215 | **Uncategorized:** [Plexus - Localhost Search](https://github.com/raycast/extensions/tree/main/extensions/plexus) |
+| [RensHoogendam](https://www.raycast.com/RensHoogendam) | 1 | 216 | **Uncategorized:** [Plexus - Localhost Search](https://github.com/raycast/extensions/tree/main/extensions/plexus) |
 | [renzo](https://www.raycast.com/renzo) | 3 | 4,271 | **Productivity:** [Prompt Stash](https://github.com/raycast/extensions/tree/main/extensions/prompt-stash), [SnapAsk](https://github.com/raycast/extensions/tree/main/extensions/snapask)<br>**Developer Tools:** [Rails Routes](https://github.com/raycast/extensions/tree/main/extensions/rails-routes) |
 | [resend](https://www.raycast.com/resend) | 1 | 1,287 | **Communication:** [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) |
 | [resessh](https://www.raycast.com/resessh) | 1 | 2,134 | **Productivity:** [GitHub Review Requests](https://github.com/raycast/extensions/tree/main/extensions/github-review-requests) |
@@ -93,7 +93,7 @@
 | [rogovk](https://www.raycast.com/rogovk) | 1 | 6 | **Productivity:** [Keyboard Layout Search](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search) |
 | [rokartur](https://www.raycast.com/rokartur) | 2 | 1,021 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
 | [rokcso](https://www.raycast.com/rokcso) | 1 | 722 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
-| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,497 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
+| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,532 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
 | [rolfkoenders](https://www.raycast.com/RolfKoenders) | 1 | 21 | **Productivity:** [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) |
 | [Romain](https://www.raycast.com/Romain) | 1 | 636 | **Applications:** [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) |
 | [romain_lajeunesse](https://www.raycast.com/romain_lajeunesse) | 1 | 4 | **Developer Tools:** [Gatus Status](https://github.com/raycast/extensions/tree/main/extensions/gatus-status) |

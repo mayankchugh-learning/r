@@ -35,7 +35,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Kagi Search](https://github.com/raycast/extensions/tree/main/extensions/kagi-search) | 7,288 | Searches the Closed Beta of Kagi Search, with autosuggestions and quick access to FastGPT | fearoffish | macOS, Windows | [store](https://www.raycast.com/fearoffish/kagi-search) |
 | [Get Favicon](https://github.com/raycast/extensions/tree/main/extensions/get-favicon) | 1,899 | Get favicon from website URL | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/get-favicon) |
-| [Plexus - Localhost Search](https://github.com/raycast/extensions/tree/main/extensions/plexus) | 215 | Discover and manage all running localhost web servers (Node, PHP, Python, and more) with smart project detection, framework identification, WSL support, and qu… | RensHoogendam | macOS, Windows | [store](https://www.raycast.com/RensHoogendam/plexus) |
+| [Plexus - Localhost Search](https://github.com/raycast/extensions/tree/main/extensions/plexus) | 216 | Discover and manage all running localhost web servers (Node, PHP, Python, and more) with smart project detection, framework identification, WSL support, and qu… | RensHoogendam | macOS, Windows | [store](https://www.raycast.com/RensHoogendam/plexus) |
 | [RG AdGuard Links](https://github.com/raycast/extensions/tree/main/extensions/rg-adguard-links) | 75 | Convert Microsoft Store URLs to rg-adguard.net download links | jergensturdley | macOS, Windows | [store](https://www.raycast.com/jergensturdley/rg-adguard-links) |
 | [DeployHQ](https://github.com/raycast/extensions/tree/main/extensions/deployhq) | 11 | Search and navigate to your DeployHQ projects | MelvinBrem | macOS, Windows | [store](https://www.raycast.com/MelvinBrem/deployhq) |
 

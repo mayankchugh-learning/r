@@ -137,7 +137,7 @@
 | [dort](https://www.raycast.com/dort) | 1 | 13 | **Productivity:** [Mnemosyne](https://github.com/raycast/extensions/tree/main/extensions/mnemosyne) |
 | [dorukgunes](https://www.raycast.com/dorukgunes) | 1 | 298 | **Design Tools:** [Zeplin Project Search](https://github.com/raycast/extensions/tree/main/extensions/zeplin-project-search) |
 | [dot](https://www.raycast.com/dot) | 1 | 2,801 | **Media:** [MeTube](https://github.com/raycast/extensions/tree/main/extensions/metube) |
-| [douglas-pires](https://www.raycast.com/douglas-pires) | 1 | 2,494 | **Productivity:** [Palette Colors](https://github.com/raycast/extensions/tree/main/extensions/palette-colors) |
+| [douglas-pires](https://www.raycast.com/douglas-pires) | 1 | 2,495 | **Productivity:** [Palette Colors](https://github.com/raycast/extensions/tree/main/extensions/palette-colors) |
 | [douo](https://www.raycast.com/douo) | 2 | 11,579 | **Applications:** [OpenAI Translator](https://github.com/raycast/extensions/tree/main/extensions/openai-translator)<br>**System:** [Media Key Emulate](https://github.com/raycast/extensions/tree/main/extensions/global-media-key) |
 | [douwepausma](https://www.raycast.com/douwepausma) | 1 | 62 | **Developer Tools:** [Strapi](https://github.com/raycast/extensions/tree/main/extensions/strapi-raycast-extension) |
 | [dpnick](https://www.raycast.com/dpnick) | 2 | 2,822 | **Security:** [Dashlane](https://github.com/raycast/extensions/tree/main/extensions/dashlane)<br>**News:** [Hashnode](https://github.com/raycast/extensions/tree/main/extensions/hashnode) |

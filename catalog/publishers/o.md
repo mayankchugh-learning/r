@@ -25,7 +25,7 @@
 | [olivier_bossel](https://www.raycast.com/olivier_bossel) | 1 | 8 | **Productivity:** [Spacetime Tracking](https://github.com/raycast/extensions/tree/main/extensions/spacetime-tracking) |
 | [Olli0103](https://www.raycast.com/Olli0103) | 3 | 198 | **Web:** [Caschys Blog](https://github.com/raycast/extensions/tree/main/extensions/caschys-blog)<br>**Applications:** [Fronius Inverter](https://github.com/raycast/extensions/tree/main/extensions/fronius-inverter)<br>**Communication:** [Tinkerer Club](https://github.com/raycast/extensions/tree/main/extensions/tinkerer-club) |
 | [omarshahine](https://www.raycast.com/omarshahine) | 1 | 112 | **Applications:** [PurpleAir](https://github.com/raycast/extensions/tree/main/extensions/purpleair) |
-| [omBratteng](https://www.raycast.com/omBratteng) | 1 | 1,599 | **Developer Tools:** [Passphrase Generator](https://github.com/raycast/extensions/tree/main/extensions/passphrase-generator) |
+| [omBratteng](https://www.raycast.com/omBratteng) | 1 | 1,600 | **Developer Tools:** [Passphrase Generator](https://github.com/raycast/extensions/tree/main/extensions/passphrase-generator) |
 | [omennia](https://www.raycast.com/omennia) | 1 | 25 | **Uncategorized:** [Search OEIS](https://github.com/raycast/extensions/tree/main/extensions/search-oeis) |
 | [omer_aydemir](https://www.raycast.com/omer_aydemir) | 1 | 36 | **Productivity:** [Folder Scope](https://github.com/raycast/extensions/tree/main/extensions/folder-scope) |
 | [omorest](https://www.raycast.com/omorest) | 1 | 243 | **Documentation:** [Code Smells Search](https://github.com/raycast/extensions/tree/main/extensions/code-smells) |
