@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-224 extensions · [← catalog index](../README.md)
+225 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -228,5 +228,6 @@
 | [Markdown Documents](https://github.com/raycast/extensions/tree/main/extensions/markdown-docs) | 1 | Manage and search markdown cheatsheets and documents | craigharman | macOS | [store](https://www.raycast.com/craigharman/markdown-docs) |
 | [MarkdownOS](https://github.com/raycast/extensions/tree/main/extensions/markdownos) | 1 | Quick actions for MarkdownOS, right from Raycast. | azlandotgg | macOS | [store](https://www.raycast.com/azlandotgg/markdownos) |
 | [Mealie](https://github.com/raycast/extensions/tree/main/extensions/mealie) | 1 | Manage Mealie shopping lists and meal plans, import recipes and search your recipe collection. | joschka_rick | macOS | [store](https://www.raycast.com/joschka_rick/mealie) |
+| [MemRadar](https://github.com/raycast/extensions/tree/main/extensions/memradar) | 0 | Search RAM and SSD prices with a decade of history, from MemRadar. | memradar | macOS | [store](https://www.raycast.com/memradar/memradar) |
 | [MOEX Bonds](https://github.com/raycast/extensions/tree/main/extensions/moex-bonds) | 0 | Search Russian bonds on the Moscow Exchange by name, ticker or ISIN: price, yield, coupons, offer and maturity. | andrey_tolstikov | macOS | [store](https://www.raycast.com/andrey_tolstikov/moex-bonds) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |

@@ -1,6 +1,6 @@
 # Publishers
 
-2241 publishers · [← catalog index](../README.md)
+2242 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,284,063 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,284,088 |
 | 2 | [raycast](./id/raycast.md) | 11 | 897,097 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,039 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 564,557 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,061 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 564,579 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 492,655 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 488,908 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 455,243 |
@@ -2242,10 +2242,11 @@
 | 2232 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2233 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2234 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2235 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2236 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2237 | [shayan_abedi](https://www.raycast.com/shayan_abedi) | 1 | 0 |
-| 2238 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
-| 2239 | github-next | 2 | — |
-| 2240 | eugenio | 1 | — |
-| 2241 | multi | 1 | — |
+| 2235 | [memradar](https://www.raycast.com/memradar) | 1 | 0 |
+| 2236 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2237 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2238 | [shayan_abedi](https://www.raycast.com/shayan_abedi) | 1 | 0 |
+| 2239 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
+| 2240 | github-next | 2 | — |
+| 2241 | eugenio | 1 | — |
+| 2242 | multi | 1 | — |

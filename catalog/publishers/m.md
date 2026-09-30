@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-178 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+179 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -97,6 +97,7 @@
 | [melonamin](https://www.raycast.com/melonamin) | 1 | 187 | **Productivity:** [Safe Secret](https://github.com/raycast/extensions/tree/main/extensions/safe-secret) |
 | [MelvinBrem](https://www.raycast.com/MelvinBrem) | 1 | 11 | **Uncategorized:** [DeployHQ](https://github.com/raycast/extensions/tree/main/extensions/deployhq) |
 | [Melvynx](https://www.raycast.com/Melvynx) | 1 | 37,255 | **Productivity:** [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) |
+| [memradar](https://www.raycast.com/memradar) | 1 | 0 | **Finance:** [MemRadar](https://github.com/raycast/extensions/tree/main/extensions/memradar) |
 | [mendel_g](https://www.raycast.com/mendel_g) | 1 | 64 | **Productivity:** [Hebrew Date & Zmanim](https://github.com/raycast/extensions/tree/main/extensions/hebrew-date-zmanim) |
 | [menisy](https://www.raycast.com/menisy) | 1 | 77 | **Productivity:** [Yamli](https://github.com/raycast/extensions/tree/main/extensions/yamli) |
 | [merklefruit](https://www.raycast.com/merklefruit) | 1 | 142 | **Developer Tools:** [Foundry Cast CLI](https://github.com/raycast/extensions/tree/main/extensions/foundry-cast-cli) |

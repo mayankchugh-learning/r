@@ -1,6 +1,6 @@
 # Publishers
 
-2241 publishers · [← catalog index](../README.md)
+2242 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 168,214 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,629 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,881 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,284,063 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,284,088 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 455,243 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,648 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,295 |
@@ -401,8 +401,8 @@
 | 391 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 392 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 2 | 6 |
 | 393 | github-next | 2 | — |
-| 394 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,039 |
-| 395 | [Codely](https://www.raycast.com/Codely) | 1 | 564,557 |
+| 394 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,061 |
+| 395 | [Codely](https://www.raycast.com/Codely) | 1 | 564,579 |
 | 396 | [linear](https://www.raycast.com/linear) | 1 | 398,152 |
 | 397 | [mommertf](https://www.raycast.com/mommertf) | 1 | 331,128 |
 | 398 | [nhojb](https://www.raycast.com/nhojb) | 1 | 289,946 |
@@ -2243,9 +2243,10 @@
 | 2233 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2234 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2235 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2236 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2237 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2238 | [shayan_abedi](https://www.raycast.com/shayan_abedi) | 1 | 0 |
-| 2239 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
-| 2240 | eugenio | 1 | — |
-| 2241 | multi | 1 | — |
+| 2236 | [memradar](https://www.raycast.com/memradar) | 1 | 0 |
+| 2237 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2238 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2239 | [shayan_abedi](https://www.raycast.com/shayan_abedi) | 1 | 0 |
+| 2240 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
+| 2241 | eugenio | 1 | — |
+| 2242 | multi | 1 | — |

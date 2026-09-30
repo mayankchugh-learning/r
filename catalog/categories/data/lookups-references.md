@@ -1,6 +1,6 @@
 # Lookups & References
 
-37 extensions · [← Data](./README.md)
+38 extensions · [← Data](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -41,3 +41,4 @@
 | [Security Search](https://github.com/raycast/extensions/tree/main/extensions/security-search) | 31 | Searches for securities via name to get the ISIN or via ISIN to get the name | benekuehn | macOS | [store](https://www.raycast.com/benekuehn/security-search) |
 | [Chinese Lottery](https://github.com/raycast/extensions/tree/main/extensions/chinese-lottery) | 30 | Check the results of China Welfare Lottery and Sports Lottery | elonwoo | macOS | [store](https://www.raycast.com/elonwoo/chinese-lottery) |
 | [Companies House](https://github.com/raycast/extensions/tree/main/extensions/companies-house) | 7 | Search the UK Companies House register — companies, officers, filings and charges. | aic | macOS, Windows | [store](https://www.raycast.com/aic/companies-house) |
+| [MemRadar](https://github.com/raycast/extensions/tree/main/extensions/memradar) | 0 | Search RAM and SSD prices with a decade of history, from MemRadar. | memradar | macOS | [store](https://www.raycast.com/memradar/memradar) |
