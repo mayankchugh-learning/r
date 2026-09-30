@@ -127,7 +127,7 @@
 | [andrey_tolstikov](https://www.raycast.com/andrey_tolstikov) | 1 | 0 | **Finance:** [MOEX Bonds](https://github.com/raycast/extensions/tree/main/extensions/moex-bonds) |
 | [andworksGmbH](https://www.raycast.com/andworksGmbH) | 1 | 10 | **Productivity:** [FAVORO](https://github.com/raycast/extensions/tree/main/extensions/favoro) |
 | [andy](https://www.raycast.com/andy) | 1 | 6 | **Media:** [ImgBed Uploader](https://github.com/raycast/extensions/tree/main/extensions/imgbed-uploader) |
-| [anfalas](https://www.raycast.com/anfalas) | 1 | 2,183 | **Developer Tools:** [Open in Sublime Text](https://github.com/raycast/extensions/tree/main/extensions/open-in-sublime-text) |
+| [anfalas](https://www.raycast.com/anfalas) | 1 | 2,185 | **Developer Tools:** [Open in Sublime Text](https://github.com/raycast/extensions/tree/main/extensions/open-in-sublime-text) |
 | [AngryBeaver](https://www.raycast.com/AngryBeaver) | 1 | 29 | **Productivity:** [VocaBuilder](https://github.com/raycast/extensions/tree/main/extensions/vocabuilder) |
 | [anhthang](https://www.raycast.com/anhthang) | 7 | 7,861 | **Data:** [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league), [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex), [LaLiga](https://github.com/raycast/extensions/tree/main/extensions/laliga), [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1)<br>**Fun:** [Bundesliga](https://github.com/raycast/extensions/tree/main/extensions/bundesliga)<br>**Other:** [Lega Serie A](https://github.com/raycast/extensions/tree/main/extensions/lega-serie-a)<br>**Design Tools:** [Soaring Symbols](https://github.com/raycast/extensions/tree/main/extensions/soaring-symbols) |
 | [AnishDe12020](https://www.raycast.com/AnishDe12020) | 1 | 23 | **Finance:** [BONK Price](https://github.com/raycast/extensions/tree/main/extensions/bonk-price) |
@@ -143,7 +143,7 @@
 | [anu](https://www.raycast.com/anu) | 1 | 1,209 | **Design Tools:** [Tints and Shades](https://github.com/raycast/extensions/tree/main/extensions/tints-and-shades) |
 | [anwarulislam](https://www.raycast.com/anwarulislam) | 1 | 42,891 | **Applications:** [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) |
 | [any](https://www.raycast.com/any) | 1 | 3,569 | **Applications:** [Anytype](https://github.com/raycast/extensions/tree/main/extensions/anytype) |
-| [anybox](https://www.raycast.com/anybox) | 2 | 8,759 | **Applications:** [Anybox](https://github.com/raycast/extensions/tree/main/extensions/anybox)<br>**Developer Tools:** [OK JSON](https://github.com/raycast/extensions/tree/main/extensions/ok-json) |
+| [anybox](https://www.raycast.com/anybox) | 2 | 8,762 | **Applications:** [Anybox](https://github.com/raycast/extensions/tree/main/extensions/anybox)<br>**Developer Tools:** [OK JSON](https://github.com/raycast/extensions/tree/main/extensions/ok-json) |
 | [anyerqi](https://www.raycast.com/anyerqi) | 1 | 21 | **Productivity:** [Wubi Code](https://github.com/raycast/extensions/tree/main/extensions/wu-bi-bian-ma) |
 | [anysphere](https://www.raycast.com/anysphere) | 1 | 7,000 | **Developer Tools:** [Cursor Agents](https://github.com/raycast/extensions/tree/main/extensions/cursor-agents) |
 | [aone](https://www.raycast.com/aone) | 1 | 988 | **Applications:** [Keka](https://github.com/raycast/extensions/tree/main/extensions/keka) |

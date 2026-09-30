@@ -67,7 +67,7 @@
 | [shadeov](https://www.raycast.com/Shadeov) | 2 | 634 | **Developer Tools:** [Cursor Costs](https://github.com/raycast/extensions/tree/main/extensions/cursor-costs)<br>**News:** [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) |
 | [shail_antani](https://www.raycast.com/shail_antani) | 3 | 623 | **Applications:** [Thock](https://github.com/raycast/extensions/tree/main/extensions/thock), [NotiLight Controller](https://github.com/raycast/extensions/tree/main/extensions/notilight-controller)<br>**System:** [Wiz Controller](https://github.com/raycast/extensions/tree/main/extensions/wiz-controller) |
 | [shak](https://www.raycast.com/shak) | 2 | 119 | **Productivity:** [Unpackr](https://github.com/raycast/extensions/tree/main/extensions/unpackr), [Timeatlas](https://github.com/raycast/extensions/tree/main/extensions/timeatlas) |
-| [shakedlokits](https://www.raycast.com/shakedlokits) | 1 | 3,375 | **Productivity:** [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) |
+| [shakedlokits](https://www.raycast.com/shakedlokits) | 1 | 3,376 | **Productivity:** [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) |
 | [shameemreza](https://www.raycast.com/shameemreza) | 1 | 18 | **Developer Tools:** [Woo Marketplace Search](https://github.com/raycast/extensions/tree/main/extensions/woo-marketplace-search) |
 | [sharat_visweswara](https://www.raycast.com/sharat_visweswara) | 1 | 19 | **Developer Tools:** [Lume](https://github.com/raycast/extensions/tree/main/extensions/lume) |
 | [sharker_alice_sharker](https://www.raycast.com/sharker_alice_sharker) | 2 | 266 | **Developer Tools:** [Hephaestus - JSON Tools](https://github.com/raycast/extensions/tree/main/extensions/hephaestus)<br>**News:** [Juejin](https://github.com/raycast/extensions/tree/main/extensions/juejin) |
@@ -92,7 +92,7 @@
 | [Silas](https://www.raycast.com/silas) | 1 | 190 | **Developer Tools:** [Cloudflare R2 File Uploader](https://github.com/raycast/extensions/tree/main/extensions/r2-uploader) |
 | [silencesys](https://www.raycast.com/silencesys) | 1 | 108 | **Web:** [Vocabula.lat](https://github.com/raycast/extensions/tree/main/extensions/vocabula-lat) |
 | [silv](https://www.raycast.com/silv) | 1 | 200 | **Uncategorized:** [Remove Window from Set](https://github.com/raycast/extensions/tree/main/extensions/remove-window-from-set) |
-| [simicvm](https://www.raycast.com/simicvm) | 1 | 61,486 | **Productivity:** [OpenAI GPT](https://github.com/raycast/extensions/tree/main/extensions/openai-gpt) |
+| [simicvm](https://www.raycast.com/simicvm) | 1 | 61,490 | **Productivity:** [OpenAI GPT](https://github.com/raycast/extensions/tree/main/extensions/openai-gpt) |
 | [simon_lai](https://www.raycast.com/simon_lai) | 1 | 53 | **Productivity:** [Chinese Character Converter](https://github.com/raycast/extensions/tree/main/extensions/chinese-character-converter) |
 | [SimonJ](https://www.raycast.com/SimonJ) | 1 | 22 | **Data:** [DAWA - Danish Address Web API](https://github.com/raycast/extensions/tree/main/extensions/dawa) |
 | [SimpleOptional](https://www.raycast.com/SimpleOptional) | 1 | 136 | **Productivity:** [AsciiMath to LaTeX Converter](https://github.com/raycast/extensions/tree/main/extensions/asciimath-to-latex-converter) |
