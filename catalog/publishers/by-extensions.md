@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 168,331 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,649 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,881 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,284,687 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,284,710 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 455,540 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,661 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,307 |
@@ -105,7 +105,7 @@
 | 95 | [third774](https://www.raycast.com/third774) | 3 | 67,978 |
 | 96 | [Kang](https://www.raycast.com/Kang) | 3 | 66,168 |
 | 97 | [michaelschultz](https://www.raycast.com/michaelschultz) | 3 | 49,726 |
-| 98 | [lardissone](https://www.raycast.com/lardissone) | 3 | 47,398 |
+| 98 | [lardissone](https://www.raycast.com/lardissone) | 3 | 47,403 |
 | 99 | [massimiliano_pasquini](https://www.raycast.com/massimiliano_pasquini) | 3 | 41,977 |
 | 100 | [isfeng](https://www.raycast.com/isfeng) | 3 | 40,319 |
 | 101 | [hmarr](https://www.raycast.com/hmarr) | 3 | 25,543 |
@@ -401,8 +401,8 @@
 | 391 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 392 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 2 | 7 |
 | 393 | github-next | 2 | — |
-| 394 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,205 |
-| 395 | [Codely](https://www.raycast.com/Codely) | 1 | 564,697 |
+| 394 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,227 |
+| 395 | [Codely](https://www.raycast.com/Codely) | 1 | 564,715 |
 | 396 | [linear](https://www.raycast.com/linear) | 1 | 398,493 |
 | 397 | [mommertf](https://www.raycast.com/mommertf) | 1 | 331,407 |
 | 398 | [nhojb](https://www.raycast.com/nhojb) | 1 | 290,128 |

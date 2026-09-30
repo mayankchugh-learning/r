@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,284,687 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,284,710 |
 | 2 | [raycast](./id/raycast.md) | 11 | 897,749 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,205 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 564,697 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,227 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 564,715 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 492,967 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 489,246 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 455,540 |
@@ -65,7 +65,7 @@
 | 55 | [mackopes](https://www.raycast.com/mackopes) | 1 | 50,860 |
 | 56 | [michaelschultz](https://www.raycast.com/michaelschultz) | 3 | 49,726 |
 | 57 | [degouville](https://www.raycast.com/degouville) | 4 | 47,638 |
-| 58 | [lardissone](https://www.raycast.com/lardissone) | 3 | 47,398 |
+| 58 | [lardissone](https://www.raycast.com/lardissone) | 3 | 47,403 |
 | 59 | [kawamataryo](https://www.raycast.com/kawamataryo) | 4 | 46,649 |
 | 60 | [1weiho](https://www.raycast.com/1weiho) | 6 | 45,729 |
 | 61 | [anwarulislam](https://www.raycast.com/anwarulislam) | 1 | 42,891 |
