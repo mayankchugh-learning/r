@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [TypeScript Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/typescript-documentation-search) | 3,227 | Search in TypeScript Documentation | chezhe | macOS | [store](https://www.raycast.com/chezhe/typescript-documentation-search) |
+| [TypeScript Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/typescript-documentation-search) | 3,230 | Search in TypeScript Documentation | chezhe | macOS | [store](https://www.raycast.com/chezhe/typescript-documentation-search) |
 | [Apple Developer Docs](https://github.com/raycast/extensions/tree/main/extensions/apple-developer-docs) | 2,384 | Search from the Apple Developer documentations | cali | macOS | [store](https://www.raycast.com/cali/apple-developer-docs) |
 | [PHP Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/php-docs) | 2,148 | Quickly search through official PHP documentation | comes | macOS | [store](https://www.raycast.com/comes/php-docs) |
 | [Search Astro Documentation](https://github.com/raycast/extensions/tree/main/extensions/search-astro-docs) | 839 | Search the Astro Documentation right from Raycast | ElianCodes | macOS | [store](https://www.raycast.com/ElianCodes/search-astro-docs) |
@@ -62,7 +62,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Mozilla Firefox](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox) | 14,137 | Search and open tabs from bookmarks and history in Mozilla Firefox. | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/mozilla-firefox) |
-| [Vivaldi](https://github.com/raycast/extensions/tree/main/extensions/vivaldi) | 5,436 | Search open tabs, bookmarks and history in Vivaldi. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/vivaldi) |
+| [Vivaldi](https://github.com/raycast/extensions/tree/main/extensions/vivaldi) | 5,438 | Search open tabs, bookmarks and history in Vivaldi. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/vivaldi) |
 | [Opera](https://github.com/raycast/extensions/tree/main/extensions/opera) | 1,030 | Search open tabs, bookmarks and history in Opera. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/opera) |
 | [Mozeidon](https://github.com/raycast/extensions/tree/main/extensions/mozeidon) | 837 | Search, open tabs and bookmarks in Firefox via Mozeidon add-on | egovelox | macOS | [store](https://www.raycast.com/egovelox/mozeidon) |
 | [Iridium](https://github.com/raycast/extensions/tree/main/extensions/iridium) | 60 | Search open tabs, bookmarks and history in Iridium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/iridium) |
@@ -72,7 +72,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Cheatsheets](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets) | 42,550 | Search and view programming cheatsheets | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/cheatsheets) |
-| [TLDR Pages](https://github.com/raycast/extensions/tree/main/extensions/tldr) | 11,357 | Search TLDR command cheatsheets. | pomdtr | macOS, Windows | [store](https://www.raycast.com/pomdtr/tldr) |
+| [TLDR Pages](https://github.com/raycast/extensions/tree/main/extensions/tldr) | 11,359 | Search TLDR command cheatsheets. | pomdtr | macOS, Windows | [store](https://www.raycast.com/pomdtr/tldr) |
 | [Cheatsheets Remastered](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets-remastered) | 1,323 | A remastered Cheatsheets extension with enhanced functionality, custom sheet creation, and an improved browsing experience. | smcnab1 | macOS | [store](https://www.raycast.com/smcnab1/cheatsheets-remastered) |
 | [Big-O](https://github.com/raycast/extensions/tree/main/extensions/big-o) | 155 | A cheatsheet for Big-O notation | shayneo | macOS | [store](https://www.raycast.com/shayneo/big-o) |
 | [Strftime Cheatsheet](https://github.com/raycast/extensions/tree/main/extensions/strftime-cheatsheet) | 132 | Search strftime codes, meanings and examples | antonengelhardt | macOS | [store](https://www.raycast.com/antonengelhardt/strftime-cheatsheet) |
@@ -81,7 +81,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects) | 16,529 | Search and open recent projects from Zed | ewgenius | macOS, Windows | [store](https://www.raycast.com/ewgenius/zed-recent-projects) |
+| [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects) | 16,540 | Search and open recent projects from Zed | ewgenius | macOS, Windows | [store](https://www.raycast.com/ewgenius/zed-recent-projects) |
 | [Antigravity](https://github.com/raycast/extensions/tree/main/extensions/antigravity) | 3,975 | Control Antigravity directly from Raycast - Search and open recent projects, handle extensions and commands. | meshal | macOS | [store](https://www.raycast.com/meshal/antigravity) |
 | [Kiro](https://github.com/raycast/extensions/tree/main/extensions/kiro) | 565 | Control Kiro directly from Raycast - Search and open recent projects, handle extensions and commands. | jyothish-ram | macOS | [store](https://www.raycast.com/jyothish-ram/kiro) |
 | [Envoyer](https://github.com/raycast/extensions/tree/main/extensions/envoyer) | 171 | Search for envoyer projects, start new deploys and view recent deployments | thijsdewitt | macOS | [store](https://www.raycast.com/thijsdewitt/envoyer) |

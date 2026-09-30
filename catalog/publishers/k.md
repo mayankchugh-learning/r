@@ -37,7 +37,7 @@
 | [keito4](https://www.raycast.com/keito4) | 6 | 9,548 | **Developer Tools:** [Skills](https://github.com/raycast/extensions/tree/main/extensions/skills), [Supabase](https://github.com/raycast/extensions/tree/main/extensions/supabase), [DevContainer Features](https://github.com/raycast/extensions/tree/main/extensions/devcontainer-features)<br>**Productivity:** [Spark Mail](https://github.com/raycast/extensions/tree/main/extensions/spark-mail), [Tldv Meetings](https://github.com/raycast/extensions/tree/main/extensions/tldv), [OneCal Unified Calendar](https://github.com/raycast/extensions/tree/main/extensions/onecal-unified-calendar) |
 | [kelant](https://www.raycast.com/Kelant) | 1 | 11 | **Developer Tools:** [QuickForce - Salesforce Toolkit](https://github.com/raycast/extensions/tree/main/extensions/quickforce-salesforce-toolkit) |
 | [keleus](https://www.raycast.com/keleus) | 1 | 268 | **Developer Tools:** [Easy Variable](https://github.com/raycast/extensions/tree/main/extensions/easyvariable) |
-| [kemiljk](https://www.raycast.com/kemiljk) | 2 | 1,731 | **Developer Tools:** [Tailwind Size Conversion](https://github.com/raycast/extensions/tree/main/extensions/px-to-tailwind)<br>**Productivity:** [Cosmic Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/cosmic-bookmarks) |
+| [kemiljk](https://www.raycast.com/kemiljk) | 2 | 1,732 | **Developer Tools:** [Tailwind Size Conversion](https://github.com/raycast/extensions/tree/main/extensions/px-to-tailwind)<br>**Productivity:** [Cosmic Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/cosmic-bookmarks) |
 | [kenanbendz](https://www.raycast.com/kenanbendz) | 1 | 47 | **News:** [DR News](https://github.com/raycast/extensions/tree/main/extensions/dr-news) |
 | [kendaniels](https://www.raycast.com/kendaniels) | 2 | 373 | **Media:** [Plexamp](https://github.com/raycast/extensions/tree/main/extensions/plexamp), [Now Playing](https://github.com/raycast/extensions/tree/main/extensions/now-playing) |
 | [kennonb](https://www.raycast.com/kennonb) | 1 | 2,364 | **Developer Tools:** [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) |
@@ -55,7 +55,7 @@
 | [KittenYang](https://www.raycast.com/KittenYang) | 1 | 709 | **Applications:** [Charming ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/charming-chatgpt) |
 | [kjbakke](https://www.raycast.com/kjbakke) | 1 | 2 | **Fun:** [Tibia Helper](https://github.com/raycast/extensions/tree/main/extensions/tibia-helper) |
 | [klaa97](https://www.raycast.com/klaa97) | 1 | 2,665 | **Developer Tools:** [Google Cloud Platform Search](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-platform-search) |
-| [klkvsky](https://www.raycast.com/klkvsky) | 1 | 596 | **News:** [Recent News](https://github.com/raycast/extensions/tree/main/extensions/the-verge) |
+| [klkvsky](https://www.raycast.com/klkvsky) | 1 | 597 | **News:** [Recent News](https://github.com/raycast/extensions/tree/main/extensions/the-verge) |
 | [kmusick](https://www.raycast.com/kmusick) | 1 | 4,493 | **Applications:** [Bartender](https://github.com/raycast/extensions/tree/main/extensions/bartender) |
 | [knealking](https://www.raycast.com/knealking) | 1 | 386 | **Developer Tools:** [Dotmate](https://github.com/raycast/extensions/tree/main/extensions/dotmate) |
 | [knownasilya](https://www.raycast.com/knownasilya) | 1 | 31 | **Productivity:** [TeamGantt](https://github.com/raycast/extensions/tree/main/extensions/teamgantt) |
@@ -63,7 +63,7 @@
 | [koala1206](https://www.raycast.com/koala1206) | 2 | 3,245 | **Productivity:** [Prompt Builder](https://github.com/raycast/extensions/tree/main/extensions/prompt-builder)<br>**Developer Tools:** [Bash Commands](https://github.com/raycast/extensions/tree/main/extensions/bash-commands) |
 | [koayon](https://www.raycast.com/koayon) | 2 | 2,031 | **Productivity:** [ArXiv Search](https://github.com/raycast/extensions/tree/main/extensions/arxiv)<br>**News:** [Pitchfork](https://github.com/raycast/extensions/tree/main/extensions/pitchfork) |
 | [koh-sh](https://www.raycast.com/koh-sh) | 1 | 334 | **Developer Tools:** [Slack Templated Message](https://github.com/raycast/extensions/tree/main/extensions/slack-templated-message) |
-| [koinzhang](./id/koinzhang.md) | 50 | 287,662 | [see all 50 →](./id/koinzhang.md) |
+| [koinzhang](./id/koinzhang.md) | 50 | 287,668 | [see all 50 →](./id/koinzhang.md) |
 | [kom](https://www.raycast.com/kom) | 1 | 16,714 | **Productivity:** [Summarize YouTube Videos with AI](https://github.com/raycast/extensions/tree/main/extensions/summarize-youtube-video-with-ai) |
 | [konojunya](https://www.raycast.com/konojunya) | 1 | 542 | **Developer Tools:** [ghq](https://github.com/raycast/extensions/tree/main/extensions/ghq) |
 | [kopach](https://www.raycast.com/kopach) | 1 | 1,353 | **Uncategorized:** [ChatGPT Search](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-search) |
@@ -73,11 +73,11 @@
 | [krmbzds](https://www.raycast.com/krmbzds) | 1 | 171 | **Productivity:** [FlashSpace](https://github.com/raycast/extensions/tree/main/extensions/flashspace) |
 | [krod12](https://www.raycast.com/krod12) | 1 | 566 | **Media:** [RatingsDB](https://github.com/raycast/extensions/tree/main/extensions/ratingsdb) |
 | [krsntn](https://www.raycast.com/krsntn) | 1 | 988 | **Productivity:** [Guerrilla Mail](https://github.com/raycast/extensions/tree/main/extensions/guerrilla-mail) |
-| [krzysztoff1](https://www.raycast.com/krzysztoff1) | 1 | 2,935 | **Developer Tools:** [Yabai](https://github.com/raycast/extensions/tree/main/extensions/yabai) |
+| [krzysztoff1](https://www.raycast.com/krzysztoff1) | 1 | 2,936 | **Developer Tools:** [Yabai](https://github.com/raycast/extensions/tree/main/extensions/yabai) |
 | [krzysztofzuraw](https://www.raycast.com/krzysztofzuraw) | 2 | 21,463 | **Productivity:** [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn)<br>**Developer Tools:** [Conventional Comments](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) |
 | [ksc73450056](https://www.raycast.com/ksc73450056) | 1 | 10 | **System:** [Toggle Trackpad](https://github.com/raycast/extensions/tree/main/extensions/toggle-trackpad) |
 | [KthKuang](https://www.raycast.com/KthKuang) | 1 | 193 | **Productivity:** [Manus](https://github.com/raycast/extensions/tree/main/extensions/manus) |
-| [kud](./id/kud.md) | 13 | 7,239 | [see all 13 →](./id/kud.md) |
+| [kud](./id/kud.md) | 13 | 7,240 | [see all 13 →](./id/kud.md) |
 | [kumail_changezi](https://www.raycast.com/kumail_changezi) | 1 | 17 | **Design Tools:** [Text Scramble](https://github.com/raycast/extensions/tree/main/extensions/text-scramble) |
 | [kumamaki](https://www.raycast.com/kumamaki) | 3 | 895 | **Productivity:** [CopyMoveTo](https://github.com/raycast/extensions/tree/main/extensions/copymoveto), [Quick Quote](https://github.com/raycast/extensions/tree/main/extensions/quick-quote)<br>**System:** [Heat Check](https://github.com/raycast/extensions/tree/main/extensions/heatcheck) |
 | [kumare_agape](https://www.raycast.com/kumare_agape) | 1 | 30 | **Productivity:** [Lumen](https://github.com/raycast/extensions/tree/main/extensions/lumen) |

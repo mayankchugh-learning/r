@@ -9,14 +9,14 @@
 | [i_idz](https://www.raycast.com/i_idz) | 1 | 172 | **Productivity:** [In the Timezone](https://github.com/raycast/extensions/tree/main/extensions/in-the-time-zone) |
 | [i906](https://www.raycast.com/i906) | 1 | 1,239 | **Developer Tools:** [Sourcetree](https://github.com/raycast/extensions/tree/main/extensions/sourcetree) |
 | [iambtshft](https://www.raycast.com/iambtshft) | 1 | 150 | **Media:** [Tails](https://github.com/raycast/extensions/tree/main/extensions/tails) |
-| [iamEvan](https://www.raycast.com/iamEvan) | 1 | 629 | **Productivity:** [Roblox](https://github.com/raycast/extensions/tree/main/extensions/roblox) |
+| [iamEvan](https://www.raycast.com/iamEvan) | 1 | 630 | **Productivity:** [Roblox](https://github.com/raycast/extensions/tree/main/extensions/roblox) |
 | [iAmKevinCruz](https://www.raycast.com/iAmKevinCruz) | 1 | 47 | **Productivity:** [TimeCamp](https://github.com/raycast/extensions/tree/main/extensions/timecamp) |
 | [iamlas](https://www.raycast.com/iamlas) | 1 | 1,760 | **News:** [Fotmob](https://github.com/raycast/extensions/tree/main/extensions/fotmob) |
 | [iammola](https://www.raycast.com/iammola) | 1 | 1,235 | **Productivity:** [Wakatime](https://github.com/raycast/extensions/tree/main/extensions/wakatime) |
 | [iamnatch](https://www.raycast.com/iamnatch) | 1 | 63 | **Fun:** [Wemo](https://github.com/raycast/extensions/tree/main/extensions/raycast-wemo) |
 | [iamshubhransh](https://www.raycast.com/iamshubhransh) | 1 | 56 | **Productivity:** [Figma Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/figma-link-cleaner) |
 | [iamsmaso](https://www.raycast.com/iamsmaso) | 1 | 57 | **Developer Tools:** [Mixpanel](https://github.com/raycast/extensions/tree/main/extensions/mixpanel) |
-| [iamyeizi](https://www.raycast.com/iamyeizi) | 1 | 11,772 | **System:** [Toggle Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/toggle-menu-bar) |
+| [iamyeizi](https://www.raycast.com/iamyeizi) | 1 | 11,774 | **System:** [Toggle Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/toggle-menu-bar) |
 | [iaroslav_naiden](https://www.raycast.com/iaroslav_naiden) | 2 | 2,747 | **System:** [Uptime](https://github.com/raycast/extensions/tree/main/extensions/uptime), [Network Menubar Monitor](https://github.com/raycast/extensions/tree/main/extensions/network-menubar-monitor) |
 | [ibll](https://www.raycast.com/ibll) | 1 | 1,688 | **Media:** [Image Wallet](https://github.com/raycast/extensions/tree/main/extensions/image-wallet) |
 | [ickas](https://www.raycast.com/ickas) | 2 | 1,819 | **Design Tools:** [Aspect Raytio](https://github.com/raycast/extensions/tree/main/extensions/aspect-raytio)<br>**Developer Tools:** [Time Teller](https://github.com/raycast/extensions/tree/main/extensions/time-teller) |
@@ -65,7 +65,7 @@
 | [itsmingjie](https://www.raycast.com/itsmingjie) | 2 | 41,753 | **Productivity:** [Word Count](https://github.com/raycast/extensions/tree/main/extensions/word-count)<br>**Other:** [Bikeshare Station Status](https://github.com/raycast/extensions/tree/main/extensions/bikeshare-station-status) |
 | [itsnwa](https://www.raycast.com/itsnwa) | 1 | 748 | **Design Tools:** [Designer News](https://github.com/raycast/extensions/tree/main/extensions/designer-news) |
 | [IvanWng97](https://www.raycast.com/IvanWng97) | 1 | 8 | **Developer Tools:** [Pixtuoid](https://github.com/raycast/extensions/tree/main/extensions/pixtuoid) |
-| [iwfan](https://www.raycast.com/iwfan) | 2 | 6,004 | **Uncategorized:** [Quick Search](https://github.com/raycast/extensions/tree/main/extensions/quick-search)<br>**Finance:** [Beancount Meta](https://github.com/raycast/extensions/tree/main/extensions/beancount-mate) |
+| [iwfan](https://www.raycast.com/iwfan) | 2 | 6,005 | **Uncategorized:** [Quick Search](https://github.com/raycast/extensions/tree/main/extensions/quick-search)<br>**Finance:** [Beancount Meta](https://github.com/raycast/extensions/tree/main/extensions/beancount-mate) |
 | [izadoesdev](https://www.raycast.com/izadoesdev) | 1 | 27 | **Developer Tools:** [Databuddy](https://github.com/raycast/extensions/tree/main/extensions/databuddy) |
 | [izm51](https://www.raycast.com/izm51) | 1 | 609 | **Productivity:** [AI Text to Calendar](https://github.com/raycast/extensions/tree/main/extensions/ai-text-to-calendar) |
 | [izyuumi](https://www.raycast.com/izyuumi) | 1 | 1,872 | **Security:** [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass) |

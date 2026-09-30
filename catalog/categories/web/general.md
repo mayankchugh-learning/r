@@ -6,7 +6,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 110,255 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 50,237 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
-| [Temporary Email](https://github.com/raycast/extensions/tree/main/extensions/temporary-email) | 12,295 | Quickly and easily create a temporary email. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/temporary-email) |
+| [Temporary Email](https://github.com/raycast/extensions/tree/main/extensions/temporary-email) | 12,300 | Quickly and easily create a temporary email. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/temporary-email) |
 | [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 8,799 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 6,500 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy) | 6,360 | Quickly Generate Disposable Email Address and view received mails. | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/mailsy) |
@@ -20,10 +20,10 @@
 | [PiP](https://github.com/raycast/extensions/tree/main/extensions/pip) | 2,421 | Watch video in Picture in Picture or Full Screen mode | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pip) |
 | [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) | 2,364 | Displays a list of servers bookmarked in Transmit for quick connecting. | kennonb | macOS | [store](https://www.raycast.com/kennonb/transmit) |
 | [LaTeX to Image](https://github.com/raycast/extensions/tree/main/extensions/quick-latex) | 1,651 | Converts LaTeX text to image. Copy the image to the Clipboard. | Noamko | macOS | [store](https://www.raycast.com/Noamko/quick-latex) |
-| [PX to Rem Converter](https://github.com/raycast/extensions/tree/main/extensions/px-to-rem-converter) | 1,574 | Conversions between PX and REM | raulanatol | macOS | [store](https://www.raycast.com/raulanatol/px-to-rem-converter) |
+| [PX to Rem Converter](https://github.com/raycast/extensions/tree/main/extensions/px-to-rem-converter) | 1,575 | Conversions between PX and REM | raulanatol | macOS | [store](https://www.raycast.com/raulanatol/px-to-rem-converter) |
 | [OpenWeatherMap](https://github.com/raycast/extensions/tree/main/extensions/openweathermap) | 1,455 | Get Weather via https://openweathermap.com | tonka3000 | macOS | [store](https://www.raycast.com/tonka3000/openweathermap) |
 | [Open in JSON Hero](https://github.com/raycast/extensions/tree/main/extensions/open-in-json-hero) | 1,431 | Opens JSON in your pasteboard in JSON Hero | maverickdotdev | macOS | [store](https://www.raycast.com/maverickdotdev/open-in-json-hero) |
-| [Slugify](https://github.com/raycast/extensions/tree/main/extensions/slugify) | 1,316 | A quick way to slugify text | unreadablename | macOS | [store](https://www.raycast.com/unreadablename/slugify) |
+| [Slugify](https://github.com/raycast/extensions/tree/main/extensions/slugify) | 1,317 | A quick way to slugify text | unreadablename | macOS | [store](https://www.raycast.com/unreadablename/slugify) |
 | [Chess.com](https://github.com/raycast/extensions/tree/main/extensions/chess-com) | 1,252 | Quickly start games on Chess.com | joshfarrant | macOS, Windows | [store](https://www.raycast.com/joshfarrant/chess-com) |
 | [BugMeNot](https://github.com/raycast/extensions/tree/main/extensions/bugmenot) | 1,073 | Find username/password on BugMeNot | Yukai | macOS | [store](https://www.raycast.com/Yukai/bugmenot) |
 | [Libraries.io](https://github.com/raycast/extensions/tree/main/extensions/libraries-io) | 1,031 | Look up packages and dependency information via Libraries.io | djpowers | macOS | [store](https://www.raycast.com/djpowers/libraries-io) |

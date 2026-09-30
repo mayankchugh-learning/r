@@ -14,7 +14,7 @@
 | [yang_monch](https://www.raycast.com/yang_monch) | 1 | 404 | **Design Tools:** [Golden Ratio](https://github.com/raycast/extensions/tree/main/extensions/golden-ratio) |
 | [yangxy](https://www.raycast.com/yangxy) | 2 | 9,470 | **Developer Tools:** [Date Format Converter](https://github.com/raycast/extensions/tree/main/extensions/datetime-format-converter), [OSS](https://github.com/raycast/extensions/tree/main/extensions/aliyun-oss) |
 | [yannglt](https://www.raycast.com/yannglt) | 3 | 861 | **Communication:** [Gather](https://github.com/raycast/extensions/tree/main/extensions/gather)<br>**Applications:** [Fathom Analytics Stats](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics-stats), [Elsewhere](https://github.com/raycast/extensions/tree/main/extensions/elsewhere) |
-| [yaronschwimmer](https://www.raycast.com/yaronschwimmer) | 1 | 2,297 | **Productivity:** [Typer - Custom Text Hotkey](https://github.com/raycast/extensions/tree/main/extensions/typer) |
+| [yaronschwimmer](https://www.raycast.com/yaronschwimmer) | 1 | 2,299 | **Productivity:** [Typer - Custom Text Hotkey](https://github.com/raycast/extensions/tree/main/extensions/typer) |
 | [yasinozmeen](https://www.raycast.com/yasinozmeen) | 1 | 13 | **Productivity:** [Random Date Generator](https://github.com/raycast/extensions/tree/main/extensions/random-date-generator) |
 | [yassine_souilmi](https://www.raycast.com/yassine_souilmi) | 1 | 79 | **Productivity:** [Affine](https://github.com/raycast/extensions/tree/main/extensions/affine-raycast) |
 | [yasuhiroyamamoto](https://www.raycast.com/yasuhiroyamamoto) | 1 | 253 | **Developer Tools:** [Image Diff Checker](https://github.com/raycast/extensions/tree/main/extensions/image-diff-checker) |

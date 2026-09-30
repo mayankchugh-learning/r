@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 114,654 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
+| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 114,720 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
 | [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) | 24,799 | Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2, Warp, WezTerm, cmux) and vice versa | yedongze | macOS | [store](https://www.raycast.com/yedongze/terminalfinder) |
 | [AeroSpace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | 17,005 | Control AeroSpace workspaces, windows, shortcuts, and configuration from Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
 | [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 14,039 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
@@ -61,7 +61,7 @@
 | [Spaces](https://github.com/raycast/extensions/tree/main/extensions/spaces) | 5,794 | Declutter and organize your workspace in 1-click | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/spaces) |
 | [NameSpaces](https://github.com/raycast/extensions/tree/main/extensions/namespaces) | 4,494 | Create named aliases for your macOS Spaces and easily switch between them from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/namespaces) |
 | [Typographer: Make Text Pretty](https://github.com/raycast/extensions/tree/main/extensions/typographer) | 2,090 | Make the typography of your text pretty: fix quotes, dashes, and spaces. Works offline. | mikeozornin | macOS | [store](https://www.raycast.com/mikeozornin/typographer) |
-| [CJK Text Format Improver](https://github.com/raycast/extensions/tree/main/extensions/text-format-improver) | 608 | Enhance your text quality by improving formatting, correcting spaces, words, and punctuation involving mixed writing of Chinese, Japanese, and Korean (CJK) wit… | alice.ellis | macOS | [store](https://www.raycast.com/alice.ellis/text-format-improver) |
+| [CJK Text Format Improver](https://github.com/raycast/extensions/tree/main/extensions/text-format-improver) | 609 | Enhance your text quality by improving formatting, correcting spaces, words, and punctuation involving mixed writing of Chinese, Japanese, and Korean (CJK) wit… | alice.ellis | macOS | [store](https://www.raycast.com/alice.ellis/text-format-improver) |
 | [Pangu for Raycast](https://github.com/raycast/extensions/tree/main/extensions/pangu-for-raycast) | 118 | Add spaces between Chinese and English, number or symbols. | avengerbevis | macOS | [store](https://www.raycast.com/avengerbevis/pangu-for-raycast) |
 | [Storyblok](https://github.com/raycast/extensions/tree/main/extensions/storyblok) | 77 | Query your Storyblok spaces, stories, assets, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/storyblok) |
 | [Phi](https://github.com/raycast/extensions/tree/main/extensions/phi) | 21 | Search and control live Phi Spaces and tabs. | phibrowser | macOS | [store](https://www.raycast.com/phibrowser/phi) |

@@ -66,7 +66,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,409 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
+| [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,410 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [Subscription Manager](https://github.com/raycast/extensions/tree/main/extensions/subscription-manager) | 107 | Track and manage all your recurring subscriptions | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/subscription-manager) |
 | [Gumroad Sales](https://github.com/raycast/extensions/tree/main/extensions/gumroad) | 93 | View your sales and products from Gumroad | eddiesigner | macOS, Windows | [store](https://www.raycast.com/eddiesigner/gumroad) |
 | [Subflow](https://github.com/raycast/extensions/tree/main/extensions/subflow) | 85 | Manage your subscriptions with Subflow | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/subflow) |

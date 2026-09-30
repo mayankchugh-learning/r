@@ -107,7 +107,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) | 4,950 | Browse the xkcd comics and keep track of the ones you've read. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/xkcd) |
+| [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) | 4,952 | Browse the xkcd comics and keep track of the ones you've read. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/xkcd) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | 1,360 | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Open Graph](https://github.com/raycast/extensions/tree/main/extensions/open-graph) | 919 | Preview Open Graph meta tags of a website | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/open-graph) |
 | [Game Scout](https://github.com/raycast/extensions/tree/main/extensions/game-scout) | 39 | The ultimate gaming companion to track prices, deals, and free giveaways. | glct26 | macOS, Windows | [store](https://www.raycast.com/glct26/game-scout) |

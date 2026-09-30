@@ -24,7 +24,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Cheatsheets](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets) | 42,550 | Search and view programming cheatsheets | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/cheatsheets) |
-| [TLDR Pages](https://github.com/raycast/extensions/tree/main/extensions/tldr) | 11,357 | Search TLDR command cheatsheets. | pomdtr | macOS, Windows | [store](https://www.raycast.com/pomdtr/tldr) |
+| [TLDR Pages](https://github.com/raycast/extensions/tree/main/extensions/tldr) | 11,359 | Search TLDR command cheatsheets. | pomdtr | macOS, Windows | [store](https://www.raycast.com/pomdtr/tldr) |
 | [Tmux Cheatsheet](https://github.com/raycast/extensions/tree/main/extensions/tmux-cheatsheet) | 2,393 | Provides easy access to tmux cheatsheet documentation for when you forget a command, or are just learning. | alikhatibak | macOS | [store](https://www.raycast.com/alikhatibak/tmux-cheatsheet) |
 | [Cheatsheets Remastered](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets-remastered) | 1,323 | A remastered Cheatsheets extension with enhanced functionality, custom sheet creation, and an improved browsing experience. | smcnab1 | macOS | [store](https://www.raycast.com/smcnab1/cheatsheets-remastered) |
 | [Markdown Documents](https://github.com/raycast/extensions/tree/main/extensions/markdown-docs) | 1 | Manage and search markdown cheatsheets and documents | craigharman | macOS | [store](https://www.raycast.com/craigharman/markdown-docs) |

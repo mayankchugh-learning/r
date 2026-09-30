@@ -15,7 +15,7 @@
 | [jag-k](https://www.raycast.com/jag-k) | 2 | 28,633 | **Applications:** [Dropover](https://github.com/raycast/extensions/tree/main/extensions/dropover)<br>**Data:** [DuckDuckGo Image Search](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-image-search) |
 | [jairaume](https://www.raycast.com/jairaume) | 1 | 359 | **Developer Tools:** [Share My Code](https://github.com/raycast/extensions/tree/main/extensions/share-my-code) |
 | [JakeYu](https://www.raycast.com/JakeYu) | 2 | 1,744 | **Productivity:** [Memos](https://github.com/raycast/extensions/tree/main/extensions/memos)<br>**Applications:** [Update Clash Subscription](https://github.com/raycast/extensions/tree/main/extensions/update-clash-subscription) |
-| [jameslyons](https://www.raycast.com/jameslyons) | 2 | 11,886 | **Applications:** [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session)<br>**Design Tools:** [Sip](https://github.com/raycast/extensions/tree/main/extensions/sip) |
+| [jameslyons](https://www.raycast.com/jameslyons) | 2 | 11,889 | **Applications:** [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session)<br>**Design Tools:** [Sip](https://github.com/raycast/extensions/tree/main/extensions/sip) |
 | [jamie_davenport](https://www.raycast.com/jamie_davenport) | 1 | 12 | **Productivity:** [Capd](https://github.com/raycast/extensions/tree/main/extensions/capd) |
 | [jan_werner](https://www.raycast.com/jan_werner) | 1 | 11 | **Communication:** [Status Nerd](https://github.com/raycast/extensions/tree/main/extensions/status-nerd) |
 | [janjezek](https://www.raycast.com/janjezek) | 1 | 6 | **Productivity:** [Fibery Quick Capture](https://github.com/raycast/extensions/tree/main/extensions/fibery-quick-capture) |
@@ -61,7 +61,7 @@
 | [jlrochin](https://www.raycast.com/jlrochin) | 1 | 20,692 | **System:** [Mole](https://github.com/raycast/extensions/tree/main/extensions/mole) |
 | [jmaeso](https://www.raycast.com/jmaeso) | 1 | 35,390 | **Developer Tools:** [UUID Generator](https://github.com/raycast/extensions/tree/main/extensions/uuid-generator) |
 | [jns](https://www.raycast.com/jns) | 4 | 2,162 | **Communication:** [NATO Phonetic Alphabet](https://github.com/raycast/extensions/tree/main/extensions/nato-phonetic-alphabet), [Himalaya](https://github.com/raycast/extensions/tree/main/extensions/himalaya)<br>**System:** [SABnzbd](https://github.com/raycast/extensions/tree/main/extensions/sabnzbd)<br>**Productivity:** [Comodoro](https://github.com/raycast/extensions/tree/main/extensions/comodoro) |
-| [joao.mainka](https://www.raycast.com/joao.mainka) | 1 | 21,790 | **Productivity:** [Timezone Converter](https://github.com/raycast/extensions/tree/main/extensions/timezone-converter) |
+| [joao.mainka](https://www.raycast.com/joao.mainka) | 1 | 21,795 | **Productivity:** [Timezone Converter](https://github.com/raycast/extensions/tree/main/extensions/timezone-converter) |
 | [jochemloedeman](https://www.raycast.com/jochemloedeman) | 1 | 866 | **Design Tools:** [AI Screenshot](https://github.com/raycast/extensions/tree/main/extensions/ai-screenshot) |
 | [Joellee](https://www.raycast.com/Joellee) | 1 | 405 | **Productivity:** [French Verb Conjugation](https://github.com/raycast/extensions/tree/main/extensions/french-verb-conjugation) |
 | [joepio](https://www.raycast.com/joepio) | 1 | 90 | **Developer Tools:** [Atomic Data](https://github.com/raycast/extensions/tree/main/extensions/atomic) |
@@ -105,7 +105,7 @@
 | [joshdales](https://www.raycast.com/joshdales) | 1 | 370 | **Developer Tools:** [Quick Git](https://github.com/raycast/extensions/tree/main/extensions/quick-git) |
 | [joshfarrant](https://www.raycast.com/joshfarrant) | 2 | 1,336 | **Fun:** [Chess.com](https://github.com/raycast/extensions/tree/main/extensions/chess-com)<br>**Productivity:** [Clip Swap](https://github.com/raycast/extensions/tree/main/extensions/clip-swap) |
 | [Joshlucpoll](https://www.raycast.com/Joshlucpoll) | 1 | 2,994 | **Applications:** [TempMail](https://github.com/raycast/extensions/tree/main/extensions/tempmail) |
-| [joshmedeski](https://www.raycast.com/joshmedeski) | 1 | 3,034 | **Developer Tools:** [Sesh](https://github.com/raycast/extensions/tree/main/extensions/sesh) |
+| [joshmedeski](https://www.raycast.com/joshmedeski) | 1 | 3,035 | **Developer Tools:** [Sesh](https://github.com/raycast/extensions/tree/main/extensions/sesh) |
 | [joshmillgate](https://www.raycast.com/joshmillgate) | 3 | 197 | **Data:** [Ultrahuman](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman), [Datafast](https://github.com/raycast/extensions/tree/main/extensions/datafast)<br>**Finance:** [Zacks Stock Ranking](https://github.com/raycast/extensions/tree/main/extensions/zacks-stock-ranking) |
 | [joshtemple](https://www.raycast.com/joshtemple) | 1 | 4,133 | **Productivity:** [Clipboard Formatter](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) |
 | [joshuaiz](https://www.raycast.com/joshuaiz) | 1 | 42,119 | **Productivity:** [Password Generator](https://github.com/raycast/extensions/tree/main/extensions/password-generator) |
@@ -134,7 +134,7 @@
 | [juniorodilton](https://www.raycast.com/juniorodilton) | 1 | 112 | **News:** [TabNews](https://github.com/raycast/extensions/tree/main/extensions/tabnews) |
 | [jurajstefanic](https://www.raycast.com/jurajstefanic) | 1 | 22 | **Developer Tools:** [Daytona](https://github.com/raycast/extensions/tree/main/extensions/daytona) |
 | [justin0u0](https://www.raycast.com/justin0u0) | 3 | 2,962 | **Web:** [LeetCode](https://github.com/raycast/extensions/tree/main/extensions/leetcode), [Quip](https://github.com/raycast/extensions/tree/main/extensions/quip)<br>**Developer Tools:** [Kubernetes](https://github.com/raycast/extensions/tree/main/extensions/kubernetes) |
-| [justiniscoding](https://www.raycast.com/justiniscoding) | 2 | 1,772 | **Data:** [Ratio Calculator](https://github.com/raycast/extensions/tree/main/extensions/ratio-calculator)<br>**Productivity:** [VAT Calculator](https://github.com/raycast/extensions/tree/main/extensions/vat-calculator) |
+| [justiniscoding](https://www.raycast.com/justiniscoding) | 2 | 1,773 | **Data:** [Ratio Calculator](https://github.com/raycast/extensions/tree/main/extensions/ratio-calculator)<br>**Productivity:** [VAT Calculator](https://github.com/raycast/extensions/tree/main/extensions/vat-calculator) |
 | [justinw](https://www.raycast.com/justinw) | 1 | 38 | **Web:** [Copy Skeet Link](https://github.com/raycast/extensions/tree/main/extensions/copy-skeet-link) |
 | [justyt65](https://www.raycast.com/justyt65) | 1 | 32 | **Developer Tools:** [Gram](https://github.com/raycast/extensions/tree/main/extensions/gram) |
 | [juxtdesigncc](https://www.raycast.com/juxtdesigncc) | 1 | 319 | **Productivity:** [Better Deal](https://github.com/raycast/extensions/tree/main/extensions/better-deal) |

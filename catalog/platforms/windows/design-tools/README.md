@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 607,680 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 607,852 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Tailwind CSS Colorpicker](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) | 4,633 | Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. | magicjaqk | macOS, Windows | [store](https://www.raycast.com/magicjaqk/tw-colorpicker) |
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 724 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
 | [Mozaika — Decode Design Systems](https://github.com/raycast/extensions/tree/main/extensions/mozaika) | 36 | Decode any website's real design system — colors, fonts, type scale and buttons — and search a curated library of shipped product UIs, right from Raycast. | sezai_c | macOS, Windows | [store](https://www.raycast.com/sezai_c/mozaika) |
@@ -32,7 +32,7 @@
 | [Phosphor Icons](https://github.com/raycast/extensions/tree/main/extensions/phosphor-icons) | 1,621 | Search, preview and copy Phosphor Icons | marinsokol | macOS, Windows | [store](https://www.raycast.com/marinsokol/phosphor-icons) |
 | [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,389 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
 | [Selfh.st Icons](https://github.com/raycast/extensions/tree/main/extensions/selfh-st-icons) | 579 | Find and use self-hosted icons from selfh.st service | greirson | macOS, Windows | [store](https://www.raycast.com/greirson/selfh-st-icons) |
-| [TheSVG](https://github.com/raycast/extensions/tree/main/extensions/thesvg) | 411 | Search, preview, and copy 7,400+ brand SVG icons from thesvg.org | thegdsks | macOS, Windows | [store](https://www.raycast.com/thegdsks/thesvg) |
+| [TheSVG](https://github.com/raycast/extensions/tree/main/extensions/thesvg) | 412 | Search, preview, and copy 7,400+ brand SVG icons from thesvg.org | thegdsks | macOS, Windows | [store](https://www.raycast.com/thegdsks/thesvg) |
 | [Bootstrap Icons](https://github.com/raycast/extensions/tree/main/extensions/bootstrap-icons) | 348 | Search for Bootstrap icons | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/bootstrap-icons) |
 | [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | 23 | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/Spratch/sanity-icons) |
 | [IconSearch SVG Icons](https://github.com/raycast/extensions/tree/main/extensions/iconsearch) | 16 | Search 350,000+ SVG icons from 229 icon sets. Requires a free IconSearch account. | iconsearch | macOS, Windows | [store](https://www.raycast.com/iconsearch/iconsearch) |
@@ -92,8 +92,8 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 110,255 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 52,484 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
-| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 42,891 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
+| [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 52,502 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
+| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 42,911 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
 | [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 20,496 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 6,500 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 748 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |

@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 564,924 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
+| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 565,052 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
 | [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 491,823 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
 | [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 207,071 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
 | [Google Search](https://github.com/raycast/extensions/tree/main/extensions/google-search) | 149,663 | Google search with autosuggestions | mblode | macOS, Windows | [store](https://www.raycast.com/mblode/google-search) |
@@ -24,7 +24,7 @@
 | [GitHub Repository Search](https://github.com/raycast/extensions/tree/main/extensions/github-repository-search) | 17,123 | Search repositories on GitHub and open previously visited ones faster. | thomas | macOS | [store](https://www.raycast.com/thomas/github-repository-search) |
 | [Ghostty](https://github.com/raycast/extensions/tree/main/extensions/ghostty) | 16,990 | Control Ghostty with Raycast | jarry_chung | macOS | [store](https://www.raycast.com/jarry_chung/ghostty) |
 | [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) | 15,296 | Switch between Chrome profiles and access their bookmarks instantly | frouo | macOS | [store](https://www.raycast.com/frouo/google-chrome-profiles) |
-| [Google Bard](https://github.com/raycast/extensions/tree/main/extensions/raycast-bard-ai) | 12,750 | Perform Actions with Google Bard | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-bard-ai) |
+| [Google Bard](https://github.com/raycast/extensions/tree/main/extensions/raycast-bard-ai) | 12,751 | Perform Actions with Google Bard | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-bard-ai) |
 | [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 11,251 | Manage Google Tasks from Raycast, and ask Raycast AI about them. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
 | [GitHub Copilot](https://github.com/raycast/extensions/tree/main/extensions/github-copilot) | 11,094 | Delegate tasks to GitHub Copilot coding agent | github (org) | macOS, Windows | [store](https://www.raycast.com/github/github-copilot) |
 | [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 10,227 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |

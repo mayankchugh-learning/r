@@ -13,7 +13,7 @@
 | [gaosunhao](https://www.raycast.com/gaosunhao) | 1 | 134 | **Uncategorized:** [SVG Studio](https://github.com/raycast/extensions/tree/main/extensions/svg-studio) |
 | [gaoyang](https://www.raycast.com/gaoyang) | 2 | 3,444 | **Media:** [DouTu](https://github.com/raycast/extensions/tree/main/extensions/doutu)<br>**Developer Tools:** [NuGet Package Explorer](https://github.com/raycast/extensions/tree/main/extensions/nuget-package-explorer) |
 | [garon](https://www.raycast.com/garon) | 1 | 3 | **Productivity:** [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse) |
-| [garrett](https://www.raycast.com/garrett) | 2 | 53,086 | **Design Tools:** [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so)<br>**Developer Tools:** [Invisible Text Detector](https://github.com/raycast/extensions/tree/main/extensions/invisible-text-detector) |
+| [garrett](https://www.raycast.com/garrett) | 2 | 53,104 | **Design Tools:** [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so)<br>**Developer Tools:** [Invisible Text Detector](https://github.com/raycast/extensions/tree/main/extensions/invisible-text-detector) |
 | [garyhtou](https://www.raycast.com/garyhtou) | 1 | 2 | **Productivity:** [Hack Club CDN](https://github.com/raycast/extensions/tree/main/extensions/hack-club-cdn) |
 | [gasolin](https://www.raycast.com/gasolin) | 1 | 97 | **Productivity:** [Search Chinese Punctuation Marks](https://github.com/raycast/extensions/tree/main/extensions/biaodian) |
 | [GastroGeek](https://www.raycast.com/GastroGeek) | 6 | 101,979 | **Productivity:** [Folder Search](https://github.com/raycast/extensions/tree/main/extensions/folder-search)<br>**Design Tools:** [Google Fonts](https://github.com/raycast/extensions/tree/main/extensions/google-fonts)<br>**Uncategorized:** [Recents](https://github.com/raycast/extensions/tree/main/extensions/recents)<br>**Applications:** [NameSpaces](https://github.com/raycast/extensions/tree/main/extensions/namespaces), [Xecutor](https://github.com/raycast/extensions/tree/main/extensions/xecutor)<br>**Documentation:** [Guitar Chords](https://github.com/raycast/extensions/tree/main/extensions/guitar-chords) |
@@ -52,7 +52,7 @@
 | [gohadar](https://www.raycast.com/gohadar) | 1 | 224 | **Productivity:** [Owl](https://github.com/raycast/extensions/tree/main/extensions/owl) |
 | [gongchr](https://www.raycast.com/gongchr) | 1 | 150 | **Developer Tools:** [Code Runway](https://github.com/raycast/extensions/tree/main/extensions/code-runway) |
 | [goran_breivik](https://www.raycast.com/goran_breivik) | 1 | 32 | **News:** [Cyber Security Pulse](https://github.com/raycast/extensions/tree/main/extensions/cyber-security-pulse) |
-| [Gorzog](https://www.raycast.com/Gorzog) | 1 | 3,864 | **Productivity:** [Spell](https://github.com/raycast/extensions/tree/main/extensions/spell) |
+| [Gorzog](https://www.raycast.com/Gorzog) | 1 | 3,867 | **Productivity:** [Spell](https://github.com/raycast/extensions/tree/main/extensions/spell) |
 | [graeme_chard](https://www.raycast.com/graeme_chard) | 1 | 7 | **News:** [Signal 500](https://github.com/raycast/extensions/tree/main/extensions/signal-500) |
 | [grafbase](https://www.raycast.com/grafbase) | 1 | 68 | **Developer Tools:** [Grafbase](https://github.com/raycast/extensions/tree/main/extensions/grafbase) |
 | [graham_hall](https://www.raycast.com/graham_hall) | 1 | 146 | **Fun:** [Board Game Geek](https://github.com/raycast/extensions/tree/main/extensions/board-game-geek) |

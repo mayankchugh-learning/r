@@ -87,7 +87,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 183,171 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
+| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 183,240 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [cPanel](https://github.com/raycast/extensions/tree/main/extensions/cpanel) | 287 | View Domains, DNS Zones, Email Accounts, Databases, Files and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cpanel) |
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 15 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
 
@@ -147,7 +147,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 53,039 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
-| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 42,891 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
+| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 42,911 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
 | [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) | 20,277 | Manage your Microsoft Teams presence and status message. Search for people and chats, open conversations, and start calls. | sven | macOS, Windows | [store](https://www.raycast.com/sven/microsoft-teams) |
 | [TypeWhisper](https://github.com/raycast/extensions/tree/main/extensions/typewhisper) | 3,547 | Voice dictation, transcription history, and profile management for TypeWhisper | SeoFood | macOS, Windows | [store](https://www.raycast.com/SeoFood/typewhisper) |
 | [Parcel](https://github.com/raycast/extensions/tree/main/extensions/parcel) | 3,381 | Allow Parcel users to see upcoming and active deliveries | marcmagn1 | macOS, Windows | [store](https://www.raycast.com/marcmagn1/parcel) |

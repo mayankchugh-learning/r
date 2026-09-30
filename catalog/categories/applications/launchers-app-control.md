@@ -5,7 +5,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 45,596 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
-| [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | 8,778 | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
+| [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | 8,780 | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
 | [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 8,705 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
 | [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 8,234 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
 | [Anybox](https://github.com/raycast/extensions/tree/main/extensions/anybox) | 5,612 | Control Anybox with Raycast | anybox | macOS | [store](https://www.raycast.com/anybox/anybox) |
@@ -23,7 +23,7 @@
 | [Prism Launcher](https://github.com/raycast/extensions/tree/main/extensions/prism-launcher) | 793 | Launch and manage your Minecraft Prism Launcher instances straight from Raycast. | lockieluke3389 | Windows, macOS | [store](https://www.raycast.com/lockieluke3389/prism-launcher) |
 | [Playnite Launcher](https://github.com/raycast/extensions/tree/main/extensions/playnite-launcher) | 611 | Launch your favorite games using Playnite. | bennettsh | Windows | [store](https://www.raycast.com/bennettsh/playnite-launcher) |
 | [Kiro](https://github.com/raycast/extensions/tree/main/extensions/kiro) | 565 | Control Kiro directly from Raycast - Search and open recent projects, handle extensions and commands. | jyothish-ram | macOS | [store](https://www.raycast.com/jyothish-ram/kiro) |
-| [Thock](https://github.com/raycast/extensions/tree/main/extensions/thock) | 560 | Control Thock with Raycast | shail_antani | macOS | [store](https://www.raycast.com/shail_antani/thock) |
+| [Thock](https://github.com/raycast/extensions/tree/main/extensions/thock) | 561 | Control Thock with Raycast | shail_antani | macOS | [store](https://www.raycast.com/shail_antani/thock) |
 | [Bike](https://github.com/raycast/extensions/tree/main/extensions/bike) | 529 | Control Bike with Raycast | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/bike) |
 | [HubSpot Portal Launcher](https://github.com/raycast/extensions/tree/main/extensions/hubspot-portal-launcher) | 512 | A simple Raycast extension that allows you to quickly launch and navigate to different objects in your HubSpot portals | chriso | macOS | [store](https://www.raycast.com/chriso/hubspot-portal-launcher) |
 | [LIFX](https://github.com/raycast/extensions/tree/main/extensions/lifx) | 478 | Control your LIFX lights directly from Raycast | felixb1010 | macOS | [store](https://www.raycast.com/felixb1010/lifx) |

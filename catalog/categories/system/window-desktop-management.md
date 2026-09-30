@@ -33,7 +33,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Toggle Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/toggle-menu-bar) | 11,772 | Switch between show/hide menu bar options | iamyeizi | macOS | [store](https://www.raycast.com/iamyeizi/toggle-menu-bar) |
+| [Toggle Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/toggle-menu-bar) | 11,774 | Switch between show/hide menu bar options | iamyeizi | macOS | [store](https://www.raycast.com/iamyeizi/toggle-menu-bar) |
 | [One Thing](https://github.com/raycast/extensions/tree/main/extensions/one-thing) | 10,338 | Put a thing in your Menu Bar. | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/one-thing) |
 | [Menubar Weather](https://github.com/raycast/extensions/tree/main/extensions/menubar-weather) | 8,428 | Show current weather on the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-weather) |
 | [Menubar Calendar](https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar) | 6,120 | Show calendar and reminders in the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-calendar) |

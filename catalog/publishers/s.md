@@ -41,7 +41,7 @@
 | [sc0](https://www.raycast.com/sc0) | 1 | 3,708 | **Productivity:** [Antinote](https://github.com/raycast/extensions/tree/main/extensions/antinote) |
 | [scisaif](https://www.raycast.com/scisaif) | 2 | 218 | **Developer Tools:** [UploaderX](https://github.com/raycast/extensions/tree/main/extensions/uploaderx)<br>**Uncategorized:** [DB Schema Explorer](https://github.com/raycast/extensions/tree/main/extensions/db-schema-explorer) |
 | [scottaglia](https://www.raycast.com/scottaglia) | 1 | 1,474 | **Applications:** [Cyberduck](https://github.com/raycast/extensions/tree/main/extensions/cyberduck) |
-| [screen-studio](https://www.raycast.com/screen-studio) | 1 | 5,147 | **Applications:** [Screen Studio](https://github.com/raycast/extensions/tree/main/extensions/screen-studio) |
+| [screen-studio](https://www.raycast.com/screen-studio) | 1 | 5,149 | **Applications:** [Screen Studio](https://github.com/raycast/extensions/tree/main/extensions/screen-studio) |
 | [sdquinn](https://www.raycast.com/sdquinn) | 1 | 240 | **Productivity:** [Rize.io Sessions](https://github.com/raycast/extensions/tree/main/extensions/rize-io-sessions) |
 | [SebastianJarsve](https://www.raycast.com/SebastianJarsve) | 1 | 293 | **Developer Tools:** [rhttp](https://github.com/raycast/extensions/tree/main/extensions/rhttp) |
 | [sebastinez_rhizoma](https://www.raycast.com/sebastinez_rhizoma) | 1 | 45 | **Developer Tools:** [Radicle](https://github.com/raycast/extensions/tree/main/extensions/radicle) |
@@ -65,7 +65,7 @@
 | [sfominx](https://www.raycast.com/sfominx) | 1 | 2 | **Security:** [Starline](https://github.com/raycast/extensions/tree/main/extensions/starline) |
 | [SGGb0nd](https://www.raycast.com/SGGb0nd) | 1 | 110 | **Web:** [AList Downloder](https://github.com/raycast/extensions/tree/main/extensions/alist-downloder) |
 | [shadeov](https://www.raycast.com/Shadeov) | 2 | 634 | **Developer Tools:** [Cursor Costs](https://github.com/raycast/extensions/tree/main/extensions/cursor-costs)<br>**News:** [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) |
-| [shail_antani](https://www.raycast.com/shail_antani) | 3 | 623 | **Applications:** [Thock](https://github.com/raycast/extensions/tree/main/extensions/thock), [NotiLight Controller](https://github.com/raycast/extensions/tree/main/extensions/notilight-controller)<br>**System:** [Wiz Controller](https://github.com/raycast/extensions/tree/main/extensions/wiz-controller) |
+| [shail_antani](https://www.raycast.com/shail_antani) | 3 | 624 | **Applications:** [Thock](https://github.com/raycast/extensions/tree/main/extensions/thock), [NotiLight Controller](https://github.com/raycast/extensions/tree/main/extensions/notilight-controller)<br>**System:** [Wiz Controller](https://github.com/raycast/extensions/tree/main/extensions/wiz-controller) |
 | [shak](https://www.raycast.com/shak) | 2 | 119 | **Productivity:** [Unpackr](https://github.com/raycast/extensions/tree/main/extensions/unpackr), [Timeatlas](https://github.com/raycast/extensions/tree/main/extensions/timeatlas) |
 | [shakedlokits](https://www.raycast.com/shakedlokits) | 1 | 3,376 | **Productivity:** [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) |
 | [shameemreza](https://www.raycast.com/shameemreza) | 1 | 18 | **Developer Tools:** [Woo Marketplace Search](https://github.com/raycast/extensions/tree/main/extensions/woo-marketplace-search) |
@@ -99,7 +99,7 @@
 | [sinsky](https://www.raycast.com/sinsky) | 1 | 824 | **Web:** [Create Link](https://github.com/raycast/extensions/tree/main/extensions/create-link) |
 | [sitogi](https://www.raycast.com/sitogi) | 1 | 29 | **Media:** [NHK Program Search](https://github.com/raycast/extensions/tree/main/extensions/nhk-program-search) |
 | [sjdonado](https://www.raycast.com/sjdonado) | 1 | 5,378 | **Media:** [I Don't Have Spotify](https://github.com/raycast/extensions/tree/main/extensions/idonthavespotify) |
-| [skaj](https://www.raycast.com/skaj) | 1 | 1,593 | **Finance:** [TradingView Controls](https://github.com/raycast/extensions/tree/main/extensions/tradingview-controls) |
+| [skaj](https://www.raycast.com/skaj) | 1 | 1,594 | **Finance:** [TradingView Controls](https://github.com/raycast/extensions/tree/main/extensions/tradingview-controls) |
 | [skeletorjs](https://www.raycast.com/skeletorjs) | 1 | 70 | **Developer Tools:** [Zo](https://github.com/raycast/extensions/tree/main/extensions/zo-raycast) |
 | [skroll](https://www.raycast.com/skroll) | 3 | 152 | **Web:** [Foodle Recipes](https://github.com/raycast/extensions/tree/main/extensions/foodle-recipes), [CommerceQuest](https://github.com/raycast/extensions/tree/main/extensions/commercequest)<br>**Productivity:** [Desk.ly](https://github.com/raycast/extensions/tree/main/extensions/raycast-deskly) |
 | [skydiver](https://www.raycast.com/skydiver) | 1 | 4,311 | **Productivity:** [Open Browsers Profiles](https://github.com/raycast/extensions/tree/main/extensions/browsers-profiles) |

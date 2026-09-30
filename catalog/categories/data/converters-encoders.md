@@ -15,7 +15,7 @@
 | [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 4,470 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
 | [json-to-go](https://github.com/raycast/extensions/tree/main/extensions/json-to-go) | 919 | Translate JSON from clipboard into a Go type definition | chyroc | macOS | [store](https://www.raycast.com/chyroc/json-to-go) |
 | [Jq](https://github.com/raycast/extensions/tree/main/extensions/raycast-jq) | 640 | Run queries on Json data using jq | vladimir-kotikov | macOS | [store](https://www.raycast.com/vladimir-kotikov/raycast-jq) |
-| [Verify Number](https://github.com/raycast/extensions/tree/main/extensions/verify-number) | 614 | Global Phone Number Validation & Lookup JSON API from APILayer | xmok | macOS | [store](https://www.raycast.com/xmok/verify-number) |
+| [Verify Number](https://github.com/raycast/extensions/tree/main/extensions/verify-number) | 615 | Global Phone Number Validation & Lookup JSON API from APILayer | xmok | macOS | [store](https://www.raycast.com/xmok/verify-number) |
 | [James Webb Space Telescope](https://github.com/raycast/extensions/tree/main/extensions/james-webb-space-telescope) | 248 | List data from James Webb Space Telescope's observations, including images, csv, jsons and fits files. | Infonautica | macOS | [store](https://www.raycast.com/Infonautica/james-webb-space-telescope) |
 
 ## Format ✦

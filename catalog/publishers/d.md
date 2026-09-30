@@ -100,7 +100,7 @@
 | [dharmin_nagar](https://www.raycast.com/dharmin_nagar) | 1 | 119 | **Productivity:** [Cloudflare Workers AI](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-ai) |
 | [diana_scharf](https://www.raycast.com/diana_scharf) | 1 | 817 | **Developer Tools:** [Can I PHP?](https://github.com/raycast/extensions/tree/main/extensions/can-i-php) |
 | [diazdesandi](https://www.raycast.com/diazdesandi) | 1 | 1,212 | **Applications:** [Thaw](https://github.com/raycast/extensions/tree/main/extensions/thaw) |
-| [dieserRobin](https://www.raycast.com/dieserRobin) | 1 | 2,812 | **Media:** [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) |
+| [dieserRobin](https://www.raycast.com/dieserRobin) | 1 | 2,813 | **Media:** [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) |
 | [dillionverma](https://www.raycast.com/dillionverma) | 1 | 183 | **Finance:** [Mempool](https://github.com/raycast/extensions/tree/main/extensions/mempool) |
 | [dillon-mccardell](https://www.raycast.com/dillon-mccardell) | 1 | 103 | **Productivity:** [Raylog - Markdown Tasks](https://github.com/raycast/extensions/tree/main/extensions/raylog-markdown-tasks) |
 | [dilutedev](https://www.raycast.com/dilutedev) | 1 | 1,166 | **Developer Tools:** [Brandfetch](https://github.com/raycast/extensions/tree/main/extensions/brand-fetch) |

@@ -30,7 +30,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 110,116 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
 | [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,801 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
-| [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,812 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
+| [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,813 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
 | [MeTube](https://github.com/raycast/extensions/tree/main/extensions/metube) | 2,801 | Download videos from YouTube and other services through yt-dlp using MeTube. | dot | macOS, Windows | [store](https://www.raycast.com/dot/metube) |
 | [Bilibili](https://github.com/raycast/extensions/tree/main/extensions/Bilibili) | 1,473 | Get notify from bilibili | Fatpandac | macOS, Windows | [store](https://www.raycast.com/Fatpandac/bilibili) |
 | [SteamGridDB](https://github.com/raycast/extensions/tree/main/extensions/steamgriddb) | 564 | Download and share custom video game assets and personalize your gaming library. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/steamgriddb) |
@@ -97,7 +97,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 7,578 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
 | [QRCP](https://github.com/raycast/extensions/tree/main/extensions/qrcp) | 480 | Transfer files over Wi-Fi from/to your computer to/from your mobile device by scanning a QR code without leaving Raycast. | yohann84l | macOS, Windows | [store](https://www.raycast.com/yohann84l/qrcp) |
-| [Radarr](https://github.com/raycast/extensions/tree/main/extensions/radarr) | 439 | Manage your Radarr movie collection with powerful search, monitoring, and download management capabilities | xjo_nd | macOS, Windows | [store](https://www.raycast.com/xjo_nd/radarr) |
+| [Radarr](https://github.com/raycast/extensions/tree/main/extensions/radarr) | 441 | Manage your Radarr movie collection with powerful search, monitoring, and download management capabilities | xjo_nd | macOS, Windows | [store](https://www.raycast.com/xjo_nd/radarr) |
 | [0x0](https://github.com/raycast/extensions/tree/main/extensions/0x0) | 243 | Upload files to https://0x0.st. | pseudobun | macOS, Windows | [store](https://www.raycast.com/pseudobun/0x0) |
 
 ### General

@@ -20,7 +20,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) | 13,680 | Use the powerful models via Perplexity API from the comfort of Raycast. | ilian | macOS, Windows | [store](https://www.raycast.com/ilian/perplexity-api) |
-| [Spell](https://github.com/raycast/extensions/tree/main/extensions/spell) | 3,864 | Struggling to spell a word? With this extension, even with typos, you can type the word and receive a list of matching suggestions using the OneLook API. | Gorzog | macOS, Windows | [store](https://www.raycast.com/Gorzog/spell) |
+| [Spell](https://github.com/raycast/extensions/tree/main/extensions/spell) | 3,867 | Struggling to spell a word? With this extension, even with typos, you can type the word and receive a list of matching suggestions using the OneLook API. | Gorzog | macOS, Windows | [store](https://www.raycast.com/Gorzog/spell) |
 
 ### Productivity & Tasks
 
@@ -70,7 +70,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Radarr](https://github.com/raycast/extensions/tree/main/extensions/radarr) | 439 | Manage your Radarr movie collection with powerful search, monitoring, and download management capabilities | xjo_nd | macOS, Windows | [store](https://www.raycast.com/xjo_nd/radarr) |
+| [Radarr](https://github.com/raycast/extensions/tree/main/extensions/radarr) | 441 | Manage your Radarr movie collection with powerful search, monitoring, and download management capabilities | xjo_nd | macOS, Windows | [store](https://www.raycast.com/xjo_nd/radarr) |
 
 ### Communication & Social
 

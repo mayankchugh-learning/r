@@ -11,7 +11,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities) | 7,019 | Interact with Capacities from your command bar. Search your notes, capture content & more. | steffenble | macOS, Windows | [store](https://www.raycast.com/steffenble/capacities) |
-| [Tana](https://github.com/raycast/extensions/tree/main/extensions/tana) | 3,687 | Write notes in Raycast, and capture them in Tana. | cheslip | macOS | [store](https://www.raycast.com/cheslip/tana) |
+| [Tana](https://github.com/raycast/extensions/tree/main/extensions/tana) | 3,688 | Write notes in Raycast, and capture them in Tana. | cheslip | macOS | [store](https://www.raycast.com/cheslip/tana) |
 | [Notes in Google Docs](https://github.com/raycast/extensions/tree/main/extensions/note-in-google-doc) | 1,416 | Effortlessly capture your ideas and store them instantly in Google Docs | tatermohit | macOS | [store](https://www.raycast.com/tatermohit/note-in-google-doc) |
 | [Twos](https://github.com/raycast/extensions/tree/main/extensions/twos) | 650 | Capture and organize your lists, to-dos, notes, and reminders in Twos. | parker_klein | macOS, Windows | [store](https://www.raycast.com/parker_klein/twos) |
 | [Minttr](https://github.com/raycast/extensions/tree/main/extensions/minttr) | 77 | Quick capture for Minttr - save notes and links instantly | zayn_harris_dev | macOS | [store](https://www.raycast.com/zayn_harris_dev/minttr) |
@@ -52,7 +52,7 @@
 | [iA Writer](https://github.com/raycast/extensions/tree/main/extensions/raycast-ia-writer) | 907 | Create or search notes with Raycast | xvvhang | macOS | [store](https://www.raycast.com/xvvhang/raycast-ia-writer) |
 | [Search Joplin Notes](https://github.com/raycast/extensions/tree/main/extensions/search-joplin-notes) | 834 | Search and view in your joplin notes | wisdom-plus | macOS | [store](https://www.raycast.com/wisdom-plus/search-joplin-notes) |
 | [Memo](https://github.com/raycast/extensions/tree/main/extensions/memo) | 813 | All your bookmarks and notes in 1 Notion | mt40 | macOS | [store](https://www.raycast.com/mt40/memo) |
-| [UpNote](https://github.com/raycast/extensions/tree/main/extensions/upnote) | 629 | Take notes through Raycast in UpNote. | ujjwal1998 | macOS | [store](https://www.raycast.com/ujjwal1998/upnote) |
+| [UpNote](https://github.com/raycast/extensions/tree/main/extensions/upnote) | 630 | Take notes through Raycast in UpNote. | ujjwal1998 | macOS | [store](https://www.raycast.com/ujjwal1998/upnote) |
 | [Ingredients Lister](https://github.com/raycast/extensions/tree/main/extensions/ingredients-lister) | 534 | After getting the contents of an entire website using selected text, you will receive a list of every single ingredient necessary in your recipe from online fo… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/ingredients-lister) |
 | [cryptgeon](https://github.com/raycast/extensions/tree/main/extensions/cryptgeon) | 262 | Create and share encrypted notes | cupcakearmy | macOS | [store](https://www.raycast.com/cupcakearmy/cryptgeon) |
 | [Typora Note Creator](https://github.com/raycast/extensions/tree/main/extensions/typora-note-creator) | 183 | This extension allows you to create folders and notes for Typora from templates. | mynameisny | macOS | [store](https://www.raycast.com/mynameisny/typora-note-creator) |

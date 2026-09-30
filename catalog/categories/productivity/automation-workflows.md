@@ -31,7 +31,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Typer - Custom Text Hotkey](https://github.com/raycast/extensions/tree/main/extensions/typer) | 2,297 | An extension for the lazy typer. Add any text you type on a regular basis into commands. Give each command an alias and a hotkey, and save time on typing. | yaronschwimmer | macOS, Windows | [store](https://www.raycast.com/yaronschwimmer/typer) |
+| [Typer - Custom Text Hotkey](https://github.com/raycast/extensions/tree/main/extensions/typer) | 2,299 | An extension for the lazy typer. Add any text you type on a regular basis into commands. Give each command an alias and a hotkey, and save time on typing. | yaronschwimmer | macOS, Windows | [store](https://www.raycast.com/yaronschwimmer/typer) |
 | [Morning Coffee](https://github.com/raycast/extensions/tree/main/extensions/morning-coffee) | 995 | Morning Coffee is your Raycast extension with which you can easily organize routine web readings. Organize the websites you want to open simultaneously in your… | oliverjanssen | macOS | [store](https://www.raycast.com/oliverjanssen/morning-coffee) |
 | [Quick Quit](https://github.com/raycast/extensions/tree/main/extensions/quick-quit) | 527 | A Raycast extension to instantly quit custom groups of applications. Create custom categories and quit them with a quicklink or a dedicated hotkey. | sriramHQ | macOS | [store](https://www.raycast.com/sriramHQ/quick-quit) |
 | [Figma Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/figma-link-cleaner) | 56 | Clean and shorten Figma URLs instantly. Removes tracking parameters, file slugs, and creates ultra-short fgma.cc links with one hotkey. | iamshubhransh | macOS | [store](https://www.raycast.com/iamshubhransh/figma-link-cleaner) |
@@ -41,7 +41,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 10,230 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
-| [Script Commands Store – Find and manage your Raycast Script…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) | 9,382 | Your new way to manage Script Commands without having to deal with GitHub. | tholanda | macOS | [store](https://www.raycast.com/tholanda/script-commands) |
+| [Script Commands Store – Find and manage your Raycast Script…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) | 9,384 | Your new way to manage Script Commands without having to deal with GitHub. | tholanda | macOS | [store](https://www.raycast.com/tholanda/script-commands) |
 | [Close All Open Apps](https://github.com/raycast/extensions/tree/main/extensions/close-apps) | 1,845 | Script that closes all open apps | guide | macOS | [store](https://www.raycast.com/guide/close-apps) |
 | [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands) | 31 | Quicklinks as real files. Turn any link, folder or search into a Script Command you can version, grep and sync — then browse them grouped by environment, brand… | kud | macOS | [store](https://www.raycast.com/kud/link-commands) |
 

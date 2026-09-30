@@ -5,7 +5,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 110,255 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 42,891 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
+| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 42,911 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
 | [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 20,496 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
 | [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) | 11,787 | Fastest Notion to-do app ever | reboot (org) | macOS | [store](https://www.raycast.com/reboot/hypersonic) |
 | [SF Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/sf-symbols-search) | 11,359 | Search and copy SF Symbols | jffrykkn | macOS | [store](https://www.raycast.com/jffrykkn/sf-symbols-search) |
@@ -15,7 +15,7 @@
 | [Apple Devices](https://github.com/raycast/extensions/tree/main/extensions/apple-devices) | 3,097 | Quickly look up Apple Devices and control Simulators | madza | macOS | [store](https://www.raycast.com/madza/apple-devices) |
 | [Pexels](https://github.com/raycast/extensions/tree/main/extensions/pexels) | 2,998 | Search photos, videos or collections on Pexels. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pexels) |
 | [Typographer: Make Text Pretty](https://github.com/raycast/extensions/tree/main/extensions/typographer) | 2,090 | Make the typography of your text pretty: fix quotes, dashes, and spaces. Works offline. | mikeozornin | macOS | [store](https://www.raycast.com/mikeozornin/typographer) |
-| [PX to Rem Converter](https://github.com/raycast/extensions/tree/main/extensions/px-to-rem-converter) | 1,574 | Conversions between PX and REM | raulanatol | macOS | [store](https://www.raycast.com/raulanatol/px-to-rem-converter) |
+| [PX to Rem Converter](https://github.com/raycast/extensions/tree/main/extensions/px-to-rem-converter) | 1,575 | Conversions between PX and REM | raulanatol | macOS | [store](https://www.raycast.com/raulanatol/px-to-rem-converter) |
 | [Webflow](https://github.com/raycast/extensions/tree/main/extensions/webflow-sites) | 1,187 | Supercharged productivity for Webflow. Bring Webflow to every corner of your OS. Open any project from anywhere. Site settings and more. | peeks | macOS | [store](https://www.raycast.com/peeks/webflow-sites) |
 | [iOS Human Interface Guidelines](https://github.com/raycast/extensions/tree/main/extensions/ios-hig) | 1,177 | Shows you the iOS HIG's info for quick reference | eliperkins | macOS | [store](https://www.raycast.com/eliperkins/raycast-ios-hig) |
 | [Avatar](https://github.com/raycast/extensions/tree/main/extensions/avatar) | 967 | An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/avatar) |

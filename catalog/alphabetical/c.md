@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 607,680 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 607,852 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 258,259 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 149,005 | Prevent the sleep function on your computer | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/coffee) |
 | [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 119,299 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
@@ -124,7 +124,7 @@
 | [Cron](https://github.com/raycast/extensions/tree/main/extensions/cron) | 663 | A companion for Cron (cron.re) | astrit | macOS, Windows | [store](https://www.raycast.com/astrit/cron) |
 | [CodeBlocks](https://github.com/raycast/extensions/tree/main/extensions/CodeBlocks) | 647 | Set or modify the programming language in markdown code blocks in batch. | isfeng | macOS | [store](https://www.raycast.com/isfeng/codeblocks) |
 | [Cursors](https://github.com/raycast/extensions/tree/main/extensions/cursors) | 628 | All macOS cursors at your fingertips | storm | macOS | [store](https://www.raycast.com/storm/cursors) |
-| [CJK Text Format Improver](https://github.com/raycast/extensions/tree/main/extensions/text-format-improver) | 608 | Enhance your text quality by improving formatting, correcting spaces, words, and punctuation involving mixed writing of Chinese, Japanese, and Korean (CJK) wit… | alice.ellis | macOS | [store](https://www.raycast.com/alice.ellis/text-format-improver) |
+| [CJK Text Format Improver](https://github.com/raycast/extensions/tree/main/extensions/text-format-improver) | 609 | Enhance your text quality by improving formatting, correcting spaces, words, and punctuation involving mixed writing of Chinese, Japanese, and Korean (CJK) wit… | alice.ellis | macOS | [store](https://www.raycast.com/alice.ellis/text-format-improver) |
 | [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator) | 601 | Must have extension for any developer! | rokartur | macOS | [store](https://www.raycast.com/rokartur/commit-message-generator) |
 | [Coolify](https://github.com/raycast/extensions/tree/main/extensions/coolify) | 595 | View Servers, Resources, Teams and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/coolify) |
 | [Crunchbase](https://github.com/raycast/extensions/tree/main/extensions/crunchbase) | 558 | Search on Crunchbase companies | qdequele | macOS | [store](https://www.raycast.com/qdequele/crunchbase) |

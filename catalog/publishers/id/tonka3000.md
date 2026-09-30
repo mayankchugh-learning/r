@@ -1,12 +1,12 @@
 # tonka3000
 
-14 extensions · 455,555 downloads · [store](https://www.raycast.com/tonka3000) · [← publishers](../README.md)
+14 extensions · 455,624 downloads · [store](https://www.raycast.com/tonka3000) · [← publishers](../README.md)
 
 ## Applications (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 183,171 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
+| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 183,240 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 
 ## Media (1)
 

@@ -1,6 +1,6 @@
 # xmok
 
-114 extensions · 13,021 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
+114 extensions · 13,022 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
 
 ## Data (22)
 
@@ -100,7 +100,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Verify Number](https://github.com/raycast/extensions/tree/main/extensions/verify-number) | 614 | Global Phone Number Validation & Lookup JSON API from APILayer | xmok | macOS | [store](https://www.raycast.com/xmok/verify-number) |
+| [Verify Number](https://github.com/raycast/extensions/tree/main/extensions/verify-number) | 615 | Global Phone Number Validation & Lookup JSON API from APILayer | xmok | macOS | [store](https://www.raycast.com/xmok/verify-number) |
 | [Neon](https://github.com/raycast/extensions/tree/main/extensions/neon) | 183 | Manage Neon Projects and API Keys | xmok | macOS | [store](https://www.raycast.com/xmok/neon) |
 
 ### Monitoring & Logs

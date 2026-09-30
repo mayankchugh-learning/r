@@ -11,7 +11,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [1Password](https://github.com/raycast/extensions/tree/main/extensions/1password) | 248,540 | Search, open or edit your 1Password passwords from Raycast | khasbilegt | macOS, Windows | [store](https://www.raycast.com/khasbilegt/1password) |
-| [Random Password Generator](https://github.com/raycast/extensions/tree/main/extensions/random-password-generator) | 4,994 | Generate random password of different length | textnav | macOS, Windows | [store](https://www.raycast.com/textnav/random-password-generator) |
+| [Random Password Generator](https://github.com/raycast/extensions/tree/main/extensions/random-password-generator) | 4,999 | Generate random password of different length | textnav | macOS, Windows | [store](https://www.raycast.com/textnav/random-password-generator) |
 | [One Time Password](https://github.com/raycast/extensions/tree/main/extensions/one-time-password) | 2,398 | Generate time-based one-time passwords | lachero | macOS, Windows | [store](https://www.raycast.com/lachero/one-time-password) |
 | [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass) | 1,872 | Search and manage your Proton Pass items, generate passwords, and get TOTP codes. | izyuumi | macOS, Windows | [store](https://www.raycast.com/izyuumi/proton-pass) |
 | [Apple-Like Password](https://github.com/raycast/extensions/tree/main/extensions/keychain-password-gen) | 1,692 | Copies a generated Apple Keychain-Like password directly to the clipboard in one step | breadone | macOS | [store](https://www.raycast.com/breadone/keychain-password-gen) |

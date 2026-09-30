@@ -71,15 +71,15 @@
 | [etienne_gobeli](https://www.raycast.com/etienne_gobeli) | 1 | 28 | **Other:** [Swiss Train Times](https://github.com/raycast/extensions/tree/main/extensions/swiss-train-times) |
 | eugenio | 1 | — | **System:** [Raccoon](https://github.com/raycast/extensions/tree/main/extensions/raccoon) |
 | [eunchurn](https://www.raycast.com/eunchurn) | 1 | 214 | **Developer Tools:** [Helm Chart](https://github.com/raycast/extensions/tree/main/extensions/helm-chart) |
-| [EvanZhouDev](./id/evanzhoudev.md) | 19 | 185,309 | [see all 19 →](./id/evanzhoudev.md) |
+| [EvanZhouDev](./id/evanzhoudev.md) | 19 | 185,317 | [see all 19 →](./id/evanzhoudev.md) |
 | [everyapi_dev](https://www.raycast.com/everyapi_dev) | 1 | 71 | **Productivity:** [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) |
 | [evilhex](https://www.raycast.com/evilhex) | 1 | 151 | **Security:** [SuperGenPass](https://github.com/raycast/extensions/tree/main/extensions/superpassgen) |
 | [evilmouth](https://www.raycast.com/evilmouth) | 1 | 3 | **Productivity:** [CodexRunway Reset Tracker](https://github.com/raycast/extensions/tree/main/extensions/codexrunway-reset-tracker) |
 | [eviscares](https://www.raycast.com/eviscares) | 1 | 192 | **Productivity:** [MOCO](https://github.com/raycast/extensions/tree/main/extensions/moco) |
 | [evnm](https://www.raycast.com/evnm) | 1 | 9 | **Media:** [The Lot Radio](https://github.com/raycast/extensions/tree/main/extensions/the-lot-radio) |
-| [ewgenius](https://www.raycast.com/ewgenius) | 3 | 17,005 | **Developer Tools:** [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects), [Host Switch](https://github.com/raycast/extensions/tree/main/extensions/host-switch)<br>**Applications:** [Contentful](https://github.com/raycast/extensions/tree/main/extensions/contentful) |
+| [ewgenius](https://www.raycast.com/ewgenius) | 3 | 17,016 | **Developer Tools:** [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects), [Host Switch](https://github.com/raycast/extensions/tree/main/extensions/host-switch)<br>**Applications:** [Contentful](https://github.com/raycast/extensions/tree/main/extensions/contentful) |
 | [ewilderj](https://www.raycast.com/ewilderj) | 1 | 978 | **Developer Tools:** [Markdown Converter](https://github.com/raycast/extensions/tree/main/extensions/markdown-converter) |
 | [ewlcheng](https://www.raycast.com/ewlcheng) | 1 | 24,278 | **Fun:** [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) |
 | [exa_ai](https://www.raycast.com/exa_ai) | 1 | 5,065 | **Developer Tools:** [Exa](https://github.com/raycast/extensions/tree/main/extensions/exa) |
 | [ezreal09](https://www.raycast.com/ezreal09) | 1 | 97 | **Uncategorized:** [Qoder](https://github.com/raycast/extensions/tree/main/extensions/qoder) |
-| [ezzylan](https://www.raycast.com/ezzylan) | 1 | 426 | **Fun:** [Random Text Picker](https://github.com/raycast/extensions/tree/main/extensions/random-text-picker) |
+| [ezzylan](https://www.raycast.com/ezzylan) | 1 | 428 | **Fun:** [Random Text Picker](https://github.com/raycast/extensions/tree/main/extensions/random-text-picker) |

@@ -10,11 +10,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 331,407 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
+| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 331,607 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
 | [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 53,039 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
 | [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 51,737 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
 | [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) | 20,277 | Manage your Microsoft Teams presence and status message. Search for people and chats, open conversations, and start calls. | sven | macOS, Windows | [store](https://www.raycast.com/sven/microsoft-teams) |
-| [WeChat](https://github.com/raycast/extensions/tree/main/extensions/wechat) | 7,199 | A Raycast extension for WeChat to quickly search your contacts and chat | raffeyang | macOS | [store](https://www.raycast.com/raffeyang/wechat) |
+| [WeChat](https://github.com/raycast/extensions/tree/main/extensions/wechat) | 7,200 | A Raycast extension for WeChat to quickly search your contacts and chat | raffeyang | macOS | [store](https://www.raycast.com/raffeyang/wechat) |
 | [Signal](https://github.com/raycast/extensions/tree/main/extensions/signal) | 3,084 | Open Signal chats | leeraymond78 | macOS | [store](https://www.raycast.com/leeraymond78/signal) |
 | [Telegram](https://github.com/raycast/extensions/tree/main/extensions/telegram) | 2,952 | Browse chats, view messages, and send messages to your Telegram contacts and groups | ikupenov | macOS, Windows | [store](https://www.raycast.com/ikupenov/telegram) |
 | [Beeper Desktop](https://github.com/raycast/extensions/tree/main/extensions/beeper) | 1,138 | Access your chats from Beeper Desktop (requires Beeper Desktop API to be enabled) | automattic (org) | macOS, Windows | [store](https://www.raycast.com/automattic/beeper) |
@@ -48,8 +48,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) | 3,139 | Use your messaging applications from Raycast with ease, open a conversation fast. | zavbala | macOS | [store](https://www.raycast.com/zavbala/texts) |
-| [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 3,107 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
+| [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) | 3,140 | Use your messaging applications from Raycast with ease, open a conversation fast. | zavbala | macOS | [store](https://www.raycast.com/zavbala/texts) |
+| [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 3,111 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
 | [Discord Timestamps](https://github.com/raycast/extensions/tree/main/extensions/discord-timestamps) | 1,756 | Generate a Discord timestamp | theshadowdev | macOS, Windows | [store](https://www.raycast.com/theshadowdev/discord-timestamps) |
 | [Language Tool - Spell & Grammar Checker](https://github.com/raycast/extensions/tree/main/extensions/language-tool) | 1,177 | Raycast extension that provides instant spelling and grammar correction using LanguageTool. Type any text, get real-time suggestions, and copy the improved ver… | lucastaonline | macOS, Windows | [store](https://www.raycast.com/lucastaonline/raycast-language-tool) |
 | [Speech to Text](https://github.com/raycast/extensions/tree/main/extensions/speech-to-text) | 1,177 | A simple extension that allows Speech to Text using your own Groq API. | facundo_prieto | macOS | [store](https://www.raycast.com/facundo_prieto/speech-to-text) |

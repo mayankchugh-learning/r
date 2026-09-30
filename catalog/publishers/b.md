@@ -19,7 +19,7 @@
 | [Barrybarrywu](https://www.raycast.com/Barrybarrywu) | 1 | 8 | **Media:** [Tutti](https://github.com/raycast/extensions/tree/main/extensions/tutti) |
 | [beedhan](https://www.raycast.com/beedhan) | 1 | 30 | **Other:** [Nepali Date Converter](https://github.com/raycast/extensions/tree/main/extensions/nepali-date-converter) |
 | [beehive](https://www.raycast.com/beehive) | 1 | 207 | **Applications:** [BusyCal](https://github.com/raycast/extensions/tree/main/extensions/busycal) |
-| [believer](https://www.raycast.com/believer) | 1 | 752 | **Productivity:** [Readwise to Tana](https://github.com/raycast/extensions/tree/main/extensions/readwise-to-tana) |
+| [believer](https://www.raycast.com/believer) | 1 | 753 | **Productivity:** [Readwise to Tana](https://github.com/raycast/extensions/tree/main/extensions/readwise-to-tana) |
 | [ben_aguirre](https://www.raycast.com/ben_aguirre) | 1 | 1,129 | **Uncategorized:** [Google Calendar Events Quick Add](https://github.com/raycast/extensions/tree/main/extensions/google-calendar-quickadd) |
 | [ben_rowlands](https://www.raycast.com/ben_rowlands) | 1 | 55 | **Developer Tools:** [Roblox Creator Docs](https://github.com/raycast/extensions/tree/main/extensions/roblox-creator-docs) |
 | [ben-greenwood](https://www.raycast.com/ben-greenwood) | 1 | 2,223 | **Developer Tools:** [Code Stash](https://github.com/raycast/extensions/tree/main/extensions/code-stash) |

@@ -127,7 +127,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,409 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
+| [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,410 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [Mercury](https://github.com/raycast/extensions/tree/main/extensions/mercury) | 286 | Quickly see your Mercury accounts and transactions directly in Raycast | atkinsmatt101 | macOS | [store](https://www.raycast.com/atkinsmatt101/mercury) |
 | [Polar](https://github.com/raycast/extensions/tree/main/extensions/polar) | 187 | Manage all your Polar products, sales & analytics | emilwidlund | macOS | [store](https://www.raycast.com/emilwidlund/polar) |
 | [Invoice Generator](https://github.com/raycast/extensions/tree/main/extensions/invoice-generator) | 164 | Create invoices using the Invoice Generator API. | alexs | macOS | [store](https://www.raycast.com/alexs/invoice-generator) |
@@ -180,7 +180,7 @@
 | [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 258,259 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 6,500 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [LaTeX to Image](https://github.com/raycast/extensions/tree/main/extensions/quick-latex) | 1,651 | Converts LaTeX text to image. Copy the image to the Clipboard. | Noamko | macOS | [store](https://www.raycast.com/Noamko/quick-latex) |
-| [TradingView Controls](https://github.com/raycast/extensions/tree/main/extensions/tradingview-controls) | 1,593 | Controls TradingView from within Raycast | skaj | macOS | [store](https://www.raycast.com/skaj/tradingview-controls) |
+| [TradingView Controls](https://github.com/raycast/extensions/tree/main/extensions/tradingview-controls) | 1,594 | Controls TradingView from within Raycast | skaj | macOS | [store](https://www.raycast.com/skaj/tradingview-controls) |
 | [TL;DR (Too Long; Didn't Read)](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) | 1,570 | Let AI help you read articles from url. | chessjoe | macOS | [store](https://www.raycast.com/chessjoe/tl-dr-ai-summary-tool) |
 | [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab) | 1,506 | View and manage your YNAB Budgets directly from Raycast | CodetaroMiura | macOS | [store](https://www.raycast.com/CodetaroMiura/raynab) |
 | [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,291 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |

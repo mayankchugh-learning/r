@@ -29,7 +29,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Quick Search](https://github.com/raycast/extensions/tree/main/extensions/quick-search) | 5,965 | Quickly search selected text or clipboard text via Google or Github or DeepL etc. | iwfan | macOS | [store](https://www.raycast.com/iwfan/quick-search) |
+| [Quick Search](https://github.com/raycast/extensions/tree/main/extensions/quick-search) | 5,966 | Quickly search selected text or clipboard text via Google or Github or DeepL etc. | iwfan | macOS | [store](https://www.raycast.com/iwfan/quick-search) |
 | [GitHub Enterprise](https://github.com/raycast/extensions/tree/main/extensions/github-for-enterprise) | 4,427 | Visualize and manage your issues and pull requests | Kinbaum | macOS | [store](https://www.raycast.com/Kinbaum/github-for-enterprise) |
 | [GitHub Stars](https://github.com/raycast/extensions/tree/main/extensions/github-stars) | 4,155 | Display and filter your recent GitHub stars | mrmartineau | macOS | [store](https://www.raycast.com/mrmartineau/search-github-stars) |
 | [Clash](https://github.com/raycast/extensions/tree/main/extensions/clash) | 2,990 | Monitor your Clash with Raycast. Including Proxies, Connections, Rules and Logs data, and support backends switch. | Go2SheeP | macOS | [store](https://www.raycast.com/Go2SheeP/clash) |
@@ -49,7 +49,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 564,924 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
+| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 565,052 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
 | [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) | 8,110 | Search and copy to the clipboard different kaomoji (ascii/unicode emotes). | yalishanda | macOS, Windows | [store](https://www.raycast.com/yalishanda/kaomoji-search) |
 | [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify) | 4,656 | Control Clockify time tracking from Raycast | isma | macOS | [store](https://www.raycast.com/isma/clockify) |
 | [Clear Clipboard](https://github.com/raycast/extensions/tree/main/extensions/clear-clipboard) | 3,595 | Clears your clipboard so you don't accidentally paste things into work chat. | d3caf | macOS | [store](https://www.raycast.com/d3caf/clear-clipboard) |
@@ -90,7 +90,7 @@
 | [Flighty](https://github.com/raycast/extensions/tree/main/extensions/flighty) | 2,149 | Interact with the Flighty app. | hrishabhn | macOS | [store](https://www.raycast.com/hrishabhn/flighty) |
 | [Sidecar](https://github.com/raycast/extensions/tree/main/extensions/sidecar) | 1,390 | Quickly connect/disconnect iPad as a second display. | philip_chen | macOS | [store](https://www.raycast.com/philip_chen/sidecar) |
 | [Unix Timestamp Converter](https://github.com/raycast/extensions/tree/main/extensions/unix-timestamp-converter) | 1,100 | Convert Unix timestamps to readable date and time formats for any country or timezone, or generate Unix timestamps from human-readable dates. Supports multiple… | ride-space | macOS | [store](https://www.raycast.com/ride-space/unix-timestamp-converter) |
-| [VLC](https://github.com/raycast/extensions/tree/main/extensions/vlc) | 561 | Seamlessly control VLC Media Player from Raycast. Play, pause, skip tracks, adjust volume, seek, toggle fullscreen, and more—all from your keyboard. Requires V… | kud | macOS | [store](https://www.raycast.com/kud/vlc) |
+| [VLC](https://github.com/raycast/extensions/tree/main/extensions/vlc) | 562 | Seamlessly control VLC Media Player from Raycast. Play, pause, skip tracks, adjust volume, seek, toggle fullscreen, and more—all from your keyboard. Requires V… | kud | macOS | [store](https://www.raycast.com/kud/vlc) |
 | [DockLock Plus](https://github.com/raycast/extensions/tree/main/extensions/docklock-plus) | 211 | Control macOS Dock position and automation | IGHOR | macOS | [store](https://www.raycast.com/IGHOR/docklock-plus) |
 | [Remove Window from Set](https://github.com/raycast/extensions/tree/main/extensions/remove-window-from-set) | 200 | Try to click menu item "Remove Window from Set" from menu bar item "Window" with AppleScript. This menu item might be available when Stage Manager is enabled a… | silv | macOS | [store](https://www.raycast.com/silv/remove-window-from-set) |
 | [Glide](https://github.com/raycast/extensions/tree/main/extensions/glide) | 43 | Extension to open Glide Apps | titouanv | macOS | [store](https://www.raycast.com/titouanv/glide) |

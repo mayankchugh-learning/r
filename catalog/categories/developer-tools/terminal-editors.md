@@ -11,9 +11,9 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) | 24,799 | Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2, Warp, WezTerm, cmux) and vice versa | yedongze | macOS | [store](https://www.raycast.com/yedongze/terminalfinder) |
-| [Terminal](https://github.com/raycast/extensions/tree/main/extensions/terminal) | 14,860 | Control Terminal with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/terminal) |
+| [Terminal](https://github.com/raycast/extensions/tree/main/extensions/terminal) | 14,861 | Control Terminal with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/terminal) |
 | [Open Path](https://github.com/raycast/extensions/tree/main/extensions/open-path) | 4,211 | Open path and link from selection or clipboard in Finder, browsers, terminal, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/open-path) |
-| [Sesh](https://github.com/raycast/extensions/tree/main/extensions/sesh) | 3,034 | Smart, instant terminal session management. | joshmedeski | macOS | [store](https://www.raycast.com/joshmedeski/sesh) |
+| [Sesh](https://github.com/raycast/extensions/tree/main/extensions/sesh) | 3,035 | Smart, instant terminal session management. | joshmedeski | macOS | [store](https://www.raycast.com/joshmedeski/sesh) |
 | [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,893 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
 | [cmux](https://github.com/raycast/extensions/tree/main/extensions/cmux) | 1,014 | Interacts with the cmux terminal app for Mac | steve_occhipinti | macOS | [store](https://www.raycast.com/steve_occhipinti/cmux) |
 | [Kitty](https://github.com/raycast/extensions/tree/main/extensions/kitty) | 352 | Control Kitty terminal via its remote control protocol | jerome_soyer | macOS | [store](https://www.raycast.com/jerome_soyer/kitty) |
@@ -54,7 +54,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Shell](https://github.com/raycast/extensions/tree/main/extensions/shell) | 75,412 | Run shell commands from Raycast | asubbotin | macOS, Windows | [store](https://www.raycast.com/asubbotin/shell) |
+| [Shell](https://github.com/raycast/extensions/tree/main/extensions/shell) | 75,437 | Run shell commands from Raycast | asubbotin | macOS, Windows | [store](https://www.raycast.com/asubbotin/shell) |
 | [Shell History](https://github.com/raycast/extensions/tree/main/extensions/shell-history) | 5,590 | Search shell command history from zsh, bash, and fish. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/shell-history) |
 | [Shell Alias](https://github.com/raycast/extensions/tree/main/extensions/shell-alias) | 546 | Quickly retrieve your shell aliases, paste and manage them directly from Raycast. | clement_cloux | macOS | [store](https://www.raycast.com/clement_cloux/shell-alias) |
 | [Fisher](https://github.com/raycast/extensions/tree/main/extensions/fisher) | 200 | Manage Fisher plugins for Fish Shell directly from Raycast | matheuschein | macOS | [store](https://www.raycast.com/matheuschein/fisher) |
@@ -66,7 +66,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 114,654 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
+| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 114,720 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
 | [Visual Studio Code - Project Manager](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-project-manager) | 51,497 | Search and open projects from Visual Studio Code Project Manager | MarkusLanger | macOS | [store](https://www.raycast.com/MarkusLanger/vscode-project-manager) |
 | [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 43,384 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
 | [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains) | 33,657 | Search and open JetBrains Toolbox projects | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jetbrains) |

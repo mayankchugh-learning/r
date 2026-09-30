@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 766,532 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 766,710 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Vim Leader Key - Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/vim-leader-key) | 761 | Vim-style keyboard shortcut sequences for launching apps, running commands, and triggering actions | akshay_k | macOS, Windows | [store](https://www.raycast.com/akshay_k/vim-leader-key) |
 | [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 446 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 47 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
@@ -85,7 +85,7 @@
 | [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 84,016 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 61,369 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 52,429 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
-| [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 3,107 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
+| [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 3,111 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
 | [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 3,009 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
 | [Command Scheduler](https://github.com/raycast/extensions/tree/main/extensions/scheduler) | 2,164 | Allows you to schedule Raycast commands to run at specific days, times or intervals ⏰. | cps | macOS, Windows | [store](https://www.raycast.com/cps/scheduler) |
 | [Quick Open Project](https://github.com/raycast/extensions/tree/main/extensions/quick-open-project) | 2,055 | Find and open projects on your system | zerowidth | macOS, Windows | [store](https://www.raycast.com/zerowidth/quick-open-project) |

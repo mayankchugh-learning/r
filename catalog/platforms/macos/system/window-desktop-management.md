@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) | 24,799 | Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2, Warp, WezTerm, cmux) and vice versa | yedongze | macOS | [store](https://www.raycast.com/yedongze/terminalfinder) |
 | [AeroSpace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | 17,005 | Control AeroSpace workspaces, windows, shortcuts, and configuration from Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
-| [Toggle Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/toggle-menu-bar) | 11,772 | Switch between show/hide menu bar options | iamyeizi | macOS | [store](https://www.raycast.com/iamyeizi/toggle-menu-bar) |
+| [Toggle Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/toggle-menu-bar) | 11,774 | Switch between show/hide menu bar options | iamyeizi | macOS | [store](https://www.raycast.com/iamyeizi/toggle-menu-bar) |
 | [One Thing](https://github.com/raycast/extensions/tree/main/extensions/one-thing) | 10,338 | Put a thing in your Menu Bar. | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/one-thing) |
 | [Menubar Weather](https://github.com/raycast/extensions/tree/main/extensions/menubar-weather) | 8,428 | Show current weather on the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-weather) |
 | [Dock Tinker](https://github.com/raycast/extensions/tree/main/extensions/dock-tinker) | 7,089 | Custom hidden preferences of Dock. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/dock-tinker) |

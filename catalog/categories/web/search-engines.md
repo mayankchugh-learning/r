@@ -14,7 +14,7 @@
 | [Brave](https://github.com/raycast/extensions/tree/main/extensions/brave) | 16,746 | Search open tabs, bookmarks and history in Brave. | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/brave) |
 | [Microsoft Edge](https://github.com/raycast/extensions/tree/main/extensions/microsoft-edge) | 14,404 | Search open tabs, bookmarks, collections and history in Microsoft Edge. | KartikKumarSahoo | macOS | [store](https://www.raycast.com/KartikKumarSahoo/microsoft-edge) |
 | [Obsidian Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks) | 6,972 | Manage your bookmarked links with Obsidian. Save, search, and access your bookmarks. Supports Safari, Arc and other Chromium-based browsers | dru89 | macOS | [store](https://www.raycast.com/dru89/obsidian-bookmarks) |
-| [Vivaldi](https://github.com/raycast/extensions/tree/main/extensions/vivaldi) | 5,436 | Search open tabs, bookmarks and history in Vivaldi. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/vivaldi) |
+| [Vivaldi](https://github.com/raycast/extensions/tree/main/extensions/vivaldi) | 5,438 | Search open tabs, bookmarks and history in Vivaldi. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/vivaldi) |
 | [Comet](https://github.com/raycast/extensions/tree/main/extensions/comet) | 5,019 | Search open tabs, bookmarks and history in Comet. | xjo_nd | macOS | [store](https://www.raycast.com/xjo_nd/comet) |
 | [Opera](https://github.com/raycast/extensions/tree/main/extensions/opera) | 1,030 | Search open tabs, bookmarks and history in Opera. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/opera) |
 | [Shiori](https://github.com/raycast/extensions/tree/main/extensions/shiori-sh) | 814 | Search, save, and manage your Shiori bookmarks. Mark links as read, delete them, save from clipboard, and track unread count in the menu bar. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shiori-sh) |
@@ -81,7 +81,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Amazon Search](https://github.com/raycast/extensions/tree/main/extensions/amazon-search) | 11,486 | Amazon search with autosuggestions | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/amazon-search) |
-| [YouTube Search](https://github.com/raycast/extensions/tree/main/extensions/youtube-search) | 10,668 | YouTube search with autosuggestions | muhammetakay | macOS | [store](https://www.raycast.com/muhammetakay/youtube-search) |
+| [YouTube Search](https://github.com/raycast/extensions/tree/main/extensions/youtube-search) | 10,676 | YouTube search with autosuggestions | muhammetakay | macOS | [store](https://www.raycast.com/muhammetakay/youtube-search) |
 | [Brave Search](https://github.com/raycast/extensions/tree/main/extensions/brave-search) | 4,069 | Brave search with autosuggestions | VishwasShashidhar | macOS | [store](https://www.raycast.com/VishwasShashidhar/brave-search) |
 | [Bing Search](https://github.com/raycast/extensions/tree/main/extensions/bing-search) | 2,688 | Bing search with autosuggestions | maver1ck | macOS | [store](https://www.raycast.com/maver1ck/bing-search) |
 | [Ecosia Search](https://github.com/raycast/extensions/tree/main/extensions/ecosia-search) | 527 | Ecosia Search with autosuggestion | mcocirio | macOS | [store](https://www.raycast.com/mcocirio/ecosia-search) |

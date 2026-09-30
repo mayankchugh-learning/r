@@ -7,8 +7,8 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) | 407,375 | Control VS Code and compatible editors directly from Raycast | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/visual-studio-code) |
-| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 114,654 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
-| [Shell](https://github.com/raycast/extensions/tree/main/extensions/shell) | 75,412 | Run shell commands from Raycast | asubbotin | macOS, Windows | [store](https://www.raycast.com/asubbotin/shell) |
+| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 114,720 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
+| [Shell](https://github.com/raycast/extensions/tree/main/extensions/shell) | 75,437 | Run shell commands from Raycast | asubbotin | macOS, Windows | [store](https://www.raycast.com/asubbotin/shell) |
 | [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains) | 33,657 | Search and open JetBrains Toolbox projects | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jetbrains) |
 | [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) | 22,856 | Search Vim commands | ajaypremshankar | macOS, Windows | [store](https://www.raycast.com/ajaypremshankar/vim-bro) |
 | [JSON Editor](https://github.com/raycast/extensions/tree/main/extensions/json-editor) | 5,002 | All JSON operations in one editor. | HerbertLu | macOS, Windows | [store](https://www.raycast.com/HerbertLu/json-editor) |
