@@ -97,7 +97,7 @@
 | [melonamin](https://www.raycast.com/melonamin) | 1 | 187 | **Productivity:** [Safe Secret](https://github.com/raycast/extensions/tree/main/extensions/safe-secret) |
 | [MelvinBrem](https://www.raycast.com/MelvinBrem) | 1 | 11 | **Uncategorized:** [DeployHQ](https://github.com/raycast/extensions/tree/main/extensions/deployhq) |
 | [Melvynx](https://www.raycast.com/Melvynx) | 1 | 37,276 | **Productivity:** [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) |
-| [memradar](https://www.raycast.com/memradar) | 1 | 0 | **Finance:** [MemRadar](https://github.com/raycast/extensions/tree/main/extensions/memradar) |
+| [memradar](https://www.raycast.com/memradar) | 1 | 1 | **Finance:** [MemRadar](https://github.com/raycast/extensions/tree/main/extensions/memradar) |
 | [mendel_g](https://www.raycast.com/mendel_g) | 1 | 64 | **Productivity:** [Hebrew Date & Zmanim](https://github.com/raycast/extensions/tree/main/extensions/hebrew-date-zmanim) |
 | [menisy](https://www.raycast.com/menisy) | 1 | 77 | **Productivity:** [Yamli](https://github.com/raycast/extensions/tree/main/extensions/yamli) |
 | [merklefruit](https://www.raycast.com/merklefruit) | 1 | 142 | **Developer Tools:** [Foundry Cast CLI](https://github.com/raycast/extensions/tree/main/extensions/foundry-cast-cli) |

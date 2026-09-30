@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-30 — upstream `ca6ec7a6d6`
+
+**Updated (1):** [Vim Leader Key - Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/vim-leader-key)
+
 ## 2026-09-30 — upstream `8859fb29b5`
 
 **Updated (1):** [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device)
