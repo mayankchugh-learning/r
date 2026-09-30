@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "169f8f36e77bb9a298aa8453c0313b798ba06baf",
-  "generatedAt": "2026-09-30T18:08:49.504Z",
-  "downloadsRefreshedAt": "2026-09-30T18:08:48.743Z",
-  "count": 3342,
+  "commit": "855e1278022fadccd7d76d922a5054b567910362",
+  "generatedAt": "2026-09-30T18:11:30.188Z",
+  "downloadsRefreshedAt": "2026-09-30T18:11:29.833Z",
+  "count": 3343,
   "extensions": [
     {
       "dir": "0x0",
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 608139
+      "downloads": 608143
     },
     {
       "dir": "color-shades",
@@ -29406,7 +29406,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 767016
+      "downloads": 767017
     },
     {
       "dir": "kimai",
@@ -56930,6 +56930,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sportssync",
       "treeSha": "a6b130a2fd5479d402eb5a5a40972bd5934cf5f2",
       "downloads": 1589
+    },
+    {
+      "dir": "spotifast",
+      "name": "spotifast",
+      "title": "Spotifast",
+      "description": "Control Spotifast, the native Spotify client: play, skip, seek, volume, shuffle, repeat, liked songs and Spotify Connect devices, with the playing track in the menu bar.",
+      "author": "Seigiard",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Media"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/spotifast",
+      "treeSha": "b31883765280dc15f64225958d7907a858b0fb84",
+      "downloads": null
     },
     {
       "dir": "spotify-beta",

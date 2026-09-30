@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · **S** · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-170 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+171 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -50,6 +50,7 @@
 | [secustor](https://www.raycast.com/secustor) | 1 | 112 | **Applications:** [Multi Viewer](https://github.com/raycast/extensions/tree/main/extensions/multiviewer) |
 | [sedghi](https://www.raycast.com/sedghi) | 1 | 74 | **Data:** [DICOM](https://github.com/raycast/extensions/tree/main/extensions/dicom) |
 | [sedlacek-martin](https://www.raycast.com/sedlacek-martin) | 1 | 123 | **Data:** [PrivateBin](https://github.com/raycast/extensions/tree/main/extensions/privatebin) |
+| Seigiard | 1 | — | **Media:** [Spotifast](https://github.com/raycast/extensions/tree/main/extensions/spotifast) |
 | [seita1996](https://www.raycast.com/seita1996) | 1 | 140 | **Data:** [Japanese Lorem Ipsum Generator](https://github.com/raycast/extensions/tree/main/extensions/lipsum) |
 | [selemondev](https://www.raycast.com/selemondev) | 2 | 462 | **Developer Tools:** [Shadcn/Svelte](https://github.com/raycast/extensions/tree/main/extensions/shadcn-svelte), [Shadcn/Vue](https://github.com/raycast/extensions/tree/main/extensions/shadcn-vue) |
 | [Selfish](https://www.raycast.com/Selfish) | 1 | 2,829 | **Developer Tools:** [Node.js Evaluate](https://github.com/raycast/extensions/tree/main/extensions/node-js-evaluate) |

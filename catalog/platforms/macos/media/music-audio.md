@@ -2,7 +2,7 @@
 
 **Music & Audio** · [Video & Streaming](./video-streaming.md) · [Images & Photos](./images-photos.md) · [Wallpapers & Art](./wallpapers-art.md) · [Books & Papers](./books-papers.md) · [AI Generation](./ai-generation.md) · [Conversion, Upload & Download](./conversion-upload-download.md) · [General](./general.md)
 
-61 of 292 extensions · [← macOS · Media](./README.md)
+62 of 293 extensions · [← macOS · Media](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -67,3 +67,4 @@
 | [NFT Primitive Tools](https://github.com/raycast/extensions/tree/main/extensions/uranium-raycast-plugin) | 21 | Mint, list, manage, Conversion of any media: images, videos, audio, or documents. Permaweb storage. | uranium | macOS | [store](https://www.raycast.com/uranium/uranium-raycast-plugin) |
 | [The Lot Radio](https://github.com/raycast/extensions/tree/main/extensions/the-lot-radio) | 9 | Play/pause the audio stream of The Lot Radio | evnm | macOS | [store](https://www.raycast.com/evnm/the-lot-radio) |
 | [Tutti](https://github.com/raycast/extensions/tree/main/extensions/tutti) | 8 | Control Tutti — play the same audio through many output devices at once — from the Raycast launcher. | Barrybarrywu | macOS | [store](https://www.raycast.com/Barrybarrywu/tutti) |
+| [Spotifast](https://github.com/raycast/extensions/tree/main/extensions/spotifast) | — | Control Spotifast, the native Spotify client: play, skip, seek, volume, shuffle, repeat, liked songs and Spotify Connect devices, with the playing track in the… | Seigiard | macOS | — |

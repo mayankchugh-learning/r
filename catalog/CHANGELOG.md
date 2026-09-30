@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-30 — upstream `855e127802`
+
+**Added (1):** [Spotifast](https://github.com/raycast/extensions/tree/main/extensions/spotifast)
+
 ## 2026-09-30 — upstream `169f8f36e7`
 
 **Updated (1):** [Zerion](https://github.com/raycast/extensions/tree/main/extensions/zerion)
