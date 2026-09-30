@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-30 — upstream `169f8f36e7`
+
+**Updated (1):** [Zerion](https://github.com/raycast/extensions/tree/main/extensions/zerion)
+
 ## 2026-09-30 — upstream `ee70764dfe`
 
 **Updated (1):** [Linak Desk Controller](https://github.com/raycast/extensions/tree/main/extensions/linak-desk-controller)

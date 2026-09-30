@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ee70764dfe3ee6cdb6d29e0a1dbd1157d7669599",
-  "generatedAt": "2026-09-30T17:08:39.751Z",
-  "downloadsRefreshedAt": "2026-09-30T17:08:39.015Z",
+  "commit": "169f8f36e77bb9a298aa8453c0313b798ba06baf",
+  "generatedAt": "2026-09-30T18:08:49.504Z",
+  "downloadsRefreshedAt": "2026-09-30T18:08:48.743Z",
   "count": 3342,
   "extensions": [
     {
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 608099
+      "downloads": 608139
     },
     {
       "dir": "color-shades",
@@ -22916,7 +22916,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565233
+      "downloads": 565256
     },
     {
       "dir": "google-chrome-profiles",
@@ -29406,7 +29406,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 766976
+      "downloads": 767016
     },
     {
       "dir": "kimai",
@@ -31406,7 +31406,7 @@
       "store": "https://www.raycast.com/samuelkraft/linak-desk-controller",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linak-controller",
       "treeSha": "c172b6e617f5e2e3875ef1e825495c5dd34e8196",
-      "downloads": 219
+      "downloads": 220
     },
     {
       "dir": "linak-desk-controller",
@@ -31426,7 +31426,7 @@
       "store": "https://www.raycast.com/samuelkraft/linak-desk-controller",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linak-desk-controller",
       "treeSha": "83c8fd6ef54bc7e9a5933f4460a7156fdb53a336",
-      "downloads": 219
+      "downloads": 220
     },
     {
       "dir": "linear",
@@ -68510,7 +68510,7 @@
       "store": "https://www.raycast.com/farshed/wu-editor",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/wu-editor",
       "treeSha": "b4ce8f81670bf2aca782351b88121b0e2465da56",
-      "downloads": 0
+      "downloads": 1
     },
     {
       "dir": "xbox-friends",
@@ -69788,7 +69788,7 @@
       ],
       "store": "https://www.raycast.com/imqdee/zerion",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zerion",
-      "treeSha": "c7da2a4c6e9d3dfd308eab58dae43775475319be",
+      "treeSha": "0888c13987dddcd0b500580d8a7bfb9c5dae01df",
       "downloads": 157
     },
     {
