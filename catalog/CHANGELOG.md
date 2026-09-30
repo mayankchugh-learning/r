@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-30 — upstream `fc3351cb9a`
+
+**Updated (1):** [Raindrop.io](https://github.com/raycast/extensions/tree/main/extensions/raindrop-io)
+
 ## 2026-09-30 — upstream `ca6ec7a6d6`
 
 **Updated (1):** [Vim Leader Key - Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/vim-leader-key)
