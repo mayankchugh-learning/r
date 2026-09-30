@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-30 — upstream `ada191ff98`
+
+**Updated (1):** [SVGR](https://github.com/raycast/extensions/tree/main/extensions/svgr)
+
 ## 2026-09-30 — upstream `2677aa4cd6`
 
 **Updated (1):** [Search Router](https://github.com/raycast/extensions/tree/main/extensions/search-router)
