@@ -12,7 +12,7 @@ macOS: 183 · Windows: 39
 | [Developer Utilities](./developer-utilities.md) | 11 |
 | [Productivity & Tasks](./productivity-tasks.md) | 5 |
 | [Web & Search](./web-search.md) | 25 |
-| [System & Hardware](./system-hardware.md) | 7 |
+| [System & Hardware](./system-hardware.md) | 8 |
 
 ## Life & World
 
@@ -31,12 +31,4 @@ macOS: 183 · Windows: 39
 | [Communication & Social](./communication-social.md) | 3 |
 | [Language & Translation](./language-translation.md) | 8 |
 
-## Discovered topics ✦
-
-| Topic | Extensions |
-| --- | --- |
-| [Standing ✦](./standing.md) | 4 |
-
-Plus [General](./general.md) — 65 extensions that don't fit a topic yet.
-
-*✦ auto-discovered topic group*
+Plus [General](./general.md) — 68 extensions that don't fit a topic yet.

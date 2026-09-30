@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 168,458 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,660 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,884 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,285,987 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,285,999 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 455,839 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,697 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,315 |
@@ -76,7 +76,7 @@
 | 66 | [yug2005](https://www.raycast.com/yug2005) | 4 | 52,649 |
 | 67 | [degouville](https://www.raycast.com/degouville) | 4 | 47,697 |
 | 68 | [kawamataryo](https://www.raycast.com/kawamataryo) | 4 | 46,668 |
-| 69 | [sven](https://www.raycast.com/sven) | 4 | 40,391 |
+| 69 | [sven](https://www.raycast.com/sven) | 4 | 40,393 |
 | 70 | [reckoning-dev](https://www.raycast.com/reckoning-dev) | 4 | 33,444 |
 | 71 | [djpowers](https://www.raycast.com/djpowers) | 4 | 28,990 |
 | 72 | [mrmartineau](https://www.raycast.com/mrmartineau) | 4 | 28,643 |
@@ -179,7 +179,7 @@
 | 169 | [tegola](https://www.raycast.com/tegola) | 2 | 91,560 |
 | 170 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 64,900 |
 | 171 | [ratoru](https://www.raycast.com/ratoru) | 2 | 54,814 |
-| 172 | [garrett](https://www.raycast.com/garrett) | 2 | 53,120 |
+| 172 | [garrett](https://www.raycast.com/garrett) | 2 | 53,123 |
 | 173 | [gdsmith](https://www.raycast.com/gdsmith) | 2 | 51,709 |
 | 174 | [itsmingjie](https://www.raycast.com/itsmingjie) | 2 | 41,779 |
 | 175 | [yuercl](https://www.raycast.com/yuercl) | 2 | 40,137 |
@@ -401,10 +401,10 @@
 | 391 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 392 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 2 | 8 |
 | 393 | github-next | 2 | — |
-| 394 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,960 |
-| 395 | [Codely](https://www.raycast.com/Codely) | 1 | 565,223 |
-| 396 | [linear](https://www.raycast.com/linear) | 1 | 398,868 |
-| 397 | [mommertf](https://www.raycast.com/mommertf) | 1 | 331,763 |
+| 394 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,976 |
+| 395 | [Codely](https://www.raycast.com/Codely) | 1 | 565,233 |
+| 396 | [linear](https://www.raycast.com/linear) | 1 | 398,900 |
+| 397 | [mommertf](https://www.raycast.com/mommertf) | 1 | 331,781 |
 | 398 | [nhojb](https://www.raycast.com/nhojb) | 1 | 290,341 |
 | 399 | [notion](https://www.raycast.com/notion) | 1 | 277,498 |
 | 400 | [khasbilegt](https://www.raycast.com/khasbilegt) | 1 | 248,818 |

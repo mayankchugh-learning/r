@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-30 — upstream `ee70764dfe`
+
+**Updated (1):** [Linak Desk Controller](https://github.com/raycast/extensions/tree/main/extensions/linak-desk-controller)
+
 ## 2026-09-30 — upstream `e3454acad8`
 
 **Updated (6):** [Are.na](https://github.com/raycast/extensions/tree/main/extensions/are-na), [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare), [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear), [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams), [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so), [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack)

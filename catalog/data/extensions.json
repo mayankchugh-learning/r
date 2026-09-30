@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e3454acad8c9e132b2bf39ea67e05e555792d7e7",
-  "generatedAt": "2026-09-30T16:50:42.685Z",
-  "downloadsRefreshedAt": "2026-09-30T16:50:41.718Z",
+  "commit": "ee70764dfe3ee6cdb6d29e0a1dbd1157d7669599",
+  "generatedAt": "2026-09-30T17:08:39.751Z",
+  "downloadsRefreshedAt": "2026-09-30T17:08:39.015Z",
   "count": 3342,
   "extensions": [
     {
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 608087
+      "downloads": 608099
     },
     {
       "dir": "color-shades",
@@ -22916,7 +22916,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565223
+      "downloads": 565233
     },
     {
       "dir": "google-chrome-profiles",
@@ -29406,7 +29406,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 766960
+      "downloads": 766976
     },
     {
       "dir": "kimai",
@@ -31412,7 +31412,7 @@
       "dir": "linak-desk-controller",
       "name": "linak-desk-controller",
       "title": "Linak Desk Controller",
-      "description": "Control the height of standing desks manufactured by Linak, for example the Ikea Idasen desk.",
+      "description": "Control the height of standing desks manufactured by Linak, for example the Ikea Idasen desk, over Bluetooth.",
       "author": "samuelkraft",
       "owner": null,
       "contributors": 0,
@@ -31425,7 +31425,7 @@
       ],
       "store": "https://www.raycast.com/samuelkraft/linak-desk-controller",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linak-desk-controller",
-      "treeSha": "41e6a1f1decf8ad6972b3401d6f47ca4ae2ac5f4",
+      "treeSha": "83c8fd6ef54bc7e9a5933f4460a7156fdb53a336",
       "downloads": 219
     },
     {
@@ -31448,7 +31448,7 @@
       "store": "https://www.raycast.com/linear/linear",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linear",
       "treeSha": "b809d4cd937222b30f6acb9df76f67afb30bf954",
-      "downloads": 398868
+      "downloads": 398900
     },
     {
       "dir": "lingo-rep-raycast",
@@ -35191,7 +35191,7 @@
       "store": "https://www.raycast.com/sven/microsoft-teams",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams",
       "treeSha": "c82fa288d666cd22209fe1c057a662e587e5eff2",
-      "downloads": 20298
+      "downloads": 20300
     },
     {
       "dir": "microsoft-teams-calling",
@@ -48399,7 +48399,7 @@
       "store": "https://www.raycast.com/garrett/ray-so",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ray-so",
       "treeSha": "27e4ba5daedbaadee7658492a105066cafefc799",
-      "downloads": 52517
+      "downloads": 52520
     },
     {
       "dir": "raycafe",
@@ -55374,7 +55374,7 @@
       "store": "https://www.raycast.com/mommertf/slack",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slack",
       "treeSha": "d21f58ce20774afc723387f0d6440dd2634cb31f",
-      "downloads": 331763
+      "downloads": 331781
     },
     {
       "dir": "slack-status",

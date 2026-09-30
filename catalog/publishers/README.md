@@ -8,16 +8,16 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,285,987 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,285,999 |
 | 2 | [raycast](./id/raycast.md) | 11 | 898,372 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,960 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 565,223 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,976 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 565,233 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 493,351 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 489,665 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 455,839 |
-| 8 | [linear](https://www.raycast.com/linear) | 1 | 398,868 |
+| 8 | [linear](https://www.raycast.com/linear) | 1 | 398,900 |
 | 9 | [vimtor](./id/vimtor.md) | 16 | 335,169 |
-| 10 | [mommertf](https://www.raycast.com/mommertf) | 1 | 331,763 |
+| 10 | [mommertf](https://www.raycast.com/mommertf) | 1 | 331,781 |
 | 11 | [nhojb](https://www.raycast.com/nhojb) | 1 | 290,341 |
 | 12 | [koinzhang](./id/koinzhang.md) | 50 | 287,888 |
 | 13 | [notion](https://www.raycast.com/notion) | 1 | 277,498 |
@@ -57,7 +57,7 @@
 | 47 | [simicvm](https://www.raycast.com/simicvm) | 1 | 61,519 |
 | 48 | [VladCuciureanu](https://www.raycast.com/VladCuciureanu) | 1 | 58,475 |
 | 49 | [ratoru](https://www.raycast.com/ratoru) | 2 | 54,814 |
-| 50 | [garrett](https://www.raycast.com/garrett) | 2 | 53,120 |
+| 50 | [garrett](https://www.raycast.com/garrett) | 2 | 53,123 |
 | 51 | [yug2005](https://www.raycast.com/yug2005) | 4 | 52,649 |
 | 52 | [priithaamer](https://www.raycast.com/priithaamer) | 1 | 52,458 |
 | 53 | [gdsmith](https://www.raycast.com/gdsmith) | 2 | 51,709 |
@@ -74,7 +74,7 @@
 | 64 | [DanielSinclair](https://www.raycast.com/DanielSinclair) | 1 | 41,780 |
 | 65 | [itsmingjie](https://www.raycast.com/itsmingjie) | 2 | 41,779 |
 | 66 | [eggsy](https://www.raycast.com/eggsy) | 5 | 40,427 |
-| 67 | [sven](https://www.raycast.com/sven) | 4 | 40,391 |
+| 67 | [sven](https://www.raycast.com/sven) | 4 | 40,393 |
 | 68 | [isfeng](https://www.raycast.com/isfeng) | 3 | 40,346 |
 | 69 | [yuercl](https://www.raycast.com/yuercl) | 2 | 40,137 |
 | 70 | [florisdobber](https://www.raycast.com/florisdobber) | 1 | 37,495 |
