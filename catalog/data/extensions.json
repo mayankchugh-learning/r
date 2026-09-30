@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "5c78f3d703a234962ac13a0b4d7d798f2f043a1b",
-  "generatedAt": "2026-09-30T13:53:34.687Z",
-  "downloadsRefreshedAt": "2026-09-30T13:53:34.266Z",
-  "count": 3341,
+  "commit": "570e1381de7fc4fbb87b432c1ab1d61e86f8aa1b",
+  "generatedAt": "2026-09-30T14:23:54.386Z",
+  "downloadsRefreshedAt": "2026-09-30T14:23:53.532Z",
+  "count": 3342,
   "extensions": [
     {
       "dir": "0x0",
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 607903
+      "downloads": 607958
     },
     {
       "dir": "color-shades",
@@ -22916,7 +22916,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565086
+      "downloads": 565129
     },
     {
       "dir": "google-chrome-profiles",
@@ -29406,7 +29406,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 766751
+      "downloads": 766805
     },
     {
       "dir": "kimai",
@@ -49282,7 +49282,7 @@
       "store": "https://www.raycast.com/koinzhang/raycast-wallpaper",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper",
       "treeSha": "d58458ec989ec537cfe9a741d8acd09b3a86891f",
-      "downloads": 23219
+      "downloads": 23228
     },
     {
       "dir": "raycast-wca",
@@ -68491,6 +68491,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/wu-bi-bian-ma",
       "treeSha": "f8f44ec73d134a3653c896837acf2917f7888c97",
       "downloads": 21
+    },
+    {
+      "dir": "wu-editor",
+      "name": "wu-editor",
+      "title": "Wu",
+      "description": "Open recent projects, files, and settings in Wu.",
+      "author": "farshed",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/farshed/wu-editor",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/wu-editor",
+      "treeSha": "b4ce8f81670bf2aca782351b88121b0e2465da56",
+      "downloads": 0
     },
     {
       "dir": "xbox-friends",

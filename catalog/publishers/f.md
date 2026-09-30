@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · **F** · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-82 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+83 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -17,6 +17,7 @@
 | [Fared](https://www.raycast.com/Fared) | 1 | 1,055 | **Security:** [Proton Authenticator](https://github.com/raycast/extensions/tree/main/extensions/proton-authenticator) |
 | [FariaF22](https://www.raycast.com/FariaF22) | 5 | 411 | **Documentation:** [SQL Reference Search](https://github.com/raycast/extensions/tree/main/extensions/sql-reference-search), [Numpy Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/numpy-documentation-search), [Pandas Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/pandas-documentation-search), [Polars Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/polars-documentation-search), [LAPACK/BLAS Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/lapack-blas-documentation-search) |
 | [farisaziz12](https://www.raycast.com/farisaziz12) | 4 | 1,235 | **Productivity:** [Everhour Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/everhour), [Smallpdf](https://github.com/raycast/extensions/tree/main/extensions/smallpdf), [Growthbook](https://github.com/raycast/extensions/tree/main/extensions/growthbook)<br>**Finance:** [Coinbase Pro](https://github.com/raycast/extensions/tree/main/extensions/coinbase-pro) |
+| [farshed](https://www.raycast.com/farshed) | 1 | 0 | **Developer Tools:** [Wu](https://github.com/raycast/extensions/tree/main/extensions/wu-editor) |
 | [Fatpandac](https://www.raycast.com/Fatpandac) | 2 | 3,543 | **Documentation:** [DocSearch](https://github.com/raycast/extensions/tree/main/extensions/docsearch)<br>**Applications:** [Bilibili](https://github.com/raycast/extensions/tree/main/extensions/Bilibili) |
 | [fayecat](https://www.raycast.com/fayecat) | 1 | 1,391 | **Productivity:** [Floaty](https://github.com/raycast/extensions/tree/main/extensions/floaty) |
 | [fbrc](https://www.raycast.com/fbrc) | 1 | 2,246 | **Applications:** [Fabric](https://github.com/raycast/extensions/tree/main/extensions/fabric) |

@@ -1,6 +1,6 @@
 # Publishers
 
-2242 publishers · [← catalog index](../README.md)
+2243 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -9,7 +9,7 @@
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
 | 1 | [xmok](./id/xmok.md) | 114 | 13,022 |
-| 2 | [koinzhang](./id/koinzhang.md) | 50 | 287,668 |
+| 2 | [koinzhang](./id/koinzhang.md) | 50 | 287,677 |
 | 3 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 102,986 |
 | 4 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 185,317 |
 | 5 | [chrismessina](./id/chrismessina.md) | 18 | 7,589 |
@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 168,332 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,649 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,881 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,285,215 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,285,270 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 455,624 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,662 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,311 |
@@ -401,8 +401,8 @@
 | 391 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 392 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 2 | 7 |
 | 393 | github-next | 2 | — |
-| 394 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,751 |
-| 395 | [Codely](https://www.raycast.com/Codely) | 1 | 565,086 |
+| 394 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,805 |
+| 395 | [Codely](https://www.raycast.com/Codely) | 1 | 565,129 |
 | 396 | [linear](https://www.raycast.com/linear) | 1 | 398,652 |
 | 397 | [mommertf](https://www.raycast.com/mommertf) | 1 | 331,607 |
 | 398 | [nhojb](https://www.raycast.com/nhojb) | 1 | 290,128 |
@@ -2243,10 +2243,11 @@
 | 2233 | [chefski](https://www.raycast.com/chefski) | 1 | 0 |
 | 2234 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2235 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2236 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2237 | [memradar](https://www.raycast.com/memradar) | 1 | 0 |
-| 2238 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2239 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2240 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
-| 2241 | eugenio | 1 | — |
-| 2242 | multi | 1 | — |
+| 2236 | [farshed](https://www.raycast.com/farshed) | 1 | 0 |
+| 2237 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2238 | [memradar](https://www.raycast.com/memradar) | 1 | 0 |
+| 2239 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2240 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2241 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
+| 2242 | eugenio | 1 | — |
+| 2243 | multi | 1 | — |

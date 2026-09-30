@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · **W** · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-108 extensions · [← catalog index](../README.md)
+109 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -114,3 +114,4 @@
 | [WooCommerce Quicker](https://github.com/raycast/extensions/tree/main/extensions/woocommerce-quicker) | 5 | Browse and search WooCommerce orders, customers, and products across multiple stores from Raycast | g-mai | macOS, Windows | [store](https://www.raycast.com/g-mai/woocommerce-quicker) |
 | [WHMCS Client Search](https://github.com/raycast/extensions/tree/main/extensions/whmcs-client-search) | 4 | Search your WHMCS Clients and quickly access the client's profile, billable entries, and more. | mwender | macOS | [store](https://www.raycast.com/mwender/whmcs-client-search) |
 | [Wlthy](https://github.com/raycast/extensions/tree/main/extensions/wlthy) | 3 | See your net worth, day and month change, and allocation from your wlthy wealth account — read-only, without leaving your keyboard. | alirbaba | macOS, Windows | [store](https://www.raycast.com/alirbaba/wlthy) |
+| [Wu](https://github.com/raycast/extensions/tree/main/extensions/wu-editor) | 0 | Open recent projects, files, and settings in Wu. | farshed | macOS | [store](https://www.raycast.com/farshed/wu-editor) |

@@ -1,8 +1,8 @@
 # Terminal & Editors
 
-52 extensions · [← Developer Tools](./README.md)
+53 extensions · [← Developer Tools](./README.md)
 
-[Terminal ✦](#terminal) (13) · [CLI ✦](#cli) (9) · [Editor ✦](#editor) (7) · [Shell ✦](#shell) (7) · [General](#general) (16)
+[Terminal ✦](#terminal) (13) · [CLI ✦](#cli) (9) · [Editor ✦](#editor) (7) · [Shell ✦](#shell) (7) · [General](#general) (17)
 
 *✦ auto-discovered topic group*
 
@@ -82,3 +82,4 @@
 | [Ideate](https://github.com/raycast/extensions/tree/main/extensions/ideate) | 164 | Create a project folder, initialize it, and open with your IDE. | B9O2 | macOS | [store](https://www.raycast.com/b9o2/ideate) |
 | [Bash Commands](https://github.com/raycast/extensions/tree/main/extensions/bash-commands) | 149 | A quick reference for bash commands with search, and categories. | koala1206 | macOS, Windows | [store](https://www.raycast.com/koala1206/bash-commands) |
 | [Neovim](https://github.com/raycast/extensions/tree/main/extensions/neovim) | 44 | Manage Neovim sessions, plugins, and keymaps from Raycast | RG-IL | macOS | [store](https://www.raycast.com/RG-IL/neovim) |
+| [Wu](https://github.com/raycast/extensions/tree/main/extensions/wu-editor) | 0 | Open recent projects, files, and settings in Wu. | farshed | macOS | [store](https://www.raycast.com/farshed/wu-editor) |
