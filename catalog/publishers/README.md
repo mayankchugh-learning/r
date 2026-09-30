@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,285,164 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,285,169 |
 | 2 | [raycast](./id/raycast.md) | 11 | 897,749 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,710 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 565,052 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,715 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 565,053 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 492,967 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 489,246 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 455,624 |
@@ -40,7 +40,7 @@
 | 30 | [erics118](https://www.raycast.com/erics118) | 3 | 106,112 |
 | 31 | [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 105,427 |
 | 32 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 102,986 |
-| 33 | [HelloImSteven](https://www.raycast.com/HelloImSteven) | 9 | 102,414 |
+| 33 | [HelloImSteven](https://www.raycast.com/HelloImSteven) | 9 | 102,419 |
 | 34 | [GastroGeek](https://www.raycast.com/GastroGeek) | 6 | 101,979 |
 | 35 | [ron-myers](https://www.raycast.com/ron-myers) | 5 | 97,005 |
 | 36 | [doist](https://www.raycast.com/doist) | 1 | 95,842 |

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "5b1fb0ab4c69ef603aa245d35ebb29a0d375565a",
-  "generatedAt": "2026-09-30T13:17:53.038Z",
-  "downloadsRefreshedAt": "2026-09-30T13:17:52.235Z",
+  "commit": "2677aa4cd6f8b4a8bcd33b4204a4819805340757",
+  "generatedAt": "2026-09-30T13:23:26.296Z",
+  "downloadsRefreshedAt": "2026-09-30T13:23:25.216Z",
   "count": 3341,
   "extensions": [
     {
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 607852
+      "downloads": 607857
     },
     {
       "dir": "color-shades",
@@ -22916,7 +22916,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565052
+      "downloads": 565053
     },
     {
       "dir": "google-chrome-profiles",
@@ -29257,7 +29257,7 @@
       "store": "https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences",
       "treeSha": "05389f13791c39c97fb386a0fbddca8221593b1f",
-      "downloads": 6298
+      "downloads": 6303
     },
     {
       "dir": "keyboard-win-mac-switch",
@@ -29406,7 +29406,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 766710
+      "downloads": 766715
     },
     {
       "dir": "kimai",
@@ -53128,7 +53128,7 @@
       "description": "Local-first search with Kagi's !Bangs (similar to unduck.link with DuckDuckGo's !Bangs)",
       "author": "franzwilhelm",
       "owner": null,
-      "contributors": 6,
+      "contributors": 7,
       "categories": [
         "Web"
       ],
@@ -53139,7 +53139,7 @@
       ],
       "store": "https://www.raycast.com/franzwilhelm/search-router",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/search-router",
-      "treeSha": "6ec7794c93218ddbd4c01a7d6dbf5fece6e6f177",
+      "treeSha": "223974da5cb6aac34e0d9b9374a23fa6f5c12f42",
       "downloads": 1454
     },
     {

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-30 — upstream `2677aa4cd6`
+
+**Updated (1):** [Search Router](https://github.com/raycast/extensions/tree/main/extensions/search-router)
+
 ## 2026-09-30 — upstream `5b1fb0ab4c`
 
 **Updated (10):** [ClipMenu](https://github.com/raycast/extensions/tree/main/extensions/clipmenu), [DocCheck](https://github.com/raycast/extensions/tree/main/extensions/doccheck), [Gyazo Uploader](https://github.com/raycast/extensions/tree/main/extensions/gyazo-uploader), [Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences), [Laravel Artisan](https://github.com/raycast/extensions/tree/main/extensions/laravel-artisan), [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi), [Open in Android Studio](https://github.com/raycast/extensions/tree/main/extensions/open-in-android-studio), [Pinboard](https://github.com/raycast/extensions/tree/main/extensions/pinboard), [Run Script Kit Command](https://github.com/raycast/extensions/tree/main/extensions/script-kit), [WordPress Docs](https://github.com/raycast/extensions/tree/main/extensions/wordpress-docs)

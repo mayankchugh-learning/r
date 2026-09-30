@@ -11,7 +11,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Shortcuts Search](https://github.com/raycast/extensions/tree/main/extensions/shortcuts-search) | 7,794 | List, search and run shortcuts for different applications | solomkinmv | macOS | [store](https://www.raycast.com/solomkinmv/shortcuts-search) |
-| [Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences) | 6,298 | Configure, save, and run sequences of keyboard shortcuts | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences) |
+| [Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences) | 6,303 | Configure, save, and run sequences of keyboard shortcuts | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences) |
 | [Shortcut](https://github.com/raycast/extensions/tree/main/extensions/shortcut) | 1,670 | Raycast extension for Shortcut | Yukai | macOS | [store](https://www.raycast.com/Yukai/shortcut) |
 | [Screen Sharing Recents](https://github.com/raycast/extensions/tree/main/extensions/screen-sharing-recents) | 1,472 | Adds shortcuts to recent screen sharing locations | bix | macOS | [store](https://www.raycast.com/bix/screen-sharing-recents) |
 | [Universal Commands](https://github.com/raycast/extensions/tree/main/extensions/universal-commands) | 1,343 | Runs configurable application shortcut depending on the frontmost application. | cyxn | macOS | [store](https://www.raycast.com/cyxn/universal-commands) |
