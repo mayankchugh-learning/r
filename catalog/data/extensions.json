@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "855e1278022fadccd7d76d922a5054b567910362",
-  "generatedAt": "2026-09-30T18:11:30.188Z",
-  "downloadsRefreshedAt": "2026-09-30T18:11:29.833Z",
+  "commit": "ac6c071caadd902cc30fa0a5a18e870cbe6144d9",
+  "generatedAt": "2026-10-01T01:53:37.909Z",
+  "downloadsRefreshedAt": "2026-10-01T01:53:37.529Z",
   "count": 3343,
   "extensions": [
     {
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 608143
+      "downloads": 608419
     },
     {
       "dir": "color-shades",
@@ -22916,7 +22916,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565256
+      "downloads": 565439
     },
     {
       "dir": "google-chrome-profiles",
@@ -29406,7 +29406,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 767017
+      "downloads": 767309
     },
     {
       "dir": "kimai",
@@ -31551,7 +31551,7 @@
       ],
       "store": "https://www.raycast.com/kud/link-commands",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/link-commands",
-      "treeSha": "1417b5144420b711c5d2caa8abd408fca5e4e50d",
+      "treeSha": "9d749c66e7d08fd5c4a0be6c642a4b423a87cf65",
       "downloads": 32
     },
     {
@@ -56946,10 +56946,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/Seigiard/spotifast",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/spotifast",
       "treeSha": "b31883765280dc15f64225958d7907a858b0fb84",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "spotify-beta",
@@ -68530,7 +68530,7 @@
       "store": "https://www.raycast.com/farshed/wu-editor",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/wu-editor",
       "treeSha": "b4ce8f81670bf2aca782351b88121b0e2465da56",
-      "downloads": 1
+      "downloads": 0
     },
     {
       "dir": "xbox-friends",

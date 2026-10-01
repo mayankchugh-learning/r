@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `ac6c071caa`
+
+**Updated (1):** [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands)
+
 ## 2026-09-30 — upstream `855e127802`
 
 **Added (1):** [Spotifast](https://github.com/raycast/extensions/tree/main/extensions/spotifast)

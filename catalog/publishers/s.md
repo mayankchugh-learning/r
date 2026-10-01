@@ -50,7 +50,7 @@
 | [secustor](https://www.raycast.com/secustor) | 1 | 112 | **Applications:** [Multi Viewer](https://github.com/raycast/extensions/tree/main/extensions/multiviewer) |
 | [sedghi](https://www.raycast.com/sedghi) | 1 | 74 | **Data:** [DICOM](https://github.com/raycast/extensions/tree/main/extensions/dicom) |
 | [sedlacek-martin](https://www.raycast.com/sedlacek-martin) | 1 | 123 | **Data:** [PrivateBin](https://github.com/raycast/extensions/tree/main/extensions/privatebin) |
-| Seigiard | 1 | — | **Media:** [Spotifast](https://github.com/raycast/extensions/tree/main/extensions/spotifast) |
+| [Seigiard](https://www.raycast.com/Seigiard) | 1 | 0 | **Media:** [Spotifast](https://github.com/raycast/extensions/tree/main/extensions/spotifast) |
 | [seita1996](https://www.raycast.com/seita1996) | 1 | 140 | **Data:** [Japanese Lorem Ipsum Generator](https://github.com/raycast/extensions/tree/main/extensions/lipsum) |
 | [selemondev](https://www.raycast.com/selemondev) | 2 | 462 | **Developer Tools:** [Shadcn/Svelte](https://github.com/raycast/extensions/tree/main/extensions/shadcn-svelte), [Shadcn/Vue](https://github.com/raycast/extensions/tree/main/extensions/shadcn-vue) |
 | [Selfish](https://www.raycast.com/Selfish) | 1 | 2,829 | **Developer Tools:** [Node.js Evaluate](https://github.com/raycast/extensions/tree/main/extensions/node-js-evaluate) |
