@@ -1,8 +1,8 @@
 # Documents & Files
 
-138 extensions · [← Productivity](./README.md)
+139 extensions · [← Productivity](./README.md)
 
-[Folder ✦](#folder) (32) · [Documents ✦](#documents) (18) · [Finder ✦](#finder) (8) · [Upload ✦](#upload) (14) · [Download ✦](#download) (10) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Local ✦](#local) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (35)
+[Folder ✦](#folder) (32) · [Documents ✦](#documents) (19) · [Finder ✦](#finder) (8) · [Upload ✦](#upload) (14) · [Download ✦](#download) (10) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Local ✦](#local) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (35)
 
 *✦ auto-discovered topic group*
 
@@ -65,6 +65,7 @@
 | [Granite](https://github.com/raycast/extensions/tree/main/extensions/granite) | 6 | Search, browse, and ask your Granite document vault. | Shpigford | macOS | [store](https://www.raycast.com/Shpigford/granite) |
 | [Subnoto - Confidential Electronic Signature](https://github.com/raycast/extensions/tree/main/extensions/subnoto) | 4 | Send and manage documents for electronic signature in Subnoto from Raycast | corentin_mors | macOS, Windows | [store](https://www.raycast.com/corentin_mors/subnoto) |
 | [Markdown Documents](https://github.com/raycast/extensions/tree/main/extensions/markdown-docs) | 1 | Manage and search markdown cheatsheets and documents | craigharman | macOS | [store](https://www.raycast.com/craigharman/markdown-docs) |
+| [Fenn Search](https://github.com/raycast/extensions/tree/main/extensions/fenn-search) | 0 | Search text in videos, spoken words in audio, and content inside Sketch files and documents with Fenn. | thoddnn | macOS | [store](https://www.raycast.com/thoddnn/fenn-search) |
 
 ## Finder ✦
 

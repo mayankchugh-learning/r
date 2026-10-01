@@ -2,7 +2,7 @@
 
 [AI & Chat Apps](./ai-chat-apps.md) · [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) · [Productivity & Task Apps](./productivity-task-apps.md) · **Music & Audio Apps** · [Media & Photo Apps](./media-photo-apps.md) · [Reading & Library Apps](./reading-library-apps.md) · [Automation & Input Apps](./automation-input-apps.md) · [Content & CMS Apps](./content-cms-apps.md) · [Network & Connection Apps](./network-connection-apps.md) · [Analytics & Stats Apps](./analytics-stats-apps.md) · [Developer Apps](./developer-apps.md) · [Browsers](./browsers.md) · [Window Managers & Utilities](./window-managers-utilities.md) · [Apple & Built-in Apps](./apple-built-in-apps.md) · [Files, Sync & Upload](./files-sync-upload.md) · [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) · [Launchers & App Control](./launchers-app-control.md) · [General](./general.md)
 
-10 of 379 extensions · [← macOS · Applications](./README.md)
+11 of 380 extensions · [← macOS · Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -16,3 +16,4 @@
 | [Endel](https://github.com/raycast/extensions/tree/main/extensions/endel) | 660 | Interact with the Endel player. | zach | macOS | [store](https://www.raycast.com/zach/endel) |
 | [Kaset Control](https://github.com/raycast/extensions/tree/main/extensions/kaset-control) | 232 | Control Kaset - YouTube Music client for macOS | endiruslan | macOS | [store](https://www.raycast.com/endiruslan/kaset-control) |
 | [Elsewhere](https://github.com/raycast/extensions/tree/main/extensions/elsewhere) | 33 | Control spatial soundscapes, background music, playback, and volume. | yannglt | macOS | [store](https://www.raycast.com/yannglt/elsewhere) |
+| [Fenn Search](https://github.com/raycast/extensions/tree/main/extensions/fenn-search) | 0 | Search text in videos, spoken words in audio, and content inside Sketch files and documents with Fenn. | thoddnn | macOS | [store](https://www.raycast.com/thoddnn/fenn-search) |

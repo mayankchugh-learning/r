@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `481fb521a3`
+
+**Added (1):** [Fenn Search](https://github.com/raycast/extensions/tree/main/extensions/fenn-search)
+
 ## 2026-10-01 — upstream `674a9fbf32`
 
 **Added (1):** [Privacy Mask](https://github.com/raycast/extensions/tree/main/extensions/privmask)
