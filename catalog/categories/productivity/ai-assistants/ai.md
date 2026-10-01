@@ -1,8 +1,8 @@
 # AI ✦
 
-109 extensions · [← AI & Assistants](./README.md)
+108 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Model ✦](#model) (13) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (5) · [Openai ✦](#openai) (7) · [Prompts ✦](#prompts) (4) · [Tasks ✦](#tasks) (4) · [General](#general) (53)
+[Powered ✦](#powered) (16) · [Model ✦](#model) (13) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (5) · [Openai ✦](#openai) (7) · [Prompts ✦](#prompts) (4) · [Tasks ✦](#tasks) (4) · [General](#general) (52)
 
 *✦ auto-discovered topic group*
 
@@ -143,7 +143,6 @@
 | [Plaud](https://github.com/raycast/extensions/tree/main/extensions/plaud) | 20 | Browse your Plaud AI recorder notes and copy links to them | patricklenz | macOS | [store](https://www.raycast.com/patricklenz/plaud) |
 | [Bangumi](https://github.com/raycast/extensions/tree/main/extensions/bangumi) | 18 | A full-featured Bangumi client for Raycast. Manage collections, track progress, search subjects and characters, view daily schedules. Includes AI tools for Ray… | maxchang3 | Windows, macOS | [store](https://www.raycast.com/maxchang3/bangumi) |
 | [SnipperApp](https://github.com/raycast/extensions/tree/main/extensions/snipperapp) | 17 | Search, paste, and capture code snippets from your SnipperApp library and the SnipperApp Hub — with workspaces, favorites, and AI. | teologov | macOS | [store](https://www.raycast.com/teologov/snipperapp) |
-| [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care) | 16 | Review AI-tool storage, clean disk space, release memory, uninstall apps, redact files, and undo through Mint | dzg-studio | macOS | [store](https://www.raycast.com/dzg-studio/mint-mac-care) |
 | [AI to PDF](https://github.com/raycast/extensions/tree/main/extensions/ai-to-pdf) | 11 | Convert Adobe Illustrator (.ai) files to print-ready PDF, with or without bleed, using Illustrator's own PDF export. | guus | macOS | [store](https://www.raycast.com/guus/ai-to-pdf) |
 | [Bhagavad Gita Quotes](https://github.com/raycast/extensions/tree/main/extensions/bhagavad-gita-quotes) | 10 | Read and search Bhagavad Gita quotes (AI features require Raycast AI). | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/bhagavad-gita-quotes) |
 | [DNB Book Lookup](https://github.com/raycast/extensions/tree/main/extensions/dnb-book-lookup) | 10 | Look up book contents from Deutsche Nationalbibliothek by ISBN with optional AI-generated Klappentext | wdeu | macOS, Windows | [store](https://www.raycast.com/wdeu/dnb-book-lookup) |

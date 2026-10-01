@@ -17,7 +17,7 @@ macOS: 1516 · Windows: 388
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & Assistants](./ai-assistants/README.md) | 141 |
+| [AI & Assistants](./ai-assistants/README.md) | 140 |
 | [Writing & Text Tools](./writing-text-tools.md) | 74 |
 | [Documents & Files](./documents-files.md) | 139 |
 | [Email](./email.md) | 24 |
@@ -28,7 +28,7 @@ macOS: 1516 · Windows: 388
 | --- | --- |
 | [Automation & Workflows](./automation-workflows.md) | 29 |
 | [Clipboard & Text Expansion](./clipboard-text-expansion.md) | 75 |
-| [Window & Workspace Management](./window-workspace-management.md) | 59 |
+| [Window & Workspace Management](./window-workspace-management.md) | 60 |
 | [Search & Bookmarks](./search-bookmarks/README.md) | 227 |
 
 ## Learn & Collaborate
