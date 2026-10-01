@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 767,605 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 767,623 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 183,447 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 110,407 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 67,714 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -62,7 +62,7 @@
 | [Diskutil](https://github.com/raycast/extensions/tree/main/extensions/diskutil-mac) | 1,330 | View your disks and volumes. An implementation of the macOS 'diskutil' command with quicker access to functionality, providing a better overview and a more use… | Globolo | macOS | [store](https://www.raycast.com/Globolo/diskutil-mac) |
 | [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | 1,292 | Manage email, contacts, domains, and developer resources with Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |
 | [Conventional Comments](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) | 1,279 | Paste conventional comment into your foremost application | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/conventional-comments) |
-| [UTM Virtual Machines](https://github.com/raycast/extensions/tree/main/extensions/utm-virtual-machines) | 1,257 | Launch and control virtual machines in UTM. | alaidriel | macOS | [store](https://www.raycast.com/cecelot/utm-virtual-machines) |
+| [UTM Virtual Machines](https://github.com/raycast/extensions/tree/main/extensions/utm-virtual-machines) | 1,257 | Launch and control virtual machines in UTM. | cecelot | macOS | [store](https://www.raycast.com/cecelot/utm-virtual-machines) |
 | [Wakatime](https://github.com/raycast/extensions/tree/main/extensions/wakatime) | 1,235 | Show your Wakatime Activity Stats, Projects and Leaderboards | iammola | macOS | [store](https://www.raycast.com/iammola/wakatime) |
 | [Webflow](https://github.com/raycast/extensions/tree/main/extensions/webflow-sites) | 1,187 | Supercharged productivity for Webflow. Bring Webflow to every corner of your OS. Open any project from anywhere. Site settings and more. | peeks | macOS | [store](https://www.raycast.com/peeks/webflow-sites) |
 | [Kaleidoscope](https://github.com/raycast/extensions/tree/main/extensions/kaleidoscope) | 1,076 | Compare or open content from Raycast in Kaleidoscope. | leitmotif (org) | macOS | [store](https://www.raycast.com/leitmotif/kaleidoscope) |

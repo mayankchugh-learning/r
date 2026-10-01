@@ -67,7 +67,6 @@
 | [akhilesh_dalvi](https://www.raycast.com/akhilesh_dalvi) | 1 | 185 | **Finance:** [Position Size Calculator](https://github.com/raycast/extensions/tree/main/extensions/position-size-calculator) |
 | [akshay_k](https://www.raycast.com/akshay_k) | 1 | 763 | **Productivity:** [Vim Leader Key - Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/vim-leader-key) |
 | [akshit_mehta](https://www.raycast.com/akshit_mehta) | 1 | 337 | **Web:** [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) |
-| [alaidriel](https://www.raycast.com/cecelot) | 1 | 1,257 | **Developer Tools:** [UTM Virtual Machines](https://github.com/raycast/extensions/tree/main/extensions/utm-virtual-machines) |
 | [AlanHuang](https://www.raycast.com/AlanHuang) | 1 | 194 | **Productivity:** [Send to E-Reader](https://github.com/raycast/extensions/tree/main/extensions/send-to-e-reader) |
 | [alanzchen](https://www.raycast.com/alanzchen) | 1 | 13,503 | **Productivity:** [ChatGPT Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-quick-actions) |
 | [alastairsounds](https://www.raycast.com/alastairsounds) | 1 | 5 | **Developer Tools:** [Just](https://github.com/raycast/extensions/tree/main/extensions/just) |
@@ -155,6 +154,7 @@
 | [ApopeOS](https://www.raycast.com/ApopeOS) | 2 | 98 | **Fun:** [Yu-Gi-Oh! Card Lookup](https://github.com/raycast/extensions/tree/main/extensions/yu-gi-oh-card-lookup)<br>**Developer Tools:** [Phare.io Uptime](https://github.com/raycast/extensions/tree/main/extensions/phare-io-uptime) |
 | [appest](https://www.raycast.com/appest) | 1 | 24,667 | **Productivity:** [TickTick](https://github.com/raycast/extensions/tree/main/extensions/ticktick) |
 | [applauselab](https://www.raycast.com/applauselab) | 1 | 17 | **Developer Tools:** [Temporal](https://github.com/raycast/extensions/tree/main/extensions/temporal) |
+| [applepie](https://www.raycast.com/applepie) | 1 | 1,141 | **Productivity:** [UniTex - LaTeX Math to Unicode Text.](https://github.com/raycast/extensions/tree/main/extensions/unitex) |
 | [approxhuman](https://www.raycast.com/approxhuman) | 2 | 230 | **Productivity:** [Open in Shopify Admin](https://github.com/raycast/extensions/tree/main/extensions/open-in-shopify-admin)<br>**Documentation:** [Shopify Polaris Docs](https://github.com/raycast/extensions/tree/main/extensions/shopify-polaris-docs) |
 | [apptiary_com](https://www.raycast.com/apptiary_com) | 1 | 70 | **Productivity:** [TextArray](https://github.com/raycast/extensions/tree/main/extensions/textarray) |
 | [aradbm](https://www.raycast.com/aradbm) | 1 | 783 | **Other:** [Recent Excel - Show Recent Excel Files](https://github.com/raycast/extensions/tree/main/extensions/recent-excel) |

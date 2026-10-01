@@ -85,7 +85,7 @@
 | [kurslog](https://www.raycast.com/kurslog) | 1 | 12 | **Finance:** [Kurslog](https://github.com/raycast/extensions/tree/main/extensions/kurslog) |
 | [kush](https://www.raycast.com/kush) | 1 | 1,154 | **Applications:** [Lookaway](https://github.com/raycast/extensions/tree/main/extensions/lookaway) |
 | [kusthi](https://www.raycast.com/kusthi) | 1 | 165 | **Web:** [Tynyfy - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/tynyfy) |
-| [kvdo2](https://www.raycast.com/kvdo2) | 1 | 256 | **Fun:** [Switch Game Play History](https://github.com/raycast/extensions/tree/main/extensions/switch-game-play-history) |
+| [kvdo2](https://www.raycast.com/kvdo2) | 2 | 934 | **Other:** [V2EX](https://github.com/raycast/extensions/tree/main/extensions/v2ex-viewer)<br>**Fun:** [Switch Game Play History](https://github.com/raycast/extensions/tree/main/extensions/switch-game-play-history) |
 | [Kxrbx](https://www.raycast.com/kxrbx) | 1 | 24 | **Developer Tools:** [Shell Apps](https://github.com/raycast/extensions/tree/main/extensions/shell-apps) |
 | [kyle_samani](https://www.raycast.com/kyle_samani) | 1 | 219 | **Finance:** [Google Finance](https://github.com/raycast/extensions/tree/main/extensions/google-finance) |
 | [kyleawayan](https://www.raycast.com/kyleawayan) | 1 | 7 | **Applications:** [SayIntentions](https://github.com/raycast/extensions/tree/main/extensions/sayintentions) |

@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · **J** · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-135 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+134 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -29,7 +29,6 @@
 | [jasonjiong](https://www.raycast.com/jasonjiong) | 1 | 244 | **Productivity:** [Translate and Send Webpage to Reader](https://github.com/raycast/extensions/tree/main/extensions/translate-send-webpage-to-reader) |
 | [jaspermayone](https://www.raycast.com/jaspermayone) | 1 | 36 | **Other:** [Linkace](https://github.com/raycast/extensions/tree/main/extensions/linkace) |
 | [javierarce](https://www.raycast.com/javierarce) | 2 | 548 | **Design Tools:** [WordPress Icon Finder](https://github.com/raycast/extensions/tree/main/extensions/wordpress-icon-finder)<br>**Documentation:** [Glossary](https://github.com/raycast/extensions/tree/main/extensions/glossary) |
-| [jaykmody](https://www.raycast.com/applepie) | 1 | 1,141 | **Productivity:** [UniTex - LaTeX Math to Unicode Text.](https://github.com/raycast/extensions/tree/main/extensions/unitex) |
 | [jaymcc](https://www.raycast.com/jaymcc) | 1 | 14 | **Productivity:** [Ten Four](https://github.com/raycast/extensions/tree/main/extensions/ten-four) |
 | [jaywcjlove](https://www.raycast.com/jaywcjlove) | 1 | 4,036 | **Developer Tools:** [Search Linux Commands](https://github.com/raycast/extensions/tree/main/extensions/linux-command) |
 | [jberrebi](https://www.raycast.com/jberrebi) | 1 | 13 | **Productivity:** [Align RTL](https://github.com/raycast/extensions/tree/main/extensions/align-rtl) |

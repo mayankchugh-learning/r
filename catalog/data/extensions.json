@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ca153cbcd91bfbb66cb9229d919185e311b1ba6c",
-  "generatedAt": "2026-10-01T09:00:42.777Z",
-  "downloadsRefreshedAt": "2026-10-01T09:00:42.237Z",
+  "commit": "5d682570c3b889ef5479c5aa38bee2fc4ea678f7",
+  "generatedAt": "2026-10-01T09:20:42.363Z",
+  "downloadsRefreshedAt": "2026-10-01T09:20:41.583Z",
   "count": 3351,
   "extensions": [
     {
@@ -2937,7 +2937,7 @@
       ],
       "store": "https://www.raycast.com/alvinkobe/are-na",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/are-na",
-      "treeSha": "d5f4c1c6d1a8302dc8bd1412b22cab461e789466",
+      "treeSha": "f608ab50c027b7b63e88278303be07267f3f24a2",
       "downloads": 290
     },
     {
@@ -3421,7 +3421,7 @@
       ],
       "store": "https://www.raycast.com/xmok/attio",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/attio",
-      "treeSha": "0a71812ca4c1016d46ef6887128367b1097733d3",
+      "treeSha": "4d1be1299d60a3fc8efa0a8f212a71a1490d9c55",
       "downloads": 237
     },
     {
@@ -9590,7 +9590,7 @@
       "name": "code-review-emojis",
       "title": "Code Review Emoji Guide",
       "description": "A simple emoji legend to help convey intention and added meaning in code review comments.",
-      "author": "rus64",
+      "author": "russellyeo",
       "owner": null,
       "contributors": 0,
       "categories": [
@@ -9603,7 +9603,7 @@
       ],
       "store": "https://www.raycast.com/russellyeo/code-review-emojis",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis",
-      "treeSha": "7000cb5e4666a66dee5994d0c035581672d2604c",
+      "treeSha": "54a12dba2a11c9303c33d24e367262c215819234",
       "downloads": 1171
     },
     {
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 608700
+      "downloads": 608717
     },
     {
       "dir": "color-shades",
@@ -20240,7 +20240,7 @@
       ],
       "store": "https://www.raycast.com/thuoe/footy-report",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/footy-report",
-      "treeSha": "62f2b8596bc90e096bee25fccec5161e223eaa9c",
+      "treeSha": "e105b62b90f443528d90791a8c2bc8358177f5d7",
       "downloads": 167
     },
     {
@@ -20492,7 +20492,7 @@
       ],
       "store": "https://www.raycast.com/davidchalifoux/frankerfacez",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/frankerfacez",
-      "treeSha": "e1fb97f86f4ed6beda576e94aab8b50480f2e055",
+      "treeSha": "76923c1d60b782e85609ef81d71aa483881dd398",
       "downloads": 117
     },
     {
@@ -22957,7 +22957,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565651
+      "downloads": 565662
     },
     {
       "dir": "google-chrome-profiles",
@@ -24126,7 +24126,7 @@
       ],
       "store": "https://www.raycast.com/Yukai/hackmd",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/hackmd",
-      "treeSha": "fd9600e906a438c834fdddc5c64251ac0d156187",
+      "treeSha": "5b9ec7b5c6e045a3fc0f2d409cef8b9cd0703d56",
       "downloads": 678
     },
     {
@@ -29468,7 +29468,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 767605
+      "downloads": 767623
     },
     {
       "dir": "kimai",
@@ -45486,7 +45486,7 @@
       ],
       "store": "https://www.raycast.com/postey/postey",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/postey",
-      "treeSha": "66fe2fff27ce9f146446c0a19c08ffa893cd4ea0",
+      "treeSha": "3987cf5511001ed4a9af7cd7e688ca8328ed4e02",
       "downloads": 19
     },
     {
@@ -55117,7 +55117,7 @@
       ],
       "store": "https://www.raycast.com/islamessam/simplebackups",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/simplebackups",
-      "treeSha": "daf4abcaa8813dd47a1fab4049d0238ffdd20fca",
+      "treeSha": "7798e524791964ca44ed63804e5cc1fa2da5f9d2",
       "downloads": 63
     },
     {
@@ -55303,7 +55303,7 @@
       ],
       "store": "https://www.raycast.com/HelloImSteven/sips",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sips",
-      "treeSha": "3424730bfce1bf0818f3c05144f0b885714f5703",
+      "treeSha": "67cd8d4b17998e1b6bcd5447eb67f42dc05b39f5",
       "downloads": 70135
     },
     {
@@ -58222,7 +58222,7 @@
       "name": "sun-moon-times",
       "title": "Sun/Moon Times",
       "description": "Show times for sun and moon for any city in the World.",
-      "author": "danny_seidel",
+      "author": "DannySeidel",
       "owner": null,
       "contributors": 0,
       "categories": [
@@ -58234,7 +58234,7 @@
       ],
       "store": "https://www.raycast.com/DannySeidel/sun-moon-times",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sun-moon-times",
-      "treeSha": "7bdbf0907e7c0fb0c6730082596a5ce7bedb5890",
+      "treeSha": "99dc3b03b196ed5e5d81bc2dfe24012f3f74129b",
       "downloads": 1005
     },
     {
@@ -58749,7 +58749,7 @@
       ],
       "store": "https://www.raycast.com/rickMcGavin/svgr",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/svgr",
-      "treeSha": "ac454e54020d956cb8dc8fe618b778393fb686e6",
+      "treeSha": "5c519c3f642ef66d94edb99ac606e299be94b420",
       "downloads": 2787
     },
     {
@@ -59979,7 +59979,7 @@
       ],
       "store": "https://www.raycast.com/tembo/tembo",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tembo",
-      "treeSha": "14fda7e0a5b5fb2d4153cefbd709d8f14ccd9897",
+      "treeSha": "8494820cc3113d0ed0d80dac8141ebff385df039",
       "downloads": 191
     },
     {
@@ -60749,7 +60749,7 @@
       "name": "the-matrix-of-destiny",
       "title": "The Matrix of Destiny",
       "description": "Quickly go to a date on the Matrix of Destiny",
-      "author": "unitech",
+      "author": "ordin",
       "owner": null,
       "contributors": 0,
       "categories": [
@@ -60761,7 +60761,7 @@
       ],
       "store": "https://www.raycast.com/ordin/the-matrix-of-destiny",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/the-matrix-of-destiny",
-      "treeSha": "e077fc7e80b8e257e2e9d6802b32fbebacb8467d",
+      "treeSha": "705b1a97f7936dc9c254604f1a617baf3c5c5592",
       "downloads": 57
     },
     {
@@ -62896,7 +62896,7 @@
       ],
       "store": "https://www.raycast.com/coding/truth-or-dare",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare",
-      "treeSha": "a2d1894d57b48bdeaa6a3293d430e4aa53fbcba1",
+      "treeSha": "2692cc881b41bca872803c144f907f6e478aa77e",
       "downloads": 779
     },
     {
@@ -64074,7 +64074,7 @@
       "name": "unitex",
       "title": "UniTex - LaTeX Math to Unicode Text.",
       "description": "Convert LaTeX math to Unicode Text.",
-      "author": "jaykmody",
+      "author": "applepie",
       "owner": null,
       "contributors": 0,
       "categories": [
@@ -64086,7 +64086,7 @@
       ],
       "store": "https://www.raycast.com/applepie/unitex",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/unitex",
-      "treeSha": "6423c4f650bbf2bf8f84e70fd8e4684bfbe118d0",
+      "treeSha": "0ee2b92a18d7ed27c893b083340adc4b30fff407",
       "downloads": 1141
     },
     {
@@ -64908,7 +64908,7 @@
       "name": "utm-virtual-machines",
       "title": "UTM Virtual Machines",
       "description": "Launch and control virtual machines in UTM.",
-      "author": "alaidriel",
+      "author": "cecelot",
       "owner": null,
       "contributors": 0,
       "categories": [
@@ -64921,7 +64921,7 @@
       ],
       "store": "https://www.raycast.com/cecelot/utm-virtual-machines",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/utm-virtual-machines",
-      "treeSha": "c6928faa4b0f3516fcd2611857510af53f06f464",
+      "treeSha": "aa51300efd350daf8cc1a4cc039cb5400bcccf57",
       "downloads": 1257
     },
     {
@@ -65012,7 +65012,7 @@
       "name": "v2ex-viewer",
       "title": "V2EX",
       "description": "View V2EX in Raycast.",
-      "author": "daikaiyu",
+      "author": "kvdo2",
       "owner": null,
       "contributors": 0,
       "categories": [
@@ -65024,7 +65024,7 @@
       ],
       "store": "https://www.raycast.com/kvdo2/v2ex-viewer",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/v2ex-viewer",
-      "treeSha": "5d2d94d333ed52092884569c2ec49043d8fdab48",
+      "treeSha": "3bc80f372e4887420fa9028e1ed7e3a6cda1d50a",
       "downloads": 678
     },
     {
@@ -65077,7 +65077,7 @@
       "name": "vaib",
       "title": "vAIb - Your AI Companion",
       "description": "Get quick answers to your quick questions with the power of AI with this free extension.",
-      "author": "vaibhav_sisodiya",
+      "author": "Vaib215",
       "owner": null,
       "contributors": 0,
       "categories": [
@@ -65090,7 +65090,7 @@
       ],
       "store": "https://www.raycast.com/Vaib215/vaib",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/vaib",
-      "treeSha": "9f6569e5b7a5a72f7fae3cfa8eb8005132bbb440",
+      "treeSha": "042d1f5faf640ddd1ab021fed3c3b4b3eaff2e79",
       "downloads": 356
     },
     {
@@ -66872,7 +66872,7 @@
       ],
       "store": "https://www.raycast.com/KevinBatdorf/webkit-developer-docs",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/webkit-developer-docs",
-      "treeSha": "d4e0ec71df03bf307dcf2a17b4fbd4ec34612cd5",
+      "treeSha": "d3e1913b7364a2db5fbef72f30509bfc549f1666",
       "downloads": 177
     },
     {
@@ -68906,7 +68906,7 @@
       ],
       "store": "https://www.raycast.com/vbrs/xkeen-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/xkeen-manager",
-      "treeSha": "1f1c5d74dccf7d244a866be9de212cf1f48cdf83",
+      "treeSha": "a307813c4198dd1c3c9d743855bb128b984f691f",
       "downloads": 2
     },
     {

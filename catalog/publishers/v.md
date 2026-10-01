@@ -6,7 +6,7 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [vaibhav_sisodiya](https://www.raycast.com/Vaib215) | 1 | 356 | **Productivity:** [vAIb - Your AI Companion](https://github.com/raycast/extensions/tree/main/extensions/vaib) |
+| [Vaib215](https://www.raycast.com/Vaib215) | 1 | 356 | **Productivity:** [vAIb - Your AI Companion](https://github.com/raycast/extensions/tree/main/extensions/vaib) |
 | [valenradovich](https://www.raycast.com/valenradovich) | 1 | 438 | **Productivity:** [Grammaring](https://github.com/raycast/extensions/tree/main/extensions/grammaring) |
 | [valentin_denis](https://www.raycast.com/valentin_denis) | 1 | 400 | **Developer Tools:** [DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dns-lookup) |
 | [valentindotxyz](https://www.raycast.com/valentindotxyz) | 1 | 468 | **Developer Tools:** [Search with Algolia](https://github.com/raycast/extensions/tree/main/extensions/algolia) |

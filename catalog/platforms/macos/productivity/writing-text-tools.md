@@ -28,7 +28,7 @@
 | [Jisho - Japanese Dictionary](https://github.com/raycast/extensions/tree/main/extensions/jisho) | 1,428 | Search Jisho.org | dmacdermott | macOS | [store](https://www.raycast.com/dmacdermott/jisho) |
 | [Slugify](https://github.com/raycast/extensions/tree/main/extensions/slugify) | 1,318 | A quick way to slugify text | unreadablename | macOS | [store](https://www.raycast.com/unreadablename/slugify) |
 | [WordReference Dictionary Translation](https://github.com/raycast/extensions/tree/main/extensions/wordreference) | 1,280 | Quickly find a word translation using WordReference | Katatsu | macOS, Windows | [store](https://www.raycast.com/Katatsu/wordreference) |
-| [UniTex - LaTeX Math to Unicode Text.](https://github.com/raycast/extensions/tree/main/extensions/unitex) | 1,141 | Convert LaTeX math to Unicode Text. | jaykmody | macOS | [store](https://www.raycast.com/applepie/unitex) |
+| [UniTex - LaTeX Math to Unicode Text.](https://github.com/raycast/extensions/tree/main/extensions/unitex) | 1,141 | Convert LaTeX math to Unicode Text. | applepie | macOS | [store](https://www.raycast.com/applepie/unitex) |
 | [Fullscreen Text](https://github.com/raycast/extensions/tree/main/extensions/fullscreentext) | 1,011 | Display text fullscreen | pascal_burkhard | macOS | [store](https://www.raycast.com/pascal_burkhard/fullscreentext) |
 | [Synonyms](https://github.com/raycast/extensions/tree/main/extensions/synonyms) | 984 | Find synonyms for words and translate if necessary | xmorse | macOS | [store](https://www.raycast.com/xmorse/synonyms) |
 | [Eudic](https://github.com/raycast/extensions/tree/main/extensions/eudic) | 977 | Intetract with Eudic, seach any word via Raycast | tears330 | macOS | [store](https://www.raycast.com/tears330/eudic) |

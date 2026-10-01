@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · **C** · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-123 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+124 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -32,6 +32,7 @@
 | [catchingnow](https://www.raycast.com/catchingnow) | 1 | 42 | **Applications:** [AndroMeld](https://github.com/raycast/extensions/tree/main/extensions/andromeld) |
 | [Cavallando](https://www.raycast.com/Cavallando) | 1 | 137 | **Developer Tools:** [Logtail](https://github.com/raycast/extensions/tree/main/extensions/logtail) |
 | [cdeligny](https://www.raycast.com/cdeligny) | 1 | 128 | **Productivity:** [AI Usage Tracker](https://github.com/raycast/extensions/tree/main/extensions/ai-usage-tracker) |
+| [cecelot](https://www.raycast.com/cecelot) | 1 | 1,257 | **Developer Tools:** [UTM Virtual Machines](https://github.com/raycast/extensions/tree/main/extensions/utm-virtual-machines) |
 | [cfeigenbutz](https://www.raycast.com/cfeigenbutz) | 1 | 36 | **Productivity:** [Ready](https://github.com/raycast/extensions/tree/main/extensions/readymetrics) |
 | [chad_ashley](https://www.raycast.com/chad_ashley) | 2 | 84 | **Design Tools:** [HDRI Library](https://github.com/raycast/extensions/tree/main/extensions/hdri-library), [PBR Assistant](https://github.com/raycast/extensions/tree/main/extensions/pbr-assistant) |
 | [chad_walters](https://www.raycast.com/chad_walters) | 1 | 81 | **Developer Tools:** [Prusa Printer Control](https://github.com/raycast/extensions/tree/main/extensions/prusa) |
@@ -83,7 +84,7 @@
 | [cmdr](https://www.raycast.com/cmdr) | 1 | 62 | **Data:** [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) |
 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 | **Documentation:** [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) |
 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 12,627 | **Developer Tools:** [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) |
-| [Codely](https://www.raycast.com/Codely) | 1 | 565,651 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
+| [Codely](https://www.raycast.com/Codely) | 1 | 565,662 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
 | [CodetaroMiura](https://www.raycast.com/CodetaroMiura) | 1 | 1,506 | **Finance:** [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab) |
 | [codiini](https://www.raycast.com/codiini) | 1 | 143 | **Productivity:** [Annotely](https://github.com/raycast/extensions/tree/main/extensions/annotely) |
 | [coding](https://www.raycast.com/coding) | 1 | 779 | **Fun:** [Truth or Dare](https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare) |

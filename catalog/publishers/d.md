@@ -2,14 +2,13 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-157 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+155 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [d2a](https://www.raycast.com/d2a) | 1 | 863 | **Media:** [Jellyfin](https://github.com/raycast/extensions/tree/main/extensions/jellyfin) |
 | [d3caf](https://www.raycast.com/d3caf) | 1 | 3,601 | **Uncategorized:** [Clear Clipboard](https://github.com/raycast/extensions/tree/main/extensions/clear-clipboard) |
 | [d7mtg](https://www.raycast.com/d7mtg) | 1 | 200 | **Developer Tools:** [Aleph Tools](https://github.com/raycast/extensions/tree/main/extensions/aleph) |
-| [daikaiyu](https://www.raycast.com/kvdo2) | 1 | 678 | **Other:** [V2EX](https://github.com/raycast/extensions/tree/main/extensions/v2ex-viewer) |
 | [dailin4321](https://www.raycast.com/dailin4321) | 1 | 1,315 | **Productivity:** [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent) |
 | [damdam](https://www.raycast.com/damdam) | 1 | 1,083 | **Productivity:** [Paperless-ngx](https://github.com/raycast/extensions/tree/main/extensions/paperless-ngx) |
 | [damian_zachwieja](https://www.raycast.com/damian_zachwieja) | 2 | 164 | **Security:** [Okta Search](https://github.com/raycast/extensions/tree/main/extensions/oktasearch)<br>**Web:** [Beehiiv](https://github.com/raycast/extensions/tree/main/extensions/beehiiv) |
@@ -34,9 +33,8 @@
 | [daniyal_master](https://www.raycast.com/daniyal_master) | 1 | 1,590 | **Media:** [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) |
 | [danmartuszewski](https://www.raycast.com/danmartuszewski) | 1 | 157 | **Developer Tools:** [Hop](https://github.com/raycast/extensions/tree/main/extensions/hop) |
 | [dannius](https://www.raycast.com/danniuz) | 1 | 209 | **Media:** [Torr Manager](https://github.com/raycast/extensions/tree/main/extensions/torr-manager) |
-| [danny_seidel](https://www.raycast.com/DannySeidel) | 1 | 1,005 | **Data:** [Sun/Moon Times](https://github.com/raycast/extensions/tree/main/extensions/sun-moon-times) |
 | [danny_vogel](https://www.raycast.com/danny_vogel) | 1 | 132 | **Web:** [AntiSocials](https://github.com/raycast/extensions/tree/main/extensions/antisocials) |
-| [DannySeidel](https://www.raycast.com/DannySeidel) | 1 | 141 | **Data:** [Flight Miles Calculator](https://github.com/raycast/extensions/tree/main/extensions/flight-miles-calculator) |
+| [DannySeidel](https://www.raycast.com/DannySeidel) | 2 | 1,146 | **Data:** [Sun/Moon Times](https://github.com/raycast/extensions/tree/main/extensions/sun-moon-times), [Flight Miles Calculator](https://github.com/raycast/extensions/tree/main/extensions/flight-miles-calculator) |
 | [danpalmer](https://www.raycast.com/danpalmer) | 3 | 4,443 | **Productivity:** [Parallels Virtual Machines](https://github.com/raycast/extensions/tree/main/extensions/parallels-virtual-machines)<br>**Finance:** [Monzo](https://github.com/raycast/extensions/tree/main/extensions/monzo)<br>**Communication:** [omg.lol](https://github.com/raycast/extensions/tree/main/extensions/omg-lol) |
 | [dans_huang](https://www.raycast.com/dans_huang) | 1 | 5 | **Applications:** [MenuCloak](https://github.com/raycast/extensions/tree/main/extensions/menucloak) |
 | [danulqua](https://www.raycast.com/danulqua) | 5 | 2,415 | **System:** [Dot Underscore Files Cleaner](https://github.com/raycast/extensions/tree/main/extensions/dot-underscore-files-cleaner), [Toggle Scroll Bars Visibility](https://github.com/raycast/extensions/tree/main/extensions/toggle-scroll-bars-visibility)<br>**Productivity:** [Input Source Switcher](https://github.com/raycast/extensions/tree/main/extensions/input-source-switcher)<br>**Web:** [Web Page Design Mode](https://github.com/raycast/extensions/tree/main/extensions/web-page-design-mode)<br>**Finance:** [monobank](https://github.com/raycast/extensions/tree/main/extensions/monobank) |
