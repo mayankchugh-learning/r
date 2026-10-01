@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1eef376d31894c9b602795701afbfed770c4b27b",
-  "generatedAt": "2026-10-01T18:30:57.844Z",
-  "downloadsRefreshedAt": "2026-10-01T18:30:57.430Z",
+  "commit": "582c6b7f5fa8331b52260fddfb63b0ba8a0b9f49",
+  "generatedAt": "2026-10-01T19:28:36.815Z",
+  "downloadsRefreshedAt": "2026-10-01T19:28:36.394Z",
   "count": 3351,
   "extensions": [
     {
@@ -2933,11 +2933,12 @@
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/alvinkobe/are-na",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/are-na",
-      "treeSha": "f608ab50c027b7b63e88278303be07267f3f24a2",
+      "treeSha": "ee395ef8402fc276221e493cce47871ada886936",
       "downloads": 290
     },
     {
@@ -10228,7 +10229,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 609196
+      "downloads": 609235
     },
     {
       "dir": "color-shades",
@@ -22957,7 +22958,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565988
+      "downloads": 566013
     },
     {
       "dir": "google-chrome-profiles",
@@ -29468,7 +29469,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768160
+      "downloads": 768200
     },
     {
       "dir": "kimai",
@@ -57647,7 +57648,7 @@
       "store": "https://www.raycast.com/KevinBatdorf/steam",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/steam",
       "treeSha": "531adc52cc2476cf31dad7dfd9fecd008bbcfafb",
-      "downloads": 12183
+      "downloads": 12185
     },
     {
       "dir": "steam-player-counts",

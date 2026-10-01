@@ -1,8 +1,8 @@
 # Cross-platform · Web
 
-143 extensions · [← Cross-platform](../README.md)
+144 extensions · [← Cross-platform](../README.md)
 
-[AI Services](#ai-services) (17) · [Social & Communities](#social-communities) (6) · [Search Engines](#search-engines) (50) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (21) · [Browsers & Tabs](#browsers-tabs) (2) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (4) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (32)
+[AI Services](#ai-services) (18) · [Social & Communities](#social-communities) (6) · [Search Engines](#search-engines) (50) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (21) · [Browsers & Tabs](#browsers-tabs) (2) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (4) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (32)
 
 ## Browse & Search
 
@@ -162,6 +162,7 @@
 | [Supermemory](https://github.com/raycast/extensions/tree/main/extensions/supermemory) | 1,500 | Add and search memories with your personal AI-powered knowledge base | supermemory | macOS, Windows | [store](https://www.raycast.com/supermemory/supermemory) |
 | [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 970 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
 | [Prisma Docs Search](https://github.com/raycast/extensions/tree/main/extensions/prisma-docs-search) | 725 | Quickly access Prisma's AI-powered docs search feature, powered by kapa.ai, right from Raycast. | petra | macOS, Windows | [store](https://www.raycast.com/petra/prisma-docs-search) |
+| [Are.na](https://github.com/raycast/extensions/tree/main/extensions/are-na) | 290 | Search and browse Are.na, save blocks, manage channels, and connect ideas with Raycast AI. | alvinkobe | macOS, Windows | [store](https://www.raycast.com/alvinkobe/are-na) |
 | [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | 116 | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/Shadeov/dtf) |
 | [Agent Browser](https://github.com/raycast/extensions/tree/main/extensions/agent-browser) | 98 | Control the agent-browser CLI from Raycast and Raycast AI | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/agent-browser) |
 | [CogniMemo](https://github.com/raycast/extensions/tree/main/extensions/cognimemo) | 66 | Add and search memories with your personal AI-powered knowledge base | sami_ullah_tufail | macOS, Windows | [store](https://www.raycast.com/sami_ullah_tufail/cognimemo) |

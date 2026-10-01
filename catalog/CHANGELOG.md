@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `582c6b7f5f`
+
+**Updated (1):** [Are.na](https://github.com/raycast/extensions/tree/main/extensions/are-na)
+
 ## 2026-10-01 — upstream `1eef376d31`
 
 **Updated (1):** [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam)
