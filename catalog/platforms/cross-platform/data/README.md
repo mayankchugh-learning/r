@@ -33,7 +33,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Diff Checker](https://github.com/raycast/extensions/tree/main/extensions/diff-checker) | 21,545 | Compare content of two texts | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/diff-checker) |
+| [Diff Checker](https://github.com/raycast/extensions/tree/main/extensions/diff-checker) | 21,556 | Compare content of two texts | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/diff-checker) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 6,506 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [LaTeX Board](https://github.com/raycast/extensions/tree/main/extensions/latex-board) | 193 | A LaTeX-friendly clipboard tool for creating, organizing, and copying equations. | 273 | macOS, Windows | [store](https://www.raycast.com/273/latex-board) |
 | [MapleStory](https://github.com/raycast/extensions/tree/main/extensions/maplestory-gg) | 54 | Look up Global MapleStory characters using Nexon rankings. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/maplestory-gg) |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `d6cc000b98`
+
+**Updated (1):** [Diff Checker](https://github.com/raycast/extensions/tree/main/extensions/diff-checker)
+
 ## 2026-10-01 — upstream `e03a96a332`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
