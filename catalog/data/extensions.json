@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1072418e7a26695a1e9d7f3764ddb026280d7101",
-  "generatedAt": "2026-10-01T18:03:19.489Z",
-  "downloadsRefreshedAt": "2026-10-01T18:03:18.920Z",
+  "commit": "970f8ec3d0b5e35d8e3f580a96ea45a8d4d257a8",
+  "generatedAt": "2026-10-01T18:04:26.583Z",
+  "downloadsRefreshedAt": "2026-10-01T18:04:26.294Z",
   "count": 3351,
   "extensions": [
     {
@@ -59589,7 +59589,7 @@
       ],
       "store": "https://www.raycast.com/timrogers/raycast-tapo-smart-devices",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tapo-smart-devices",
-      "treeSha": "afa1e65646f00d42e3b3e269b34fde86786ca3ef",
+      "treeSha": "4b292467ac4d70fa9266cf3c305278e5cfc9188a",
       "downloads": 478
     },
     {
