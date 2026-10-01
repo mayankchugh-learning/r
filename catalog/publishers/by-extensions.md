@@ -9,7 +9,7 @@
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
 | 1 | [xmok](./id/xmok.md) | 114 | 13,046 |
-| 2 | [koinzhang](./id/koinzhang.md) | 50 | 288,376 |
+| 2 | [koinzhang](./id/koinzhang.md) | 50 | 288,384 |
 | 3 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 103,214 |
 | 4 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 185,739 |
 | 5 | [chrismessina](./id/chrismessina.md) | 18 | 7,609 |
@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 168,686 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,694 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,887 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,288,125 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,288,126 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 456,508 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,729 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,335 |
@@ -404,8 +404,8 @@
 | 394 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 395 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 2 | 9 |
 | 396 | github-next | 2 | — |
-| 397 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,221 |
-| 398 | [Codely](https://www.raycast.com/Codely) | 1 | 566,024 |
+| 397 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,222 |
+| 398 | [Codely](https://www.raycast.com/Codely) | 1 | 566,025 |
 | 399 | [linear](https://www.raycast.com/linear) | 1 | 399,384 |
 | 400 | [mommertf](https://www.raycast.com/mommertf) | 1 | 332,235 |
 | 401 | [nhojb](https://www.raycast.com/nhojb) | 1 | 290,851 |
