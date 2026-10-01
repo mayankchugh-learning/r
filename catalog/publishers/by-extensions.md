@@ -1,6 +1,6 @@
 # Publishers
 
-2248 publishers · [← catalog index](../README.md)
+2249 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -404,7 +404,7 @@
 | 394 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 395 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 2 | 9 |
 | 396 | github-next | 2 | — |
-| 397 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,220 |
+| 397 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,221 |
 | 398 | [Codely](https://www.raycast.com/Codely) | 1 | 566,024 |
 | 399 | [linear](https://www.raycast.com/linear) | 1 | 399,384 |
 | 400 | [mommertf](https://www.raycast.com/mommertf) | 1 | 332,235 |
@@ -2253,6 +2253,7 @@
 | 2243 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
 | 2244 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
 | 2245 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2246 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2247 | eugenio | 1 | — |
-| 2248 | multi | 1 | — |
+| 2246 | [ray.dhruv](https://www.raycast.com/ray.dhruv) | 1 | 0 |
+| 2247 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2248 | eugenio | 1 | — |
+| 2249 | multi | 1 | — |

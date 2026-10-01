@@ -1,8 +1,8 @@
 # Cross-platform · Applications
 
-80 extensions · [← Cross-platform](../README.md)
+81 extensions · [← Cross-platform](../README.md)
 
-[AI & Chat Apps](#ai-chat-apps) (6) · [Notes, PKM & Study Apps](#notes-pkm-study-apps) (7) · [Productivity & Task Apps](#productivity-task-apps) (5) · [Music & Audio Apps](#music-audio-apps) (2) · [Media & Photo Apps](#media-photo-apps) (8) · [Automation & Input Apps](#automation-input-apps) (2) · [Network & Connection Apps](#network-connection-apps) (2) · [Analytics & Stats Apps](#analytics-stats-apps) (3) · [Developer Apps](#developer-apps) (1) · [Apple & Built-in Apps](#apple-built-in-apps) (2) · [Files, Sync & Upload](#files-sync-upload) (3) · [Faith & Lifestyle Apps](#faith-lifestyle-apps) (1) · [Launchers & App Control](#launchers-app-control) (5) · [General](#general) (33)
+[AI & Chat Apps](#ai-chat-apps) (6) · [Notes, PKM & Study Apps](#notes-pkm-study-apps) (7) · [Productivity & Task Apps](#productivity-task-apps) (5) · [Music & Audio Apps](#music-audio-apps) (2) · [Media & Photo Apps](#media-photo-apps) (9) · [Automation & Input Apps](#automation-input-apps) (2) · [Network & Connection Apps](#network-connection-apps) (2) · [Analytics & Stats Apps](#analytics-stats-apps) (3) · [Developer Apps](#developer-apps) (1) · [Apple & Built-in Apps](#apple-built-in-apps) (2) · [Files, Sync & Upload](#files-sync-upload) (3) · [Faith & Lifestyle Apps](#faith-lifestyle-apps) (1) · [Launchers & App Control](#launchers-app-control) (5) · [General](#general) (33)
 
 ## Work & Knowledge Apps
 
@@ -60,6 +60,7 @@
 | [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy) | 77 | Search, capture, and manage your Workflowy account from Raycast. | rodolfo_lopez | macOS, Windows | [store](https://www.raycast.com/rodolfo_lopez/workflowy) |
 | [PicGo](https://github.com/raycast/extensions/tree/main/extensions/picgo) | 61 | Easily use PicGo to upload your images to image hosts in Raycast. | rubisco0211 | macOS, Windows | [store](https://www.raycast.com/rubisco0211/picgo) |
 | [Flameshot](https://github.com/raycast/extensions/tree/main/extensions/flameshot) | 28 | Capture screenshots with Flameshot | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/flameshot) |
+| [Museum](https://github.com/raycast/extensions/tree/main/extensions/try-museum) | 0 | Find public domain artworks by color. Browse palettes, copy images, and discover art from museum collections. | ray.dhruv | Windows, macOS | [store](https://www.raycast.com/ray.dhruv/try-museum) |
 
 ## Developer & Power-User Apps
 

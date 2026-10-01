@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f58ba193d6cc521de5815f7ee1bff1507b2174f8",
-  "generatedAt": "2026-10-01T19:57:31.629Z",
-  "downloadsRefreshedAt": "2026-10-01T19:57:29.874Z",
-  "count": 3351,
+  "commit": "0453b5a7bbc8cb143cbf6674085141ca13b530bd",
+  "generatedAt": "2026-10-01T19:59:27.170Z",
+  "downloadsRefreshedAt": "2026-10-01T19:59:26.548Z",
+  "count": 3352,
   "extensions": [
     {
       "dir": "0x0",
@@ -29469,7 +29469,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768220
+      "downloads": 768221
     },
     {
       "dir": "kimai",
@@ -62921,6 +62921,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/try",
       "treeSha": "ed7cb850659bc45cc8b00abbc9f6f6183b3e07b6",
       "downloads": 70
+    },
+    {
+      "dir": "try-museum",
+      "name": "try-museum",
+      "title": "Museum",
+      "description": "Find public domain artworks by color. Browse palettes, copy images, and discover art from museum collections.",
+      "author": "ray.dhruv",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Design Tools",
+        "Applications"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/ray.dhruv/try-museum",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/try-museum",
+      "treeSha": "7f6285861d14c3f15942f2dee35996e0f17913be",
+      "downloads": 0
     },
     {
       "dir": "tscheck-in",

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `0453b5a7bb`
+
+**Added (1):** [Museum](https://github.com/raycast/extensions/tree/main/extensions/try-museum)
+
 ## 2026-10-01 — upstream `f58ba193d6`
 
 **Updated (1):** [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper)

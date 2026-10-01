@@ -1,8 +1,8 @@
 # Media & Photo Apps
 
-26 extensions · [← Applications](./README.md)
+27 extensions · [← Applications](./README.md)
 
-[Capture ✦](#capture) (12) · [Image ✦](#image) (6) · [Video ✦](#video) (4) · [General](#general) (4)
+[Capture ✦](#capture) (12) · [Images ✦](#images) (7) · [Video ✦](#video) (4) · [General](#general) (4)
 
 *✦ auto-discovered topic group*
 
@@ -23,7 +23,7 @@
 | [Windows Screenshot](https://github.com/raycast/extensions/tree/main/extensions/windows-screenshot) | 4 | Capture full screen, selected region, or active window on Windows. | afaan_mushtaq | Windows | [store](https://www.raycast.com/afaan_mushtaq/windows-screenshot) |
 | [Zoomer](https://github.com/raycast/extensions/tree/main/extensions/zoomer) | 0 | Capture screenshots, control recordings, and open Zoomer from Raycast. | colindotfun | macOS | [store](https://www.raycast.com/colindotfun/zoomer) |
 
-## Image ✦
+## Images ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -33,6 +33,7 @@
 | [CLIPPyX](https://github.com/raycast/extensions/tree/main/extensions/clippyx) | 333 | CLIPPyX provides an OS-wide image search that supports semantic search in both image content and text on images | 0ssamaak0 | macOS | [store](https://www.raycast.com/0ssamaak0/clippyx) |
 | [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | 190 | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
 | [PicGo](https://github.com/raycast/extensions/tree/main/extensions/picgo) | 61 | Easily use PicGo to upload your images to image hosts in Raycast. | rubisco0211 | macOS, Windows | [store](https://www.raycast.com/rubisco0211/picgo) |
+| [Museum](https://github.com/raycast/extensions/tree/main/extensions/try-museum) | 0 | Find public domain artworks by color. Browse palettes, copy images, and discover art from museum collections. | ray.dhruv | Windows, macOS | [store](https://www.raycast.com/ray.dhruv/try-museum) |
 
 ## Video ✦
 
