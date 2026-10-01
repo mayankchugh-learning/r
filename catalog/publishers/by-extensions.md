@@ -19,13 +19,13 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 168,554 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,672 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,887 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,287,066 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,287,167 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 456,119 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,714 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,321 |
 | 16 | [j3lte](./id/j3lte.md) | 13 | 11,186 |
 | 17 | [kud](./id/kud.md) | 13 | 7,257 |
-| 18 | [raycast](./id/raycast.md) | 11 | 898,915 |
+| 18 | [raycast](./id/raycast.md) | 11 | 898,978 |
 | 19 | [Rob](./id/rob.md) | 11 | 12,304 |
 | 20 | [Yukai](./id/yukai.md) | 11 | 10,447 |
 | 21 | [xilopaint](./id/xilopaint.md) | 10 | 23,039 |
@@ -404,8 +404,8 @@
 | 394 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 395 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 2 | 9 |
 | 396 | github-next | 2 | — |
-| 397 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 767,702 |
-| 398 | [Codely](https://www.raycast.com/Codely) | 1 | 565,719 |
+| 397 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 767,808 |
+| 398 | [Codely](https://www.raycast.com/Codely) | 1 | 565,775 |
 | 399 | [linear](https://www.raycast.com/linear) | 1 | 399,106 |
 | 400 | [mommertf](https://www.raycast.com/mommertf) | 1 | 331,933 |
 | 401 | [nhojb](https://www.raycast.com/nhojb) | 1 | 290,699 |
@@ -661,7 +661,7 @@
 | 651 | [frugoman](https://www.raycast.com/frugoman) | 1 | 1,932 |
 | 652 | [carterm](https://www.raycast.com/carterm) | 1 | 1,907 |
 | 653 | [lunaris](https://www.raycast.com/lunaris) | 1 | 1,894 |
-| 654 | [izyuumi](https://www.raycast.com/izyuumi) | 1 | 1,884 |
+| 654 | [izyuumi](https://www.raycast.com/izyuumi) | 1 | 1,891 |
 | 655 | [rauno](https://www.raycast.com/rauno) | 1 | 1,882 |
 | 656 | [pieces](https://www.raycast.com/pieces) | 1 | 1,872 |
 | 657 | [Mokkapps](https://www.raycast.com/Mokkapps) | 1 | 1,866 |

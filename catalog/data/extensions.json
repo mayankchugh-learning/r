@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "d6cc000b9896abfabff2764483ebcc78c9569f64",
-  "generatedAt": "2026-10-01T10:57:32.768Z",
-  "downloadsRefreshedAt": "2026-10-01T10:57:32.283Z",
+  "commit": "b01a7e7509da708798dd69e4af08e8af2a2a17e4",
+  "generatedAt": "2026-10-01T12:52:50.586Z",
+  "downloadsRefreshedAt": "2026-10-01T12:52:50.119Z",
   "count": 3351,
   "extensions": [
     {
@@ -2626,7 +2626,7 @@
       "store": "https://www.raycast.com/raycast/apple-reminders",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-reminders",
       "treeSha": "96829fcfe3afb21781f4e6127dd0d5919d57bc1c",
-      "downloads": 120612
+      "downloads": 120675
     },
     {
       "dir": "apple-stocks-search",
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 608786
+      "downloads": 608887
     },
     {
       "dir": "color-shades",
@@ -22957,7 +22957,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565719
+      "downloads": 565775
     },
     {
       "dir": "google-chrome-profiles",
@@ -29468,7 +29468,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 767702
+      "downloads": 767808
     },
     {
       "dir": "kimai",
@@ -46321,8 +46321,8 @@
       ],
       "store": "https://www.raycast.com/izyuumi/proton-pass",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/proton-pass",
-      "treeSha": "7386bbce15d4646c1bf42b58ca4ca9ebe932afa7",
-      "downloads": 1884
+      "treeSha": "1ceb4510abef2bbe99f80899cbcc72114caae3a9",
+      "downloads": 1891
     },
     {
       "dir": "proton-version",

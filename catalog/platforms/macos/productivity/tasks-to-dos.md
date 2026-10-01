@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) | 120,612 | Manage Apple Reminders. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-reminders) |
+| [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) | 120,675 | Manage Apple Reminders. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-reminders) |
 | [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 95,956 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
 | [Things](https://github.com/raycast/extensions/tree/main/extensions/things) | 41,429 | Search and manage your Things to-dos from Raycast | loris | macOS | [store](https://www.raycast.com/loris/things) |
 | [TickTick](https://github.com/raycast/extensions/tree/main/extensions/ticktick) | 24,667 | Check and search tasks in TickTick via Raycast | appest | macOS | [store](https://www.raycast.com/appest/ticktick) |
