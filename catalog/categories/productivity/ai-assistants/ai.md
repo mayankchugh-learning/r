@@ -1,8 +1,8 @@
 # AI ✦
 
-108 extensions · [← AI & Assistants](./README.md)
+109 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Model ✦](#model) (13) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (5) · [Openai ✦](#openai) (7) · [Prompts ✦](#prompts) (4) · [General](#general) (56)
+[Powered ✦](#powered) (16) · [Model ✦](#model) (13) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (5) · [Openai ✦](#openai) (7) · [Prompts ✦](#prompts) (4) · [Tasks ✦](#tasks) (4) · [General](#general) (53)
 
 *✦ auto-discovered topic group*
 
@@ -88,12 +88,20 @@
 | [Shell Buddy](https://github.com/raycast/extensions/tree/main/extensions/shell-buddy) | 1,591 | Converts natural language prompts to shell commands with AI | jebraat | macOS | [store](https://www.raycast.com/jebraat/shell-buddy) |
 | [PromptNote](https://github.com/raycast/extensions/tree/main/extensions/promptnote) | 175 | Manage your AI prompts with versioning and cloud sync | dimpurr | macOS | [store](https://www.raycast.com/dimpurr/promptnote) |
 
+## Tasks ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) | 14,204 | AI scheduling for Google & Outlook Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar | reclaim-ai (org) | macOS, Windows | [store](https://www.raycast.com/reclaim-ai/reclaim-ai) |
+| [Coze](https://github.com/raycast/extensions/tree/main/extensions/coze) | 226 | Coze is an AI assistant that can help you with various tasks, including writing, translation, and coding. This extension allows you to use Coze directly in Ray… | chyroc | macOS | [store](https://www.raycast.com/chyroc/coze) |
+| [Manus](https://github.com/raycast/extensions/tree/main/extensions/manus) | 193 | Search and manage Manus AI tasks | KthKuang | macOS, Windows | [store](https://www.raycast.com/KthKuang/manus) |
+| [awork](https://github.com/raycast/extensions/tree/main/extensions/awork) | 107 | Search projects and tasks, create and edit tasks, log time, and start new awork AI threads. | hypercode (org) | macOS, Windows | [store](https://www.raycast.com/hypercode/awork) |
+
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama) | 41,597 | Perform Local Inference with Ollama | massimiliano_pasquini | macOS, Windows | [store](https://www.raycast.com/massimiliano_pasquini/raycast-ollama) |
-| [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) | 14,204 | AI scheduling for Google & Outlook Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar | reclaim-ai (org) | macOS, Windows | [store](https://www.raycast.com/reclaim-ai/reclaim-ai) |
 | [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | 13,381 | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
 | [Code Execution](https://github.com/raycast/extensions/tree/main/extensions/code-execution) | 4,983 | Give Raycast AI the ability to run Python, Bash, and AppleScript | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/code) |
 | [Memory](https://github.com/raycast/extensions/tree/main/extensions/memory) | 4,381 | Knowledge Graph Memory for Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/memory) |
@@ -121,10 +129,8 @@
 | [Kimi](https://github.com/raycast/extensions/tree/main/extensions/kimi) | 291 | Interact with Moonshot AI's Kimi LLM directly from Raycast | degouville | macOS | [store](https://www.raycast.com/degouville/kimi) |
 | [Language Detector](https://github.com/raycast/extensions/tree/main/extensions/language-detector) | 252 | Detect languages through Raycast AI or third-party language detectors. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/language-detector) |
 | [Translate and Send Webpage to Reader](https://github.com/raycast/extensions/tree/main/extensions/translate-send-webpage-to-reader) | 244 | Fetch the content of the active webpage, translate using Raycast AI, and save to Reader Later. visite https://readwise.io/access_token to get readwise token | jasonjiong | macOS | [store](https://www.raycast.com/jasonjiong/translate-send-webpage-to-reader) |
-| [Coze](https://github.com/raycast/extensions/tree/main/extensions/coze) | 226 | Coze is an AI assistant that can help you with various tasks, including writing, translation, and coding. This extension allows you to use Coze directly in Ray… | chyroc | macOS | [store](https://www.raycast.com/chyroc/coze) |
 | [SnapAsk](https://github.com/raycast/extensions/tree/main/extensions/snapask) | 208 | Get instant AI answers for your questions. | renzo | macOS | [store](https://www.raycast.com/renzo/snapask) |
 | [Text Enhance](https://github.com/raycast/extensions/tree/main/extensions/text-enhance) | 197 | Enhance drafts with Raycast AI or your own API key, copy results, and refine with follow-up corrections. | max13021302 | macOS | [store](https://www.raycast.com/max13021302/text-enhance) |
-| [Manus](https://github.com/raycast/extensions/tree/main/extensions/manus) | 193 | Search and manage Manus AI tasks | KthKuang | macOS, Windows | [store](https://www.raycast.com/KthKuang/manus) |
 | [Penflow AI](https://github.com/raycast/extensions/tree/main/extensions/penflow-ai) | 154 | Think & Write in English, Not your First Language (for Chinese now) | Fchen | macOS | [store](https://www.raycast.com/Fchen/penflow-ai) |
 | [AI Usage Tracker](https://github.com/raycast/extensions/tree/main/extensions/ai-usage-tracker) | 128 | Track your AI premium requests usage and compare it with the remaining % of working days in the current month to see if you are ahead or behind. | cdeligny | macOS, Windows | [store](https://www.raycast.com/cdeligny/ai-usage-tracker) |
 | [Cloudflare Workers AI](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-ai) | 119 | Interact with Cloudflare Workers AI directly in your Raycast window | dharmin_nagar | macOS, Windows | [store](https://www.raycast.com/dharmin_nagar/cloudflare-ai) |

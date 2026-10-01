@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "da6e481e5db37967c7ffb79d67f5ad81814808f3",
-  "generatedAt": "2026-10-01T01:54:37.944Z",
-  "downloadsRefreshedAt": "2026-10-01T01:54:37.545Z",
+  "commit": "41e285e2a76aaca56406a40d4fc68fa6fc0c4b9c",
+  "generatedAt": "2026-10-01T01:56:23.270Z",
+  "downloadsRefreshedAt": "2026-10-01T01:56:22.642Z",
   "count": 3343,
   "extensions": [
     {
@@ -3622,7 +3622,7 @@
       "dir": "awork",
       "name": "awork",
       "title": "awork",
-      "description": "Search projects and tasks, create tasks, and log time in awork.",
+      "description": "Search projects and tasks, create and edit tasks, log time, and start new awork AI threads.",
       "author": "hypercode-dev",
       "owner": "hypercode",
       "contributors": 3,
@@ -3636,7 +3636,7 @@
       ],
       "store": "https://www.raycast.com/hypercode/awork",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/awork",
-      "treeSha": "23ae23675c3f7bfe5856775322203b220a9c4864",
+      "treeSha": "dff1c7c03182a1ed3f0949633d072b3d3f46f0e6",
       "downloads": 107
     },
     {
@@ -22916,7 +22916,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565440
+      "downloads": 565441
     },
     {
       "dir": "google-chrome-profiles",
@@ -29406,7 +29406,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 767310
+      "downloads": 767312
     },
     {
       "dir": "kimai",

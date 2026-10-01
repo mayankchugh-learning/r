@@ -6,7 +6,7 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [Tasks & To-Dos](./tasks-to-dos.md) | 19 |
+| [Tasks & To-Dos](./tasks-to-dos.md) | 18 |
 | [Calendar & Scheduling](./calendar-scheduling.md) | 8 |
 | [Notes & Knowledge](./notes-knowledge.md) | 12 |
 | [Time Tracking & Focus](./time-tracking-focus.md) | 4 |
@@ -15,7 +15,7 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & Assistants](./ai-assistants.md) | 36 |
+| [AI & Assistants](./ai-assistants.md) | 37 |
 | [Writing & Text Tools](./writing-text-tools.md) | 20 |
 | [Documents & Files](./documents-files.md) | 28 |
 | [Email](./email.md) | 8 |

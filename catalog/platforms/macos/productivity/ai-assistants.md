@@ -2,7 +2,7 @@
 
 **AI & Assistants** · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-139 of 1512 extensions · [← macOS · Productivity](./README.md)
+140 of 1512 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -105,6 +105,7 @@
 | [Cloudflare Workers AI](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-ai) | 119 | Interact with Cloudflare Workers AI directly in your Raycast window | dharmin_nagar | macOS, Windows | [store](https://www.raycast.com/dharmin_nagar/cloudflare-ai) |
 | [Read My Screen](https://github.com/raycast/extensions/tree/main/extensions/read-my-screen) | 117 | AI screenshot and browser reader: OCR, explain errors, summarize pages, and review UI with GPT-4o, Claude, or Gemini. Use region, window, or full-screen captur… | erbilnas | macOS | [store](https://www.raycast.com/erbilnas/read-my-screen) |
 | [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts) | 116 | Quickly find and open your Claude Artifacts. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/claude-artifacts) |
+| [awork](https://github.com/raycast/extensions/tree/main/extensions/awork) | 107 | Search projects and tasks, create and edit tasks, log time, and start new awork AI threads. | hypercode (org) | macOS, Windows | [store](https://www.raycast.com/hypercode/awork) |
 | [Clipmate AI](https://github.com/raycast/extensions/tree/main/extensions/clipmate) | 106 | Save links to your Clipmate account | clipmate (org) | macOS | [store](https://www.raycast.com/clipmate/clipmate) |
 | [Inkeep](https://github.com/raycast/extensions/tree/main/extensions/inkeep) | 102 | Interact with Inkeep Completions API to get AI-powered answers from your knowledge base. | marcklingen | macOS | [store](https://www.raycast.com/marcklingen/inkeep) |
 | [ToneClone](https://github.com/raycast/extensions/tree/main/extensions/toneclone) | 95 | Write with AI without sounding like AI. Write with AI using your unique voice and style with a model trained on your writing. To get started, you'll need a Ton… | jfox | macOS | [store](https://www.raycast.com/jfox/toneclone) |

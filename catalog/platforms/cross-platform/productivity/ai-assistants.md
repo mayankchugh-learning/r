@@ -2,7 +2,7 @@
 
 **AI & Assistants** · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-36 of 369 extensions · [← Cross-platform · Productivity](./README.md)
+37 of 369 extensions · [← Cross-platform · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -32,6 +32,7 @@
 | [AI Usage Tracker](https://github.com/raycast/extensions/tree/main/extensions/ai-usage-tracker) | 128 | Track your AI premium requests usage and compare it with the remaining % of working days in the current month to see if you are ahead or behind. | cdeligny | macOS, Windows | [store](https://www.raycast.com/cdeligny/ai-usage-tracker) |
 | [Word4you](https://github.com/raycast/extensions/tree/main/extensions/word4you) | 125 | AI-Powered English Word Learning/Collecting Tool | gnehz972 | macOS, Windows | [store](https://www.raycast.com/gnehz972/word4you) |
 | [Cloudflare Workers AI](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-ai) | 119 | Interact with Cloudflare Workers AI directly in your Raycast window | dharmin_nagar | macOS, Windows | [store](https://www.raycast.com/dharmin_nagar/cloudflare-ai) |
+| [awork](https://github.com/raycast/extensions/tree/main/extensions/awork) | 107 | Search projects and tasks, create and edit tasks, log time, and start new awork AI threads. | hypercode (org) | macOS, Windows | [store](https://www.raycast.com/hypercode/awork) |
 | [CogniMemo](https://github.com/raycast/extensions/tree/main/extensions/cognimemo) | 66 | Add and search memories with your personal AI-powered knowledge base | sami_ullah_tufail | macOS, Windows | [store](https://www.raycast.com/sami_ullah_tufail/cognimemo) |
 | [Val Town](https://github.com/raycast/extensions/tree/main/extensions/val-town) | 61 | Browse your vals, read their logs and traces, and allow Raycast AI to run the ones you choose | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/val-town) |
 | [OpenCode](https://github.com/raycast/extensions/tree/main/extensions/opencode) | 42 | Use models from your OpenCode Console workspace in Raycast AI | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/opencode) |

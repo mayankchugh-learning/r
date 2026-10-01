@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · **Tasks & To-Dos** · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-51 of 1512 extensions · [← macOS · Productivity](./README.md)
+50 of 1512 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -32,7 +32,6 @@
 | [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) | 131 | Manage your Manus tasks | wong2 | macOS, Windows | [store](https://www.raycast.com/wong2/manus-manager) |
 | [Beeminder](https://github.com/raycast/extensions/tree/main/extensions/beeminder) | 121 | Manage your Beeminder goals from Raycast | vivgui | macOS | [store](https://www.raycast.com/vivgui/beeminder) |
 | [Super Productivity](https://github.com/raycast/extensions/tree/main/extensions/super-productivity) | 113 | Manage Super Productivity tasks, projects, tags, and time tracking from Raycast. | pvnkmnk | macOS, Windows | [store](https://www.raycast.com/pvnkmnk/super-productivity) |
-| [awork](https://github.com/raycast/extensions/tree/main/extensions/awork) | 107 | Search projects and tasks, create tasks, and log time in awork. | hypercode (org) | macOS, Windows | [store](https://www.raycast.com/hypercode/awork) |
 | [Braintick](https://github.com/raycast/extensions/tree/main/extensions/braintick) | 100 | Manage your tasks, projects, and time tracking with Braintick - your productivity companion | samarpit_santoki | macOS | [store](https://www.raycast.com/samarpit_santoki/braintick) |
 | [Yazio Tracker](https://github.com/raycast/extensions/tree/main/extensions/yazio-tracker) | 83 | View your daily goals and calories in Yazio, and log food directly from Raycast. | zsombor_biro | Windows, macOS | [store](https://www.raycast.com/zsombor_biro/yazio-tracker) |
 | [Vikunja Task Manager](https://github.com/raycast/extensions/tree/main/extensions/vikunja) | 72 | Create and manage tasks in your self-hosted Vikunja instance | flexorflex | macOS | [store](https://www.raycast.com/flexorflex/vikunja) |

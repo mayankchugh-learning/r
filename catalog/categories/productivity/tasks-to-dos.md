@@ -1,8 +1,8 @@
 # Tasks & To-Dos
 
-51 extensions · [← Productivity](./README.md)
+50 extensions · [← Productivity](./README.md)
 
-[Tasks ✦](#tasks) (38) · [Reminders ✦](#reminders) (5) · [General](#general) (8)
+[Tasks ✦](#tasks) (37) · [Reminders ✦](#reminders) (5) · [General](#general) (8)
 
 *✦ auto-discovered topic group*
 
@@ -27,7 +27,6 @@
 | [TickTick+](https://github.com/raycast/extensions/tree/main/extensions/ticktick-plus) | 144 | Manage TickTick tasks, projects, habits, and focus sessions from Raycast. | ysrazsingh | macOS | [store](https://www.raycast.com/ysrazsingh/ticktick-plus) |
 | [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) | 131 | Manage your Manus tasks | wong2 | macOS, Windows | [store](https://www.raycast.com/wong2/manus-manager) |
 | [Super Productivity](https://github.com/raycast/extensions/tree/main/extensions/super-productivity) | 113 | Manage Super Productivity tasks, projects, tags, and time tracking from Raycast. | pvnkmnk | macOS, Windows | [store](https://www.raycast.com/pvnkmnk/super-productivity) |
-| [awork](https://github.com/raycast/extensions/tree/main/extensions/awork) | 107 | Search projects and tasks, create tasks, and log time in awork. | hypercode (org) | macOS, Windows | [store](https://www.raycast.com/hypercode/awork) |
 | [Braintick](https://github.com/raycast/extensions/tree/main/extensions/braintick) | 100 | Manage your tasks, projects, and time tracking with Braintick - your productivity companion | samarpit_santoki | macOS | [store](https://www.raycast.com/samarpit_santoki/braintick) |
 | [Vikunja Task Manager](https://github.com/raycast/extensions/tree/main/extensions/vikunja) | 72 | Create and manage tasks in your self-hosted Vikunja instance | flexorflex | macOS | [store](https://www.raycast.com/flexorflex/vikunja) |
 | [TXTodo](https://github.com/raycast/extensions/tree/main/extensions/txtodo) | 58 | Manage tasks in todo.txt plain-text format from Raycast | lacasa | macOS | [store](https://www.raycast.com/lacasa/txtodo) |

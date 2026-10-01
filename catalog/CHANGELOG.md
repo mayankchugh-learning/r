@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `41e285e2a7`
+
+**Updated (1):** [awork](https://github.com/raycast/extensions/tree/main/extensions/awork)
+
 ## 2026-10-01 — upstream `da6e481e5d`
 
 **Updated (1):** [Digger](https://github.com/raycast/extensions/tree/main/extensions/digger)
