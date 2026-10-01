@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `a9773b7b65`
+
+**Updated (1):** [Val Town](https://github.com/raycast/extensions/tree/main/extensions/val-town)
+
 ## 2026-10-01 — upstream `71a722cd01`
 
 **Updated (1):** [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api)
