@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 168,554 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,672 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,887 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,286,997 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,287,056 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 456,119 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,714 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,321 |
@@ -31,7 +31,7 @@
 | 21 | [xilopaint](./id/xilopaint.md) | 10 | 23,039 |
 | 22 | [andreaselia](./id/andreaselia.md) | 10 | 4,163 |
 | 23 | [destiner](https://www.raycast.com/destiner) | 9 | 234,250 |
-| 24 | [HelloImSteven](https://www.raycast.com/HelloImSteven) | 9 | 102,567 |
+| 24 | [HelloImSteven](https://www.raycast.com/HelloImSteven) | 9 | 102,596 |
 | 25 | [pradeepb28](https://www.raycast.com/pradeepb28) | 9 | 33,190 |
 | 26 | [ViGeng](https://www.raycast.com/ViGeng) | 9 | 19,352 |
 | 27 | [mSarheed](https://www.raycast.com/mSarheed) | 9 | 3,737 |
@@ -404,8 +404,8 @@
 | 394 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 395 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 2 | 9 |
 | 396 | github-next | 2 | — |
-| 397 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 767,623 |
-| 398 | [Codely](https://www.raycast.com/Codely) | 1 | 565,662 |
+| 397 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 767,692 |
+| 398 | [Codely](https://www.raycast.com/Codely) | 1 | 565,711 |
 | 399 | [linear](https://www.raycast.com/linear) | 1 | 399,106 |
 | 400 | [mommertf](https://www.raycast.com/mommertf) | 1 | 331,933 |
 | 401 | [nhojb](https://www.raycast.com/nhojb) | 1 | 290,542 |
@@ -778,7 +778,7 @@
 | 768 | [lucastaonline](https://www.raycast.com/lucastaonline) | 1 | 1,182 |
 | 769 | [eliperkins](https://www.raycast.com/eliperkins) | 1 | 1,180 |
 | 770 | [facundo_prieto](https://www.raycast.com/facundo_prieto) | 1 | 1,177 |
-| 771 | [russellyeo](https://www.raycast.com/russellyeo) | 1 | 1,171 |
+| 771 | [russellyeo](https://www.raycast.com/russellyeo) | 1 | 1,173 |
 | 772 | [dilutedev](https://www.raycast.com/dilutedev) | 1 | 1,167 |
 | 773 | [roamresearch](https://www.raycast.com/roamresearch) | 1 | 1,164 |
 | 774 | [niallpaterson](https://www.raycast.com/niallpaterson) | 1 | 1,160 |

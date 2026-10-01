@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `d072dc2e03`
+
+**Updated (1):** [Where Is My Cursor?](https://github.com/raycast/extensions/tree/main/extensions/where-is-my-cursor)
+
 ## 2026-10-01 — upstream `5d682570c3`
 
 **Updated (20):** [Are.na](https://github.com/raycast/extensions/tree/main/extensions/are-na), [Attio](https://github.com/raycast/extensions/tree/main/extensions/attio), [Code Review Emoji Guide](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis), [Footy Report](https://github.com/raycast/extensions/tree/main/extensions/footy-report), [FrankerFaceZ Emotes](https://github.com/raycast/extensions/tree/main/extensions/frankerfacez), [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd), [Postey](https://github.com/raycast/extensions/tree/main/extensions/postey), [SimpleBackups](https://github.com/raycast/extensions/tree/main/extensions/simplebackups), [Image Modification](https://github.com/raycast/extensions/tree/main/extensions/sips), [Sun/Moon Times](https://github.com/raycast/extensions/tree/main/extensions/sun-moon-times), [SVGR](https://github.com/raycast/extensions/tree/main/extensions/svgr), [Tembo](https://github.com/raycast/extensions/tree/main/extensions/tembo), [The Matrix of Destiny](https://github.com/raycast/extensions/tree/main/extensions/the-matrix-of-destiny), [Truth or Dare](https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare), [UniTex - LaTeX Math to Unicode Text.](https://github.com/raycast/extensions/tree/main/extensions/unitex), [UTM Virtual Machines](https://github.com/raycast/extensions/tree/main/extensions/utm-virtual-machines), [V2EX](https://github.com/raycast/extensions/tree/main/extensions/v2ex-viewer), [vAIb - Your AI Companion](https://github.com/raycast/extensions/tree/main/extensions/vaib), [WebKit Developer Documentation](https://github.com/raycast/extensions/tree/main/extensions/webkit-developer-docs), [XKeen Manager](https://github.com/raycast/extensions/tree/main/extensions/xkeen-manager)

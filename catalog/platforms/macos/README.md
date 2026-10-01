@@ -39,7 +39,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [System](./system/README.md) | 264 |
+| [System](./system/README.md) | 265 |
 | [Other](./other/README.md) | 184 |
 
 ### Fun & Entertainment
@@ -52,4 +52,4 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Uncategorized](./uncategorized/README.md) | 113 |
+| [Uncategorized](./uncategorized/README.md) | 112 |

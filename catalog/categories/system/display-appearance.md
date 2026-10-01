@@ -1,6 +1,6 @@
 # Display & Appearance
 
-18 extensions · [← System](./README.md)
+19 extensions · [← System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -14,6 +14,7 @@
 | [Pick Your Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/pick-your-wallpaper) | 1,804 | Lets you pick a wallpaper from a folder of finder. | hugomarfani | macOS | [store](https://www.raycast.com/hugomarfani/pick-your-wallpaper) |
 | [Hellonext Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/hellonext-wallpapers) | 1,458 | Download and set Hellonext's exclusive wallpapers. | karthik | macOS | [store](https://www.raycast.com/karthik/hellonext-wallpapers) |
 | [PaperMatch](https://github.com/raycast/extensions/tree/main/extensions/papermatch) | 559 | Toggle the system's appearance while updating the wallpaper for each appearance mode. | marlonr | macOS | [store](https://www.raycast.com/marlonr/papermatch) |
+| [Where Is My Cursor?](https://github.com/raycast/extensions/tree/main/extensions/where-is-my-cursor) | 401 | Visual aid to find cursor, specially useful when utilizing more than 1 monitor. | luciodaou | macOS | [store](https://www.raycast.com/luciodaou/where-is-my-cursor) |
 | [Display Input Switcher](https://github.com/raycast/extensions/tree/main/extensions/display-input-switcher) | 246 | Switches your monitor's input source using Raycast and m1ddc | clins1994 | macOS | [store](https://www.raycast.com/clins1994/display-input-switcher) |
 | [Display Reinitializer](https://github.com/raycast/extensions/tree/main/extensions/display-reinitializer) | 223 | Force re-detection and reinitialization of connected displays with multiple methods (DDC, refresh rate, resolution cycle) | JosNun | macOS | [store](https://www.raycast.com/JosNun/display-reinitializer) |
 | [Extend Display](https://github.com/raycast/extensions/tree/main/extensions/extend-display) | 188 | Connect to remote displays and preserve audio output | pavzagor | macOS | [store](https://www.raycast.com/pavzagor/extend-display) |

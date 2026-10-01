@@ -93,7 +93,7 @@
 | [rogovk](https://www.raycast.com/rogovk) | 1 | 6 | **Productivity:** [Keyboard Layout Search](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search) |
 | [rokartur](https://www.raycast.com/rokartur) | 2 | 1,025 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
 | [rokcso](https://www.raycast.com/rokcso) | 1 | 724 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
-| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 767,623 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
+| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 767,692 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
 | [rolfkoenders](https://www.raycast.com/RolfKoenders) | 1 | 21 | **Productivity:** [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) |
 | [Romain](https://www.raycast.com/Romain) | 1 | 637 | **Applications:** [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) |
 | [romain_lajeunesse](https://www.raycast.com/romain_lajeunesse) | 1 | 4 | **Developer Tools:** [Gatus Status](https://github.com/raycast/extensions/tree/main/extensions/gatus-status) |
@@ -115,7 +115,7 @@
 | [runningdeveloper](https://www.raycast.com/runningdeveloper) | 1 | 35 | **Developer Tools:** [South African Fake ID Number Generator](https://github.com/raycast/extensions/tree/main/extensions/za-fake-id-number-generator) |
 | [rushi_gandhi](https://www.raycast.com/rushi_gandhi) | 1 | 7 | **Productivity:** [Logbook](https://github.com/raycast/extensions/tree/main/extensions/logbook) |
 | [ruslan-korneev](https://www.raycast.com/ruslan-korneev) | 1 | 5 | **Productivity:** [Dondori](https://github.com/raycast/extensions/tree/main/extensions/dondori) |
-| [russellyeo](https://www.raycast.com/russellyeo) | 1 | 1,171 | **Documentation:** [Code Review Emoji Guide](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis) |
+| [russellyeo](https://www.raycast.com/russellyeo) | 1 | 1,173 | **Documentation:** [Code Review Emoji Guide](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis) |
 | [rvaccone](https://www.raycast.com/rvaccone) | 1 | 16 | **Developer Tools:** [Effect Docs](https://github.com/raycast/extensions/tree/main/extensions/effect-docs) |
 | [rxtsel](https://www.raycast.com/rxtsel) | 1 | 14 | **Productivity:** [RPass](https://github.com/raycast/extensions/tree/main/extensions/rpass) |
 | [ryan](https://www.raycast.com/ryan) | 1 | 14,860 | **Media:** [IMDb Search](https://github.com/raycast/extensions/tree/main/extensions/imdb) |

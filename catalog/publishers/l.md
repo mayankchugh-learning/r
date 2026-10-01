@@ -71,7 +71,7 @@
 | [lucasmezencio](https://www.raycast.com/lucasmezencio) | 1 | 750 | **Developer Tools:** [HTTP.cat Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http.cat) |
 | [lucasmotta](https://www.raycast.com/lucasmotta) | 1 | 68 | **Documentation:** [Base UI Components](https://github.com/raycast/extensions/tree/main/extensions/base-ui-docs) |
 | [lucastaonline](https://www.raycast.com/lucastaonline) | 1 | 1,182 | **Communication:** [Language Tool - Spell & Grammar Checker](https://github.com/raycast/extensions/tree/main/extensions/language-tool) |
-| [luciodaou](https://www.raycast.com/luciodaou) | 1 | 401 | **Uncategorized:** [Where Is My Cursor?](https://github.com/raycast/extensions/tree/main/extensions/where-is-my-cursor) |
+| [luciodaou](https://www.raycast.com/luciodaou) | 1 | 401 | **System:** [Where Is My Cursor?](https://github.com/raycast/extensions/tree/main/extensions/where-is-my-cursor) |
 | [luctst](https://www.raycast.com/luctst) | 1 | 567 | **Design Tools:** [Paper](https://github.com/raycast/extensions/tree/main/extensions/paper) |
 | [ludafa](https://www.raycast.com/ludafa) | 1 | 321 | **Media:** [ImageKit Uploader](https://github.com/raycast/extensions/tree/main/extensions/imagekit-uploader) |
 | [luiggircardoso](https://www.raycast.com/luiggircardoso) | 1 | 115 | **Fun:** [Cat Images](https://github.com/raycast/extensions/tree/main/extensions/get-cat-images) |

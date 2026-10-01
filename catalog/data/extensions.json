@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "5d682570c3b889ef5479c5aa38bee2fc4ea678f7",
-  "generatedAt": "2026-10-01T09:20:42.363Z",
-  "downloadsRefreshedAt": "2026-10-01T09:20:41.583Z",
+  "commit": "d072dc2e031ef2d77a22d6e8e906e6db192a8c73",
+  "generatedAt": "2026-10-01T10:44:54.117Z",
+  "downloadsRefreshedAt": "2026-10-01T10:44:53.636Z",
   "count": 3351,
   "extensions": [
     {
@@ -9604,7 +9604,7 @@
       "store": "https://www.raycast.com/russellyeo/code-review-emojis",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis",
       "treeSha": "54a12dba2a11c9303c33d24e367262c215819234",
-      "downloads": 1171
+      "downloads": 1173
     },
     {
       "dir": "code-runway",
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 608717
+      "downloads": 608776
     },
     {
       "dir": "color-shades",
@@ -22957,7 +22957,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565662
+      "downloads": 565711
     },
     {
       "dir": "google-chrome-profiles",
@@ -29468,7 +29468,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 767623
+      "downloads": 767692
     },
     {
       "dir": "kimai",
@@ -55304,7 +55304,7 @@
       "store": "https://www.raycast.com/HelloImSteven/sips",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sips",
       "treeSha": "67cd8d4b17998e1b6bcd5447eb67f42dc05b39f5",
-      "downloads": 70135
+      "downloads": 70164
     },
     {
       "dir": "sir-golf",
@@ -67112,15 +67112,15 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "System"
       ],
-      "manifestCategorized": false,
+      "manifestCategorized": true,
       "platforms": [
         "macOS"
       ],
       "store": "https://www.raycast.com/luciodaou/where-is-my-cursor",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/where-is-my-cursor",
-      "treeSha": "d209df9e90a2fec25cfbf06354b9df54bbf78746",
+      "treeSha": "5d03f914541b3a12bb871e4e652cfab48f9adf12",
       "downloads": 401
     },
     {
