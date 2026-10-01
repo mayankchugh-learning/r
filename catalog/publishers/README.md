@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,286,322 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,286,323 |
 | 2 | [raycast](./id/raycast.md) | 11 | 898,372 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 767,313 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 565,442 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 767,316 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 565,444 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 493,351 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 489,665 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 455,839 |
@@ -1251,7 +1251,7 @@
 | 1241 | [d7mtg](https://www.raycast.com/d7mtg) | 1 | 199 |
 | 1242 | [oh-dear](https://www.raycast.com/oh-dear) | 1 | 199 |
 | 1243 | [vrn](https://www.raycast.com/vrn) | 1 | 199 |
-| 1244 | [Olli0103](https://www.raycast.com/Olli0103) | 3 | 198 |
+| 1244 | [Olli0103](https://www.raycast.com/Olli0103) | 4 | 198 |
 | 1245 | [davidyannick](https://www.raycast.com/davidyannick) | 2 | 198 |
 | 1246 | [betty_van_aken](https://www.raycast.com/betty_van_aken) | 1 | 198 |
 | 1247 | [chkzz](https://www.raycast.com/chkzz) | 1 | 198 |

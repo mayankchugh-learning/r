@@ -1,8 +1,8 @@
 # Developer Tools
 
-1144 extensions · [← all categories](../README.md)
+1145 extensions · [← all categories](../README.md)
 
-macOS: 1131 · Windows: 331
+macOS: 1132 · Windows: 331
 
 ## Code & Collaboration
 
@@ -28,7 +28,7 @@ macOS: 1131 · Windows: 331
 | Topic | Extensions |
 | --- | --- |
 | [AI & LLM Tools](./ai-llm-tools/README.md) | 133 |
-| [Web & Frontend](./web-frontend.md) | 65 |
+| [Web & Frontend](./web-frontend.md) | 66 |
 | [Mobile & App Development](./mobile-app-development.md) | 30 |
 | [Web3 & Blockchain](./web3-blockchain.md) | 16 |
 

@@ -1,8 +1,8 @@
 # Documents & Files
 
-137 extensions · [← Productivity](./README.md)
+138 extensions · [← Productivity](./README.md)
 
-[Folder ✦](#folder) (31) · [Documents ✦](#documents) (18) · [Finder ✦](#finder) (8) · [Upload ✦](#upload) (14) · [Download ✦](#download) (10) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Local ✦](#local) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (35)
+[Folder ✦](#folder) (32) · [Documents ✦](#documents) (18) · [Finder ✦](#finder) (8) · [Upload ✦](#upload) (14) · [Download ✦](#download) (10) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Local ✦](#local) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (35)
 
 *✦ auto-discovered topic group*
 
@@ -41,6 +41,7 @@
 | [Folder Scope](https://github.com/raycast/extensions/tree/main/extensions/folder-scope) | 36 | Search the contents of files in your active Finder folder or any folder you select. | omer_aydemir | macOS | [store](https://www.raycast.com/omer_aydemir/folder-scope) |
 | [Dated Folder](https://github.com/raycast/extensions/tree/main/extensions/dated-folder) | 21 | Create a folder named after today's date and open it in your terminal | fhf1121 | macOS, Windows | [store](https://www.raycast.com/fhf1121/dated-folder) |
 | [Project Folders](https://github.com/raycast/extensions/tree/main/extensions/project-folders) | 6 | Browse creative project folders and jump to Asana, Google Drive, and Frame.io links. | hugini | macOS | [store](https://www.raycast.com/hugini/project-folders) |
+| [Jev](https://github.com/raycast/extensions/tree/main/extensions/jev) | 0 | Run saved checks, file documents into configured folders, and search browser bookmarks with TypeSafe Jev. | Olli0103 | macOS | [store](https://www.raycast.com/Olli0103/jev) |
 
 ## Documents ✦
 

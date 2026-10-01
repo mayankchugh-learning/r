@@ -1,8 +1,8 @@
 # Web & Frontend
 
-65 extensions · [← Developer Tools](./README.md)
+66 extensions · [← Developer Tools](./README.md)
 
-[Components ✦](#components) (14) · [Documentation ✦](#documentation) (4) · [CSS ✦](#css) (10) · [Website ✦](#website) (9) · [Tabs ✦](#tabs) (4) · [General](#general) (24)
+[Components ✦](#components) (14) · [Documentation ✦](#documentation) (4) · [CSS ✦](#css) (10) · [Website ✦](#website) (9) · [Tabs ✦](#tabs) (4) · [General](#general) (25)
 
 *✦ auto-discovered topic group*
 
@@ -100,3 +100,4 @@
 | [ShowMD](https://github.com/raycast/extensions/tree/main/extensions/showmd) | 51 | Open your markdown files as readable pages in your browser. Edit them right there, and everything stays on your computer. | l0kyurue1 | macOS, Windows | [store](https://www.raycast.com/l0kyurue1/showmd) |
 | [Contrast Lab](https://github.com/raycast/extensions/tree/main/extensions/contrast-lab) | 28 | Check color contrast with WCAG 2 and APCA. Live preview, a one-tap nearest-passing fix, and HEX, RGB, HSL, and OKLCH input. | fracazo | macOS | [store](https://www.raycast.com/fracazo/contrast-lab) |
 | [AsafAmos — Accessibility Scanner](https://github.com/raycast/extensions/tree/main/extensions/asafamos-accessibility-scanner) | 11 | Scan any URL for WCAG 2.1 / 2.2 AA accessibility violations and browse axe-core results in Raycast. | asafamos | macOS, Windows | [store](https://www.raycast.com/asafamos/asafamos-accessibility-scanner) |
+| [Jev](https://github.com/raycast/extensions/tree/main/extensions/jev) | 0 | Run saved checks, file documents into configured folders, and search browser bookmarks with TypeSafe Jev. | Olli0103 | macOS | [store](https://www.raycast.com/Olli0103/jev) |

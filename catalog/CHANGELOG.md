@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `e2180abb9d`
+
+**Added (1):** [Jev](https://github.com/raycast/extensions/tree/main/extensions/jev)
+
 ## 2026-10-01 — upstream `3a0ce1c6f8`
 
 **Added (1):** [Music Recognizer](https://github.com/raycast/extensions/tree/main/extensions/music-recognizer)

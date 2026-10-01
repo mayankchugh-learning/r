@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · **Web & Frontend** · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-65 of 1131 extensions · [← macOS · Developer Tools](./README.md)
+66 of 1132 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -71,3 +71,4 @@
 | [Open Props](https://github.com/raycast/extensions/tree/main/extensions/open-props) | 20 | Search and copy CSS custom properties from the Open Props design system. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/open-props) |
 | [UI Component Search](https://github.com/raycast/extensions/tree/main/extensions/ui-component-search) | 18 | Search and browse components across shadcn/ui, PrimeNG, Angular Material, spartan/ui, Taiga UI, Mantine, React Spectrum, and Chakra UI | tomer_meirov | Windows, macOS | [store](https://www.raycast.com/tomer_meirov/ui-component-search) |
 | [AsafAmos — Accessibility Scanner](https://github.com/raycast/extensions/tree/main/extensions/asafamos-accessibility-scanner) | 11 | Scan any URL for WCAG 2.1 / 2.2 AA accessibility violations and browse axe-core results in Raycast. | asafamos | macOS, Windows | [store](https://www.raycast.com/asafamos/asafamos-accessibility-scanner) |
+| [Jev](https://github.com/raycast/extensions/tree/main/extensions/jev) | 0 | Run saved checks, file documents into configured folders, and search browser bookmarks with TypeSafe Jev. | Olli0103 | macOS | [store](https://www.raycast.com/Olli0103/jev) |
