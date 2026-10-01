@@ -115,7 +115,7 @@
 | [smoya](https://www.raycast.com/smoya) | 1 | 203 | **Developer Tools:** [AsyncAPI](https://github.com/raycast/extensions/tree/main/extensions/asyncapi) |
 | [smry](https://www.raycast.com/smry) | 1 | 4 | **Productivity:** [Smry](https://github.com/raycast/extensions/tree/main/extensions/smry) |
 | [Sn0wye](https://www.raycast.com/Sn0wye) | 1 | 9,021 | **Design Tools:** [Lucide Icons Search](https://github.com/raycast/extensions/tree/main/extensions/lucide-icons) |
-| [snaka](https://www.raycast.com/snaka) | 1 | 215 | **Developer Tools:** [LGTMeow](https://github.com/raycast/extensions/tree/main/extensions/lgtmeow) |
+| [snaka](https://www.raycast.com/snaka) | 2 | 215 | **Developer Tools:** [LGTMeow](https://github.com/raycast/extensions/tree/main/extensions/lgtmeow)<br>**Security:** [Privacy Mask](https://github.com/raycast/extensions/tree/main/extensions/privmask) |
 | [solomkinmv](https://www.raycast.com/solomkinmv) | 2 | 7,845 | **Productivity:** [Shortcuts Search](https://github.com/raycast/extensions/tree/main/extensions/shortcuts-search), [Polidict](https://github.com/raycast/extensions/tree/main/extensions/polidict) |
 | [Songkeys](https://www.raycast.com/Songkeys) | 1 | 77 | **Web:** [Crossbell](https://github.com/raycast/extensions/tree/main/extensions/crossbell) |
 | [SonicSpark](https://www.raycast.com/SonicSpark) | 1 | 5,571 | **Finance:** [Coinmarketcap Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/coinmarketcap-crypto-crawler) |
@@ -171,7 +171,7 @@
 | [svenhofman](https://www.raycast.com/svenhofman) | 1 | 4,541 | **Productivity:** [Hide My Email](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail) |
 | [SvenTiigi](https://www.raycast.com/SvenTiigi) | 1 | 16,828 | **Developer Tools:** [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) |
 | [swayam_mehta](https://www.raycast.com/swayam_mehta) | 2 | 1,666 | **Developer Tools:** [Ip Finder - Network Scanner](https://github.com/raycast/extensions/tree/main/extensions/ip-finder)<br>**Other:** [Bhagavad Gita Quotes](https://github.com/raycast/extensions/tree/main/extensions/bhagavad-gita-quotes) |
-| sworup_ku | 1 | — | **Productivity:** [CueNow](https://github.com/raycast/extensions/tree/main/extensions/cuenow) |
+| [sworup_ku](https://www.raycast.com/sworup_ku) | 1 | 0 | **Productivity:** [CueNow](https://github.com/raycast/extensions/tree/main/extensions/cuenow) |
 | [sxn](https://www.raycast.com/sxn) | 1 | 2,259 | **Productivity:** [Fork Repositories](https://github.com/raycast/extensions/tree/main/extensions/fork-repositories) |
 | [syhchen](https://www.raycast.com/syhchen) | 1 | 558 | **Applications:** [Capture](https://github.com/raycast/extensions/tree/main/extensions/capture) |
 | [Synacek](https://www.raycast.com/Synacek) | 1 | 440 | **Developer Tools:** [HTML Colors](https://github.com/raycast/extensions/tree/main/extensions/html-colors) |

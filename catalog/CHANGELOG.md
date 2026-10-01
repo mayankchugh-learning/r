@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `674a9fbf32`
+
+**Added (1):** [Privacy Mask](https://github.com/raycast/extensions/tree/main/extensions/privmask)
+
 ## 2026-10-01 — upstream `09b1bb025d`
 
 **Added (1):** [CueNow](https://github.com/raycast/extensions/tree/main/extensions/cuenow)

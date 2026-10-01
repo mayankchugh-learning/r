@@ -1,8 +1,8 @@
 # Code, Snippets & Text Utilities
 
-99 extensions · [← Developer Tools](./README.md)
+100 extensions · [← Developer Tools](./README.md)
 
-[Code ✦](#code) (28) · [Format ✦](#format) (12) · [Markdown ✦](#markdown) (9) · [Clipboard ✦](#clipboard) (8) · [Json ✦](#json) (7) · [Between ✦](#between) (6) · [General](#general) (29)
+[Code ✦](#code) (28) · [Format ✦](#format) (12) · [Markdown ✦](#markdown) (9) · [Clipboard ✦](#clipboard) (8) · [Json ✦](#json) (7) · [Between ✦](#between) (6) · [General](#general) (30)
 
 *✦ auto-discovered topic group*
 
@@ -139,3 +139,4 @@
 | [Tex2Typst](https://github.com/raycast/extensions/tree/main/extensions/tex2typst) | 66 | Convert TeX to Typst and vice versa | nac-39 | macOS, Windows | [store](https://www.raycast.com/nac-39/tex2typst) |
 | [FIX Helper](https://github.com/raycast/extensions/tree/main/extensions/fix-helper) | 28 | Quickly parse, analyze, and understand FIX messages with ease. | tianwg | macOS, Windows | [store](https://www.raycast.com/tianwg/fix-helper) |
 | [Fillerama](https://github.com/raycast/extensions/tree/main/extensions/fillerama) | 26 | Generate filler text using quotes from Futurama, The Simpsons, Monty Python, Arrested Development, Dexter, Doctor Who, and Star Wars. | pryley | macOS, Windows | [store](https://www.raycast.com/pryley/fillerama) |
+| [Privacy Mask](https://github.com/raycast/extensions/tree/main/extensions/privmask) | — | Find personal information in text and mask it before you share it, entirely on your Mac — Japanese names, addresses and My Numbers included. | snaka | macOS | — |

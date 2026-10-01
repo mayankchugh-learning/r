@@ -1,6 +1,6 @@
 # Network & Privacy
 
-12 extensions · [← Security](./README.md)
+13 extensions · [← Security](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -16,3 +16,4 @@
 | [VivaPB](https://github.com/raycast/extensions/tree/main/extensions/vivapb) | 82 | Browse the web in privacy with the Vivaldi Browser. | Codrkoaz | macOS | [store](https://www.raycast.com/Codrkoaz/vivapb) |
 | [Viscosity](https://github.com/raycast/extensions/tree/main/extensions/viscosity) | 37 | Manage your Viscosity VPN connections directly from Raycast: list, connect, and disconnect with ease. | yigitefe | macOS | [store](https://www.raycast.com/yigitefe/viscosity) |
 | [XKeen Manager](https://github.com/raycast/extensions/tree/main/extensions/xkeen-manager) | 2 | Manage the xkeen (Xray) proxy client on Keenetic routers over SSH: status, server profiles, routing rules, backups and health checks | vbrs | macOS | [store](https://www.raycast.com/vbrs/xkeen-manager) |
+| [Privacy Mask](https://github.com/raycast/extensions/tree/main/extensions/privmask) | — | Find personal information in text and mask it before you share it, entirely on your Mac — Japanese names, addresses and My Numbers included. | snaka | macOS | — |

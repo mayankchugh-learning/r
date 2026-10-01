@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "09b1bb025de0529a0a00bf32473d6ef2504a65d6",
-  "generatedAt": "2026-10-01T02:11:20.537Z",
-  "downloadsRefreshedAt": "2026-10-01T02:11:20.126Z",
-  "count": 3346,
+  "commit": "674a9fbf32d7ef656336380928c698300b72724a",
+  "generatedAt": "2026-10-01T02:14:40.106Z",
+  "downloadsRefreshedAt": "2026-10-01T02:14:39.213Z",
+  "count": 3347,
   "extensions": [
     {
       "dir": "0x0",
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 608424
+      "downloads": 608427
     },
     {
       "dir": "color-shades",
@@ -12162,10 +12162,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/sworup_ku/cuenow",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/cuenow",
       "treeSha": "a48fa0d2fce2e3357c1dc00f8ceea11bf245597b",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "cuid-generator",
@@ -22936,7 +22936,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565446
+      "downloads": 565449
     },
     {
       "dir": "google-chrome-profiles",
@@ -29447,7 +29447,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 767318
+      "downloads": 767322
     },
     {
       "dir": "kimai",
@@ -45854,6 +45854,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/privileges",
       "treeSha": "d5ca5cf33d986d3fd762d3f4fe2c7531fce8a0ff",
       "downloads": 331
+    },
+    {
+      "dir": "privmask",
+      "name": "privmask",
+      "title": "Privacy Mask",
+      "description": "Find personal information in text and mask it before you share it, entirely on your Mac — Japanese names, addresses and My Numbers included.",
+      "author": "snaka",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Security",
+        "Developer Tools",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/privmask",
+      "treeSha": "28a44c97e6376f74591d02337611579e9ffce9cb",
+      "downloads": null
     },
     {
       "dir": "productboard",

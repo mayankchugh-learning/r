@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,286,324 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,286,327 |
 | 2 | [raycast](./id/raycast.md) | 11 | 898,372 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 767,318 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 565,446 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 767,322 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 565,449 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 493,351 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 489,665 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 455,839 |
@@ -1216,10 +1216,10 @@
 | 1206 | [eunchurn](https://www.raycast.com/eunchurn) | 1 | 216 |
 | 1207 | [matan](https://www.raycast.com/matan) | 1 | 216 |
 | 1208 | [RensHoogendam](https://www.raycast.com/RensHoogendam) | 1 | 216 |
-| 1209 | [albertoxamin](https://www.raycast.com/albertoxamin) | 1 | 215 |
-| 1210 | [apoorv](https://www.raycast.com/apoorv) | 1 | 215 |
-| 1211 | [gilbarbara](https://www.raycast.com/gilbarbara) | 1 | 215 |
-| 1212 | [snaka](https://www.raycast.com/snaka) | 1 | 215 |
+| 1209 | [snaka](https://www.raycast.com/snaka) | 2 | 215 |
+| 1210 | [albertoxamin](https://www.raycast.com/albertoxamin) | 1 | 215 |
+| 1211 | [apoorv](https://www.raycast.com/apoorv) | 1 | 215 |
+| 1212 | [gilbarbara](https://www.raycast.com/gilbarbara) | 1 | 215 |
 | 1213 | [spyrae](https://www.raycast.com/spyrae) | 1 | 215 |
 | 1214 | [luarmr](https://www.raycast.com/luarmr) | 3 | 214 |
 | 1215 | [leepyd](https://www.raycast.com/leepyd) | 1 | 214 |
@@ -2249,8 +2249,8 @@
 | 2239 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
 | 2240 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
 | 2241 | [Seigiard](https://www.raycast.com/Seigiard) | 1 | 0 |
-| 2242 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
-| 2243 | github-next | 2 | — |
-| 2244 | eugenio | 1 | — |
-| 2245 | multi | 1 | — |
-| 2246 | sworup_ku | 1 | — |
+| 2242 | [sworup_ku](https://www.raycast.com/sworup_ku) | 1 | 0 |
+| 2243 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
+| 2244 | github-next | 2 | — |
+| 2245 | eugenio | 1 | — |
+| 2246 | multi | 1 | — |
