@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2229eeeb3844ccfb610e6c02448569aa1abad5fa",
-  "generatedAt": "2026-10-01T19:53:29.369Z",
-  "downloadsRefreshedAt": "2026-10-01T19:53:28.583Z",
+  "commit": "b21cd2be1bb857a9ff223de0f2578217c1706db7",
+  "generatedAt": "2026-10-01T19:55:37.980Z",
+  "downloadsRefreshedAt": "2026-10-01T19:55:37.269Z",
   "count": 3351,
   "extensions": [
     {
@@ -10229,7 +10229,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 609249
+      "downloads": 609251
     },
     {
       "dir": "color-shades",
@@ -22958,7 +22958,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566022
+      "downloads": 566023
     },
     {
       "dir": "google-chrome-profiles",
@@ -29469,7 +29469,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768215
+      "downloads": 768218
     },
     {
       "dir": "kimai",
@@ -36515,7 +36515,7 @@
       "dir": "moodist",
       "name": "moodist",
       "title": "Moodist",
-      "description": "Ambient sound mixer for focus and relaxation. Layer multiple sounds, save presets, and control from your menu bar.",
+      "description": "Ambient sound mixer for focus and relaxation. Layer over 80 sounds, save presets, set a sleep timer, and control it all from your menu bar.",
       "author": "chandlervdw",
       "owner": null,
       "contributors": 1,
@@ -36529,7 +36529,7 @@
       ],
       "store": "https://www.raycast.com/chandlervdw/moodist",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/moodist",
-      "treeSha": "75080d4236f836618af690e307848ea6fe82a7d8",
+      "treeSha": "2289aba9cd8af2a139b3c428be1f79e38d43c60b",
       "downloads": 141
     },
     {

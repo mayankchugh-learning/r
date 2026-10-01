@@ -2,7 +2,7 @@
 
 26 extensions · [← Productivity](./README.md)
 
-[Timer ✦](#timer) (11) · [Focus ✦](#focus) (7) · [Breaks ✦](#breaks) (5) · [General](#general) (3)
+[Timer ✦](#timer) (12) · [Focus ✦](#focus) (6) · [Breaks ✦](#breaks) (5) · [General](#general) (3)
 
 *✦ auto-discovered topic group*
 
@@ -21,6 +21,7 @@
 | [Tim](https://github.com/raycast/extensions/tree/main/extensions/tim) | 466 | Manage your timers for Tim from Raycast | tm.wrnr | macOS | [store](https://www.raycast.com/tm.wrnr/tim) |
 | [Comodoro](https://github.com/raycast/extensions/tree/main/extensions/comodoro) | 245 | Control Comodoro, a Pomodor timer | jns | macOS | [store](https://www.raycast.com/jns/comodoro) |
 | [Pomo](https://github.com/raycast/extensions/tree/main/extensions/pomo) | 228 | Control Pomo, a minimal Pomodoro timer for your macOS menu bar | claud | macOS | [store](https://www.raycast.com/claud/pomo) |
+| [Moodist](https://github.com/raycast/extensions/tree/main/extensions/moodist) | 141 | Ambient sound mixer for focus and relaxation. Layer over 80 sounds, save presets, set a sleep timer, and control it all from your menu bar. | chandlervdw | macOS | [store](https://www.raycast.com/chandlervdw/moodist) |
 
 ## Focus ✦
 
@@ -31,7 +32,6 @@
 | [Focus](https://github.com/raycast/extensions/tree/main/extensions/focus) | 800 | Control Focus App – Website and App Blocker for Mac | ernest | macOS | [store](https://www.raycast.com/ernest/focus) |
 | [Focus Anchor](https://github.com/raycast/extensions/tree/main/extensions/focus-anchor) | 380 | Anchor your focus on the most important thing | ashleyhindle | macOS | [store](https://www.raycast.com/ashleyhindle/focus-anchor) |
 | [Hyper Focus](https://github.com/raycast/extensions/tree/main/extensions/hyper-focus) | 283 | Controls the hyper-focus command line daemon which blocks distracting websites and apps. | iloveitaly | macOS | [store](https://www.raycast.com/iloveitaly/hyper-focus) |
-| [Moodist](https://github.com/raycast/extensions/tree/main/extensions/moodist) | 141 | Ambient sound mixer for focus and relaxation. Layer multiple sounds, save presets, and control from your menu bar. | chandlervdw | macOS | [store](https://www.raycast.com/chandlervdw/moodist) |
 | [Fox Hop](https://github.com/raycast/extensions/tree/main/extensions/foxhop) | 10 | Focus a specific Firefox tab from anywhere — manage your tab targets and generate per-tab hotkey scripts. | kud | macOS | [store](https://www.raycast.com/kud/foxhop) |
 
 ## Breaks ✦
