@@ -1,8 +1,8 @@
 # Music ✦
 
-23 extensions · [← Music & Audio](./README.md)
+24 extensions · [← Music & Audio](./README.md)
 
-[Song ✦](#song) (6) · [Keyboard ✦](#keyboard) (4) · [Play ✦](#play) (4) · [General](#general) (9)
+[Song ✦](#song) (7) · [Keyboard ✦](#keyboard) (4) · [Play ✦](#play) (4) · [General](#general) (9)
 
 *✦ auto-discovered topic group*
 
@@ -16,6 +16,7 @@
 | [Music Assistant Controls](https://github.com/raycast/extensions/tree/main/extensions/music-assistant-controls) | 413 | Control music assistant and displays current song in the menu bar | yoerivd | macOS, Windows | [store](https://www.raycast.com/yoerivd/music-assistant-controls) |
 | [Navidrome](https://github.com/raycast/extensions/tree/main/extensions/navidrome) | 328 | Search and browse your Navidrome music library. Find artists, albums, songs, and playlists, then open them directly in your browser. | alexandervarney | macOS | [store](https://www.raycast.com/alexandervarney/navidrome) |
 | [Eurovision Song Contest](https://github.com/raycast/extensions/tree/main/extensions/eurovision-song-contest) | 45 | Discover information about the world's largest live music event | jacpd | macOS, Windows | [store](https://www.raycast.com/jacpd/eurovision-song-contest) |
+| [Music Recognizer](https://github.com/raycast/extensions/tree/main/extensions/music-recognizer) | 0 | Identify the song playing on your PC by recording a few seconds of system audio. | erenalparslan | Windows | [store](https://www.raycast.com/erenalparslan/music-recognizer) |
 
 ## Keyboard ✦
 

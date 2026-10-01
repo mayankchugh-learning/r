@@ -1,10 +1,10 @@
 # Music & Audio
 
-64 extensions · [← Media](../README.md)
+65 extensions · [← Media](../README.md)
 
 | Topic | Extensions |
 | --- | --- |
-| [Music ✦](./music.md) | 23 |
+| [Music ✦](./music.md) | 24 |
 | [Audio ✦](./audio.md) | 12 |
 | [Song ✦](./song.md) | 7 |
 | [Keyboard ✦](./keyboard.md) | 5 |

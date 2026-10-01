@@ -1,8 +1,8 @@
 # Windows · Media
 
-91 extensions · [← Windows](../README.md)
+92 extensions · [← Windows](../README.md)
 
-[Music & Audio](#music-audio) (15) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (17) · [Wallpapers & Art](#wallpapers-art) (6) · [Books & Papers](#books-papers) (4) · [AI Generation](#ai-generation) (2) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (32)
+[Music & Audio](#music-audio) (16) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (17) · [Wallpapers & Art](#wallpapers-art) (6) · [Books & Papers](#books-papers) (4) · [AI Generation](#ai-generation) (2) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (32)
 
 ## Listen & Watch
 
@@ -25,6 +25,7 @@
 | [Jellyamp](https://github.com/raycast/extensions/tree/main/extensions/jellyamp) | 44 | Search and play music from your Jellyfin server | opkelde | macOS, Windows | [store](https://www.raycast.com/opkelde/jellyamp) |
 | [Podcast Downloader](https://github.com/raycast/extensions/tree/main/extensions/podcast-downloader) | 26 | Find podcast episodes, copy their audio URLs, and download them. | volkmar_eich | macOS, Windows | [store](https://www.raycast.com/volkmar_eich/podcast-downloader) |
 | [Media Switcher](https://github.com/raycast/extensions/tree/main/extensions/media-switcher) | 16 | Quickly switch between media sessions, control playback and adjust volume — all from the keyboard | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/media-switcher) |
+| [Music Recognizer](https://github.com/raycast/extensions/tree/main/extensions/music-recognizer) | 0 | Identify the song playing on your PC by recording a few seconds of system audio. | erenalparslan | Windows | [store](https://www.raycast.com/erenalparslan/music-recognizer) |
 
 ### Video & Streaming
 

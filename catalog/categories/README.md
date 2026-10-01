@@ -24,7 +24,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Media](./media/README.md) | 300 |
+| [Media](./media/README.md) | 301 |
 | [Design Tools](./design-tools/README.md) | 162 |
 
 ### Web, Finance & News

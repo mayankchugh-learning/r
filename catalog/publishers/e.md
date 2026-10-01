@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · **E** · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-77 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+78 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -51,6 +51,7 @@
 | [erayack](https://www.raycast.com/erayack) | 1 | 217 | **Productivity:** [Cloudflare Email Routing](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-email-routing) |
 | [erbilnas](https://www.raycast.com/erbilnas) | 1 | 117 | **Productivity:** [Read My Screen](https://github.com/raycast/extensions/tree/main/extensions/read-my-screen) |
 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 | **Productivity:** [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) |
+| [erenalparslan](https://www.raycast.com/erenalparslan) | 1 | 0 | **Media:** [Music Recognizer](https://github.com/raycast/extensions/tree/main/extensions/music-recognizer) |
 | [ericostholmm](https://www.raycast.com/ericostholmm) | 1 | 102 | **Other:** [Stockholm Public Transport](https://github.com/raycast/extensions/tree/main/extensions/stockholm-public-transport) |
 | [erics118](https://www.raycast.com/erics118) | 3 | 106,160 | **Developer Tools:** [Change Case](https://github.com/raycast/extensions/tree/main/extensions/change-case), [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services)<br>**Productivity:** [File Manager](https://github.com/raycast/extensions/tree/main/extensions/file-manager) |
 | [ErikFisher](https://www.raycast.com/ErikFisher) | 1 | 532 | **Applications:** [Text Differ](https://github.com/raycast/extensions/tree/main/extensions/text-differ) |

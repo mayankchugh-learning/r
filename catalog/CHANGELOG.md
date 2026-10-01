@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `3a0ce1c6f8`
+
+**Added (1):** [Music Recognizer](https://github.com/raycast/extensions/tree/main/extensions/music-recognizer)
+
 ## 2026-10-01 — upstream `41e285e2a7`
 
 **Updated (1):** [awork](https://github.com/raycast/extensions/tree/main/extensions/awork)
