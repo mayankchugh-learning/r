@@ -1,6 +1,6 @@
 # Publishers
 
-2247 publishers · [← catalog index](../README.md)
+2248 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,286,328 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,286,338 |
 | 2 | [raycast](./id/raycast.md) | 11 | 898,372 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 767,323 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 565,449 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 767,336 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 565,459 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 493,351 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 489,665 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 455,839 |
@@ -2245,13 +2245,14 @@
 | 2235 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2236 | [erenalparslan](https://www.raycast.com/erenalparslan) | 1 | 0 |
 | 2237 | [farshed](https://www.raycast.com/farshed) | 1 | 0 |
-| 2238 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2239 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2240 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2241 | [Seigiard](https://www.raycast.com/Seigiard) | 1 | 0 |
-| 2242 | [sworup_ku](https://www.raycast.com/sworup_ku) | 1 | 0 |
-| 2243 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2244 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
-| 2245 | github-next | 2 | — |
-| 2246 | eugenio | 1 | — |
-| 2247 | multi | 1 | — |
+| 2238 | [JamexCEO](https://www.raycast.com/JamexCEO) | 1 | 0 |
+| 2239 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2240 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2241 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2242 | [Seigiard](https://www.raycast.com/Seigiard) | 1 | 0 |
+| 2243 | [sworup_ku](https://www.raycast.com/sworup_ku) | 1 | 0 |
+| 2244 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2245 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
+| 2246 | github-next | 2 | — |
+| 2247 | eugenio | 1 | — |
+| 2248 | multi | 1 | — |

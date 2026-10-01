@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "481fb521a376147917ae9bebf0a93ecf35c44f80",
-  "generatedAt": "2026-10-01T02:16:31.808Z",
-  "downloadsRefreshedAt": "2026-10-01T02:16:31.266Z",
-  "count": 3348,
+  "commit": "cc9fcaf56c806e4654432c38beae2bfc233b863f",
+  "generatedAt": "2026-10-01T02:43:32.026Z",
+  "downloadsRefreshedAt": "2026-10-01T02:43:31.307Z",
+  "count": 3349,
   "extensions": [
     {
       "dir": "0x0",
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 608428
+      "downloads": 608438
     },
     {
       "dir": "color-shades",
@@ -22957,7 +22957,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565449
+      "downloads": 565459
     },
     {
       "dir": "google-chrome-profiles",
@@ -29468,7 +29468,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 767323
+      "downloads": 767336
     },
     {
       "dir": "kimai",
@@ -45893,10 +45893,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/snaka/privmask",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/privmask",
       "treeSha": "28a44c97e6376f74591d02337611579e9ffce9cb",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "productboard",
@@ -59122,6 +59122,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/system-monitor",
       "treeSha": "5882b4aaaa584d66b70e30bd2057cc53c717604c",
       "downloads": 119711
+    },
+    {
+      "dir": "system-status",
+      "name": "system-status",
+      "title": "System Status",
+      "description": "View Wi-Fi, volume, battery, time, and date on Windows from Raycast.",
+      "author": "JamexCEO",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "System"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/JamexCEO/system-status",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/system-status",
+      "treeSha": "081e95a63c0886223e6849e8f6be35ece8d24b94",
+      "downloads": 0
     },
     {
       "dir": "t3-chat",

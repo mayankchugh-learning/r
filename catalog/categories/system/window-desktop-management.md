@@ -1,8 +1,8 @@
 # Window & Desktop Management
 
-40 extensions · [← System](./README.md)
+41 extensions · [← System](./README.md)
 
-[Windows ✦](#windows) (18) · [Bar ✦](#bar) (8) · [Space ✦](#space) (6) · [Dock ✦](#dock) (4) · [General](#general) (4)
+[Windows ✦](#windows) (19) · [Bar ✦](#bar) (8) · [Space ✦](#space) (6) · [Dock ✦](#dock) (4) · [General](#general) (4)
 
 *✦ auto-discovered topic group*
 
@@ -28,6 +28,7 @@
 | [Quick Radios](https://github.com/raycast/extensions/tree/main/extensions/quick-radios) | 6 | Manage Windows Wi-Fi from Raycast: scan, connect, share via QR, and inspect connection details. | tejas911 | Windows | [store](https://www.raycast.com/tejas911/quick-radios) |
 | [Heed](https://github.com/raycast/extensions/tree/main/extensions/heed) | 2 | Move keyboard focus between windows and turn focus follows mouse on and off: Hyprland's movefocus and follow_mouse for macOS. | rbstp | macOS | [store](https://www.raycast.com/rbstp/heed) |
 | [Mise Window Sets](https://github.com/raycast/extensions/tree/main/extensions/mise-window-sets) | 2 | Apply saved Mise window Sets from Raycast. | carlosaguado04 | macOS | [store](https://www.raycast.com/carlosaguado04/mise-window-sets) |
+| [System Status](https://github.com/raycast/extensions/tree/main/extensions/system-status) | 0 | View Wi-Fi, volume, battery, time, and date on Windows from Raycast. | JamexCEO | Windows | [store](https://www.raycast.com/JamexCEO/system-status) |
 
 ## Bar ✦
 

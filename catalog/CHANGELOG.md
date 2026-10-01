@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `cc9fcaf56c`
+
+**Added (1):** [System Status](https://github.com/raycast/extensions/tree/main/extensions/system-status)
+
 ## 2026-10-01 — upstream `481fb521a3`
 
 **Added (1):** [Fenn Search](https://github.com/raycast/extensions/tree/main/extensions/fenn-search)

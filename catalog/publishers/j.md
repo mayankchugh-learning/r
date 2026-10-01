@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · **J** · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-134 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+135 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -16,6 +16,7 @@
 | [jairaume](https://www.raycast.com/jairaume) | 1 | 359 | **Developer Tools:** [Share My Code](https://github.com/raycast/extensions/tree/main/extensions/share-my-code) |
 | [JakeYu](https://www.raycast.com/JakeYu) | 2 | 1,745 | **Productivity:** [Memos](https://github.com/raycast/extensions/tree/main/extensions/memos)<br>**Applications:** [Update Clash Subscription](https://github.com/raycast/extensions/tree/main/extensions/update-clash-subscription) |
 | [jameslyons](https://www.raycast.com/jameslyons) | 2 | 11,906 | **Applications:** [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session)<br>**Design Tools:** [Sip](https://github.com/raycast/extensions/tree/main/extensions/sip) |
+| [JamexCEO](https://www.raycast.com/JamexCEO) | 1 | 0 | **System:** [System Status](https://github.com/raycast/extensions/tree/main/extensions/system-status) |
 | [jamie_davenport](https://www.raycast.com/jamie_davenport) | 1 | 12 | **Productivity:** [Capd](https://github.com/raycast/extensions/tree/main/extensions/capd) |
 | [jan_werner](https://www.raycast.com/jan_werner) | 1 | 13 | **Communication:** [Status Nerd](https://github.com/raycast/extensions/tree/main/extensions/status-nerd) |
 | [janjezek](https://www.raycast.com/janjezek) | 1 | 6 | **Productivity:** [Fibery Quick Capture](https://github.com/raycast/extensions/tree/main/extensions/fibery-quick-capture) |
