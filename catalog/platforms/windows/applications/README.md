@@ -1,8 +1,8 @@
 # Windows · Applications
 
-91 extensions · [← Windows](../README.md)
+92 extensions · [← Windows](../README.md)
 
-[AI & Chat Apps](#ai-chat-apps) (6) · [Notes, PKM & Study Apps](#notes-pkm-study-apps) (7) · [Productivity & Task Apps](#productivity-task-apps) (5) · [Music & Audio Apps](#music-audio-apps) (2) · [Media & Photo Apps](#media-photo-apps) (8) · [Automation & Input Apps](#automation-input-apps) (2) · [Content & CMS Apps](#content-cms-apps) (1) · [Network & Connection Apps](#network-connection-apps) (3) · [Analytics & Stats Apps](#analytics-stats-apps) (3) · [Developer Apps](#developer-apps) (2) · [Window Managers & Utilities](#window-managers-utilities) (1) · [Apple & Built-in Apps](#apple-built-in-apps) (2) · [Files, Sync & Upload](#files-sync-upload) (3) · [Faith & Lifestyle Apps](#faith-lifestyle-apps) (1) · [Launchers & App Control](#launchers-app-control) (9) · [General](#general) (36)
+[AI & Chat Apps](#ai-chat-apps) (6) · [Notes, PKM & Study Apps](#notes-pkm-study-apps) (7) · [Productivity & Task Apps](#productivity-task-apps) (5) · [Music & Audio Apps](#music-audio-apps) (2) · [Media & Photo Apps](#media-photo-apps) (9) · [Automation & Input Apps](#automation-input-apps) (2) · [Content & CMS Apps](#content-cms-apps) (1) · [Network & Connection Apps](#network-connection-apps) (3) · [Analytics & Stats Apps](#analytics-stats-apps) (3) · [Developer Apps](#developer-apps) (2) · [Window Managers & Utilities](#window-managers-utilities) (1) · [Apple & Built-in Apps](#apple-built-in-apps) (2) · [Files, Sync & Upload](#files-sync-upload) (3) · [Faith & Lifestyle Apps](#faith-lifestyle-apps) (1) · [Launchers & App Control](#launchers-app-control) (9) · [General](#general) (36)
 
 ## Work & Knowledge Apps
 
@@ -66,6 +66,7 @@
 | [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy) | 76 | Search, capture, and manage your Workflowy account from Raycast. | rodolfo_lopez | macOS, Windows | [store](https://www.raycast.com/rodolfo_lopez/workflowy) |
 | [PicGo](https://github.com/raycast/extensions/tree/main/extensions/picgo) | 61 | Easily use PicGo to upload your images to image hosts in Raycast. | rubisco0211 | macOS, Windows | [store](https://www.raycast.com/rubisco0211/picgo) |
 | [Flameshot](https://github.com/raycast/extensions/tree/main/extensions/flameshot) | 27 | Capture screenshots with Flameshot | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/flameshot) |
+| [Windows Screenshot](https://github.com/raycast/extensions/tree/main/extensions/windows-screenshot) | — | Capture full screen, selected region, or active window on Windows. | afaan_mushtaq | Windows | — |
 
 ## Developer & Power-User Apps
 

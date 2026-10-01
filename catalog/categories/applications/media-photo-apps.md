@@ -1,8 +1,8 @@
 # Media & Photo Apps
 
-25 extensions · [← Applications](./README.md)
+26 extensions · [← Applications](./README.md)
 
-[Capture ✦](#capture) (11) · [Image ✦](#image) (6) · [Video ✦](#video) (4) · [General](#general) (4)
+[Capture ✦](#capture) (12) · [Image ✦](#image) (6) · [Video ✦](#video) (4) · [General](#general) (4)
 
 *✦ auto-discovered topic group*
 
@@ -21,6 +21,7 @@
 | [BOOX Companion](https://github.com/raycast/extensions/tree/main/extensions/boox-companion) | 6 | Browse, transfer files, and capture the screen of BOOX devices over your local network | metrovoc | macOS | [store](https://www.raycast.com/metrovoc/boox-companion) |
 | [ScreenLex](https://github.com/raycast/extensions/tree/main/extensions/screenlex) | 5 | Capture, translate, and manage screenshots with ScreenLex. | chunkithwang | macOS | [store](https://www.raycast.com/chunkithwang/screenlex) |
 | [Zoomer](https://github.com/raycast/extensions/tree/main/extensions/zoomer) | 0 | Capture screenshots, control recordings, and open Zoomer from Raycast. | colindotfun | macOS | [store](https://www.raycast.com/colindotfun/zoomer) |
+| [Windows Screenshot](https://github.com/raycast/extensions/tree/main/extensions/windows-screenshot) | — | Capture full screen, selected region, or active window on Windows. | afaan_mushtaq | Windows | — |
 
 ## Image ✦
 

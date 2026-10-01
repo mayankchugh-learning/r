@@ -1,8 +1,8 @@
 # Windows · System
 
-52 extensions · [← Windows](../README.md)
+53 extensions · [← Windows](../README.md)
 
-[Apps & Processes](#apps-processes) (8) · [Window & Desktop Management](#window-desktop-management) (11) · [Hardware & Devices](#hardware-devices) (6) · [Display & Appearance](#display-appearance) (4) · [Power & Session](#power-session) (1) · [Clipboard & Input](#clipboard-input) (1) · [Files & Storage](#files-storage) (2) · [Network](#network) (2) · [Defaults & Services](#defaults-services) (1) · [General](#general) (16)
+[Apps & Processes](#apps-processes) (8) · [Window & Desktop Management](#window-desktop-management) (12) · [Hardware & Devices](#hardware-devices) (6) · [Display & Appearance](#display-appearance) (4) · [Power & Session](#power-session) (1) · [Clipboard & Input](#clipboard-input) (1) · [Files & Storage](#files-storage) (2) · [Network](#network) (2) · [Defaults & Services](#defaults-services) (1) · [General](#general) (16)
 
 ## Apps & Windows
 
@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 767,384 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 767,397 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,894 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | 1,360 | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Window Walker](https://github.com/raycast/extensions/tree/main/extensions/window-walker) | 828 | Quickly switch between open windows. Search by app name or window title, minimize, close, or bring any window to the front. | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/window-walker) |
@@ -34,6 +34,7 @@
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 15 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
 | [Quick Radios](https://github.com/raycast/extensions/tree/main/extensions/quick-radios) | 7 | Manage Windows Wi-Fi from Raycast: scan, connect, share via QR, and inspect connection details. | tejas911 | Windows | [store](https://www.raycast.com/tejas911/quick-radios) |
 | [System Status](https://github.com/raycast/extensions/tree/main/extensions/system-status) | 1 | View Wi-Fi, volume, battery, time, and date on Windows from Raycast. | JamexCEO | Windows | [store](https://www.raycast.com/JamexCEO/system-status) |
+| [Windows Screenshot](https://github.com/raycast/extensions/tree/main/extensions/windows-screenshot) | — | Capture full screen, selected region, or active window on Windows. | afaan_mushtaq | Windows | — |
 
 ## Hardware & Output
 

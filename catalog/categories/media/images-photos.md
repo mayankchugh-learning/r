@@ -1,8 +1,8 @@
 # Images & Photos
 
-52 extensions · [← Media](./README.md)
+53 extensions · [← Media](./README.md)
 
-[Image ✦](#image) (35) · [Screenshots ✦](#screenshots) (5) · [Icons ✦](#icons) (5) · [General](#general) (7)
+[Image ✦](#image) (35) · [Screenshots ✦](#screenshots) (6) · [Icons ✦](#icons) (5) · [General](#general) (7)
 
 *✦ auto-discovered topic group*
 
@@ -55,6 +55,7 @@
 | [Record](https://github.com/raycast/extensions/tree/main/extensions/record-so) | 28 | Start screen recordings and take screenshots with Record — the dead-simple screen recorder. No signup, no watermark, unlimited length. | devrecordso | macOS | [store](https://www.raycast.com/devrecordso/record-so) |
 | [Flameshot](https://github.com/raycast/extensions/tree/main/extensions/flameshot) | 27 | Capture screenshots with Flameshot | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/flameshot) |
 | [BanG Dream! Screenshot Search](https://github.com/raycast/extensions/tree/main/extensions/bang-dream-screenshot-search) | 6 | Search and copy dialogue screenshots from MyGO!!!!! and Ave Mujica. | luke_lin | macOS | [store](https://www.raycast.com/luke_lin/bang-dream-screenshot-search) |
+| [Windows Screenshot](https://github.com/raycast/extensions/tree/main/extensions/windows-screenshot) | — | Capture full screen, selected region, or active window on Windows. | afaan_mushtaq | Windows | — |
 
 ## Icons ✦
 

@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "08c139018fffa3987ac1f526df70bd8bf9683527",
-  "generatedAt": "2026-10-01T04:16:24.053Z",
-  "downloadsRefreshedAt": "2026-10-01T04:16:23.298Z",
-  "count": 3350,
+  "commit": "d8c156f52bcb12e38c8bae31843bc8689e0bfdad",
+  "generatedAt": "2026-10-01T04:43:35.426Z",
+  "downloadsRefreshedAt": "2026-10-01T04:43:34.750Z",
+  "count": 3351,
   "extensions": [
     {
       "dir": "0x0",
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 608479
+      "downloads": 608496
     },
     {
       "dir": "color-shades",
@@ -12165,7 +12165,7 @@
       "store": "https://www.raycast.com/sworup_ku/cuenow",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/cuenow",
       "treeSha": "a48fa0d2fce2e3357c1dc00f8ceea11bf245597b",
-      "downloads": 0
+      "downloads": 1
     },
     {
       "dir": "cuid-generator",
@@ -22957,7 +22957,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565494
+      "downloads": 565508
     },
     {
       "dir": "google-chrome-profiles",
@@ -29468,7 +29468,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 767384
+      "downloads": 767397
     },
     {
       "dir": "kimai",
@@ -67609,6 +67609,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/windows-environment-variables",
       "treeSha": "1737e37ad8ed0a7e1d50f5417611d36b0fe6dc31",
       "downloads": 182
+    },
+    {
+      "dir": "windows-screenshot",
+      "name": "windows-screenshot",
+      "title": "Windows Screenshot",
+      "description": "Capture full screen, selected region, or active window on Windows.",
+      "author": "afaan_mushtaq",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Applications",
+        "Media",
+        "System"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/windows-screenshot",
+      "treeSha": "ad82cb0d8421e47860a03c97b7f9e469c6289892",
+      "downloads": null
     },
     {
       "dir": "windows-terminal",

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `d8c156f52b`
+
+**Added (1):** [Windows Screenshot](https://github.com/raycast/extensions/tree/main/extensions/windows-screenshot)
+
 ## 2026-10-01 — upstream `08c139018f`
 
 **Added (1):** [Moon Mansions](https://github.com/raycast/extensions/tree/main/extensions/moon-mansions)

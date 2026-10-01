@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-198 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+199 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -45,6 +45,7 @@
 | [aelew](https://www.raycast.com/aelew) | 1 | 7,102 | **Applications:** [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) |
 | [aerobless](https://www.raycast.com/aerobless) | 1 | 362 | **Productivity:** [Static Marks - Bookmark Search](https://github.com/raycast/extensions/tree/main/extensions/static-marks-bookmarks) |
 | [aesign](https://www.raycast.com/aesign) | 2 | 1,111 | **Design Tools:** [Sketch](https://github.com/raycast/extensions/tree/main/extensions/sketch)<br>**Data:** [BMW](https://github.com/raycast/extensions/tree/main/extensions/bmw) |
+| afaan_mushtaq | 1 | — | **Applications:** [Windows Screenshot](https://github.com/raycast/extensions/tree/main/extensions/windows-screenshot) |
 | [afok](https://www.raycast.com/afok) | 1 | 892 | **Security:** [Password Store](https://github.com/raycast/extensions/tree/main/extensions/password-store) |
 | [agus](https://www.raycast.com/agus) | 1 | 57 | **Finance:** [Dollar Blue](https://github.com/raycast/extensions/tree/main/extensions/dollar-blue) |
 | [agusdellaquila](https://www.raycast.com/agusdellaquila) | 1 | 3 | **Finance:** [Contra](https://github.com/raycast/extensions/tree/main/extensions/contra) |
