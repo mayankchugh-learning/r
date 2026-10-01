@@ -33,7 +33,7 @@
 | [CLIPPyX](https://github.com/raycast/extensions/tree/main/extensions/clippyx) | 333 | CLIPPyX provides an OS-wide image search that supports semantic search in both image content and text on images | 0ssamaak0 | macOS | [store](https://www.raycast.com/0ssamaak0/clippyx) |
 | [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | 190 | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
 | [PicGo](https://github.com/raycast/extensions/tree/main/extensions/picgo) | 61 | Easily use PicGo to upload your images to image hosts in Raycast. | rubisco0211 | macOS, Windows | [store](https://www.raycast.com/rubisco0211/picgo) |
-| [Museum](https://github.com/raycast/extensions/tree/main/extensions/try-museum) | 0 | Find public domain artworks by color. Browse palettes, copy images, and discover art from museum collections. | ray.dhruv | Windows, macOS | [store](https://www.raycast.com/ray.dhruv/try-museum) |
+| [Museum](https://github.com/raycast/extensions/tree/main/extensions/try-museum) | 1 | Find public domain artworks by color. Browse palettes, copy images, and discover art from museum collections. | ray.dhruv | Windows, macOS | [store](https://www.raycast.com/ray.dhruv/try-museum) |
 
 ## Video ✦
 

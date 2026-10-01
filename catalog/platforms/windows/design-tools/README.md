@@ -10,13 +10,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 609,254 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 609,281 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Tailwind CSS Colorpicker](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) | 4,646 | Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. | magicjaqk | macOS, Windows | [store](https://www.raycast.com/magicjaqk/tw-colorpicker) |
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 724 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
 | [Mozaika — Decode Design Systems](https://github.com/raycast/extensions/tree/main/extensions/mozaika) | 36 | Decode any website's real design system — colors, fonts, type scale and buttons — and search a curated library of shipped product UIs, right from Raycast. | sezai_c | macOS, Windows | [store](https://www.raycast.com/sezai_c/mozaika) |
 | [PBR Assistant](https://github.com/raycast/extensions/tree/main/extensions/pbr-assistant) | 35 | This extension helps 3D artists find physically accurate PBR diffuse colors as well as IOR values. | chad_ashley | macOS, Windows | [store](https://www.raycast.com/chad_ashley/pbr-assistant) |
 | [Chinese Traditional Colors](https://github.com/raycast/extensions/tree/main/extensions/chinese-traditional-colors) | 12 | Search, preview, and copy Chinese traditional colors and harmony palettes. | RaffeYang | macOS, Windows | [store](https://www.raycast.com/raffeyang/chinese-traditional-colors) |
-| [Museum](https://github.com/raycast/extensions/tree/main/extensions/try-museum) | 0 | Find public domain artworks by color. Browse palettes, copy images, and discover art from museum collections. | ray.dhruv | Windows, macOS | [store](https://www.raycast.com/ray.dhruv/try-museum) |
+| [Museum](https://github.com/raycast/extensions/tree/main/extensions/try-museum) | 1 | Find public domain artworks by color. Browse palettes, copy images, and discover art from museum collections. | ray.dhruv | Windows, macOS | [store](https://www.raycast.com/ray.dhruv/try-museum) |
 
 ### Icons & Assets
 

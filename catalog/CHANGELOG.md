@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `311a5d23eb`
+
+**Updated (1):** [Code Review Emoji Guide](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis)
+
 ## 2026-10-01 — upstream `84f0b9b5cc`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)

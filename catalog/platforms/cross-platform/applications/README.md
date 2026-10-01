@@ -60,7 +60,7 @@
 | [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy) | 77 | Search, capture, and manage your Workflowy account from Raycast. | rodolfo_lopez | macOS, Windows | [store](https://www.raycast.com/rodolfo_lopez/workflowy) |
 | [PicGo](https://github.com/raycast/extensions/tree/main/extensions/picgo) | 61 | Easily use PicGo to upload your images to image hosts in Raycast. | rubisco0211 | macOS, Windows | [store](https://www.raycast.com/rubisco0211/picgo) |
 | [Flameshot](https://github.com/raycast/extensions/tree/main/extensions/flameshot) | 28 | Capture screenshots with Flameshot | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/flameshot) |
-| [Museum](https://github.com/raycast/extensions/tree/main/extensions/try-museum) | 0 | Find public domain artworks by color. Browse palettes, copy images, and discover art from museum collections. | ray.dhruv | Windows, macOS | [store](https://www.raycast.com/ray.dhruv/try-museum) |
+| [Museum](https://github.com/raycast/extensions/tree/main/extensions/try-museum) | 1 | Find public domain artworks by color. Browse palettes, copy images, and discover art from museum collections. | ray.dhruv | Windows, macOS | [store](https://www.raycast.com/ray.dhruv/try-museum) |
 
 ## Developer & Power-User Apps
 

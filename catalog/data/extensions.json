@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "84f0b9b5cc042510f9316b7dfa3e5225f8493bc1",
-  "generatedAt": "2026-10-01T20:02:28.051Z",
-  "downloadsRefreshedAt": "2026-10-01T20:02:27.638Z",
+  "commit": "311a5d23ebbc157bd855f34a64c1206de1925b60",
+  "generatedAt": "2026-10-01T20:41:53.755Z",
+  "downloadsRefreshedAt": "2026-10-01T20:41:53.332Z",
   "count": 3352,
   "extensions": [
     {
@@ -9593,18 +9593,19 @@
       "description": "A simple emoji legend to help convey intention and added meaning in code review comments.",
       "author": "russellyeo",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Documentation",
         "Developer Tools"
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/russellyeo/code-review-emojis",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis",
-      "treeSha": "54a12dba2a11c9303c33d24e367262c215819234",
+      "treeSha": "bf35a76640c86b57dade89db821797201fbfb238",
       "downloads": 1184
     },
     {
@@ -10229,7 +10230,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 609254
+      "downloads": 609281
     },
     {
       "dir": "color-shades",
@@ -22958,7 +22959,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566025
+      "downloads": 566054
     },
     {
       "dir": "google-chrome-profiles",
@@ -29469,7 +29470,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768222
+      "downloads": 768248
     },
     {
       "dir": "kimai",
@@ -62942,7 +62943,7 @@
       "store": "https://www.raycast.com/ray.dhruv/try-museum",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/try-museum",
       "treeSha": "7f6285861d14c3f15942f2dee35996e0f17913be",
-      "downloads": 0
+      "downloads": 1
     },
     {
       "dir": "tscheck-in",

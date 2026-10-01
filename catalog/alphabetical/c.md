@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 609,254 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 609,281 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 258,703 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 149,527 | Prevent the sleep function on your computer | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/coffee) |
 | [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 119,549 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
@@ -87,7 +87,7 @@
 | [Clipboard Sequential Paste](https://github.com/raycast/extensions/tree/main/extensions/clipboard-sequential-paste) | 1,305 | Copy a list to your clipboard and paste items one by one. | Joren-Thijs | macOS | [store](https://www.raycast.com/Joren-Thijs/clipboard-sequential-paste) |
 | [Conventional Comments](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) | 1,280 | Paste conventional comment into your foremost application | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/conventional-comments) |
 | [Chess.com](https://github.com/raycast/extensions/tree/main/extensions/chess-com) | 1,255 | Quickly start games on Chess.com | joshfarrant | macOS, Windows | [store](https://www.raycast.com/joshfarrant/chess-com) |
-| [Code Review Emoji Guide](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis) | 1,184 | A simple emoji legend to help convey intention and added meaning in code review comments. | russellyeo | macOS | [store](https://www.raycast.com/russellyeo/code-review-emojis) |
+| [Code Review Emoji Guide](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis) | 1,184 | A simple emoji legend to help convey intention and added meaning in code review comments. | russellyeo | macOS, Windows | [store](https://www.raycast.com/russellyeo/code-review-emojis) |
 | [Catppuccin](https://github.com/raycast/extensions/tree/main/extensions/catppuccin) | 1,160 | Quickly view the Catppuccin color palette, userstyles, ports, and documentation. | dvhsh | macOS | [store](https://www.raycast.com/dvhsh/catppuccin) |
 | [CanvasCast](https://github.com/raycast/extensions/tree/main/extensions/canvascast) | 1,136 | Access the Canvas LMS from Raycast | Yoda | macOS | [store](https://www.raycast.com/Yoda/canvascast) |
 | [Crypto Price](https://github.com/raycast/extensions/tree/main/extensions/crypto-price) | 1,130 | Keep an eye on Bitcoin (BTC), Ethereum (ETH), and other cryptocurrency prices and more directly from your system menu bar | gutenye | macOS, Windows | [store](https://www.raycast.com/gutenye/crypto-price) |

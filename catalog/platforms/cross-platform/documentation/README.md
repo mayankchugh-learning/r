@@ -1,8 +1,8 @@
 # Cross-platform · Documentation
 
-66 extensions · [← Cross-platform](../README.md)
+67 extensions · [← Cross-platform](../README.md)
 
-[Language References](#language-references) (3) · [Framework & Library Docs](#framework-library-docs) (10) · [Cheatsheets & Snippets](#cheatsheets-snippets) (6) · [Developer References](#developer-references) (8) · [Wikis & Knowledge Bases](#wikis-knowledge-bases) (17) · [Communities & Blogs](#communities-blogs) (1) · [Dictionaries & Language](#dictionaries-language) (1) · [General](#general) (20)
+[Language References](#language-references) (3) · [Framework & Library Docs](#framework-library-docs) (10) · [Cheatsheets & Snippets](#cheatsheets-snippets) (6) · [Developer References](#developer-references) (8) · [Wikis & Knowledge Bases](#wikis-knowledge-bases) (18) · [Communities & Blogs](#communities-blogs) (1) · [Dictionaries & Language](#dictionaries-language) (1) · [General](#general) (20)
 
 ## Programming Docs
 
@@ -69,6 +69,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Confluence](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) | 15,234 | Quickly navigate, create and search Confluence through Raycast. | tbrown | macOS, Windows | [store](https://www.raycast.com/tbrown/confluence) |
 | [Supabase Documentation](https://github.com/raycast/extensions/tree/main/extensions/supabase-docs) | 1,330 | Quickly search Supabase documentation and open it in the browser | supabase (org) | macOS, Windows | [store](https://www.raycast.com/supabase/supabase-docs) |
+| [Code Review Emoji Guide](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis) | 1,184 | A simple emoji legend to help convey intention and added meaning in code review comments. | russellyeo | macOS, Windows | [store](https://www.raycast.com/russellyeo/code-review-emojis) |
 | [Prisma Docs Search](https://github.com/raycast/extensions/tree/main/extensions/prisma-docs-search) | 725 | Quickly access Prisma's AI-powered docs search feature, powered by kapa.ai, right from Raycast. | petra | macOS, Windows | [store](https://www.raycast.com/petra/prisma-docs-search) |
 | [Playwright Documentation](https://github.com/raycast/extensions/tree/main/extensions/playwright-docs) | 575 | Quickly search the Playwright docs and open them in the browser | AndrewUsher | macOS, Windows | [store](https://www.raycast.com/AndrewUsher/playwright-docs) |
 | [Context7](https://github.com/raycast/extensions/tree/main/extensions/context7) | 363 | Search up-to-date documentation for any library, framework, or SDK — keep the ones you use offline, and ask Raycast AI about them | loris | macOS, Windows | [store](https://www.raycast.com/loris/context7) |
