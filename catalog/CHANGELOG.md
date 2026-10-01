@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `e03280aa26`
+
+**Updated (1):** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew)
+
 ## 2026-10-01 — upstream `d072dc2e03`
 
 **Updated (1):** [Where Is My Cursor?](https://github.com/raycast/extensions/tree/main/extensions/where-is-my-cursor)

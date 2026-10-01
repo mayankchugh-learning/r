@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 290,542 | Search, install and manage Homebrew formulae and casks | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
+| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 290,699 | Search, install and manage Homebrew formulae and casks | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
 | [Browser Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks) | 66,522 | Integrate bookmarks from Brave, ChatGPT Atlas, Chrome, Dia, DuckDuckGo, Edge, Firefox, Safari, Arc, Vivaldi, Vivaldi Snapshot, Zen, Whale, or Helium. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/browser-bookmarks) |
 | [Bitwarden Vault](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) | 65,730 | Access your Bitwarden vault directly from Raycast | jomifepe | macOS, Windows | [store](https://www.raycast.com/jomifepe/bitwarden) |
 | [Base64](https://github.com/raycast/extensions/tree/main/extensions/base64) | 41,819 | Quickly encode or decode base64 from the clipboard | DanielSinclair | macOS, Windows | [store](https://www.raycast.com/DanielSinclair/base64) |
