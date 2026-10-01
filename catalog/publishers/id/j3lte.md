@@ -1,12 +1,12 @@
 # j3lte
 
-13 extensions · 11,182 downloads · [store](https://www.raycast.com/j3lte) · [← publishers](../README.md)
+13 extensions · 11,186 downloads · [store](https://www.raycast.com/j3lte) · [← publishers](../README.md)
 
 ## Media (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 5,038 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
+| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 5,040 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
 | [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 378 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
 
 ## Developer Tools (6)
@@ -24,14 +24,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Govee](https://github.com/raycast/extensions/tree/main/extensions/govee) | 669 | Control your Govee Lights | j3lte | macOS | [store](https://www.raycast.com/j3lte/govee) |
+| [Govee](https://github.com/raycast/extensions/tree/main/extensions/govee) | 670 | Control your Govee Lights | j3lte | macOS | [store](https://www.raycast.com/j3lte/govee) |
 | [Evil Insult](https://github.com/raycast/extensions/tree/main/extensions/evil-insult) | 330 | Generate Evil Insults | j3lte | macOS | [store](https://www.raycast.com/j3lte/evil-insult) |
 
 ## Web (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Substack](https://github.com/raycast/extensions/tree/main/extensions/substack) | 707 | Search Substack posts and profiles from Raycast | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/substack) |
+| [Substack](https://github.com/raycast/extensions/tree/main/extensions/substack) | 708 | Search Substack posts and profiles from Raycast | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/substack) |
 | [Password Strength](https://github.com/raycast/extensions/tree/main/extensions/password-strength) | 203 | Check your passwords | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/password-strength) |
 
 ## News (1)

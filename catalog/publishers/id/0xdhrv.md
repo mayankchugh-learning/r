@@ -1,6 +1,6 @@
 # 0xdhrv
 
-16 extensions · 1,884 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
+16 extensions · 1,887 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
 
 ## Productivity (3)
 
@@ -15,7 +15,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Integrations.sh](https://github.com/raycast/extensions/tree/main/extensions/integrations-sh) | 144 | Search integrations.sh for MCP, OpenAPI, GraphQL, and CLI integration surfaces, and inspect setup and credentials per domain. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/integrations-sh) |
-| [Agent Browser](https://github.com/raycast/extensions/tree/main/extensions/agent-browser) | 96 | Control the agent-browser CLI from Raycast and Raycast AI | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/agent-browser) |
+| [Agent Browser](https://github.com/raycast/extensions/tree/main/extensions/agent-browser) | 98 | Control the agent-browser CLI from Raycast and Raycast AI | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/agent-browser) |
 | [Defuddle](https://github.com/raycast/extensions/tree/main/extensions/defuddle) | 68 | Extract readable web pages to Markdown with Defuddle | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/defuddle) |
 | [Litterbox](https://github.com/raycast/extensions/tree/main/extensions/litterbox) | 47 | Upload files to Litterbox from Raycast with a file picker, set expiry (1h, 12h, 24h, or 72h), and get shareable links. Recent uploads are listed until they exp… | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/litterbox) |
 | [Is Agentic](https://github.com/raycast/extensions/tree/main/extensions/is-agentic) | 39 | Check how ready a website is for AI agents | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/is-agentic) |
@@ -35,7 +35,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Chiikawa Characters](https://github.com/raycast/extensions/tree/main/extensions/chiikawa-character) | 37 | Search and browse Chiikawa characters offline | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/chiikawa-character) |
 | [Word Research](https://github.com/raycast/extensions/tree/main/extensions/word-research) | 28 | Research words and discover whether they have been searched before on wordresearch.xyz | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/word-research) |
-| [Number Research](https://github.com/raycast/extensions/tree/main/extensions/number-research) | 21 | Research numbers and discover if they have been searched before on numberresearch.xyz | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/number-research) |
+| [Number Research](https://github.com/raycast/extensions/tree/main/extensions/number-research) | 22 | Research numbers and discover if they have been searched before on numberresearch.xyz | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/number-research) |
 
 ## Web (1)
 

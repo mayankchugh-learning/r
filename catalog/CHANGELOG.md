@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `0e4b3a492b`
+
+**Updated (1):** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio)
+
 ## 2026-10-01 — upstream `66590c072d`
 
 **Updated (1):** [Browser Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks)

@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 53,069 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
-| [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) | 20,300 | Manage your Microsoft Teams presence and status message. Search for people and chats, open conversations, and start calls. | sven | macOS, Windows | [store](https://www.raycast.com/sven/microsoft-teams) |
+| [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 53,095 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
+| [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) | 20,312 | Manage your Microsoft Teams presence and status message. Search for people and chats, open conversations, and start calls. | sven | macOS, Windows | [store](https://www.raycast.com/sven/microsoft-teams) |
 | [Signal](https://github.com/raycast/extensions/tree/main/extensions/signal) | 3,084 | Open Signal chats | leeraymond78 | macOS | [store](https://www.raycast.com/leeraymond78/signal) |
-| [T3 Chat](https://github.com/raycast/extensions/tree/main/extensions/t3-chat) | 2,690 | Query T3 Chat directly from Raycast | Lermatroid | macOS, Windows | [store](https://www.raycast.com/Lermatroid/t3-chat) |
+| [T3 Chat](https://github.com/raycast/extensions/tree/main/extensions/t3-chat) | 2,691 | Query T3 Chat directly from Raycast | Lermatroid | macOS, Windows | [store](https://www.raycast.com/Lermatroid/t3-chat) |
 | [Chatwork Search](https://github.com/raycast/extensions/tree/main/extensions/search-chatwork) | 107 | Search chats through all the room | nagauta | macOS | [store](https://www.raycast.com/nagauta/chatwork-search) |

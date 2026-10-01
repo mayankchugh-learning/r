@@ -4,9 +4,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 77,978 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
+| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 78,054 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
 | [Custom Folder](https://github.com/raycast/extensions/tree/main/extensions/custom-folder) | 3,110 | Customize MacOS folder icons. | phlo | macOS | [store](https://www.raycast.com/phlo/custom-folder) |
-| [Audio Writer](https://github.com/raycast/extensions/tree/main/extensions/audio-writer) | 1,272 | Transcribe it, refine it and structure it for you ✨ | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/audio-writer) |
+| [Audio Writer](https://github.com/raycast/extensions/tree/main/extensions/audio-writer) | 1,273 | Transcribe it, refine it and structure it for you ✨ | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/audio-writer) |
 | [Paste from Apple Books](https://github.com/raycast/extensions/tree/main/extensions/paste-from-apple-books) | 586 | When copy and paste from Apple Books into other App, it always comes with citations 'Excerpt from...' with quotation marks around the copy text. This Extension… | winann | macOS | [store](https://www.raycast.com/winann/paste-from-apple-books) |
 | [Linak Desk Controller](https://github.com/raycast/extensions/tree/main/extensions/linak-desk-controller) | 220 | Control the height of standing desks manufactured by Linak, for example the Ikea Idasen desk, over Bluetooth. | samuelkraft | macOS | [store](https://www.raycast.com/samuelkraft/linak-desk-controller) |
 | [Custom Icon](https://github.com/raycast/extensions/tree/main/extensions/custom-icon) | 202 | Customize icons. Set and reset custom icons for apps, files, and folders. | phlo | macOS | [store](https://www.raycast.com/phlo/custom-icon) |

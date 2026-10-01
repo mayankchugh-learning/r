@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 183,322 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
-| [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,733 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |
-| [Wireguard](https://github.com/raycast/extensions/tree/main/extensions/wireguard) | 4,540 | Control Wireguard connections. | sbugzhu | macOS | [store](https://www.raycast.com/sbugzhu/wireguard) |
-| [Cloudflare WARP](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-warp) | 2,075 | Manage Cloudflare WARP | anandubajith | macOS | [store](https://www.raycast.com/anandubajith/cloudflare-warp) |
-| [FileZilla](https://github.com/raycast/extensions/tree/main/extensions/filezilla) | 1,483 | Connect to the FTP/SFTP server via FileZilla by just using your keyboard! | naqet | macOS | [store](https://www.raycast.com/naqet/filezilla) |
-| [Cyberduck](https://github.com/raycast/extensions/tree/main/extensions/cyberduck) | 1,477 | Quickly open your cyberduck connections | scottaglia | macOS | [store](https://www.raycast.com/scottaglia/cyberduck) |
+| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 183,447 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
+| [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,735 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |
+| [Wireguard](https://github.com/raycast/extensions/tree/main/extensions/wireguard) | 4,543 | Control Wireguard connections. | sbugzhu | macOS | [store](https://www.raycast.com/sbugzhu/wireguard) |
+| [Cloudflare WARP](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-warp) | 2,077 | Manage Cloudflare WARP | anandubajith | macOS | [store](https://www.raycast.com/anandubajith/cloudflare-warp) |
+| [FileZilla](https://github.com/raycast/extensions/tree/main/extensions/filezilla) | 1,484 | Connect to the FTP/SFTP server via FileZilla by just using your keyboard! | naqet | macOS | [store](https://www.raycast.com/naqet/filezilla) |
+| [Cyberduck](https://github.com/raycast/extensions/tree/main/extensions/cyberduck) | 1,478 | Quickly open your cyberduck connections | scottaglia | macOS | [store](https://www.raycast.com/scottaglia/cyberduck) |
 | [cPanel](https://github.com/raycast/extensions/tree/main/extensions/cpanel) | 288 | View Domains, DNS Zones, Email Accounts, Databases, Files and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cpanel) |
 | [China IP Address](https://github.com/raycast/extensions/tree/main/extensions/china-ip-address) | 149 | Get your China public network IP | ErlichLiu | macOS | [store](https://www.raycast.com/ErlichLiu/china-ip-address) |
 | [V2RayA Control](https://github.com/raycast/extensions/tree/main/extensions/v2raya-control) | 128 | V2RayA Control is a Raycast extension that allows you to easily manage and control V2RayA, a powerful network proxy tool. Quickly toggle proxy modes, and check… | masoud_hamidzadeh | macOS | [store](https://www.raycast.com/masoud_hamidzadeh/v2raya-control) |

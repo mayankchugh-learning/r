@@ -4,21 +4,21 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Recents](https://github.com/raycast/extensions/tree/main/extensions/recents) | 12,482 | Show Recently used files and folders in Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/recents) |
-| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 2,286 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
+| [Recents](https://github.com/raycast/extensions/tree/main/extensions/recents) | 12,496 | Show Recently used files and folders in Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/recents) |
+| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 2,289 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
 | [8 Ball](https://github.com/raycast/extensions/tree/main/extensions/8ball) | 2,128 | Returns an 8 ball like answer to questions | rocksack | macOS | [store](https://www.raycast.com/rocksack/8-ball) |
-| [PDF Compression](https://github.com/raycast/extensions/tree/main/extensions/pdf-compression) | 2,074 | PDF Compression using native PDFKit | birkhoff | macOS | [store](https://www.raycast.com/birkhoff/pdf-compression) |
+| [PDF Compression](https://github.com/raycast/extensions/tree/main/extensions/pdf-compression) | 2,078 | PDF Compression using native PDFKit | birkhoff | macOS | [store](https://www.raycast.com/birkhoff/pdf-compression) |
 | [Paste to Markdown](https://github.com/raycast/extensions/tree/main/extensions/paste-to-markdown) | 2,008 | A Raycast Extension that instantly pastes rich text or HTML content into Markdown. | weicodes | macOS | [store](https://www.raycast.com/weicodes/paste-to-markdown) |
-| [Ulysses](https://github.com/raycast/extensions/tree/main/extensions/ulysses) | 1,938 | Use Ulysses with Raycast | praveenjuge | macOS | [store](https://www.raycast.com/praveenjuge/ulysses) |
+| [Ulysses](https://github.com/raycast/extensions/tree/main/extensions/ulysses) | 1,939 | Use Ulysses with Raycast | praveenjuge | macOS | [store](https://www.raycast.com/praveenjuge/ulysses) |
 | [Easings](https://github.com/raycast/extensions/tree/main/extensions/easings) | 1,931 | Quickly find and grab your favorite easings. | madebyankur | macOS | [store](https://www.raycast.com/madebyankur/easings) |
 | [Launch Agents](https://github.com/raycast/extensions/tree/main/extensions/launch-agents) | 1,418 | Manage Launch Agents | stevensd2m | macOS | [store](https://www.raycast.com/stevensd2m/launch-agents) |
-| [Feedly](https://github.com/raycast/extensions/tree/main/extensions/feedly) | 1,329 | Browse Feedly through Raycast | shubham | macOS | [store](https://www.raycast.com/shubham/feedly) |
+| [Feedly](https://github.com/raycast/extensions/tree/main/extensions/feedly) | 1,330 | Browse Feedly through Raycast | shubham | macOS | [store](https://www.raycast.com/shubham/feedly) |
 | [Simple Youdao Translate](https://github.com/raycast/extensions/tree/main/extensions/simple-youdao) | 1,224 | This is a Youdao translation extension with simple interaction | xeric | macOS | [store](https://www.raycast.com/xeric/simple-youdao) |
-| [Color Hunt](https://github.com/raycast/extensions/tree/main/extensions/color-hunt) | 1,113 | Color Palettes for Designers and Artists | Lemon | macOS | [store](https://www.raycast.com/Lemon/color-hunt) |
+| [Color Hunt](https://github.com/raycast/extensions/tree/main/extensions/color-hunt) | 1,114 | Color Palettes for Designers and Artists | Lemon | macOS | [store](https://www.raycast.com/Lemon/color-hunt) |
 | [Sniffer](https://github.com/raycast/extensions/tree/main/extensions/sniffer) | 1,078 | FInd who is connected to your network | night_coder | macOS | [store](https://www.raycast.com/night_coder/sniffer) |
 | [Week Number](https://github.com/raycast/extensions/tree/main/extensions/week-number) | 1,051 | Show the current week of the year. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/week-number) |
 | [Kaalam](https://github.com/raycast/extensions/tree/main/extensions/kaalam) | 948 | Gives Current Time in all formats | heerthees | macOS | [store](https://www.raycast.com/heerthees/kaalam) |
-| [Squeeze](https://github.com/raycast/extensions/tree/main/extensions/squeeze) | 846 | A simple utility for whitespace and line break removal. | daniel_ac | macOS | [store](https://www.raycast.com/daniel_ac/squeeze) |
+| [Squeeze](https://github.com/raycast/extensions/tree/main/extensions/squeeze) | 849 | A simple utility for whitespace and line break removal. | daniel_ac | macOS | [store](https://www.raycast.com/daniel_ac/squeeze) |
 | [ENS Name Lookup](https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup) | 589 | Lookup ENS name or address | Yukai | macOS | [store](https://www.raycast.com/Yukai/ens-name-lookup) |
 | [Better Aliases](https://github.com/raycast/extensions/tree/main/extensions/better-aliases) | 536 | Better Aliases - Create better aliases in Raycast | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/better-aliases) |
 | [What Happened Today](https://github.com/raycast/extensions/tree/main/extensions/what-happened-today) | 404 | Discover historical events, notable birthdays, and milestones on any date. | nikhil_tiwari | macOS | [store](https://www.raycast.com/nikhil_tiwari/what-happened-today) |
@@ -31,7 +31,7 @@
 | [Ping Menu](https://github.com/raycast/extensions/tree/main/extensions/ping-menu) | 104 | Monitor ping latency in the menu bar | domonkos_nagy | macOS | [store](https://www.raycast.com/domonkos_nagy/ping-menu) |
 | [Micro.blog](https://github.com/raycast/extensions/tree/main/extensions/microblog) | 74 | Post to Micro.blog and your connected crossposting accounts | tynanpurdy | macOS | [store](https://www.raycast.com/tynanpurdy/microblog) |
 | [Upstash](https://github.com/raycast/extensions/tree/main/extensions/upstash) | 72 | Manage Redis Databases and Vector Indices | xmok | macOS | [store](https://www.raycast.com/xmok/upstash) |
-| [HomeBox](https://github.com/raycast/extensions/tree/main/extensions/homebox) | 63 | A simple home inventory management software | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/homebox) |
+| [HomeBox](https://github.com/raycast/extensions/tree/main/extensions/homebox) | 64 | A simple home inventory management software | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/homebox) |
 | [Unsure Calc](https://github.com/raycast/extensions/tree/main/extensions/unsure-calc) | 63 | Lightweight probabilistic calculator that lets you type ranges (with `~`) and arithmetic to see exact bounds plus simulated outcomes and a text histogram. | PythonicNinja | macOS, Windows | [store](https://www.raycast.com/PythonicNinja/unsure-calc) |
 | [Yap](https://github.com/raycast/extensions/tree/main/extensions/yap) | 60 | Post on socials in a single click | chaseonraycast | macOS | [store](https://www.raycast.com/chaseonraycast/yap) |
 | [Raycast FRC](https://github.com/raycast/extensions/tree/main/extensions/raycast-frc) | 49 | Robotics Stats for FIRST Robotics Competition | vibsthebot | macOS | [store](https://www.raycast.com/vibsthebot/raycast-frc) |

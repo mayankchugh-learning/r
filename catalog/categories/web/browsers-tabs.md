@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 60,117 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
-| [Font Sniper](https://github.com/raycast/extensions/tree/main/extensions/font-sniper) | 6,588 | Identify and download fonts from any website. Disclaimer: FontSniper detects loaded browser fonts for testing/research only. Read more in README | riomadeit | macOS, Windows | [store](https://www.raycast.com/riomadeit/font-sniper) |
+| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 60,160 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
+| [Font Sniper](https://github.com/raycast/extensions/tree/main/extensions/font-sniper) | 6,594 | Identify and download fonts from any website. Disclaimer: FontSniper detects loaded browser fonts for testing/research only. Read more in README | riomadeit | macOS, Windows | [store](https://www.raycast.com/riomadeit/font-sniper) |
 | [Secret Browser Commands](https://github.com/raycast/extensions/tree/main/extensions/secret-browser-commands) | 1,148 | Access hidden Chromium browser features. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/secret-browser-commands) |
 | [Refresh Browsers](https://github.com/raycast/extensions/tree/main/extensions/refresh-browsers) | 368 | Refresh all browser tabs | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/refresh-browsers) |
 | [Fathom Analytics](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics) | 250 | Gain quick insights into your Fathom Analytics sites, check stats and open a browser directly to the dashboard or site. | danielferguson | macOS | [store](https://www.raycast.com/danielferguson/fathom-analytics) |
