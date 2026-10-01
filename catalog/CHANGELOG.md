@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `44ac99c899`
+
+**Updated (1):** [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager)
+
 ## 2026-10-01 — upstream `d07014c36f`
 
 **Updated (1):** [MemRadar](https://github.com/raycast/extensions/tree/main/extensions/memradar)
