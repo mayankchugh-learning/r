@@ -1,12 +1,12 @@
 # Cross-platform extensions
 
-905 extensions · [← all platforms](../README.md)
+906 extensions · [← all platforms](../README.md)
 
 ### Work & Productivity
 
 | Category | Extensions |
 | --- | --- |
-| [Productivity](./productivity/README.md) | 369 |
+| [Productivity](./productivity/README.md) | 370 |
 | [Applications](./applications/README.md) | 80 |
 | [Communication](./communication/README.md) | 56 |
 
@@ -14,9 +14,9 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Developer Tools](./developer-tools/README.md) | 318 |
+| [Developer Tools](./developer-tools/README.md) | 319 |
 | [Data](./data/README.md) | 96 |
-| [Documentation](./documentation/README.md) | 65 |
+| [Documentation](./documentation/README.md) | 66 |
 | [Security](./security/README.md) | 32 |
 | [AI](./ai/README.md) | 1 |
 

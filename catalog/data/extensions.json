@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "970f8ec3d0b5e35d8e3f580a96ea45a8d4d257a8",
-  "generatedAt": "2026-10-01T18:04:26.583Z",
-  "downloadsRefreshedAt": "2026-10-01T18:04:26.294Z",
+  "commit": "48ec088a312bb510f2d1f014ddba4f98b0c81500",
+  "generatedAt": "2026-10-01T18:06:47.911Z",
+  "downloadsRefreshedAt": "2026-10-01T18:06:47.505Z",
   "count": 3351,
   "extensions": [
     {
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 609178
+      "downloads": 609179
     },
     {
       "dir": "color-shades",
@@ -16485,7 +16485,7 @@
       "store": "https://www.raycast.com/isfeng/easydict",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/easydict",
       "treeSha": "18c3ea5f05513c3f90b61477ffe98c190edcea60",
-      "downloads": 39472
+      "downloads": 39475
     },
     {
       "dir": "easyvariable",
@@ -22957,7 +22957,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565970
+      "downloads": 565972
     },
     {
       "dir": "google-chrome-profiles",
@@ -29468,7 +29468,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768136
+      "downloads": 768138
     },
     {
       "dir": "kimai",
@@ -30224,11 +30224,12 @@
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/KevinBatdorf/laravel-artisan",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/laravel-artisan",
-      "treeSha": "d636b40d78f8101e2951c793fb0ea40874d8bb60",
+      "treeSha": "48d9fc2aa6cad751ddc3f229c1c64fb450983db3",
       "downloads": 1125
     },
     {
@@ -36052,7 +36053,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "91a96abd3fae6f7f14e799fc7aae6e45da968715",
-      "downloads": 42770
+      "downloads": 42781
     },
     {
       "dir": "models-dev",

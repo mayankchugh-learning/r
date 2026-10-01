@@ -1,8 +1,8 @@
 # Cross-platform · Documentation
 
-65 extensions · [← Cross-platform](../README.md)
+66 extensions · [← Cross-platform](../README.md)
 
-[Language References](#language-references) (3) · [Framework & Library Docs](#framework-library-docs) (9) · [Cheatsheets & Snippets](#cheatsheets-snippets) (6) · [Developer References](#developer-references) (8) · [Wikis & Knowledge Bases](#wikis-knowledge-bases) (17) · [Communities & Blogs](#communities-blogs) (1) · [Dictionaries & Language](#dictionaries-language) (1) · [General](#general) (20)
+[Language References](#language-references) (3) · [Framework & Library Docs](#framework-library-docs) (10) · [Cheatsheets & Snippets](#cheatsheets-snippets) (6) · [Developer References](#developer-references) (8) · [Wikis & Knowledge Bases](#wikis-knowledge-bases) (17) · [Communities & Blogs](#communities-blogs) (1) · [Dictionaries & Language](#dictionaries-language) (1) · [General](#general) (20)
 
 ## Programming Docs
 
@@ -22,6 +22,7 @@
 | [Laravel Docs](https://github.com/raycast/extensions/tree/main/extensions/laravel-docs) | 6,346 | This extension allows you to search through the Laravel docs directly from Raycast. | indykoning | macOS, Windows | [store](https://www.raycast.com/indykoning/laravel-docs) |
 | [shadcn/ui](https://github.com/raycast/extensions/tree/main/extensions/shadcn-ui) | 4,739 | Browse shadcn/ui documentation, components and examples | luisFilipePT | macOS, Windows | [store](https://www.raycast.com/luisFilipePT/shadcn-ui) |
 | [Next.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/nextjs-docs) | 3,050 | Efficiently search Next.js documentation | PrasadChinwal | Windows, macOS | [store](https://www.raycast.com/PrasadChinwal/nextjs-docs) |
+| [Laravel Artisan](https://github.com/raycast/extensions/tree/main/extensions/laravel-artisan) | 1,125 | View and search Laravel Artisan commands. | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/laravel-artisan) |
 | [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 1,075 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
 | [Search Svelte Docs](https://github.com/raycast/extensions/tree/main/extensions/svelte-docs) | 679 | Search the svelte docs directly in Raycast | paolo_ricciuti | macOS, Windows | [store](https://www.raycast.com/paolo_ricciuti/svelte-docs) |
 | [Django Docs](https://github.com/raycast/extensions/tree/main/extensions/django-docs) | 49 | Navigate and search through Django documentation | JensAstrup | macOS, Windows | [store](https://www.raycast.com/JensAstrup/django-docs) |

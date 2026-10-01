@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `48ec088a31`
+
+**Updated (1):** [Laravel Artisan](https://github.com/raycast/extensions/tree/main/extensions/laravel-artisan)
+
 ## 2026-10-01 — upstream `970f8ec3d0`
 
 **Updated (1):** [Tapo Smart Devices](https://github.com/raycast/extensions/tree/main/extensions/tapo-smart-devices)
