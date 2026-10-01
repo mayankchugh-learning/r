@@ -2,7 +2,7 @@
 
 157 extensions · [← all categories](../README.md)
 
-macOS: 157 · Windows: 47
+macOS: 157 · Windows: 48
 
 ## Markets & Investing
 

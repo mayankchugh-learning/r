@@ -1,13 +1,13 @@
 # pernielsentikaer
 
-21 extensions · 103,117 downloads · [store](https://www.raycast.com/pernielsentikaer) · [← publishers](../README.md)
+21 extensions · 103,214 downloads · [store](https://www.raycast.com/pernielsentikaer) · [← publishers](../README.md)
 
 ## Fun (6)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) | 48,930 | List your current installed Raycast extensions | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/installed-extensions) |
-| [Dad Jokes](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes) | 5,198 | Get a random dad joke | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/dad-jokes) |
+| [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) | 48,987 | List your current installed Raycast extensions | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/installed-extensions) |
+| [Dad Jokes](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes) | 5,203 | Get a random dad joke | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/dad-jokes) |
 | [Soundboard](https://github.com/raycast/extensions/tree/main/extensions/soundboard) | 1,454 | Use Raycast as a soundboard and bind sounds to hotkeys | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/soundboard) |
 | [FIGlet](https://github.com/raycast/extensions/tree/main/extensions/figlet) | 212 | Generate a FIGlet | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/figlet) |
 | [Advice Slip](https://github.com/raycast/extensions/tree/main/extensions/advice-slip) | 174 | Get a random advice slip | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/advice-slip) |
@@ -17,48 +17,48 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [One Thing](https://github.com/raycast/extensions/tree/main/extensions/one-thing) | 10,346 | Put a thing in your Menu Bar. | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/one-thing) |
-| [Universal Website Search](https://github.com/raycast/extensions/tree/main/extensions/any-website-search) | 5,507 | Search any site on the web | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/any-website-search) |
-| [Remember the Date](https://github.com/raycast/extensions/tree/main/extensions/remember-the-date) | 1,455 | Creates and shows the most important date which should be remembered. | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/remember-the-date) |
+| [One Thing](https://github.com/raycast/extensions/tree/main/extensions/one-thing) | 10,354 | Put a thing in your Menu Bar. | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/one-thing) |
+| [Universal Website Search](https://github.com/raycast/extensions/tree/main/extensions/any-website-search) | 5,509 | Search any site on the web | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/any-website-search) |
+| [Remember the Date](https://github.com/raycast/extensions/tree/main/extensions/remember-the-date) | 1,456 | Creates and shows the most important date which should be remembered. | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/remember-the-date) |
 | [Open Latest URL from Clipboard](https://github.com/raycast/extensions/tree/main/extensions/open-latest-url-from-clipboard) | 210 | Opens the latest URL from Clipboard if one is found in the latest 6 entries | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/open-latest-url-from-clipboard) |
 
 ## Web (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Urban Dictionary Search](https://github.com/raycast/extensions/tree/main/extensions/urban-dictionary) | 5,667 | Search on Urban Dictionary | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/urban-dictionary) |
-| [Wayback Machine](https://github.com/raycast/extensions/tree/main/extensions/wayback-machine) | 4,578 | Quickly open and save webpages in Wayback Machine | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/wayback-machine) |
+| [Urban Dictionary Search](https://github.com/raycast/extensions/tree/main/extensions/urban-dictionary) | 5,670 | Search on Urban Dictionary | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/urban-dictionary) |
+| [Wayback Machine](https://github.com/raycast/extensions/tree/main/extensions/wayback-machine) | 4,581 | Quickly open and save webpages in Wayback Machine | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/wayback-machine) |
 
 ## Uncategorized (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [TablePlus](https://github.com/raycast/extensions/tree/main/extensions/tableplus) | 8,798 | Search and open database connections in TablePlus | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/tableplus) |
+| [TablePlus](https://github.com/raycast/extensions/tree/main/extensions/tableplus) | 8,808 | Search and open database connections in TablePlus | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/tableplus) |
 
 ## Media (3)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [BPM Calculator](https://github.com/raycast/extensions/tree/main/extensions/beat-per-minute) | 4,984 | Calculate BPM for a song by using the enter button on the keyboard | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/beat-per-minute) |
-| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 3,011 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
+| [BPM Calculator](https://github.com/raycast/extensions/tree/main/extensions/beat-per-minute) | 4,988 | Calculate BPM for a song by using the enter button on the keyboard | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/beat-per-minute) |
+| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 3,012 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
 | [forScore](https://github.com/raycast/extensions/tree/main/extensions/forscore) | 30 | Manage forScore directly from Raycast | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/forscore) |
 
 ## Data (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Country Lookup](https://github.com/raycast/extensions/tree/main/extensions/country-lookup) | 1,408 | Search and explore detailed data for every country: flags, capitals, languages, currencies, regions and more, powered by the REST Countries API. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/country-lookup) |
+| [Country Lookup](https://github.com/raycast/extensions/tree/main/extensions/country-lookup) | 1,409 | Search and explore detailed data for every country: flags, capitals, languages, currencies, regions and more, powered by the REST Countries API. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/country-lookup) |
 
 ## Developer Tools (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [NextDNS](https://github.com/raycast/extensions/tree/main/extensions/nextdns) | 890 | Viewing and controlling NextDNS settings | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/nextdns) |
+| [NextDNS](https://github.com/raycast/extensions/tree/main/extensions/nextdns) | 891 | Viewing and controlling NextDNS settings | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/nextdns) |
 | [WPPB](https://github.com/raycast/extensions/tree/main/extensions/wppb) | 52 | WordPress Plugin Boilerplate | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/wppb) |
 
 ## Other (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Intermittent Fasting](https://github.com/raycast/extensions/tree/main/extensions/intermittent-fasting) | 67 | Tracks intermittent fasting | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/intermittent-fasting) |
+| [Intermittent Fasting](https://github.com/raycast/extensions/tree/main/extensions/intermittent-fasting) | 68 | Tracks intermittent fasting | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/intermittent-fasting) |
 | [Danish Tax Calculator](https://github.com/raycast/extensions/tree/main/extensions/danish-tax-calculator) | 30 | Calculate your payment after taxes | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/danish-tax-calculator) |

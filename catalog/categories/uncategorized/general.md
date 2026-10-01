@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Recents](https://github.com/raycast/extensions/tree/main/extensions/recents) | 12,496 | Show Recently used files and folders in Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/recents) |
-| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 2,289 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
+| [Recents](https://github.com/raycast/extensions/tree/main/extensions/recents) | 12,507 | Show Recently used files and folders in Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/recents) |
+| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 2,291 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
 | [8 Ball](https://github.com/raycast/extensions/tree/main/extensions/8ball) | 2,128 | Returns an 8 ball like answer to questions | rocksack | macOS | [store](https://www.raycast.com/rocksack/8-ball) |
 | [PDF Compression](https://github.com/raycast/extensions/tree/main/extensions/pdf-compression) | 2,078 | PDF Compression using native PDFKit | birkhoff | macOS | [store](https://www.raycast.com/birkhoff/pdf-compression) |
 | [Paste to Markdown](https://github.com/raycast/extensions/tree/main/extensions/paste-to-markdown) | 2,008 | A Raycast Extension that instantly pastes rich text or HTML content into Markdown. | weicodes | macOS | [store](https://www.raycast.com/weicodes/paste-to-markdown) |
@@ -16,15 +16,15 @@
 | [Simple Youdao Translate](https://github.com/raycast/extensions/tree/main/extensions/simple-youdao) | 1,224 | This is a Youdao translation extension with simple interaction | xeric | macOS | [store](https://www.raycast.com/xeric/simple-youdao) |
 | [Color Hunt](https://github.com/raycast/extensions/tree/main/extensions/color-hunt) | 1,114 | Color Palettes for Designers and Artists | Lemon | macOS | [store](https://www.raycast.com/Lemon/color-hunt) |
 | [Sniffer](https://github.com/raycast/extensions/tree/main/extensions/sniffer) | 1,078 | FInd who is connected to your network | night_coder | macOS | [store](https://www.raycast.com/night_coder/sniffer) |
-| [Week Number](https://github.com/raycast/extensions/tree/main/extensions/week-number) | 1,051 | Show the current week of the year. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/week-number) |
+| [Week Number](https://github.com/raycast/extensions/tree/main/extensions/week-number) | 1,055 | Show the current week of the year. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/week-number) |
 | [Kaalam](https://github.com/raycast/extensions/tree/main/extensions/kaalam) | 948 | Gives Current Time in all formats | heerthees | macOS | [store](https://www.raycast.com/heerthees/kaalam) |
 | [Squeeze](https://github.com/raycast/extensions/tree/main/extensions/squeeze) | 849 | A simple utility for whitespace and line break removal. | daniel_ac | macOS | [store](https://www.raycast.com/daniel_ac/squeeze) |
 | [ENS Name Lookup](https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup) | 589 | Lookup ENS name or address | Yukai | macOS | [store](https://www.raycast.com/Yukai/ens-name-lookup) |
-| [Better Aliases](https://github.com/raycast/extensions/tree/main/extensions/better-aliases) | 536 | Better Aliases - Create better aliases in Raycast | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/better-aliases) |
+| [Better Aliases](https://github.com/raycast/extensions/tree/main/extensions/better-aliases) | 537 | Better Aliases - Create better aliases in Raycast | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/better-aliases) |
 | [What Happened Today](https://github.com/raycast/extensions/tree/main/extensions/what-happened-today) | 404 | Discover historical events, notable birthdays, and milestones on any date. | nikhil_tiwari | macOS | [store](https://www.raycast.com/nikhil_tiwari/what-happened-today) |
 | [NetNewsWire](https://github.com/raycast/extensions/tree/main/extensions/netnewswire) | 177 | NetNewsWire is a free and open source RSS reader for Mac, iPhone, and iPad | xmok | macOS | [store](https://www.raycast.com/xmok/netnewswire) |
 | [Tally](https://github.com/raycast/extensions/tree/main/extensions/tally) | 150 | Tally is the simplest way to create forms, for free. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/tally) |
-| [SVG Studio](https://github.com/raycast/extensions/tree/main/extensions/svg-studio) | 135 | Powerful SVG previewer and editor with dark mode and PNG export. | gaosunhao | macOS | [store](https://www.raycast.com/gaosunhao/svg-studio) |
+| [SVG Studio](https://github.com/raycast/extensions/tree/main/extensions/svg-studio) | 136 | Powerful SVG previewer and editor with dark mode and PNG export. | gaosunhao | macOS | [store](https://www.raycast.com/gaosunhao/svg-studio) |
 | [Text Rewrap](https://github.com/raycast/extensions/tree/main/extensions/text-rewrap) | 118 | Rewraps Text at a given width | rembridge | macOS, Windows | [store](https://www.raycast.com/rembridge/text-rewrap) |
 | [Usememos](https://github.com/raycast/extensions/tree/main/extensions/usememos) | 118 | Usememos is an extension for usememos/memos | zrr1999 | macOS | [store](https://www.raycast.com/zrr1999/usememos) |
 | [Ping Menu](https://github.com/raycast/extensions/tree/main/extensions/ping-menu) | 104 | Monitor ping latency in the menu bar | domonkos_nagy | macOS | [store](https://www.raycast.com/domonkos_nagy/ping-menu) |
@@ -35,7 +35,7 @@
 | [Yap](https://github.com/raycast/extensions/tree/main/extensions/yap) | 60 | Post on socials in a single click | chaseonraycast | macOS | [store](https://www.raycast.com/chaseonraycast/yap) |
 | [Raycast FRC](https://github.com/raycast/extensions/tree/main/extensions/raycast-frc) | 49 | Robotics Stats for FIRST Robotics Competition | vibsthebot | macOS | [store](https://www.raycast.com/vibsthebot/raycast-frc) |
 | [Fuelix](https://github.com/raycast/extensions/tree/main/extensions/fuelix) | 36 | Unofficial - Use Fuelix Platform from the comfort of Raycast | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/fuelix) |
-| [Standing Desk Tracker](https://github.com/raycast/extensions/tree/main/extensions/standing-desk-tracker) | 35 | Track your standing and sitting time | pgyogesh | macOS, Windows | [store](https://www.raycast.com/pgyogesh/standing-desk-tracker) |
+| [Standing Desk Tracker](https://github.com/raycast/extensions/tree/main/extensions/standing-desk-tracker) | 36 | Track your standing and sitting time | pgyogesh | macOS, Windows | [store](https://www.raycast.com/pgyogesh/standing-desk-tracker) |
 | [Rounding Number](https://github.com/raycast/extensions/tree/main/extensions/rounding-number) | 28 | Quickly round any number to the nearest value you choose. Simply enter a number and the place you want to round to (such as 10, 100, or 1000), and get your rou… | hackettlai | macOS | [store](https://www.raycast.com/hackettlai/rounding-number) |
 | [Planning Center](https://github.com/raycast/extensions/tree/main/extensions/planning-center) | 24 | Quickly look up people in Planning Center and copy their contact info | caleb531 | macOS | [store](https://www.raycast.com/caleb531/planning-center) |
 | [Vixai](https://github.com/raycast/extensions/tree/main/extensions/vixai) | 19 | Vixai extension for Raycast | vixaidev | macOS | [store](https://www.raycast.com/vixaidev/vixai) |

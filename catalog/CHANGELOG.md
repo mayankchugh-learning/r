@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `d07014c36f`
+
+**Updated (1):** [MemRadar](https://github.com/raycast/extensions/tree/main/extensions/memradar)
+
 ## 2026-10-01 — upstream `b01a7e7509`
 
 **Updated (1):** [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass)
