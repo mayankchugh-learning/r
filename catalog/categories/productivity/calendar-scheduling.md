@@ -1,8 +1,8 @@
 # Calendar & Scheduling
 
-25 extensions · [← Productivity](./README.md)
+26 extensions · [← Productivity](./README.md)
 
-[Calendar ✦](#calendar) (14) · [Meeting ✦](#meeting) (8) · [General](#general) (3)
+[Calendar ✦](#calendar) (14) · [Meeting ✦](#meeting) (9) · [General](#general) (3)
 
 *✦ auto-discovered topic group*
 
@@ -37,6 +37,7 @@
 | [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck) | 231 | Control your meetings from Raycast: toggle mute, camera, screen share and recording via MuteDeck, with a live Meeting Deck grid. | mutedeck (org) | macOS | [store](https://www.raycast.com/mutedeck/mutedeck) |
 | [Tldv Meetings](https://github.com/raycast/extensions/tree/main/extensions/tldv) | 21 | Browse and view your tl;dv meeting recordings | keito4 | macOS | [store](https://www.raycast.com/keito4/tldv) |
 | [Meeting Room Check](https://github.com/raycast/extensions/tree/main/extensions/meeting-room-check) | 4 | See which meeting rooms are free right now and block one instantly. | Ticsi | macOS, Windows | [store](https://www.raycast.com/Ticsi/meeting-room-check) |
+| [LokalBot](https://github.com/raycast/extensions/tree/main/extensions/lokalbot) | — | Find what you said or saw on your Mac. Search LokalBot meeting transcripts and summaries from Raycast. | stevan_bogosavljevic | macOS | — |
 
 ## General
 

@@ -1,6 +1,6 @@
 # Publishers
 
-2249 publishers · [← catalog index](../README.md)
+2250 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,288,153 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,288,161 |
 | 2 | [raycast](./id/raycast.md) | 11 | 899,786 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,248 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,054 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,262 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,055 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 494,083 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 490,346 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 456,508 |
@@ -2257,3 +2257,4 @@
 | 2247 | github-next | 2 | — |
 | 2248 | eugenio | 1 | — |
 | 2249 | multi | 1 | — |
+| 2250 | stevan_bogosavljevic | 1 | — |

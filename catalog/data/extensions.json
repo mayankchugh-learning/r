@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "311a5d23ebbc157bd855f34a64c1206de1925b60",
-  "generatedAt": "2026-10-01T20:41:53.755Z",
-  "downloadsRefreshedAt": "2026-10-01T20:41:53.332Z",
-  "count": 3352,
+  "commit": "6f34b233d39cf135e27adb07af5277c6a6f22a63",
+  "generatedAt": "2026-10-01T20:54:25.359Z",
+  "downloadsRefreshedAt": "2026-10-01T20:54:24.966Z",
+  "count": 3353,
   "extensions": [
     {
       "dir": "0x0",
@@ -10230,7 +10230,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 609281
+      "downloads": 609289
     },
     {
       "dir": "color-shades",
@@ -22959,7 +22959,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566054
+      "downloads": 566055
     },
     {
       "dir": "google-chrome-profiles",
@@ -29470,7 +29470,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768248
+      "downloads": 768262
     },
     {
       "dir": "kimai",
@@ -32335,6 +32335,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/logtail",
       "treeSha": "b80defb2b3ed5db10e84f5a90e8646718375142c",
       "downloads": 137
+    },
+    {
+      "dir": "lokalbot",
+      "name": "lokalbot",
+      "title": "LokalBot",
+      "description": "Find what you said or saw on your Mac. Search LokalBot meeting transcripts and summaries from Raycast.",
+      "author": "stevan_bogosavljevic",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/lokalbot",
+      "treeSha": "bb13056a67b761fc39817a1f0b3991b84e485f89",
+      "downloads": null
     },
     {
       "dir": "lokalise",

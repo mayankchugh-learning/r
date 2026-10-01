@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · **Search & Reference** · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-115 of 1133 extensions · [← macOS · Developer Tools](./README.md)
+116 of 1134 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -121,3 +121,4 @@
 | [FRC Programming](https://github.com/raycast/extensions/tree/main/extensions/frc-programming) | 5 | An all-in-one Raycast extension for FRC developers to instantly access WPILib docs and handle frequent unit conversions. | helloGithub326 | macOS, Windows | [store](https://www.raycast.com/helloGithub326/frc-programming) |
 | [ArgoCD](https://github.com/raycast/extensions/tree/main/extensions/argocd) | 4 | Search applications across several ArgoCD instances, then open, inspect or sync them. | pixibixi | macOS | [store](https://www.raycast.com/pixibixi/argocd) |
 | [HeidiSQL Sessions](https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions) | 3 | Search and launch your HeidiSQL sessions from Raycast. | THEN00P | Windows, macOS | [store](https://www.raycast.com/THEN00P/heidisql-sessions) |
+| [LokalBot](https://github.com/raycast/extensions/tree/main/extensions/lokalbot) | — | Find what you said or saw on your Mac. Search LokalBot meeting transcripts and summaries from Raycast. | stevan_bogosavljevic | macOS | — |

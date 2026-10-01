@@ -1,15 +1,15 @@
 # Productivity
 
-1534 extensions · [← all categories](../README.md)
+1535 extensions · [← all categories](../README.md)
 
-macOS: 1516 · Windows: 388
+macOS: 1517 · Windows: 388
 
 ## Organize & Plan
 
 | Topic | Extensions |
 | --- | --- |
 | [Tasks & To-Dos](./tasks-to-dos.md) | 50 |
-| [Calendar & Scheduling](./calendar-scheduling.md) | 25 |
+| [Calendar & Scheduling](./calendar-scheduling.md) | 26 |
 | [Notes & Knowledge](./notes-knowledge/README.md) | 66 |
 | [Time Tracking & Focus](./time-tracking-focus.md) | 26 |
 

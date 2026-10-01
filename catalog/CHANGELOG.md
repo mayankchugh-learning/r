@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `6f34b233d3`
+
+**Added (1):** [LokalBot](https://github.com/raycast/extensions/tree/main/extensions/lokalbot)
+
 ## 2026-10-01 — upstream `311a5d23eb`
 
 **Updated (1):** [Code Review Emoji Guide](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis)

@@ -1,8 +1,8 @@
 # Search & Reference
 
-118 extensions · [← Developer Tools](./README.md)
+119 extensions · [← Developer Tools](./README.md)
 
-[Documentation ✦](#documentation) (36) · [Docs ✦](#docs) (5) · [Bookmarks ✦](#bookmarks) (5) · [Cheatsheets ✦](#cheatsheets) (5) · [Recent ✦](#recent) (5) · [Directory ✦](#directory) (4) · [Sessions ✦](#sessions) (4) · [General](#general) (54)
+[Documentation ✦](#documentation) (36) · [Docs ✦](#docs) (5) · [Bookmarks ✦](#bookmarks) (5) · [Cheatsheets ✦](#cheatsheets) (5) · [Recent ✦](#recent) (5) · [Directory ✦](#directory) (4) · [Sessions ✦](#sessions) (4) · [General](#general) (55)
 
 *✦ auto-discovered topic group*
 
@@ -163,3 +163,4 @@
 | [Kusto Reference](https://github.com/raycast/extensions/tree/main/extensions/kusto-reference) | 24 | Look up KQL commands | olafhartong | macOS | [store](https://www.raycast.com/olafhartong/kusto-reference) |
 | [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) | 18 | Search for a definition on WebGlossary.info | aashwin_patki | macOS, Windows | [store](https://www.raycast.com/aashwin_patki/webglossary-search) |
 | [ArgoCD](https://github.com/raycast/extensions/tree/main/extensions/argocd) | 4 | Search applications across several ArgoCD instances, then open, inspect or sync them. | pixibixi | macOS | [store](https://www.raycast.com/pixibixi/argocd) |
+| [LokalBot](https://github.com/raycast/extensions/tree/main/extensions/lokalbot) | — | Find what you said or saw on your Mac. Search LokalBot meeting transcripts and summaries from Raycast. | stevan_bogosavljevic | macOS | — |
