@@ -1,6 +1,6 @@
 # Publishers
 
-2251 publishers · [← catalog index](../README.md)
+2252 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 168,686 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,694 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,887 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,288,172 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,288,173 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 456,508 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,729 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,335 |
@@ -2259,3 +2259,4 @@
 | 2249 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
 | 2250 | eugenio | 1 | — |
 | 2251 | multi | 1 | — |
+| 2252 | skilux | 1 | — |

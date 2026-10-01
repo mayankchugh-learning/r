@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `f45a4201c8`
+
+**Added (1):** [T3 Code](https://github.com/raycast/extensions/tree/main/extensions/t3-code)
+
 ## 2026-10-01 — upstream `3d5b757baa`
 
 **Added (1):** [Notify Africa](https://github.com/raycast/extensions/tree/main/extensions/notify-africa-bulk-sms)

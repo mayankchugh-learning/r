@@ -1,8 +1,8 @@
 # Code, Snippets & Text Utilities
 
-100 extensions · [← Developer Tools](./README.md)
+101 extensions · [← Developer Tools](./README.md)
 
-[Code ✦](#code) (28) · [Format ✦](#format) (12) · [Markdown ✦](#markdown) (9) · [Clipboard ✦](#clipboard) (8) · [Json ✦](#json) (7) · [Between ✦](#between) (6) · [General](#general) (30)
+[Code ✦](#code) (29) · [Format ✦](#format) (12) · [Markdown ✦](#markdown) (9) · [Clipboard ✦](#clipboard) (8) · [Json ✦](#json) (7) · [Between ✦](#between) (6) · [General](#general) (30)
 
 *✦ auto-discovered topic group*
 
@@ -38,6 +38,7 @@
 | [Code Quarkus](https://github.com/raycast/extensions/tree/main/extensions/code-quarkus) | 17 | Create new Quarkus project | loic_magnette | macOS | [store](https://www.raycast.com/loic_magnette/code-quarkus) |
 | [Greptile](https://github.com/raycast/extensions/tree/main/extensions/greptile) | 11 | Browse Greptile pull requests, code reviews, and review comments from Raycast. | clins1994 | Windows, macOS | [store](https://www.raycast.com/clins1994/greptile) |
 | [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) | 5 | Compile GLES shader code with MaliOC and get performance stats. | RomanVPX | macOS | [store](https://www.raycast.com/RomanVPX/gles-to-malioc) |
+| [T3 Code](https://github.com/raycast/extensions/tree/main/extensions/t3-code) | — | Start T3 Code sessions, search threads, and jump to the ones waiting on you. | skilux | macOS | — |
 
 ## Format ✦
 

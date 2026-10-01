@@ -1,6 +1,6 @@
 # Publishers
 
-2251 publishers · [← catalog index](../README.md)
+2252 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,7 +8,7 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,288,172 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,288,173 |
 | 2 | [raycast](./id/raycast.md) | 11 | 899,786 |
 | 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,270 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,057 |
@@ -2259,3 +2259,4 @@
 | 2249 | github-next | 2 | — |
 | 2250 | eugenio | 1 | — |
 | 2251 | multi | 1 | — |
+| 2252 | skilux | 1 | — |

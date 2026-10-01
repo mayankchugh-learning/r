@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3d5b757baa1e0b0a9ef617dcbcbf18b0faa31f18",
-  "generatedAt": "2026-10-01T21:11:35.307Z",
-  "downloadsRefreshedAt": "2026-10-01T21:11:34.846Z",
-  "count": 3354,
+  "commit": "f45a4201c8b97c55e75bcf20c7ee65cab43bd984",
+  "generatedAt": "2026-10-01T21:13:28.775Z",
+  "downloadsRefreshedAt": "2026-10-01T21:13:27.860Z",
+  "count": 3355,
   "extensions": [
     {
       "dir": "0x0",
@@ -10230,7 +10230,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 609300
+      "downloads": 609301
     },
     {
       "dir": "color-shades",
@@ -59231,6 +59231,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/t3-chat",
       "treeSha": "0a9c30c644f71ddf2c2ca63c9840d4993ae43548",
       "downloads": 2692
+    },
+    {
+      "dir": "t3-code",
+      "name": "t3-code",
+      "title": "T3 Code",
+      "description": "Start T3 Code sessions, search threads, and jump to the ones waiting on you.",
+      "author": "skilux",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/t3-code",
+      "treeSha": "a273aa3ec63e4e14750b6baa14cf04ffe60b8649",
+      "downloads": null
     },
     {
       "dir": "tabbit",
