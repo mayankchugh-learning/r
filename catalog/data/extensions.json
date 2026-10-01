@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "d8c156f52bcb12e38c8bae31843bc8689e0bfdad",
-  "generatedAt": "2026-10-01T04:43:35.426Z",
-  "downloadsRefreshedAt": "2026-10-01T04:43:34.750Z",
+  "commit": "ca153cbcd91bfbb66cb9229d919185e311b1ba6c",
+  "generatedAt": "2026-10-01T09:00:42.777Z",
+  "downloadsRefreshedAt": "2026-10-01T09:00:42.237Z",
   "count": 3351,
   "extensions": [
     {
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 608496
+      "downloads": 608700
     },
     {
       "dir": "color-shades",
@@ -12165,7 +12165,7 @@
       "store": "https://www.raycast.com/sworup_ku/cuenow",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/cuenow",
       "treeSha": "a48fa0d2fce2e3357c1dc00f8ceea11bf245597b",
-      "downloads": 1
+      "downloads": 0
     },
     {
       "dir": "cuid-generator",
@@ -22957,7 +22957,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565508
+      "downloads": 565651
     },
     {
       "dir": "google-chrome-profiles",
@@ -29468,7 +29468,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 767397
+      "downloads": 767605
     },
     {
       "dir": "kimai",
@@ -31487,7 +31487,7 @@
       ],
       "store": "https://www.raycast.com/samuelkraft/linak-desk-controller",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linak-desk-controller",
-      "treeSha": "83c8fd6ef54bc7e9a5933f4460a7156fdb53a336",
+      "treeSha": "1e468993c49c60a66a16414a66ab0bf78f9aac5c",
       "downloads": 220
     },
     {
@@ -67627,10 +67627,10 @@
       "platforms": [
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/afaan_mushtaq/windows-screenshot",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/windows-screenshot",
       "treeSha": "ad82cb0d8421e47860a03c97b7f9e469c6289892",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "windows-terminal",

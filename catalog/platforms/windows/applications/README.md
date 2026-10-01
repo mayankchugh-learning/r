@@ -66,7 +66,7 @@
 | [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy) | 76 | Search, capture, and manage your Workflowy account from Raycast. | rodolfo_lopez | macOS, Windows | [store](https://www.raycast.com/rodolfo_lopez/workflowy) |
 | [PicGo](https://github.com/raycast/extensions/tree/main/extensions/picgo) | 61 | Easily use PicGo to upload your images to image hosts in Raycast. | rubisco0211 | macOS, Windows | [store](https://www.raycast.com/rubisco0211/picgo) |
 | [Flameshot](https://github.com/raycast/extensions/tree/main/extensions/flameshot) | 27 | Capture screenshots with Flameshot | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/flameshot) |
-| [Windows Screenshot](https://github.com/raycast/extensions/tree/main/extensions/windows-screenshot) | — | Capture full screen, selected region, or active window on Windows. | afaan_mushtaq | Windows | — |
+| [Windows Screenshot](https://github.com/raycast/extensions/tree/main/extensions/windows-screenshot) | 0 | Capture full screen, selected region, or active window on Windows. | afaan_mushtaq | Windows | [store](https://www.raycast.com/afaan_mushtaq/windows-screenshot) |
 
 ## Developer & Power-User Apps
 

@@ -20,8 +20,8 @@
 | [Capd](https://github.com/raycast/extensions/tree/main/extensions/capd) | 12 | Search and capture your Capd library without leaving Raycast. | jamie_davenport | macOS | [store](https://www.raycast.com/jamie_davenport/capd) |
 | [BOOX Companion](https://github.com/raycast/extensions/tree/main/extensions/boox-companion) | 6 | Browse, transfer files, and capture the screen of BOOX devices over your local network | metrovoc | macOS | [store](https://www.raycast.com/metrovoc/boox-companion) |
 | [ScreenLex](https://github.com/raycast/extensions/tree/main/extensions/screenlex) | 5 | Capture, translate, and manage screenshots with ScreenLex. | chunkithwang | macOS | [store](https://www.raycast.com/chunkithwang/screenlex) |
+| [Windows Screenshot](https://github.com/raycast/extensions/tree/main/extensions/windows-screenshot) | 0 | Capture full screen, selected region, or active window on Windows. | afaan_mushtaq | Windows | [store](https://www.raycast.com/afaan_mushtaq/windows-screenshot) |
 | [Zoomer](https://github.com/raycast/extensions/tree/main/extensions/zoomer) | 0 | Capture screenshots, control recordings, and open Zoomer from Raycast. | colindotfun | macOS | [store](https://www.raycast.com/colindotfun/zoomer) |
-| [Windows Screenshot](https://github.com/raycast/extensions/tree/main/extensions/windows-screenshot) | — | Capture full screen, selected region, or active window on Windows. | afaan_mushtaq | Windows | — |
 
 ## Image ✦
 

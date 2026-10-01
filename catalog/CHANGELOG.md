@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `ca153cbcd9`
+
+**Updated (1):** [Linak Desk Controller](https://github.com/raycast/extensions/tree/main/extensions/linak-desk-controller)
+
 ## 2026-10-01 — upstream `d8c156f52b`
 
 **Added (1):** [Windows Screenshot](https://github.com/raycast/extensions/tree/main/extensions/windows-screenshot)

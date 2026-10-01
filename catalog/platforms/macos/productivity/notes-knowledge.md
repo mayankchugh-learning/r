@@ -71,4 +71,4 @@
 | [Jotaid](https://github.com/raycast/extensions/tree/main/extensions/jotaid) | 2 | Search your Jotaid notes and send anything you are reading straight to the Inbox. | leeron | macOS | [store](https://www.raycast.com/leeron/jotaid) |
 | [Noteman](https://github.com/raycast/extensions/tree/main/extensions/noteman) | 2 | Fast, local Markdown note-taking in Raycast | samuel_oldmark_se | macOS | [store](https://www.raycast.com/samuel_oldmark_se/noteman) |
 | [Timeatlas](https://github.com/raycast/extensions/tree/main/extensions/timeatlas) | 2 | Notes and daily glance for Time Atlas. | shak | macOS | [store](https://www.raycast.com/shak/timeatlas) |
-| [CueNow](https://github.com/raycast/extensions/tree/main/extensions/cuenow) | 1 | Search, create and manage your CueNow sticky notes without leaving Raycast. | sworup_ku | macOS | [store](https://www.raycast.com/sworup_ku/cuenow) |
+| [CueNow](https://github.com/raycast/extensions/tree/main/extensions/cuenow) | 0 | Search, create and manage your CueNow sticky notes without leaving Raycast. | sworup_ku | macOS | [store](https://www.raycast.com/sworup_ku/cuenow) |

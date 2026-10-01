@@ -61,4 +61,4 @@
 | [Mnemosyne](https://github.com/raycast/extensions/tree/main/extensions/mnemosyne) | 13 | Quickly save URLs and notes to your Mnemosyne knowledge library | dort | macOS, Windows | [store](https://www.raycast.com/dort/mnemosyne) |
 | [nocal](https://github.com/raycast/extensions/tree/main/extensions/nocal) | 13 | Search notes and manage your day from Raycast with nocal. | nocal (org) | macOS | [store](https://www.raycast.com/nocal/nocal) |
 | [Jotaid](https://github.com/raycast/extensions/tree/main/extensions/jotaid) | 2 | Search your Jotaid notes and send anything you are reading straight to the Inbox. | leeron | macOS | [store](https://www.raycast.com/leeron/jotaid) |
-| [CueNow](https://github.com/raycast/extensions/tree/main/extensions/cuenow) | 1 | Search, create and manage your CueNow sticky notes without leaving Raycast. | sworup_ku | macOS | [store](https://www.raycast.com/sworup_ku/cuenow) |
+| [CueNow](https://github.com/raycast/extensions/tree/main/extensions/cuenow) | 0 | Search, create and manage your CueNow sticky notes without leaving Raycast. | sworup_ku | macOS | [store](https://www.raycast.com/sworup_ku/cuenow) |

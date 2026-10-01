@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,286,776 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,286,980 |
 | 2 | [raycast](./id/raycast.md) | 11 | 898,915 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 767,397 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 565,508 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 767,605 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 565,651 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 493,629 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 489,926 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 456,119 |
@@ -2239,9 +2239,9 @@
 | 2229 | [mjphayes](https://www.raycast.com/mjphayes) | 1 | 1 |
 | 2230 | [nokoniko](https://www.raycast.com/nokoniko) | 1 | 1 |
 | 2231 | [Seigiard](https://www.raycast.com/Seigiard) | 1 | 1 |
-| 2232 | [sworup_ku](https://www.raycast.com/sworup_ku) | 1 | 1 |
-| 2233 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
-| 2234 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 1 |
+| 2232 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
+| 2233 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 1 |
+| 2234 | [afaan_mushtaq](https://www.raycast.com/afaan_mushtaq) | 1 | 0 |
 | 2235 | [andrey_tolstikov](https://www.raycast.com/andrey_tolstikov) | 1 | 0 |
 | 2236 | [ariel_conti](https://www.raycast.com/ariel_conti) | 1 | 0 |
 | 2237 | [asyntai](https://www.raycast.com/Asyntai) | 1 | 0 |
@@ -2252,9 +2252,9 @@
 | 2242 | [minhaaj_rehman](https://www.raycast.com/minhaaj_rehman) | 1 | 0 |
 | 2243 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
 | 2244 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2245 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2246 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
-| 2247 | github-next | 2 | — |
-| 2248 | afaan_mushtaq | 1 | — |
+| 2245 | [sworup_ku](https://www.raycast.com/sworup_ku) | 1 | 0 |
+| 2246 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2247 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
+| 2248 | github-next | 2 | — |
 | 2249 | eugenio | 1 | — |
 | 2250 | multi | 1 | — |
