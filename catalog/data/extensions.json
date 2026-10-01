@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "48ec088a312bb510f2d1f014ddba4f98b0c81500",
-  "generatedAt": "2026-10-01T18:06:47.911Z",
-  "downloadsRefreshedAt": "2026-10-01T18:06:47.505Z",
+  "commit": "215c034ad78537b468f113a23b333c9a5cb4e3dc",
+  "generatedAt": "2026-10-01T18:08:28.317Z",
+  "downloadsRefreshedAt": "2026-10-01T18:08:27.909Z",
   "count": 3351,
   "extensions": [
     {
@@ -5040,7 +5040,7 @@
       ],
       "store": "https://www.raycast.com/aaronschneider/bibmanager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bibmanager",
-      "treeSha": "80373801d561249f7f00f2cba19e967cf3df998d",
+      "treeSha": "bc0890f582230c36f582e6e563b4d3ba5fe51964",
       "downloads": 124
     },
     {
@@ -16485,7 +16485,7 @@
       "store": "https://www.raycast.com/isfeng/easydict",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/easydict",
       "treeSha": "18c3ea5f05513c3f90b61477ffe98c190edcea60",
-      "downloads": 39475
+      "downloads": 39472
     },
     {
       "dir": "easyvariable",
@@ -22957,7 +22957,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565972
+      "downloads": 565973
     },
     {
       "dir": "google-chrome-profiles",

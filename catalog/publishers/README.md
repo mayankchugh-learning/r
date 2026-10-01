@@ -11,7 +11,7 @@
 | 1 | [thomas](./id/thomas.md) | 15 | 1,288,051 |
 | 2 | [raycast](./id/raycast.md) | 11 | 899,779 |
 | 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,138 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 565,972 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 565,973 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 494,083 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 490,346 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 456,508 |
@@ -75,7 +75,7 @@
 | 65 | [itsmingjie](https://www.raycast.com/itsmingjie) | 2 | 41,858 |
 | 66 | [eggsy](https://www.raycast.com/eggsy) | 5 | 40,469 |
 | 67 | [sven](https://www.raycast.com/sven) | 4 | 40,461 |
-| 68 | [isfeng](https://www.raycast.com/isfeng) | 3 | 40,395 |
+| 68 | [isfeng](https://www.raycast.com/isfeng) | 3 | 40,392 |
 | 69 | [yuercl](https://www.raycast.com/yuercl) | 2 | 40,192 |
 | 70 | [florisdobber](https://www.raycast.com/florisdobber) | 1 | 37,583 |
 | 71 | [Melvynx](https://www.raycast.com/Melvynx) | 1 | 37,379 |
