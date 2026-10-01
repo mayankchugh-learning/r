@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e03280aa26d6939fa104d97cd33ae6bc5a73b508",
-  "generatedAt": "2026-10-01T10:48:38.333Z",
-  "downloadsRefreshedAt": "2026-10-01T10:48:36.995Z",
+  "commit": "c1575ae59f9e8808bc0364e0e3c3feb537772387",
+  "generatedAt": "2026-10-01T10:49:45.171Z",
+  "downloadsRefreshedAt": "2026-10-01T10:49:44.743Z",
   "count": 3351,
   "extensions": [
     {
@@ -2625,7 +2625,7 @@
       ],
       "store": "https://www.raycast.com/raycast/apple-reminders",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-reminders",
-      "treeSha": "40fb7588d44a7353d2d2ede1522ab7ab0eb49eda",
+      "treeSha": "96829fcfe3afb21781f4e6127dd0d5919d57bc1c",
       "downloads": 120612
     },
     {
@@ -22957,7 +22957,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565713
+      "downloads": 565715
     },
     {
       "dir": "google-chrome-profiles",
@@ -29468,7 +29468,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 767695
+      "downloads": 767696
     },
     {
       "dir": "kimai",
