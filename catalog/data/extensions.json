@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a9773b7b65bd581224a1572a6b0176dbd98789fc",
-  "generatedAt": "2026-10-01T18:25:24.332Z",
-  "downloadsRefreshedAt": "2026-10-01T18:25:23.865Z",
+  "commit": "1eef376d31894c9b602795701afbfed770c4b27b",
+  "generatedAt": "2026-10-01T18:30:57.844Z",
+  "downloadsRefreshedAt": "2026-10-01T18:30:57.430Z",
   "count": 3351,
   "extensions": [
     {
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 609192
+      "downloads": 609196
     },
     {
       "dir": "color-shades",
@@ -22957,7 +22957,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565984
+      "downloads": 565988
     },
     {
       "dir": "google-chrome-profiles",
@@ -29468,7 +29468,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768152
+      "downloads": 768160
     },
     {
       "dir": "kimai",
@@ -57631,7 +57631,7 @@
       "dir": "steam",
       "name": "steam",
       "title": "Steam",
-      "description": "Search and view information about any game on steam, as well as games you own.",
+      "description": "Search Steam games and users, view game details, and browse the games you own.",
       "author": "KevinBatdorf",
       "owner": null,
       "contributors": 3,
@@ -57646,7 +57646,7 @@
       ],
       "store": "https://www.raycast.com/KevinBatdorf/steam",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/steam",
-      "treeSha": "574e1bcd30657da483eafbcc48b7d07b3443daa4",
+      "treeSha": "531adc52cc2476cf31dad7dfd9fecd008bbcfafb",
       "downloads": 12183
     },
     {

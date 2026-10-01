@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `1eef376d31`
+
+**Updated (1):** [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam)
+
 ## 2026-10-01 — upstream `a9773b7b65`
 
 **Updated (1):** [Val Town](https://github.com/raycast/extensions/tree/main/extensions/val-town)
