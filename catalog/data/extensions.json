@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "215c034ad78537b468f113a23b333c9a5cb4e3dc",
-  "generatedAt": "2026-10-01T18:08:28.317Z",
-  "downloadsRefreshedAt": "2026-10-01T18:08:27.909Z",
+  "commit": "071a60165e17ff2451be8d6d68590a06adbe2026",
+  "generatedAt": "2026-10-01T18:09:21.694Z",
+  "downloadsRefreshedAt": "2026-10-01T18:09:21.304Z",
   "count": 3351,
   "extensions": [
     {
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 609179
+      "downloads": 609180
     },
     {
       "dir": "color-shades",
@@ -22957,7 +22957,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565973
+      "downloads": 565974
     },
     {
       "dir": "google-chrome-profiles",
@@ -29468,7 +29468,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768138
+      "downloads": 768139
     },
     {
       "dir": "kimai",
@@ -63355,7 +63355,7 @@
       "description": "Capture and organize your lists, to-dos, notes, and reminders in Twos.",
       "author": "parker_klein",
       "owner": null,
-      "contributors": 2,
+      "contributors": 3,
       "categories": [
         "Productivity"
       ],
@@ -63366,7 +63366,7 @@
       ],
       "store": "https://www.raycast.com/parker_klein/twos",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/twos",
-      "treeSha": "454f0ebe637e6088134bdeec7cb3736e33996826",
+      "treeSha": "50c5fa2f0913f843fd2cfcb9eca96909f6df0b75",
       "downloads": 652
     },
     {

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `071a60165e`
+
+**Updated (1):** [Twos](https://github.com/raycast/extensions/tree/main/extensions/twos)
+
 ## 2026-10-01 — upstream `215c034ad7`
 
 **Updated (1):** [Bibmanager](https://github.com/raycast/extensions/tree/main/extensions/bibmanager)
