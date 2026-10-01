@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `08c139018f`
+
+**Added (1):** [Moon Mansions](https://github.com/raycast/extensions/tree/main/extensions/moon-mansions)
+
 ## 2026-10-01 — upstream `0e4b3a492b`
 
 **Updated (1):** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio)

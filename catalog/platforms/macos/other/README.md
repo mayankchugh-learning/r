@@ -1,8 +1,8 @@
 # macOS · Other
 
-183 extensions · [← macOS](../README.md)
+184 extensions · [← macOS](../README.md)
 
-[AI Tools](#ai-tools) (15) · [Developer Utilities](#developer-utilities) (10) · [Productivity & Tasks](#productivity-tasks) (5) · [Media & Entertainment](#media-entertainment) (11) · [Language & Translation](#language-translation) (8) · [Health & Lifestyle](#health-lifestyle) (4) · [Travel & Transport](#travel-transport) (18) · [Smart Home & IoT](#smart-home-iot) (6) · [System & Hardware](#system-hardware) (8) · [Web & Search](#web-search) (25) · [Communication & Social](#communication-social) (3) · [Education & Learning](#education-learning) (2) · [General](#general) (68)
+[AI Tools](#ai-tools) (15) · [Developer Utilities](#developer-utilities) (10) · [Productivity & Tasks](#productivity-tasks) (5) · [Media & Entertainment](#media-entertainment) (11) · [Language & Translation](#language-translation) (9) · [Health & Lifestyle](#health-lifestyle) (4) · [Travel & Transport](#travel-transport) (18) · [Smart Home & IoT](#smart-home-iot) (6) · [System & Hardware](#system-hardware) (8) · [Web & Search](#web-search) (25) · [Communication & Social](#communication-social) (3) · [Education & Learning](#education-learning) (2) · [General](#general) (68)
 
 ## Digital Tools
 
@@ -184,6 +184,7 @@
 | [Finnish Dictionary](https://github.com/raycast/extensions/tree/main/extensions/finnish-dictionary) | 215 | MacOS has a great dictionary, but it's not available for Finnish. This extension adds a Finnish dictionary at your fingertips. | albertoxamin | macOS, Windows | [store](https://www.raycast.com/albertoxamin/finnish-dictionary) |
 | [Cangjie Dictionary](https://github.com/raycast/extensions/tree/main/extensions/cangjie) | 40 | Fast Chinese characters lookup for Cangjie and Sucheng codes. Supports instant search from selected text and provides both English letters and Chinese radicals. | jimmyclchu | macOS | [store](https://www.raycast.com/jimmyclchu/cangjie) |
 | [Climbing Grade Converter](https://github.com/raycast/extensions/tree/main/extensions/climbing-grade-converter) | 28 | This extension converts any climbing grade (Font e. 7b+, V-scale e. V8, and YDS e. 5.14a) into a selected one, using natural language. | mrtartuf0 | macOS | [store](https://www.raycast.com/mrtartuf0/climbing-grade-converter) |
+| [Moon Mansions](https://github.com/raycast/extensions/tree/main/extensions/moon-mansions) | 0 | Moon phase, illumination, zodiac and VOC plus Arab manazil, Vedic nakshatra, Chinese xiu, classical planets and traditional calendars. | minhaaj_rehman | macOS, Windows | [store](https://www.raycast.com/minhaaj_rehman/moon-mansions) |
 
 ### General
 

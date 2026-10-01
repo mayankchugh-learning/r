@@ -1,6 +1,6 @@
 # macOS extensions
 
-3311 extensions · [← all platforms](../README.md)
+3312 extensions · [← all platforms](../README.md)
 
 ### Work & Productivity
 
@@ -40,7 +40,7 @@
 | Category | Extensions |
 | --- | --- |
 | [System](./system/README.md) | 264 |
-| [Other](./other/README.md) | 183 |
+| [Other](./other/README.md) | 184 |
 
 ### Fun & Entertainment
 

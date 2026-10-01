@@ -1,6 +1,6 @@
 # Publishers
 
-2248 publishers · [← catalog index](../README.md)
+2249 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -11,7 +11,7 @@
 | 1 | [thomas](./id/thomas.md) | 15 | 1,286,759 |
 | 2 | [raycast](./id/raycast.md) | 11 | 898,915 |
 | 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 767,384 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 565,492 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 565,494 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 493,629 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 489,926 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 456,119 |
@@ -2248,11 +2248,12 @@
 | 2238 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2239 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2240 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2241 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2242 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2243 | [sworup_ku](https://www.raycast.com/sworup_ku) | 1 | 0 |
-| 2244 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2245 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
-| 2246 | github-next | 2 | — |
-| 2247 | eugenio | 1 | — |
-| 2248 | multi | 1 | — |
+| 2241 | [minhaaj_rehman](https://www.raycast.com/minhaaj_rehman) | 1 | 0 |
+| 2242 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2243 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2244 | [sworup_ku](https://www.raycast.com/sworup_ku) | 1 | 0 |
+| 2245 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2246 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
+| 2247 | github-next | 2 | — |
+| 2248 | eugenio | 1 | — |
+| 2249 | multi | 1 | — |

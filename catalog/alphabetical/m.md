@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-226 extensions · [← catalog index](../README.md)
+227 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -231,4 +231,5 @@
 | [Mealie](https://github.com/raycast/extensions/tree/main/extensions/mealie) | 1 | Manage Mealie shopping lists and meal plans, import recipes and search your recipe collection. | joschka_rick | macOS | [store](https://www.raycast.com/joschka_rick/mealie) |
 | [Music Recognizer](https://github.com/raycast/extensions/tree/main/extensions/music-recognizer) | 1 | Identify the song playing on your PC by recording a few seconds of system audio. | erenalparslan | Windows | [store](https://www.raycast.com/erenalparslan/music-recognizer) |
 | [MOEX Bonds](https://github.com/raycast/extensions/tree/main/extensions/moex-bonds) | 0 | Search Russian bonds on the Moscow Exchange by name, ticker or ISIN: price, yield, coupons, offer and maturity. | andrey_tolstikov | macOS | [store](https://www.raycast.com/andrey_tolstikov/moex-bonds) |
+| [Moon Mansions](https://github.com/raycast/extensions/tree/main/extensions/moon-mansions) | 0 | Moon phase, illumination, zodiac and VOC plus Arab manazil, Vedic nakshatra, Chinese xiu, classical planets and traditional calendars. | minhaaj_rehman | macOS, Windows | [store](https://www.raycast.com/minhaaj_rehman/moon-mansions) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |

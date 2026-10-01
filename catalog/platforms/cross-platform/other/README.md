@@ -1,8 +1,8 @@
 # Cross-platform · Other
 
-37 extensions · [← Cross-platform](../README.md)
+38 extensions · [← Cross-platform](../README.md)
 
-[AI Tools](#ai-tools) (4) · [Developer Utilities](#developer-utilities) (2) · [Productivity & Tasks](#productivity-tasks) (1) · [Media & Entertainment](#media-entertainment) (1) · [Language & Translation](#language-translation) (2) · [Travel & Transport](#travel-transport) (4) · [Smart Home & IoT](#smart-home-iot) (2) · [System & Hardware](#system-hardware) (1) · [Web & Search](#web-search) (7) · [Communication & Social](#communication-social) (1) · [General](#general) (12)
+[AI Tools](#ai-tools) (4) · [Developer Utilities](#developer-utilities) (2) · [Productivity & Tasks](#productivity-tasks) (1) · [Media & Entertainment](#media-entertainment) (1) · [Language & Translation](#language-translation) (3) · [Travel & Transport](#travel-transport) (4) · [Smart Home & IoT](#smart-home-iot) (2) · [System & Hardware](#system-hardware) (1) · [Web & Search](#web-search) (7) · [Communication & Social](#communication-social) (1) · [General](#general) (12)
 
 ## Digital Tools
 
@@ -84,6 +84,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Thesaurus](https://github.com/raycast/extensions/tree/main/extensions/thesaurus) | 9,262 | Search Merrian-Webster's Thesaurus | ABukSwienty | macOS, Windows | [store](https://www.raycast.com/ABukSwienty/thesaurus) |
 | [Finnish Dictionary](https://github.com/raycast/extensions/tree/main/extensions/finnish-dictionary) | 215 | MacOS has a great dictionary, but it's not available for Finnish. This extension adds a Finnish dictionary at your fingertips. | albertoxamin | macOS, Windows | [store](https://www.raycast.com/albertoxamin/finnish-dictionary) |
+| [Moon Mansions](https://github.com/raycast/extensions/tree/main/extensions/moon-mansions) | 0 | Moon phase, illumination, zodiac and VOC plus Arab manazil, Vedic nakshatra, Chinese xiu, classical planets and traditional calendars. | minhaaj_rehman | macOS, Windows | [store](https://www.raycast.com/minhaaj_rehman/moon-mansions) |
 
 ### General
 

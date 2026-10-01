@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-179 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+180 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -132,6 +132,7 @@
 | [millin_gabani](https://www.raycast.com/millin_gabani) | 1 | 15,661 | **Productivity:** [Obsidian Smart Capture](https://github.com/raycast/extensions/tree/main/extensions/obsidian-smart-capture) |
 | [MinatoHikari](https://www.raycast.com/MinatoHikari) | 1 | 1,403 | **System:** [SSH Tunnel Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-tunnel-manager) |
 | [mindtheflo](https://www.raycast.com/mindtheflo) | 1 | 311 | **Productivity:** [Ask Notis](https://github.com/raycast/extensions/tree/main/extensions/notis) |
+| [minhaaj_rehman](https://www.raycast.com/minhaaj_rehman) | 1 | 0 | **Other:** [Moon Mansions](https://github.com/raycast/extensions/tree/main/extensions/moon-mansions) |
 | [MisakiCoca](https://www.raycast.com/MisakiCoca) | 1 | 11,614 | **Security:** [Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) |
 | [mishamyrt](https://www.raycast.com/mishamyrt) | 1 | 54 | **System:** [Lockdock](https://github.com/raycast/extensions/tree/main/extensions/lockdock) |
 | [MiskaMyasa](https://www.raycast.com/MiskaMyasa) | 1 | 180 | **Developer Tools:** [Colima](https://github.com/raycast/extensions/tree/main/extensions/colima) |

@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "0e4b3a492ba1afb5674944f0c8704c48d43479bd",
-  "generatedAt": "2026-10-01T04:14:27.063Z",
-  "downloadsRefreshedAt": "2026-10-01T04:14:26.321Z",
-  "count": 3349,
+  "commit": "08c139018fffa3987ac1f526df70bd8bf9683527",
+  "generatedAt": "2026-10-01T04:16:24.053Z",
+  "downloadsRefreshedAt": "2026-10-01T04:16:23.298Z",
+  "count": 3350,
   "extensions": [
     {
       "dir": "0x0",
@@ -22957,7 +22957,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 565492
+      "downloads": 565494
     },
     {
       "dir": "google-chrome-profiles",
@@ -36528,6 +36528,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/moodist",
       "treeSha": "75080d4236f836618af690e307848ea6fe82a7d8",
       "downloads": 141
+    },
+    {
+      "dir": "moon-mansions",
+      "name": "moon-mansions",
+      "title": "Moon Mansions",
+      "description": "Moon phase, illumination, zodiac and VOC plus Arab manazil, Vedic nakshatra, Chinese xiu, classical planets and traditional calendars.",
+      "author": "minhaaj_rehman",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Other"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/minhaaj_rehman/moon-mansions",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/moon-mansions",
+      "treeSha": "7a70e57c75946db821a4bbecadef0456dbad751e",
+      "downloads": 0
     },
     {
       "dir": "moon-phrase",
