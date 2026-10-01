@@ -1,6 +1,6 @@
 # Publishers
 
-2245 publishers · [← catalog index](../README.md)
+2246 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,286,323 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,286,324 |
 | 2 | [raycast](./id/raycast.md) | 11 | 898,372 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 767,316 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 565,444 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 767,318 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 565,446 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 493,351 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 489,665 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 455,839 |
@@ -2253,3 +2253,4 @@
 | 2243 | github-next | 2 | — |
 | 2244 | eugenio | 1 | — |
 | 2245 | multi | 1 | — |
+| 2246 | sworup_ku | 1 | — |

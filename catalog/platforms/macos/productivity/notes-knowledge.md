@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · **Notes & Knowledge** · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-65 of 1513 extensions · [← macOS · Productivity](./README.md)
+66 of 1514 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -71,3 +71,4 @@
 | [Jotaid](https://github.com/raycast/extensions/tree/main/extensions/jotaid) | 2 | Search your Jotaid notes and send anything you are reading straight to the Inbox. | leeron | macOS | [store](https://www.raycast.com/leeron/jotaid) |
 | [Noteman](https://github.com/raycast/extensions/tree/main/extensions/noteman) | 2 | Fast, local Markdown note-taking in Raycast | samuel_oldmark_se | macOS | [store](https://www.raycast.com/samuel_oldmark_se/noteman) |
 | [Timeatlas](https://github.com/raycast/extensions/tree/main/extensions/timeatlas) | 2 | Notes and daily glance for Time Atlas. | shak | macOS | [store](https://www.raycast.com/shak/timeatlas) |
+| [CueNow](https://github.com/raycast/extensions/tree/main/extensions/cuenow) | — | Search, create and manage your CueNow sticky notes without leaving Raycast. | sworup_ku | macOS | — |
