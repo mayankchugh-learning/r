@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · **J** · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-134 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+135 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -71,6 +71,7 @@
 | [johannes_lohmeier](https://www.raycast.com/johannes_lohmeier) | 1 | 898 | **Productivity:** [Smart Calendars AI – Create Events / Reminders Us…](https://github.com/raycast/extensions/tree/main/extensions/smart-calendars-ai-create-events-using-ai) |
 | [johanthorell](https://www.raycast.com/johanthorell) | 1 | 583 | **Developer Tools:** [App Store Connect](https://github.com/raycast/extensions/tree/main/extensions/app-store-connect) |
 | [john_alexander](https://www.raycast.com/john_alexander) | 1 | 75 | **Web:** [Surf Check](https://github.com/raycast/extensions/tree/main/extensions/surf-check) |
+| [john_ndelembi](https://www.raycast.com/john_ndelembi) | 1 | 0 | **Communication:** [Notify Africa](https://github.com/raycast/extensions/tree/main/extensions/notify-africa-bulk-sms) |
 | [johndoe123789](https://www.raycast.com/johndoe123789) | 1 | 4,566 | **Developer Tools:** [Heroicons](https://github.com/raycast/extensions/tree/main/extensions/heroicons) |
 | [johndturn](https://www.raycast.com/johndturn) | 1 | 9,756 | **System:** [Single Disk Eject](https://github.com/raycast/extensions/tree/main/extensions/single-disk-eject) |
 | [Johnson](https://www.raycast.com/Johnson) | 1 | 792 | **Developer Tools:** [URL Parse](https://github.com/raycast/extensions/tree/main/extensions/url-parse) |

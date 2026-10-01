@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-01 — upstream `3d5b757baa`
+
+**Added (1):** [Notify Africa](https://github.com/raycast/extensions/tree/main/extensions/notify-africa-bulk-sms)
+
 ## 2026-10-01 — upstream `6f34b233d3`
 
 **Added (1):** [LokalBot](https://github.com/raycast/extensions/tree/main/extensions/lokalbot)

@@ -1,6 +1,6 @@
 # Publishers
 
-2250 publishers · [← catalog index](../README.md)
+2251 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 168,686 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,694 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,887 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,288,161 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,288,172 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 456,508 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,729 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,335 |
@@ -404,8 +404,8 @@
 | 394 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 395 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 2 | 9 |
 | 396 | github-next | 2 | — |
-| 397 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,262 |
-| 398 | [Codely](https://www.raycast.com/Codely) | 1 | 566,055 |
+| 397 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,270 |
+| 398 | [Codely](https://www.raycast.com/Codely) | 1 | 566,057 |
 | 399 | [linear](https://www.raycast.com/linear) | 1 | 399,384 |
 | 400 | [mommertf](https://www.raycast.com/mommertf) | 1 | 332,235 |
 | 401 | [nhojb](https://www.raycast.com/nhojb) | 1 | 290,851 |
@@ -2251,10 +2251,11 @@
 | 2241 | [chefski](https://www.raycast.com/chefski) | 1 | 0 |
 | 2242 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2243 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2244 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2245 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2246 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2247 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2248 | eugenio | 1 | — |
-| 2249 | multi | 1 | — |
-| 2250 | stevan_bogosavljevic | 1 | — |
+| 2244 | [john_ndelembi](https://www.raycast.com/john_ndelembi) | 1 | 0 |
+| 2245 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2246 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2247 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2248 | [stevan_bogosavljevic](https://www.raycast.com/stevan_bogosavljevic) | 1 | 0 |
+| 2249 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2250 | eugenio | 1 | — |
+| 2251 | multi | 1 | — |

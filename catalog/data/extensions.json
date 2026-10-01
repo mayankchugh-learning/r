@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6f34b233d39cf135e27adb07af5277c6a6f22a63",
-  "generatedAt": "2026-10-01T20:54:25.359Z",
-  "downloadsRefreshedAt": "2026-10-01T20:54:24.966Z",
-  "count": 3353,
+  "commit": "3d5b757baa1e0b0a9ef617dcbcbf18b0faa31f18",
+  "generatedAt": "2026-10-01T21:11:35.307Z",
+  "downloadsRefreshedAt": "2026-10-01T21:11:34.846Z",
+  "count": 3354,
   "extensions": [
     {
       "dir": "0x0",
@@ -10230,7 +10230,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 609289
+      "downloads": 609300
     },
     {
       "dir": "color-shades",
@@ -22959,7 +22959,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566055
+      "downloads": 566057
     },
     {
       "dir": "google-chrome-profiles",
@@ -29470,7 +29470,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768262
+      "downloads": 768270
     },
     {
       "dir": "kimai",
@@ -32352,10 +32352,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/stevan_bogosavljevic/lokalbot",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/lokalbot",
       "treeSha": "bb13056a67b761fc39817a1f0b3991b84e485f89",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "lokalise",
@@ -39145,6 +39145,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/noteplan-3",
       "treeSha": "5b2a5b4455865c1c5bd7e5d7ce1ccb6538f4b89c",
       "downloads": 3391
+    },
+    {
+      "dir": "notify-africa-bulk-sms",
+      "name": "notify-africa-bulk-sms",
+      "title": "Notify Africa",
+      "description": "Send personalized bulk SMS with Notify Africa from Raycast.",
+      "author": "john_ndelembi",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Communication"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/john_ndelembi/notify-africa-bulk-sms",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/notify-africa-bulk-sms",
+      "treeSha": "783bce36ee062a55987f2e5a42a5846060b9cdc1",
+      "downloads": 0
     },
     {
       "dir": "notilight-controller",

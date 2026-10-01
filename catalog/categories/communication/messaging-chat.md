@@ -1,8 +1,8 @@
 # Messaging & Chat
 
-30 extensions · [← Communication](./README.md)
+31 extensions · [← Communication](./README.md)
 
-[Chats ✦](#chats) (13) · [Messages ✦](#messages) (6) · [Slack ✦](#slack) (4) · [General](#general) (7)
+[Chats ✦](#chats) (13) · [Messages ✦](#messages) (6) · [Slack ✦](#slack) (4) · [General](#general) (8)
 
 *✦ auto-discovered topic group*
 
@@ -55,3 +55,4 @@
 | [Speech to Text](https://github.com/raycast/extensions/tree/main/extensions/speech-to-text) | 1,178 | A simple extension that allows Speech to Text using your own Groq API. | facundo_prieto | macOS | [store](https://www.raycast.com/facundo_prieto/speech-to-text) |
 | [Text Enhance](https://github.com/raycast/extensions/tree/main/extensions/text-enhance) | 214 | Enhance drafts with Raycast AI or your own API key, copy results, and refine with follow-up corrections. | max13021302 | macOS | [store](https://www.raycast.com/max13021302/text-enhance) |
 | [Cangjie Dictionary](https://github.com/raycast/extensions/tree/main/extensions/cangjie) | 40 | Fast Chinese characters lookup for Cangjie and Sucheng codes. Supports instant search from selected text and provides both English letters and Chinese radicals. | jimmyclchu | macOS | [store](https://www.raycast.com/jimmyclchu/cangjie) |
+| [Notify Africa](https://github.com/raycast/extensions/tree/main/extensions/notify-africa-bulk-sms) | 0 | Send personalized bulk SMS with Notify Africa from Raycast. | john_ndelembi | macOS | [store](https://www.raycast.com/john_ndelembi/notify-africa-bulk-sms) |
