@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "cc9fcaf56c806e4654432c38beae2bfc233b863f",
-  "generatedAt": "2026-10-01T02:43:32.026Z",
-  "downloadsRefreshedAt": "2026-10-01T02:43:31.307Z",
+  "commit": "66590c072d190d12113b9294298e78f1e71cfd2a",
+  "generatedAt": "2026-10-01T02:44:44.025Z",
+  "downloadsRefreshedAt": "2026-10-01T02:44:43.139Z",
   "count": 3349,
   "extensions": [
     {
@@ -6257,10 +6257,10 @@
       "dir": "browser-bookmarks",
       "name": "browser-bookmarks",
       "title": "Browser Bookmarks",
-      "description": "Integrate bookmarks from Brave, ChatGPT Atlas, Chrome, Dia, Edge, Firefox, Safari, Arc, Vivaldi, Vivaldi Snapshot, Zen, Whale, or Helium.",
+      "description": "Integrate bookmarks from Brave, ChatGPT Atlas, Chrome, Dia, DuckDuckGo, Edge, Firefox, Safari, Arc, Vivaldi, Vivaldi Snapshot, Zen, Whale, or Helium.",
       "author": "thomaslombart",
       "owner": "raycast",
-      "contributors": 18,
+      "contributors": 19,
       "categories": [
         "Web"
       ],
@@ -6271,8 +6271,8 @@
       ],
       "store": "https://www.raycast.com/raycast/browser-bookmarks",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks",
-      "treeSha": "56e9edf2eadc54f287d580ba1a847ccc9e0b1e29",
-      "downloads": 66466
+      "treeSha": "ad53e2c532eee6a39786b1f8706009961fe2dd83",
+      "downloads": 66514
     },
     {
       "dir": "browser-history",
