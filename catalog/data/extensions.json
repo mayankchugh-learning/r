@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "eb0520e83fbed1cac0e362eaef2cf0e54c65169c",
-  "generatedAt": "2026-10-02T11:53:40.109Z",
-  "downloadsRefreshedAt": "2026-10-02T11:53:39.699Z",
-  "count": 3361,
+  "commit": "f3c698c1d115ad52f5472fc3e643c470a8a3077c",
+  "generatedAt": "2026-10-02T13:48:41.046Z",
+  "downloadsRefreshedAt": "2026-10-02T13:48:40.641Z",
+  "count": 3362,
   "extensions": [
     {
       "dir": "0x0",
@@ -9939,7 +9939,7 @@
       "store": "https://www.raycast.com/ertem_biyik/codex-dictation",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/codex-dictation",
       "treeSha": "c3cd6d535a76b47d247899b525832415f3eacd32",
-      "downloads": 1
+      "downloads": 0
     },
     {
       "dir": "codex-manager",
@@ -10294,7 +10294,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 609867
+      "downloads": 609957
     },
     {
       "dir": "color-shades",
@@ -23023,7 +23023,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566460
+      "downloads": 566523
     },
     {
       "dir": "google-chrome-profiles",
@@ -29534,7 +29534,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768963
+      "downloads": 769083
     },
     {
       "dir": "kimai",
@@ -41811,6 +41811,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/orc-pictures",
       "treeSha": "5b5f52b3e307480331db9985a1f3fcaf14aeda97",
       "downloads": 6
+    },
+    {
+      "dir": "orca",
+      "name": "orca",
+      "title": "Orca",
+      "description": "Unofficial extension for the Orca agent orchestrator: see which agents are waiting for input and start new ones",
+      "author": "dmitry_s",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/dmitry_s/orca",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/orca",
+      "treeSha": "747106219dcbb8edbb8959cbeab61c8af34d74f2",
+      "downloads": 0
     },
     {
       "dir": "origami",

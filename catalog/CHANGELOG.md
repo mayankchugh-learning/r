@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `f3c698c1d1`
+
+**Added (1):** [Orca](https://github.com/raycast/extensions/tree/main/extensions/orca)
+
 ## 2026-10-02 — upstream `eb0520e83f`
 
 **Added (1):** [SocialFaktory](https://github.com/raycast/extensions/tree/main/extensions/socialfaktory)

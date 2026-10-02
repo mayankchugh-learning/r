@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-155 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+156 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -117,6 +117,7 @@
 | [dleteliers_](https://www.raycast.com/dleteliers_) | 1 | 1,361 | **Developer Tools:** [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) |
 | [dmacdermott](https://www.raycast.com/dmacdermott) | 1 | 1,436 | **Productivity:** [Jisho - Japanese Dictionary](https://github.com/raycast/extensions/tree/main/extensions/jisho) |
 | [dmitry_fisenko](https://www.raycast.com/dmitry_fisenko) | 1 | 175 | **Fun:** [Quoterism](https://github.com/raycast/extensions/tree/main/extensions/quoterism) |
+| [dmitry_s](https://www.raycast.com/dmitry_s) | 1 | 0 | **Developer Tools:** [Orca](https://github.com/raycast/extensions/tree/main/extensions/orca) |
 | [dmitrysereda](https://www.raycast.com/dmitrysereda) | 1 | 2 | **Productivity:** [Postproxy](https://github.com/raycast/extensions/tree/main/extensions/postproxy) |
 | [dmytro_sheleh](https://www.raycast.com/dmytro_sheleh) | 1 | 9 | **Applications:** [Near Rewards](https://github.com/raycast/extensions/tree/main/extensions/near-rewards) |
 | [dnlfrst](https://www.raycast.com/dnlfrst) | 1 | 313 | **Productivity:** [Outline Document Search](https://github.com/raycast/extensions/tree/main/extensions/outline-document-search) |
