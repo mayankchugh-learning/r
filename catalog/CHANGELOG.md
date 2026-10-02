@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `ba94a1758a`
+
+**Updated (1):** [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict)
+
 ## 2026-10-02 — upstream `bbd8a8a794`
 
 **Updated (1):** [Choose a License](https://github.com/raycast/extensions/tree/main/extensions/choose-a-license)
