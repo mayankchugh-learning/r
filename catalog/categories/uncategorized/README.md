@@ -1,8 +1,8 @@
 # Uncategorized
 
-112 extensions · [← all categories](../README.md)
+111 extensions · [← all categories](../README.md)
 
-macOS: 112 · Windows: 22
+macOS: 111 · Windows: 22
 
 ## Digital Tools
 
@@ -30,4 +30,4 @@ macOS: 112 · Windows: 22
 | [Crypto & Trading](./crypto-trading.md) | 1 |
 | [Language & Translation](./language-translation.md) | 1 |
 
-Plus [General](./general.md) — 38 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 37 extensions that don't fit a topic yet.

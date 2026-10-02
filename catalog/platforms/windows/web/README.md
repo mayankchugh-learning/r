@@ -1,8 +1,8 @@
 # Windows · Web
 
-146 extensions · [← Windows](../README.md)
+148 extensions · [← Windows](../README.md)
 
-[AI Services](#ai-services) (18) · [Social & Communities](#social-communities) (7) · [Search Engines](#search-engines) (50) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (21) · [Browsers & Tabs](#browsers-tabs) (2) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (5) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (32)
+[AI Services](#ai-services) (18) · [Social & Communities](#social-communities) (8) · [Search Engines](#search-engines) (50) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (21) · [Browsers & Tabs](#browsers-tabs) (2) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (5) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (33)
 
 ## Browse & Search
 
@@ -147,6 +147,7 @@
 | [Typefully](https://github.com/raycast/extensions/tree/main/extensions/typefully) | 1,963 | Create and manage social media drafts on Typefully for X, LinkedIn, Threads, Bluesky, and Mastodon. | typefully (org) | macOS, Windows | [store](https://www.raycast.com/typefully/typefully) |
 | [Substack](https://github.com/raycast/extensions/tree/main/extensions/substack) | 709 | Search Substack posts and profiles from Raycast | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/substack) |
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 698 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
+| [Web3 Profile](https://github.com/raycast/extensions/tree/main/extensions/web3-profile) | 446 | Search for ENS names and view its profile — Avatar, description, social URLs and more! | peduarte | macOS, Windows | [store](https://www.raycast.com/peduarte/web3-profile) |
 | [AntiSocials](https://github.com/raycast/extensions/tree/main/extensions/antisocials) | 132 | Open social media URLs via privacy-friendly frontends (X, Instagram) | danny_vogel | macOS, Windows | [store](https://www.raycast.com/danny_vogel/antisocials) |
 | [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router) | 12 | Route search queries and URLs to any installed browser and profile on Windows. | raghavg02 | Windows | [store](https://www.raycast.com/raghavg02/browser-router) |
 
@@ -199,6 +200,7 @@
 | [WordReference Dictionary Translation](https://github.com/raycast/extensions/tree/main/extensions/wordreference) | 1,286 | Quickly find a word translation using WordReference | Katatsu | macOS, Windows | [store](https://www.raycast.com/Katatsu/wordreference) |
 | [Chess.com](https://github.com/raycast/extensions/tree/main/extensions/chess-com) | 1,255 | Quickly start games on Chess.com | joshfarrant | macOS, Windows | [store](https://www.raycast.com/joshfarrant/chess-com) |
 | [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 879 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
+| [Ethereum Utils — EVM Development](https://github.com/raycast/extensions/tree/main/extensions/ethereum-utils) | 737 | Collection of utils for Ethereum and EVM-compatible chain development | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/ethereum-utils) |
 | [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd) | 680 | HackMD Raycast extension | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/hackmd) |
 | [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 483 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
 | [Udemy Coupons](https://github.com/raycast/extensions/tree/main/extensions/udemy-coupons) | 345 | Get instant access to 1000+ premium Udemy courses for FREE with verified coupons. Updated hourly. Learn programming, design, business, marketing & more. Save $… | dharmendra | macOS, Windows | [store](https://www.raycast.com/dharmendra/udemy-coupons) |

@@ -2,13 +2,14 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · **Web3 & Blockchain** · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-16 of 1139 extensions · [← macOS · Developer Tools](./README.md)
+17 of 1140 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [CircleCI Workflows](https://github.com/raycast/extensions/tree/main/extensions/circle-ci) | 1,003 | This extension shows a list of your latest CircleCI workflows. It requires a CircleCI API token which you can get on https://app.circleci.com/settings/user/tok… | qeude | macOS | [store](https://www.raycast.com/qeude/circle-ci) |
-| [Ethereum Utils — EVM Development](https://github.com/raycast/extensions/tree/main/extensions/ethereum-utils) | 737 | Collection of utils for Ethereum and EVM-compatible chain development | destiner | macOS | [store](https://www.raycast.com/destiner/ethereum-utils) |
-| [Blockchain Explorer Search](https://github.com/raycast/extensions/tree/main/extensions/blockchain-explorer-search) | 684 | Search open links for address, transaction, block, token, and ens on Etherscan-like sites. | Namaskar | macOS | [store](https://www.raycast.com/Namaskar/blockchain-explorer-search) |
+| [Ethereum Utils — EVM Development](https://github.com/raycast/extensions/tree/main/extensions/ethereum-utils) | 737 | Collection of utils for Ethereum and EVM-compatible chain development | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/ethereum-utils) |
+| [Blockchain Explorer Search](https://github.com/raycast/extensions/tree/main/extensions/blockchain-explorer-search) | 684 | Search open links for address, transaction, block, token, and ens on Etherscan-like sites. | Namaskar | macOS, Windows | [store](https://www.raycast.com/Namaskar/blockchain-explorer-search) |
+| [ENS Name Lookup](https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup) | 589 | Lookup ENS name or address | Yukai | macOS | [store](https://www.raycast.com/Yukai/ens-name-lookup) |
 | [Solana Explorer](https://github.com/raycast/extensions/tree/main/extensions/solana-explorer) | 241 | Look up transactions and accounts on the various Solana clusters. | darklong | macOS | [store](https://www.raycast.com/darklong/solana-explorer) |
 | [Charged: Starknet Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/charged) | 216 | Shorcuts for common web3 tasks | apoorv | macOS | [store](https://www.raycast.com/apoorv/charged) |
 | [PDSls](https://github.com/raycast/extensions/tree/main/extensions/pdsls) | 171 | Browse the public data on atproto. | juliet_philippe | macOS, Windows | [store](https://www.raycast.com/juliet_philippe/pdsls) |

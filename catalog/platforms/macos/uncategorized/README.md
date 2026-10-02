@@ -1,8 +1,8 @@
 # macOS · Uncategorized
 
-112 extensions · [← macOS](../README.md)
+111 extensions · [← macOS](../README.md)
 
-[AI Tools](#ai-tools) (14) · [Crypto & Trading](#crypto-trading) (1) · [Developer Utilities](#developer-utilities) (15) · [Productivity & Tasks](#productivity-tasks) (10) · [Media & Entertainment](#media-entertainment) (3) · [Language & Translation](#language-translation) (1) · [Travel & Transport](#travel-transport) (1) · [Smart Home & IoT](#smart-home-iot) (1) · [System & Hardware](#system-hardware) (10) · [Web & Search](#web-search) (16) · [Communication & Social](#communication-social) (2) · [General](#general) (38)
+[AI Tools](#ai-tools) (14) · [Crypto & Trading](#crypto-trading) (1) · [Developer Utilities](#developer-utilities) (15) · [Productivity & Tasks](#productivity-tasks) (10) · [Media & Entertainment](#media-entertainment) (3) · [Language & Translation](#language-translation) (1) · [Travel & Transport](#travel-transport) (1) · [Smart Home & IoT](#smart-home-iot) (1) · [System & Hardware](#system-hardware) (10) · [Web & Search](#web-search) (16) · [Communication & Social](#communication-social) (2) · [General](#general) (37)
 
 ## Digital Tools
 
@@ -49,7 +49,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 566,549 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
+| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 566,551 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
 | [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) | 8,165 | Search and copy to the clipboard different kaomoji (ascii/unicode emotes). | yalishanda | macOS, Windows | [store](https://www.raycast.com/yalishanda/kaomoji-search) |
 | [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify) | 4,678 | Control Clockify time tracking from Raycast | isma | macOS | [store](https://www.raycast.com/isma/clockify) |
 | [Clear Clipboard](https://github.com/raycast/extensions/tree/main/extensions/clear-clipboard) | 3,608 | Clears your clipboard so you don't accidentally paste things into work chat. | d3caf | macOS | [store](https://www.raycast.com/d3caf/clear-clipboard) |
@@ -158,7 +158,6 @@
 | [Week Number](https://github.com/raycast/extensions/tree/main/extensions/week-number) | 1,055 | Show the current week of the year. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/week-number) |
 | [Kaalam](https://github.com/raycast/extensions/tree/main/extensions/kaalam) | 949 | Gives Current Time in all formats | heerthees | macOS | [store](https://www.raycast.com/heerthees/kaalam) |
 | [Squeeze](https://github.com/raycast/extensions/tree/main/extensions/squeeze) | 850 | A simple utility for whitespace and line break removal. | daniel_ac | macOS | [store](https://www.raycast.com/daniel_ac/squeeze) |
-| [ENS Name Lookup](https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup) | 589 | Lookup ENS name or address | Yukai | macOS | [store](https://www.raycast.com/Yukai/ens-name-lookup) |
 | [Better Aliases](https://github.com/raycast/extensions/tree/main/extensions/better-aliases) | 539 | Better Aliases - Create better aliases in Raycast | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/better-aliases) |
 | [What Happened Today](https://github.com/raycast/extensions/tree/main/extensions/what-happened-today) | 405 | Discover historical events, notable birthdays, and milestones on any date. | nikhil_tiwari | macOS | [store](https://www.raycast.com/nikhil_tiwari/what-happened-today) |
 | [NetNewsWire](https://github.com/raycast/extensions/tree/main/extensions/netnewswire) | 177 | NetNewsWire is a free and open source RSS reader for Mac, iPhone, and iPad | xmok | macOS | [store](https://www.raycast.com/xmok/netnewswire) |

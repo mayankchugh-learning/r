@@ -22,7 +22,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Silent Mention](https://github.com/raycast/extensions/tree/main/extensions/silent-mention) | 2,041 | Silently mention a handle, a URL or a hashtag. | peduarte | Windows, macOS | [store](https://www.raycast.com/peduarte/silent-mention) |
-| [Web3 Profile](https://github.com/raycast/extensions/tree/main/extensions/web3-profile) | 446 | Search for ENS names and view its profile — Avatar, description, social URLs and more! | peduarte | macOS | [store](https://www.raycast.com/peduarte/web3-profile) |
+| [Web3 Profile](https://github.com/raycast/extensions/tree/main/extensions/web3-profile) | 446 | Search for ENS names and view its profile — Avatar, description, social URLs and more! | peduarte | macOS, Windows | [store](https://www.raycast.com/peduarte/web3-profile) |
 | [Ethereum Price](https://github.com/raycast/extensions/tree/main/extensions/ethereum-price) | 280 | See the current price of Ethereum in various currencies. | peduarte | macOS | [store](https://www.raycast.com/peduarte/ethereum-price) |
 | [Lenscast](https://github.com/raycast/extensions/tree/main/extensions/lenscast) | 111 | Web3 Social Raycast Extension built with Lens Protocol | peduarte | macOS | [store](https://www.raycast.com/peduarte/lenscast) |
 | [Nouns](https://github.com/raycast/extensions/tree/main/extensions/nouns) | 79 | Explore the Nouns Ecosystem. | peduarte | macOS | [store](https://www.raycast.com/peduarte/nouns) |

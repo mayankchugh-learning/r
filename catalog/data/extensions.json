@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "0f5333d8e7ab4384f1c7b13159ce5de5c852216c",
-  "generatedAt": "2026-10-02T14:47:35.445Z",
-  "downloadsRefreshedAt": "2026-10-02T14:47:34.838Z",
+  "commit": "4b409e59dc0ee5520e7718c6a03c249b4db2e3b3",
+  "generatedAt": "2026-10-02T14:48:36.510Z",
+  "downloadsRefreshedAt": "2026-10-02T14:48:35.734Z",
   "count": 3363,
   "extensions": [
     {
@@ -5640,11 +5640,12 @@
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/Namaskar/blockchain-explorer-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/blockchain-explorer-search",
-      "treeSha": "cc36ee93929bdc3f4a6290b03cebec463c0a5bc4",
+      "treeSha": "1f834221bb11c9ba429c99f446d8f1189ef15fa5",
       "downloads": 684
     },
     {
@@ -10294,7 +10295,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 610019
+      "downloads": 610020
     },
     {
       "dir": "color-shades",
@@ -17152,15 +17153,15 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools"
       ],
-      "manifestCategorized": false,
+      "manifestCategorized": true,
       "platforms": [
         "macOS"
       ],
       "store": "https://www.raycast.com/Yukai/ens-name-lookup",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup",
-      "treeSha": "ddde8adde3bff5062773966006dd668718be10c4",
+      "treeSha": "b8261d505a09404a986e69f535f0e8c75b7d088b",
       "downloads": 589
     },
     {
@@ -17534,11 +17535,12 @@
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/destiner/ethereum-utils",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ethereum-utils",
-      "treeSha": "4d26b1721bd139d87cf9aaea37c4c226cd4b1fab",
+      "treeSha": "a46cb4a026b54629d9dc7ce1cc40db8a428cc7da",
       "downloads": 737
     },
     {
@@ -23023,7 +23025,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566549
+      "downloads": 566551
     },
     {
       "dir": "google-chrome-profiles",
@@ -29534,7 +29536,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 769151
+      "downloads": 769152
     },
     {
       "dir": "kimai",
@@ -61996,7 +61998,7 @@
       ],
       "store": "https://www.raycast.com/peduarte/tinyfaces-nft",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tinyfaces-nft",
-      "treeSha": "f47ad69ce241a37f1db5f2a51639b660aa31970c",
+      "treeSha": "34496aa0bb2797738056a1785ab84974f5b619e2",
       "downloads": 37
     },
     {
@@ -66948,11 +66950,12 @@
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/peduarte/web3-profile",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/web3-profile",
-      "treeSha": "a00c2722264746d5f4a5b49598d69ef55d4adc64",
+      "treeSha": "c0ed6a144cfb167041cc12ad58bb962db38fb8e1",
       "downloads": 446
     },
     {

@@ -1,8 +1,8 @@
 # Windows · Data
 
-96 extensions · [← Windows](../README.md)
+97 extensions · [← Windows](../README.md)
 
-[Converters & Encoders](#converters-encoders) (8) · [Generators](#generators) (5) · [Calculators & Math](#calculators-math) (1) · [Time & Dates](#time-dates) (5) · [Crypto & Blockchain Data](#crypto-blockchain-data) (1) · [Web & Network Intelligence](#web-network-intelligence) (9) · [Games & Esports Data](#games-esports-data) (6) · [Health, Nature & Science](#health-nature-science) (2) · [Business & Databases](#business-databases) (2) · [Trackers & Monitors](#trackers-monitors) (5) · [Text Processing](#text-processing) (4) · [Weather & Environment](#weather-environment) (1) · [Files & Archives](#files-archives) (7) · [APIs & Scraping](#apis-scraping) (2) · [Lookups & References](#lookups-references) (12) · [General](#general) (26)
+[Converters & Encoders](#converters-encoders) (8) · [Generators](#generators) (5) · [Calculators & Math](#calculators-math) (1) · [Time & Dates](#time-dates) (5) · [Crypto & Blockchain Data](#crypto-blockchain-data) (2) · [Web & Network Intelligence](#web-network-intelligence) (9) · [Games & Esports Data](#games-esports-data) (6) · [Health, Nature & Science](#health-nature-science) (2) · [Business & Databases](#business-databases) (2) · [Trackers & Monitors](#trackers-monitors) (5) · [Text Processing](#text-processing) (4) · [Weather & Environment](#weather-environment) (1) · [Files & Archives](#files-archives) (7) · [APIs & Scraping](#apis-scraping) (2) · [Lookups & References](#lookups-references) (12) · [General](#general) (26)
 
 ## Transform & Generate
 
@@ -90,6 +90,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Ethereum Utils — EVM Development](https://github.com/raycast/extensions/tree/main/extensions/ethereum-utils) | 737 | Collection of utils for Ethereum and EVM-compatible chain development | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/ethereum-utils) |
 | [Crypto Portfolio Tracker](https://github.com/raycast/extensions/tree/main/extensions/crypto-portfolio-tracker) | 87 | Add crypto wallets by their addresses and track your entire portfolio. | narghev | macOS, Windows | [store](https://www.raycast.com/narghev/crypto-portfolio-tracker) |
 
 ### Games & Esports Data
