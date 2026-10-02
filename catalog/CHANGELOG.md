@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `8de1dbb736`
+
+**Added (1):** [Codex Dictation](https://github.com/raycast/extensions/tree/main/extensions/codex-dictation)
+
 ## 2026-10-02 — upstream `ab312b6ad8`
 
 **Added (1):** [AbuseIPDB](https://github.com/raycast/extensions/tree/main/extensions/abuseipdb)

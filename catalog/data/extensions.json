@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ab312b6ad853c54c7354519ce551d275d72fa157",
-  "generatedAt": "2026-10-02T07:39:31.801Z",
-  "downloadsRefreshedAt": "2026-10-02T07:39:31.377Z",
-  "count": 3357,
+  "commit": "8de1dbb73644570a58eb08db775dca33ada71b12",
+  "generatedAt": "2026-10-02T08:00:55.220Z",
+  "downloadsRefreshedAt": "2026-10-02T08:00:54.681Z",
+  "count": 3358,
   "extensions": [
     {
       "dir": "0x0",
@@ -9899,6 +9899,28 @@
       "downloads": 146
     },
     {
+      "dir": "codex-dictation",
+      "name": "codex-dictation",
+      "title": "Codex Dictation",
+      "description": "Browse, search, and copy Codex dictation history",
+      "author": "ertem_biyik",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/ertem_biyik/codex-dictation",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/codex-dictation",
+      "treeSha": "c3cd6d535a76b47d247899b525832415f3eacd32",
+      "downloads": 0
+    },
+    {
       "dir": "codex-manager",
       "name": "codex-manager",
       "title": "Codex Manager",
@@ -10251,7 +10273,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 609630
+      "downloads": 609655
     },
     {
       "dir": "color-shades",
@@ -22980,7 +23002,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566311
+      "downloads": 566327
     },
     {
       "dir": "google-chrome-profiles",
@@ -29491,7 +29513,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768680
+      "downloads": 768710
     },
     {
       "dir": "kimai",
