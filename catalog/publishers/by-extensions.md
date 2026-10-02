@@ -9,7 +9,7 @@
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
 | 1 | [xmok](./id/xmok.md) | 114 | 13,056 |
-| 2 | [koinzhang](./id/koinzhang.md) | 50 | 288,588 |
+| 2 | [koinzhang](./id/koinzhang.md) | 50 | 288,593 |
 | 3 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 103,294 |
 | 4 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 185,887 |
 | 5 | [chrismessina](./id/chrismessina.md) | 18 | 7,615 |
@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 168,805 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,715 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,890 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,288,828 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,288,887 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 456,823 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,745 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,351 |
@@ -99,10 +99,10 @@
 | 89 | [SevicheCC](https://www.raycast.com/SevicheCC) | 4 | 1,047 |
 | 90 | [Olli0103](https://www.raycast.com/Olli0103) | 4 | 202 |
 | 91 | [gebeto](https://www.raycast.com/gebeto) | 3 | 494,370 |
-| 92 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 490,673 |
+| 92 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 490,702 |
 | 93 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 116,423 |
 | 94 | [erics118](https://www.raycast.com/erics118) | 3 | 106,407 |
-| 95 | [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 105,670 |
+| 95 | [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 105,675 |
 | 96 | [third774](https://www.raycast.com/third774) | 3 | 68,325 |
 | 97 | [Kang](https://www.raycast.com/Kang) | 3 | 66,379 |
 | 98 | [michaelschultz](https://www.raycast.com/michaelschultz) | 3 | 49,840 |
@@ -192,7 +192,7 @@
 | 182 | [jag-k](https://www.raycast.com/jag-k) | 2 | 28,718 |
 | 183 | [rasmusbe](https://www.raycast.com/rasmusbe) | 2 | 27,626 |
 | 184 | [danieldbird](https://www.raycast.com/danieldbird) | 2 | 24,216 |
-| 185 | [maggie](https://www.raycast.com/maggie) | 2 | 24,059 |
+| 185 | [maggie](https://www.raycast.com/maggie) | 2 | 24,060 |
 | 186 | [ajaypremshankar](https://www.raycast.com/ajaypremshankar) | 2 | 23,737 |
 | 187 | [krzysztofzuraw](https://www.raycast.com/krzysztofzuraw) | 2 | 21,506 |
 | 188 | [xeric](https://www.raycast.com/xeric) | 2 | 21,081 |
@@ -404,12 +404,12 @@
 | 394 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 395 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 2 | 9 |
 | 396 | github-next | 2 | — |
-| 397 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,549 |
-| 398 | [Codely](https://www.raycast.com/Codely) | 1 | 566,237 |
+| 397 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,612 |
+| 398 | [Codely](https://www.raycast.com/Codely) | 1 | 566,280 |
 | 399 | [linear](https://www.raycast.com/linear) | 1 | 399,590 |
 | 400 | [mommertf](https://www.raycast.com/mommertf) | 1 | 332,456 |
 | 401 | [nhojb](https://www.raycast.com/nhojb) | 1 | 291,102 |
-| 402 | [notion](https://www.raycast.com/notion) | 1 | 278,072 |
+| 402 | [notion](https://www.raycast.com/notion) | 1 | 278,090 |
 | 403 | [khasbilegt](https://www.raycast.com/khasbilegt) | 1 | 249,419 |
 | 404 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 121,982 |
 | 405 | [hossammourad](https://www.raycast.com/hossammourad) | 1 | 120,000 |
@@ -453,7 +453,7 @@
 | 443 | [kom](https://www.raycast.com/kom) | 1 | 16,765 |
 | 444 | [fturcheti](https://www.raycast.com/fturcheti) | 1 | 15,792 |
 | 445 | [millin_gabani](https://www.raycast.com/millin_gabani) | 1 | 15,688 |
-| 446 | [frouo](https://www.raycast.com/frouo) | 1 | 15,376 |
+| 446 | [frouo](https://www.raycast.com/frouo) | 1 | 15,377 |
 | 447 | [tbrown](https://www.raycast.com/tbrown) | 1 | 15,251 |
 | 448 | [ryan](https://www.raycast.com/ryan) | 1 | 14,883 |
 | 449 | [sfkmk](https://www.raycast.com/sfkmk) | 1 | 14,827 |

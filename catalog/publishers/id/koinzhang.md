@@ -1,6 +1,6 @@
 # koinzhang
 
-50 extensions · 288,588 downloads · [store](https://www.raycast.com/koinzhang) · [← publishers](../README.md)
+50 extensions · 288,593 downloads · [store](https://www.raycast.com/koinzhang) · [← publishers](../README.md)
 
 ## Developer Tools (18)
 
@@ -76,7 +76,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 23,362 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
+| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 23,367 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
 | [PiP](https://github.com/raycast/extensions/tree/main/extensions/pip) | 2,427 | Watch video in Picture in Picture or Full Screen mode | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pip) |
 | [Bing Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/bing-wallpaper) | 2,217 | Get, set, auto-switch Bing wallpapers to explore the world. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bing-wallpaper) |
 | [Capture Raycast Metadata](https://github.com/raycast/extensions/tree/main/extensions/capture-raycast-metadata) | 926 | Capture a screenshot for Raycast extension's metadata. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/capture-raycast-metadata) |

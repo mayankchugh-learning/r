@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 278,072 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
+| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 278,090 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
 | [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 17,088 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
 | [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 8,369 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
 | [Numi](https://github.com/raycast/extensions/tree/main/extensions/numi) | 8,212 | Query Numi from Raycast | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/numi) |

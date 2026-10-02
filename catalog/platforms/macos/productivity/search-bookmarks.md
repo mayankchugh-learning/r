@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | 486,214 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
+| [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | 486,243 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
 | [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) | 399,590 | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | linear (org) | macOS, Windows | [store](https://www.raycast.com/linear/linear) |
 | [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 249,873 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
 | [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 84,294 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |

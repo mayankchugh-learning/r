@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7e5504c05b2ed69170dd7561a20fc72a577093b6",
-  "generatedAt": "2026-10-02T04:42:24.098Z",
-  "downloadsRefreshedAt": "2026-10-02T04:42:23.666Z",
+  "commit": "c1192850e4cabdb0061774d8323cd0783d48b68d",
+  "generatedAt": "2026-10-02T06:16:41.386Z",
+  "downloadsRefreshedAt": "2026-10-02T06:16:39.538Z",
   "count": 3356,
   "extensions": [
     {
@@ -10230,7 +10230,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 609508
+      "downloads": 609567
     },
     {
       "dir": "color-shades",
@@ -22959,7 +22959,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566237
+      "downloads": 566280
     },
     {
       "dir": "google-chrome-profiles",
@@ -22979,7 +22979,7 @@
       "store": "https://www.raycast.com/frouo/google-chrome-profiles",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles",
       "treeSha": "7a111f6b6199c914ab788908b39777f2b6cf2952",
-      "downloads": 15376
+      "downloads": 15377
     },
     {
       "dir": "google-cloud-platform-search",
@@ -29470,7 +29470,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768549
+      "downloads": 768612
     },
     {
       "dir": "kimai",
@@ -37079,7 +37079,7 @@
       "store": "https://www.raycast.com/fedevitaledev/music",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/music",
       "treeSha": "18361c0b095e1214021f407de4be0b7ed09a40c8",
-      "downloads": 100486
+      "downloads": 100491
     },
     {
       "dir": "music-assistant-controls",
@@ -39206,7 +39206,7 @@
       "store": "https://www.raycast.com/notion/notion",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/notion",
       "treeSha": "4c3170340e49ddb5f74a5d2f73f10ca45ead8aa6",
-      "downloads": 278072
+      "downloads": 278090
     },
     {
       "dir": "notion_researcher",
@@ -47157,7 +47157,7 @@
       "description": "Generate QR codes from text or URLs.",
       "author": "Melvynx",
       "owner": null,
-      "contributors": 9,
+      "contributors": 10,
       "categories": [
         "Productivity",
         "Developer Tools",
@@ -47170,7 +47170,7 @@
       ],
       "store": "https://www.raycast.com/Melvynx/qrcode-generator",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator",
-      "treeSha": "e12b2b8dcd10b724c45b482c1b472f7f35be72bf",
+      "treeSha": "4597d6e1114060eacc628fbdd87caff8a952abe2",
       "downloads": 37422
     },
     {
@@ -49452,7 +49452,7 @@
       "store": "https://www.raycast.com/koinzhang/raycast-wallpaper",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper",
       "treeSha": "a1d480432c78aa85b730117f0c1f9321d3a8228f",
-      "downloads": 23362
+      "downloads": 23367
     },
     {
       "dir": "raycast-wca",
@@ -57182,7 +57182,7 @@
       "store": "https://www.raycast.com/mattisssa/spotify-player",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/spotify-player",
       "treeSha": "35a7f64e02c7edf14952908c21889a41fcbdc47d",
-      "downloads": 486214
+      "downloads": 486243
     },
     {
       "dir": "spring-initializr",
@@ -62147,7 +62147,7 @@
       "store": "https://www.raycast.com/maggie/todo-list",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/todo-list",
       "treeSha": "6f57f3bb08e4a1cdea482e356edba71d1aecbf43",
-      "downloads": 19095
+      "downloads": 19096
     },
     {
       "dir": "todoist",

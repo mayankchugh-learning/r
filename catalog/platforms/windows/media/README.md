@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | 486,214 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
+| [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | 486,243 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
 | [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 28,231 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
 | [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 7,698 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
 | [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 7,114 | Download videos and audio from popular social media platforms with ease. | aelew | macOS, Windows | [store](https://www.raycast.com/aelew/cobalt) |
@@ -72,7 +72,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 23,362 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
+| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 23,367 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
 | [IMDb Search](https://github.com/raycast/extensions/tree/main/extensions/imdb) | 14,883 | Easily open your favorite film or TV series on IMDb. | ryan | macOS, Windows | [store](https://www.raycast.com/ryan/imdb) |
 | [Art Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/another-boring-piece) | 367 | Another boring piece. Daily. | yevgen_glukhov | macOS, Windows | [store](https://www.raycast.com/yevgen_glukhov/another-boring-piece) |
 | [Windows Default Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/windows-default-wallpapers) | 193 | Easily change between the default Windows wallpapers without changing full themes | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/windows-default-wallpapers) |

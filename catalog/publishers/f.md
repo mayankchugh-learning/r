@@ -26,7 +26,7 @@
 | [Fchen](https://www.raycast.com/Fchen) | 1 | 155 | **Productivity:** [Penflow AI](https://github.com/raycast/extensions/tree/main/extensions/penflow-ai) |
 | [fe9lix](https://www.raycast.com/fe9lix) | 2 | 2,465 | **Media:** [Pinboard](https://github.com/raycast/extensions/tree/main/extensions/pinboard)<br>**Developer Tools:** [GitHub Commits Menu](https://github.com/raycast/extensions/tree/main/extensions/github-menu-bar) |
 | [fearoffish](https://www.raycast.com/fearoffish) | 1 | 7,307 | **Uncategorized:** [Kagi Search](https://github.com/raycast/extensions/tree/main/extensions/kagi-search) |
-| [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 105,670 | **Media:** [Music](https://github.com/raycast/extensions/tree/main/extensions/music)<br>**Developer Tools:** [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev), [Fastly Domain Search](https://github.com/raycast/extensions/tree/main/extensions/domainr) |
+| [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 105,675 | **Media:** [Music](https://github.com/raycast/extensions/tree/main/extensions/music)<br>**Developer Tools:** [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev), [Fastly Domain Search](https://github.com/raycast/extensions/tree/main/extensions/domainr) |
 | [FelipeCortez](https://www.raycast.com/FelipeCortez) | 1 | 1,115 | **Productivity:** [OneLook Thesaurus](https://github.com/raycast/extensions/tree/main/extensions/onelook-thesaurus) |
 | [felix_wortmann](https://www.raycast.com/felix_wortmann) | 2 | 1,058 | **Productivity:** [File Organizer](https://github.com/raycast/extensions/tree/main/extensions/file-organizer), [WhenToMeet](https://github.com/raycast/extensions/tree/main/extensions/whentomeet) |
 | [felixb1010](https://www.raycast.com/felixb1010) | 1 | 479 | **Fun:** [LIFX](https://github.com/raycast/extensions/tree/main/extensions/lifx) |
@@ -79,7 +79,7 @@
 | [frolik](https://www.raycast.com/frolik) | 1 | 1,600 | **AI:** [Humanize AI Text](https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer) |
 | [fromserg](https://www.raycast.com/fromserg) | 1 | 60 | **Productivity:** [Reading Time](https://github.com/raycast/extensions/tree/main/extensions/reading-time) |
 | [frostplexx](https://www.raycast.com/frostplexx) | 1 | 2,201 | **Developer Tools:** [Binary Tools](https://github.com/raycast/extensions/tree/main/extensions/bintools) |
-| [frouo](https://www.raycast.com/frouo) | 1 | 15,376 | **Web:** [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) |
+| [frouo](https://www.raycast.com/frouo) | 1 | 15,377 | **Web:** [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) |
 | [frugoman](https://www.raycast.com/frugoman) | 1 | 1,932 | **Productivity:** [My Daily Log](https://github.com/raycast/extensions/tree/main/extensions/my-daily-log) |
 | [ftonato](https://www.raycast.com/ftonato) | 1 | 145 | **Fun:** [Lichess.org](https://github.com/raycast/extensions/tree/main/extensions/lichess-org) |
 | [ftrstk](https://www.raycast.com/ftrstk) | 1 | 50 | **Developer Tools:** [AT Protocol Utilities](https://github.com/raycast/extensions/tree/main/extensions/atproto-utilities) |

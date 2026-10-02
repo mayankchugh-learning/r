@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 278,072 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
+| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 278,090 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
 | [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 23,424 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
 | [Mozilla Firefox](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox) | 14,187 | Search and open tabs from bookmarks and history in Mozilla Firefox. | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/mozilla-firefox) |
 | [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities) | 7,055 | Interact with Capacities from your command bar. Search your notes, capture content & more. | steffenble | macOS, Windows | [store](https://www.raycast.com/steffenble/capacities) |
@@ -23,7 +23,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 70,357 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
-| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 19,095 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
+| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 19,096 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
 | [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) | 132 | Manage your Manus tasks | wong2 | macOS, Windows | [store](https://www.raycast.com/wong2/manus-manager) |
 | [Sunsama](https://github.com/raycast/extensions/tree/main/extensions/sunsama) | 41 | Create, Edit, View, and Delete Tasks in Sunsama | artistro08 | Windows, macOS | [store](https://www.raycast.com/artistro08/sunsama) |
 | [Arca](https://github.com/raycast/extensions/tree/main/extensions/arca) | 11 | Task management where simplicity meets capability | ghadeer | macOS, Windows | [store](https://www.raycast.com/ghadeer/arca) |

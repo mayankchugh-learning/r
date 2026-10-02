@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 23,362 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
+| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 23,367 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
 | [Screen Saver](https://github.com/raycast/extensions/tree/main/extensions/screen-saver) | 10,798 | Activate screen saver of your Mac. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/screen-saver) |
 | [Display Placer](https://github.com/raycast/extensions/tree/main/extensions/displayplacer) | 9,057 | Manage favorite display configurations | eluce2 | macOS | [store](https://www.raycast.com/eluce2/displayplacer) |
 | [Display Modes](https://github.com/raycast/extensions/tree/main/extensions/display-modes) | 7,133 | Manage displays modes (resolution, refresh rate...). | agustin.prats | macOS | [store](https://www.raycast.com/agustin.prats/display-modes) |

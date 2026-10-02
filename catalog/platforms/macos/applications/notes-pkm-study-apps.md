@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 278,072 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
+| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 278,090 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
 | [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 23,424 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
 | [Brave](https://github.com/raycast/extensions/tree/main/extensions/brave) | 16,801 | Search open tabs, bookmarks and history in Brave. | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/brave) |
 | [Mozilla Firefox](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox) | 14,187 | Search and open tabs from bookmarks and history in Mozilla Firefox. | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/mozilla-firefox) |
