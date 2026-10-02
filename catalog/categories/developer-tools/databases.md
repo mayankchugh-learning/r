@@ -1,6 +1,6 @@
 # Databases
 
-15 extensions · [← Developer Tools](./README.md)
+16 extensions · [← Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -19,3 +19,4 @@
 | [Notion URL to ID](https://github.com/raycast/extensions/tree/main/extensions/notion-url-to-id) | 65 | Extract, save, and organize Notion page and database IDs from the focused browser tab or clipboard. | sam.dsgn | macOS | [store](https://www.raycast.com/Sam.Dsgn/notion-url-to-id) |
 | [Shopinfo.app](https://github.com/raycast/extensions/tree/main/extensions/shopinfo-app) | 41 | Identify Shopify themes from your current browser tab using shopinfo.app's database | trpage_dev | macOS | [store](https://www.raycast.com/trpage_dev/shopinfo-app) |
 | [MySQL Client](https://github.com/raycast/extensions/tree/main/extensions/mysql) | 20 | Connect to MySQL databases — run queries, browse schema, and manage multiple connection profiles. | itggood2420 | macOS, Windows | [store](https://www.raycast.com/itggood2420/mysql) |
+| [AbuseIPDB](https://github.com/raycast/extensions/tree/main/extensions/abuseipdb) | 0 | Check any IP address against the AbuseIPDB reputation database without leaving Raycast. | gabrielbelli | macOS | [store](https://www.raycast.com/gabrielbelli/abuseipdb) |

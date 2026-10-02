@@ -1,6 +1,6 @@
 # Publishers
 
-2252 publishers · [← catalog index](../README.md)
+2253 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -19,13 +19,13 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 168,805 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,715 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,890 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,288,930 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,288,950 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 456,823 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,745 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,351 |
 | 16 | [j3lte](./id/j3lte.md) | 13 | 11,207 |
 | 17 | [kud](./id/kud.md) | 13 | 7,269 |
-| 18 | [raycast](./id/raycast.md) | 11 | 900,433 |
+| 18 | [raycast](./id/raycast.md) | 11 | 900,442 |
 | 19 | [Rob](./id/rob.md) | 11 | 12,322 |
 | 20 | [Yukai](./id/yukai.md) | 11 | 10,460 |
 | 21 | [xilopaint](./id/xilopaint.md) | 10 | 23,081 |
@@ -404,8 +404,8 @@
 | 394 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 395 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 2 | 9 |
 | 396 | github-next | 2 | — |
-| 397 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,660 |
-| 398 | [Codely](https://www.raycast.com/Codely) | 1 | 566,300 |
+| 397 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,680 |
+| 398 | [Codely](https://www.raycast.com/Codely) | 1 | 566,311 |
 | 399 | [linear](https://www.raycast.com/linear) | 1 | 399,590 |
 | 400 | [mommertf](https://www.raycast.com/mommertf) | 1 | 332,456 |
 | 401 | [nhojb](https://www.raycast.com/nhojb) | 1 | 291,102 |
@@ -2252,11 +2252,12 @@
 | 2242 | [chefski](https://www.raycast.com/chefski) | 1 | 0 |
 | 2243 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2244 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2245 | [john_ndelembi](https://www.raycast.com/john_ndelembi) | 1 | 0 |
-| 2246 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2247 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2248 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2249 | [stevan_bogosavljevic](https://www.raycast.com/stevan_bogosavljevic) | 1 | 0 |
-| 2250 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2251 | eugenio | 1 | — |
-| 2252 | multi | 1 | — |
+| 2245 | [gabrielbelli](https://www.raycast.com/gabrielbelli) | 1 | 0 |
+| 2246 | [john_ndelembi](https://www.raycast.com/john_ndelembi) | 1 | 0 |
+| 2247 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2248 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2249 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2250 | [stevan_bogosavljevic](https://www.raycast.com/stevan_bogosavljevic) | 1 | 0 |
+| 2251 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2252 | eugenio | 1 | — |
+| 2253 | multi | 1 | — |

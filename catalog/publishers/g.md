@@ -2,12 +2,13 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · **G** · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-70 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+71 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [g-mai](https://www.raycast.com/g-mai) | 1 | 5 | **Productivity:** [WooCommerce Quicker](https://github.com/raycast/extensions/tree/main/extensions/woocommerce-quicker) |
 | [g0d](https://www.raycast.com/g0d) | 1 | 601 | **Productivity:** [Time](https://github.com/raycast/extensions/tree/main/extensions/time) |
+| [gabrielbelli](https://www.raycast.com/gabrielbelli) | 1 | 0 | **Security:** [AbuseIPDB](https://github.com/raycast/extensions/tree/main/extensions/abuseipdb) |
 | [gamerslouis](https://www.raycast.com/gamerslouis) | 1 | 204 | **Developer Tools:** [Certificate Viewer](https://github.com/raycast/extensions/tree/main/extensions/certificate-viewer) |
 | [gandli](https://www.raycast.com/gandli) | 1 | 1,691 | **Productivity:** [Memorable Password Generator](https://github.com/raycast/extensions/tree/main/extensions/memorable-generate-password) |
 | [gaosunhao](https://www.raycast.com/gaosunhao) | 1 | 136 | **Uncategorized:** [SVG Studio](https://github.com/raycast/extensions/tree/main/extensions/svg-studio) |

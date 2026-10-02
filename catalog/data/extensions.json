@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "59303a37b99ac3559fb5a8a77e6924a9a28d0140",
-  "generatedAt": "2026-10-02T07:19:54.855Z",
-  "downloadsRefreshedAt": "2026-10-02T07:19:54.215Z",
-  "count": 3356,
+  "commit": "ab312b6ad853c54c7354519ce551d275d72fa157",
+  "generatedAt": "2026-10-02T07:39:31.801Z",
+  "downloadsRefreshedAt": "2026-10-02T07:39:31.377Z",
+  "count": 3357,
   "extensions": [
     {
       "dir": "0x0",
@@ -321,6 +321,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/abstract-api",
       "treeSha": "15f6779705948b1931bdf404ee81d05e7a78c198",
       "downloads": 329
+    },
+    {
+      "dir": "abuseipdb",
+      "name": "abuseipdb",
+      "title": "AbuseIPDB",
+      "description": "Check any IP address against the AbuseIPDB reputation database without leaving Raycast.",
+      "author": "gabrielbelli",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Security",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/gabrielbelli/abuseipdb",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/abuseipdb",
+      "treeSha": "1e04826ebd029f16c06dc63c8cffc0ef74364bed",
+      "downloads": 0
     },
     {
       "dir": "accordance",
@@ -10230,7 +10251,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 609610
+      "downloads": 609630
     },
     {
       "dir": "color-shades",
@@ -22959,7 +22980,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566300
+      "downloads": 566311
     },
     {
       "dir": "google-chrome-profiles",
@@ -29470,7 +29491,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768660
+      "downloads": 768680
     },
     {
       "dir": "kimai",
@@ -36076,7 +36097,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "00f054cc0ed56ab84c5f566f3bbd9beb7272328d",
-      "downloads": 42808
+      "downloads": 42817
     },
     {
       "dir": "models-dev",

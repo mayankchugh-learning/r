@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `ab312b6ad8`
+
+**Added (1):** [AbuseIPDB](https://github.com/raycast/extensions/tree/main/extensions/abuseipdb)
+
 ## 2026-10-02 — upstream `59303a37b9`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)

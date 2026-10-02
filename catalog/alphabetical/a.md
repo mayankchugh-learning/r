@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-165 extensions · [← catalog index](../README.md)
+166 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -169,5 +169,6 @@
 | [Average Saham Indonesia](https://github.com/raycast/extensions/tree/main/extensions/average-saham-indonesia) | 3 | Calculate your Indonesian stock average price (Average Up / Average Down) instantly, right from Raycast. | uluumbch | macOS, Windows | [store](https://www.raycast.com/uluumbch/average-saham-indonesia) |
 | [Aktar](https://github.com/raycast/extensions/tree/main/extensions/aktar) | 2 | Upload files to your own S3, R2, B2 or MinIO storage, search your upload history, and browse your buckets with the Aktar menu bar app. | merttopuz | macOS | [store](https://www.raycast.com/merttopuz/aktar) |
 | [AudioCast Control](https://github.com/raycast/extensions/tree/main/extensions/audiocast-control) | 2 | Control your AudioCast device using Raycast | RomiC | macOS, Windows | [store](https://www.raycast.com/RomiC/audiocast-control) |
+| [AbuseIPDB](https://github.com/raycast/extensions/tree/main/extensions/abuseipdb) | 0 | Check any IP address against the AbuseIPDB reputation database without leaving Raycast. | gabrielbelli | macOS | [store](https://www.raycast.com/gabrielbelli/abuseipdb) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
 | [Asyntai AI Chatbot](https://github.com/raycast/extensions/tree/main/extensions/asyntai) | 0 | Read your website chats, leads and support tickets, and ask your own AI chatbot a question, without opening the browser. | asyntai | macOS, Windows | [store](https://www.raycast.com/Asyntai/asyntai) |

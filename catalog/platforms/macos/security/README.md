@@ -1,8 +1,8 @@
 # macOS · Security
 
-87 extensions · [← macOS](../README.md)
+88 extensions · [← macOS](../README.md)
 
-[Passwords & Secrets](#passwords-secrets) (36) · [2FA & Authentication](#2fa-authentication) (8) · [Access & Identity](#access-identity) (7) · [Encryption & Hashing](#encryption-hashing) (2) · [Network & Privacy](#network-privacy) (13) · [General](#general) (21)
+[Passwords & Secrets](#passwords-secrets) (36) · [2FA & Authentication](#2fa-authentication) (8) · [Access & Identity](#access-identity) (7) · [Encryption & Hashing](#encryption-hashing) (2) · [Network & Privacy](#network-privacy) (14) · [General](#general) (21)
 
 ## Credentials & Access
 
@@ -98,6 +98,7 @@
 | [Viscosity](https://github.com/raycast/extensions/tree/main/extensions/viscosity) | 37 | Manage your Viscosity VPN connections directly from Raycast: list, connect, and disconnect with ease. | yigitefe | macOS | [store](https://www.raycast.com/yigitefe/viscosity) |
 | [Privacy Mask](https://github.com/raycast/extensions/tree/main/extensions/privmask) | 2 | Find personal information in text and mask it before you share it, entirely on your Mac — Japanese names, addresses and My Numbers included. | snaka | macOS | [store](https://www.raycast.com/snaka/privmask) |
 | [XKeen Manager](https://github.com/raycast/extensions/tree/main/extensions/xkeen-manager) | 2 | Manage the xkeen (Xray) proxy client on Keenetic routers over SSH: status, server profiles, routing rules, backups and health checks | vbrs | macOS | [store](https://www.raycast.com/vbrs/xkeen-manager) |
+| [AbuseIPDB](https://github.com/raycast/extensions/tree/main/extensions/abuseipdb) | 0 | Check any IP address against the AbuseIPDB reputation database without leaving Raycast. | gabrielbelli | macOS | [store](https://www.raycast.com/gabrielbelli/abuseipdb) |
 
 ### General
 
