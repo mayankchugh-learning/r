@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a487595b7dd29a85a72a81d00d4e07983e1059af",
-  "generatedAt": "2026-10-02T09:17:23.679Z",
-  "downloadsRefreshedAt": "2026-10-02T09:17:22.976Z",
+  "commit": "0d084dba10215b158d4c0a35fd410881f20f828f",
+  "generatedAt": "2026-10-02T10:48:46.768Z",
+  "downloadsRefreshedAt": "2026-10-02T10:48:45.323Z",
   "count": 3359,
   "extensions": [
     {
@@ -7271,10 +7271,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/gldywn/caviarde",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/caviarde",
       "treeSha": "feafef07e1d20714219ec4ade6f733d7b90bf4ba",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "cc0-lib",
@@ -10294,7 +10294,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 609745
+      "downloads": 609815
     },
     {
       "dir": "color-shades",
@@ -22982,7 +22982,7 @@
       ],
       "store": "https://www.raycast.com/thomas/google-calendar",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-calendar",
-      "treeSha": "489ac5a4275498f0637444bd4fb97bb3b8ffb991",
+      "treeSha": "4447a931374ee99a0eecd3dccd1255d57953cbad",
       "downloads": 70357
     },
     {
@@ -23023,7 +23023,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566385
+      "downloads": 566425
     },
     {
       "dir": "google-chrome-profiles",
@@ -29534,7 +29534,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768820
+      "downloads": 768900
     },
     {
       "dir": "kimai",

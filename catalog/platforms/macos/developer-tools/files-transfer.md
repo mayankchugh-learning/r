@@ -32,4 +32,4 @@
 | [Croc Transfer](https://github.com/raycast/extensions/tree/main/extensions/croc-transfer) | 17 | Send and receive files securely using croc | wilton | macOS | [store](https://www.raycast.com/wilton/croc-transfer) |
 | [BlurHash](https://github.com/raycast/extensions/tree/main/extensions/blurhash) | 13 | Generate blurhash from clipboard content or Finder | Freaktion | macOS | [store](https://www.raycast.com/freaktion/blurhash) |
 | [P00f - Ephemeral Clipboard](https://github.com/raycast/extensions/tree/main/extensions/p00f) | 7 | Create zero-knowledge, ephemeral p00f links from Raycast. | miguel_caetano_dias | macOS | [store](https://www.raycast.com/miguel_caetano_dias/p00f) |
-| [Caviarde](https://github.com/raycast/extensions/tree/main/extensions/caviarde) | — | Mask PII in your clipboard before you paste it anywhere | gldywn | macOS | — |
+| [Caviarde](https://github.com/raycast/extensions/tree/main/extensions/caviarde) | 0 | Mask PII in your clipboard before you paste it anywhere | gldywn | macOS | [store](https://www.raycast.com/gldywn/caviarde) |

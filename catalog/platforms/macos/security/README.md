@@ -124,5 +124,5 @@
 | [DocuSeal](https://github.com/raycast/extensions/tree/main/extensions/docuseal) | 7 | Open Source Document Signing | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/docuseal) |
 | [P00f - Ephemeral Clipboard](https://github.com/raycast/extensions/tree/main/extensions/p00f) | 7 | Create zero-knowledge, ephemeral p00f links from Raycast. | miguel_caetano_dias | macOS | [store](https://www.raycast.com/miguel_caetano_dias/p00f) |
 | [Starline](https://github.com/raycast/extensions/tree/main/extensions/starline) | 2 | Manage your Starline devices. Requires developer account. | sfominx | macOS | [store](https://www.raycast.com/sfominx/starline) |
-| [Caviarde](https://github.com/raycast/extensions/tree/main/extensions/caviarde) | — | Mask PII in your clipboard before you paste it anywhere | gldywn | macOS | — |
+| [Caviarde](https://github.com/raycast/extensions/tree/main/extensions/caviarde) | 0 | Mask PII in your clipboard before you paste it anywhere | gldywn | macOS | [store](https://www.raycast.com/gldywn/caviarde) |
 | [Raccoon](https://github.com/raycast/extensions/tree/main/extensions/raccoon) | — | macOS companion toolkit: disk, memory, ports, battery, network and a security audit, powered by the rcc CLI. | eugenio | macOS | — |

@@ -44,7 +44,7 @@
 | [GLaDO8](https://www.raycast.com/GLaDO8) | 1 | 871 | **Productivity:** [Pie for Pi-Hole](https://github.com/raycast/extensions/tree/main/extensions/pie-for-pihole) |
 | [Glaze](https://www.raycast.com/Glaze) | 1 | 128 | **Finance:** [NFT Search](https://github.com/raycast/extensions/tree/main/extensions/nft-search) |
 | [glct26](https://www.raycast.com/glct26) | 3 | 71 | **Fun:** [Game Scout](https://github.com/raycast/extensions/tree/main/extensions/game-scout)<br>**Applications:** [Next Game](https://github.com/raycast/extensions/tree/main/extensions/next-game), [ROM Launcher](https://github.com/raycast/extensions/tree/main/extensions/rom-launcher) |
-| gldywn | 1 | — | **Developer Tools:** [Caviarde](https://github.com/raycast/extensions/tree/main/extensions/caviarde) |
+| [gldywn](https://www.raycast.com/gldywn) | 1 | 0 | **Developer Tools:** [Caviarde](https://github.com/raycast/extensions/tree/main/extensions/caviarde) |
 | [globalping](https://www.raycast.com/globalping) | 1 | 43 | **Developer Tools:** [Globalping](https://github.com/raycast/extensions/tree/main/extensions/globalping) |
 | [Globolo](https://www.raycast.com/Globolo) | 1 | 1,337 | **Developer Tools:** [Diskutil](https://github.com/raycast/extensions/tree/main/extensions/diskutil-mac) |
 | [gnehz972](https://www.raycast.com/gnehz972) | 1 | 125 | **Productivity:** [Word4you](https://github.com/raycast/extensions/tree/main/extensions/word4you) |

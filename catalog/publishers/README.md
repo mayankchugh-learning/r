@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,289,065 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,289,135 |
 | 2 | [raycast](./id/raycast.md) | 11 | 900,442 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,820 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,385 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,900 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,425 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 494,370 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 490,702 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 456,823 |
@@ -2252,13 +2252,13 @@
 | 2242 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2243 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2244 | [gabrielbelli](https://www.raycast.com/gabrielbelli) | 1 | 0 |
-| 2245 | [john_ndelembi](https://www.raycast.com/john_ndelembi) | 1 | 0 |
-| 2246 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2247 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2248 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2249 | [stevan_bogosavljevic](https://www.raycast.com/stevan_bogosavljevic) | 1 | 0 |
-| 2250 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2251 | github-next | 2 | — |
-| 2252 | eugenio | 1 | — |
-| 2253 | gldywn | 1 | — |
+| 2245 | [gldywn](https://www.raycast.com/gldywn) | 1 | 0 |
+| 2246 | [john_ndelembi](https://www.raycast.com/john_ndelembi) | 1 | 0 |
+| 2247 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2248 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2249 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2250 | [stevan_bogosavljevic](https://www.raycast.com/stevan_bogosavljevic) | 1 | 0 |
+| 2251 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2252 | github-next | 2 | — |
+| 2253 | eugenio | 1 | — |
 | 2254 | multi | 1 | — |
