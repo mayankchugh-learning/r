@@ -1,6 +1,6 @@
 # Cross-platform · Productivity
 
-371 extensions · [← Cross-platform](../README.md)
+372 extensions · [← Cross-platform](../README.md)
 
 ## Organize & Plan
 
@@ -35,6 +35,6 @@
 | --- | --- |
 | [Reading & Learning](./reading-learning.md) | 8 |
 | [Team & Business Tools](./team-business-tools.md) | 7 |
-| [Trackers & Monitors](./trackers-monitors.md) | 9 |
+| [Trackers & Monitors](./trackers-monitors.md) | 10 |
 
 Plus [General](./general.md) — 116 extensions that don't fit a topic yet.

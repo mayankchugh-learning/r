@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "591130037fd3d6599b5866e5d8db4a64f361243b",
-  "generatedAt": "2026-10-02T11:37:29.291Z",
-  "downloadsRefreshedAt": "2026-10-02T11:37:22.529Z",
-  "count": 3360,
+  "commit": "eb0520e83fbed1cac0e362eaef2cf0e54c65169c",
+  "generatedAt": "2026-10-02T11:53:40.109Z",
+  "downloadsRefreshedAt": "2026-10-02T11:53:39.699Z",
+  "count": 3361,
   "extensions": [
     {
       "dir": "0x0",
@@ -10294,7 +10294,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 609850
+      "downloads": 609867
     },
     {
       "dir": "color-shades",
@@ -23023,7 +23023,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566450
+      "downloads": 566460
     },
     {
       "dir": "google-chrome-profiles",
@@ -29534,7 +29534,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768944
+      "downloads": 768963
     },
     {
       "dir": "kimai",
@@ -56278,6 +56278,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/social-network-trends",
       "treeSha": "f9b5dd26f202a1401b79f50851caa25be20ef2ab",
       "downloads": 857
+    },
+    {
+      "dir": "socialfaktory",
+      "name": "socialfaktory",
+      "title": "SocialFaktory",
+      "description": "Write, post and schedule X and LinkedIn posts in your brand's voice, and track scheduled posts and credits across TikTok, Instagram, YouTube, X, LinkedIn, Facebook and Pinterest.",
+      "author": "adif_sgaid",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Communication",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/adif_sgaid/socialfaktory",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/socialfaktory",
+      "treeSha": "596ce4915fbb933112298d1cbfe79707714a39ef",
+      "downloads": 0
     },
     {
       "dir": "solana-explorer",

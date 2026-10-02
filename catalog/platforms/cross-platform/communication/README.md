@@ -1,8 +1,8 @@
 # Cross-platform · Communication
 
-56 extensions · [← Cross-platform](../README.md)
+57 extensions · [← Cross-platform](../README.md)
 
-[Messaging & Chat](#messaging-chat) (13) · [Video Calls & Meetings](#video-calls-meetings) (2) · [Email](#email) (15) · [Social & Fediverse](#social-fediverse) (2) · [Customer Support & CRM](#customer-support-crm) (1) · [Contacts & People](#contacts-people) (3) · [Language & Dictionaries](#language-dictionaries) (1) · [Links & Sharing](#links-sharing) (3) · [General](#general) (16)
+[Messaging & Chat](#messaging-chat) (13) · [Video Calls & Meetings](#video-calls-meetings) (2) · [Email](#email) (15) · [Social & Fediverse](#social-fediverse) (3) · [Customer Support & CRM](#customer-support-crm) (1) · [Contacts & People](#contacts-people) (3) · [Language & Dictionaries](#language-dictionaries) (1) · [Links & Sharing](#links-sharing) (3) · [General](#general) (16)
 
 ## Conversations
 
@@ -59,6 +59,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 698 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
 | [Sendy](https://github.com/raycast/extensions/tree/main/extensions/sendy) | 0 | View Brands, Lists; Check Subscriber Status | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sendy) |
+| [SocialFaktory](https://github.com/raycast/extensions/tree/main/extensions/socialfaktory) | 0 | Write, post and schedule X and LinkedIn posts in your brand's voice, and track scheduled posts and credits across TikTok, Instagram, YouTube, X, LinkedIn, Face… | adif_sgaid | macOS, Windows | [store](https://www.raycast.com/adif_sgaid/socialfaktory) |
 
 ### Links & Sharing
 

@@ -1,8 +1,8 @@
 # macOS · Communication
 
-161 extensions · [← macOS](../README.md)
+162 extensions · [← macOS](../README.md)
 
-[Messaging & Chat](#messaging-chat) (31) · [Video Calls & Meetings](#video-calls-meetings) (15) · [Email](#email) (24) · [Social & Fediverse](#social-fediverse) (11) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (5) · [Language & Dictionaries](#language-dictionaries) (5) · [Links & Sharing](#links-sharing) (7) · [General](#general) (57)
+[Messaging & Chat](#messaging-chat) (31) · [Video Calls & Meetings](#video-calls-meetings) (15) · [Email](#email) (24) · [Social & Fediverse](#social-fediverse) (12) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (5) · [Language & Dictionaries](#language-dictionaries) (5) · [Links & Sharing](#links-sharing) (7) · [General](#general) (57)
 
 ## Conversations
 
@@ -108,6 +108,7 @@
 | [Akkoma](https://github.com/raycast/extensions/tree/main/extensions/akkoma) | 18 | Publish status from Raycast to Akkoma or Pleroma, and view your bookmarked status | SevicheCC | macOS | [store](https://www.raycast.com/SevicheCC/akkoma) |
 | [Postproxy](https://github.com/raycast/extensions/tree/main/extensions/postproxy) | 2 | Publish posts, manage comments, and answer DMs across your social profiles with Postproxy. | dmitrysereda | macOS | [store](https://www.raycast.com/dmitrysereda/postproxy) |
 | [Sendy](https://github.com/raycast/extensions/tree/main/extensions/sendy) | 0 | View Brands, Lists; Check Subscriber Status | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sendy) |
+| [SocialFaktory](https://github.com/raycast/extensions/tree/main/extensions/socialfaktory) | 0 | Write, post and schedule X and LinkedIn posts in your brand's voice, and track scheduled posts and credits across TikTok, Instagram, YouTube, X, LinkedIn, Face… | adif_sgaid | macOS, Windows | [store](https://www.raycast.com/adif_sgaid/socialfaktory) |
 
 ### Links & Sharing
 

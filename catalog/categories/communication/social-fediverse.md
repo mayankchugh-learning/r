@@ -1,6 +1,6 @@
 # Social & Fediverse
 
-11 extensions · [← Communication](./README.md)
+12 extensions · [← Communication](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -15,3 +15,4 @@
 | [Akkoma](https://github.com/raycast/extensions/tree/main/extensions/akkoma) | 18 | Publish status from Raycast to Akkoma or Pleroma, and view your bookmarked status | SevicheCC | macOS | [store](https://www.raycast.com/SevicheCC/akkoma) |
 | [Postproxy](https://github.com/raycast/extensions/tree/main/extensions/postproxy) | 2 | Publish posts, manage comments, and answer DMs across your social profiles with Postproxy. | dmitrysereda | macOS | [store](https://www.raycast.com/dmitrysereda/postproxy) |
 | [Sendy](https://github.com/raycast/extensions/tree/main/extensions/sendy) | 0 | View Brands, Lists; Check Subscriber Status | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sendy) |
+| [SocialFaktory](https://github.com/raycast/extensions/tree/main/extensions/socialfaktory) | 0 | Write, post and schedule X and LinkedIn posts in your brand's voice, and track scheduled posts and credits across TikTok, Instagram, YouTube, X, LinkedIn, Face… | adif_sgaid | macOS, Windows | [store](https://www.raycast.com/adif_sgaid/socialfaktory) |

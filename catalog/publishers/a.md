@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-199 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+200 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -36,6 +36,7 @@
 | [adelowo](https://www.raycast.com/adelowo) | 1 | 2,406 | **Developer Tools:** [Carbon Screenshot for Raycast](https://github.com/raycast/extensions/tree/main/extensions/carbon-raycast) |
 | [adi_amar](https://www.raycast.com/adi_amar) | 1 | 39 | **Productivity:** [Retrac](https://github.com/raycast/extensions/tree/main/extensions/retrac) |
 | [adielBm](https://www.raycast.com/MrModest) | 1 | 1,711 | **Web:** [Reverso Context](https://github.com/raycast/extensions/tree/main/extensions/reverso-context) |
+| [adif_sgaid](https://www.raycast.com/adif_sgaid) | 1 | 0 | **Communication:** [SocialFaktory](https://github.com/raycast/extensions/tree/main/extensions/socialfaktory) |
 | [adigold1](https://www.raycast.com/adigold1) | 2 | 380 | **Media:** [AG AudioFlow](https://github.com/raycast/extensions/tree/main/extensions/ag-audioflow), [Looma.fm](https://github.com/raycast/extensions/tree/main/extensions/looma-fm) |
 | [adnan_tresnjo](https://www.raycast.com/adnan_tresnjo) | 1 | 247 | **Design Tools:** [Hugeicons UI](https://github.com/raycast/extensions/tree/main/extensions/hugeicons-ui) |
 | [adreatik_dedej](https://www.raycast.com/adreatik_dedej) | 1 | 102 | **Productivity:** [Passbolt](https://github.com/raycast/extensions/tree/main/extensions/passbolt) |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `eb0520e83f`
+
+**Added (1):** [SocialFaktory](https://github.com/raycast/extensions/tree/main/extensions/socialfaktory)
+
 ## 2026-10-02 — upstream `591130037f`
 
 **Added (1):** [Prismical](https://github.com/raycast/extensions/tree/main/extensions/prismical)
