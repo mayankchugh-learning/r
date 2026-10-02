@@ -6,14 +6,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | 23,961 | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
-| [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 7,114 | Download videos and audio from popular social media platforms with ease. | aelew | macOS, Windows | [store](https://www.raycast.com/aelew/cobalt) |
-| [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 4,493 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
+| [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | 23,985 | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
+| [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 7,118 | Download videos and audio from popular social media platforms with ease. | aelew | macOS, Windows | [store](https://www.raycast.com/aelew/cobalt) |
+| [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 4,496 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
 | [Yandex Music](https://github.com/raycast/extensions/tree/main/extensions/yandex-music) | 1,509 | Control the Yandex Music tab in browser with your keyboard. | alexstrnik | macOS | [store](https://www.raycast.com/alexstrnik/yandex-music) |
-| [Audio Writer](https://github.com/raycast/extensions/tree/main/extensions/audio-writer) | 1,278 | Transcribe it, refine it and structure it for you ✨ | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/audio-writer) |
-| [Ableton Live](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) | 1,198 | Search and open recent Ableton Live Projects | dch09 | macOS | [store](https://www.raycast.com/dch09/ableton-live) |
-| [Cider](https://github.com/raycast/extensions/tree/main/extensions/cider) | 1,067 | Interact with Cider through Raycast | feyli | macOS, Windows | [store](https://www.raycast.com/feyli/cider) |
-| [Endel](https://github.com/raycast/extensions/tree/main/extensions/endel) | 665 | Interact with the Endel player. | zach | macOS | [store](https://www.raycast.com/zach/endel) |
+| [Audio Writer](https://github.com/raycast/extensions/tree/main/extensions/audio-writer) | 1,279 | Transcribe it, refine it and structure it for you ✨ | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/audio-writer) |
+| [Ableton Live](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) | 1,200 | Search and open recent Ableton Live Projects | dch09 | macOS | [store](https://www.raycast.com/dch09/ableton-live) |
+| [Cider](https://github.com/raycast/extensions/tree/main/extensions/cider) | 1,069 | Interact with Cider through Raycast | feyli | macOS, Windows | [store](https://www.raycast.com/feyli/cider) |
+| [Endel](https://github.com/raycast/extensions/tree/main/extensions/endel) | 666 | Interact with the Endel player. | zach | macOS | [store](https://www.raycast.com/zach/endel) |
 | [Kaset Control](https://github.com/raycast/extensions/tree/main/extensions/kaset-control) | 234 | Control Kaset - YouTube Music client for macOS | endiruslan | macOS | [store](https://www.raycast.com/endiruslan/kaset-control) |
 | [Elsewhere](https://github.com/raycast/extensions/tree/main/extensions/elsewhere) | 33 | Control spatial soundscapes, background music, playback, and volume. | yannglt | macOS | [store](https://www.raycast.com/yannglt/elsewhere) |
 | [Fenn Search](https://github.com/raycast/extensions/tree/main/extensions/fenn-search) | 0 | Search text in videos, spoken words in audio, and content inside Sketch files and documents with Fenn. | thoddnn | macOS | [store](https://www.raycast.com/thoddnn/fenn-search) |

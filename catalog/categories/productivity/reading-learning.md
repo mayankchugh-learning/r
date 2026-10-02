@@ -10,9 +10,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GitHub Trending](https://github.com/raycast/extensions/tree/main/extensions/github-trending) | 3,744 | Discover trending GitHub repositories by language and time range, then preview, open, or jump into code from Raycast. | mikqi | macOS | [store](https://www.raycast.com/mikqi/github-trending) |
+| [GitHub Trending](https://github.com/raycast/extensions/tree/main/extensions/github-trending) | 3,746 | Discover trending GitHub repositories by language and time range, then preview, open, or jump into code from Raycast. | mikqi | macOS | [store](https://www.raycast.com/mikqi/github-trending) |
 | [Bed Time Calculator](https://github.com/raycast/extensions/tree/main/extensions/bed-time-calculator) | 587 | Calculate optimal sleep and wake times with color-coded quality indicators and natural language time input. | khlebobul | macOS, Windows | [store](https://www.raycast.com/khlebobul/bed-time-calculator) |
-| [Flight Search](https://github.com/raycast/extensions/tree/main/extensions/skyscanner-flights) | 523 | Search for flights with natural language and open results on Skyscanner.com | ayushtom | macOS, Windows | [store](https://www.raycast.com/ayushtom/skyscanner-flights) |
+| [Flight Search](https://github.com/raycast/extensions/tree/main/extensions/skyscanner-flights) | 524 | Search for flights with natural language and open results on Skyscanner.com | ayushtom | macOS, Windows | [store](https://www.raycast.com/ayushtom/skyscanner-flights) |
 | [Raycall](https://github.com/raycast/extensions/tree/main/extensions/raycall) | 53 | Semantic bookmark search - save any URL and find it later in natural language. | rithmic | macOS, Windows | [store](https://www.raycast.com/rithmic/raycall) |
 | [Vocabulary Builder](https://github.com/raycast/extensions/tree/main/extensions/vocabulary-builder) | 32 | Build your vocabulary while learning a new language | stefann | macOS, Windows | [store](https://www.raycast.com/stefann/vocabulary-builder) |
 
@@ -20,7 +20,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 4,210 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
+| [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 4,213 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
 | [Distraction Tracker](https://github.com/raycast/extensions/tree/main/extensions/distraction-tracker) | 327 | Track your distractions and get indistractable. This extension is inspired by Nir Eyal's book indistractable. | danieldeichfuss | macOS | [store](https://www.raycast.com/danieldeichfuss/distraction-tracker) |
 | [Logos Launcher](https://github.com/raycast/extensions/tree/main/extensions/logos-launcher) | 316 | Opens books, verses or resources in Logos Bible Software | michael_marvive | macOS, Windows | [store](https://www.raycast.com/michael_marvive/logos-launcher) |
 | [Teamup Rooms](https://github.com/raycast/extensions/tree/main/extensions/teamup-rooms) | 20 | Check for open rooms and book using Teamup | drewwatkins11 | macOS | [store](https://www.raycast.com/drewwatkins11/teamup-rooms) |
@@ -29,10 +29,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 51,898 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
-| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 10,253 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
-| [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) | 6,765 | Anki extension for Raycast | anton-suprun | macOS | [store](https://www.raycast.com/anton-suprun/anki) |
-| [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,489 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
+| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 51,936 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
+| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 10,264 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
+| [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) | 6,771 | Anki extension for Raycast | anton-suprun | macOS | [store](https://www.raycast.com/anton-suprun/anki) |
+| [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,490 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
 | [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 483 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
 | [Read Later](https://github.com/raycast/extensions/tree/main/extensions/later) | 425 | Read your tabs later | jimluo | macOS | [store](https://www.raycast.com/jimluo/later) |
 | [Udemy Coupons](https://github.com/raycast/extensions/tree/main/extensions/udemy-coupons) | 345 | Get instant access to 1000+ premium Udemy courses for FREE with verified coupons. Updated hourly. Learn programming, design, business, marketing & more. Save $… | dharmendra | macOS, Windows | [store](https://www.raycast.com/dharmendra/udemy-coupons) |
@@ -40,4 +40,4 @@
 | [Hashnode](https://github.com/raycast/extensions/tree/main/extensions/hashnode) | 229 | Read, search and create stories from Raycast. | dpnick | macOS | [store](https://www.raycast.com/dpnick/hashnode) |
 | [Cosmic Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/cosmic-bookmarks) | 90 | Read, visit and save Bookmarks to and from Cosmic CMS | kemiljk | macOS | [store](https://www.raycast.com/kemiljk/cosmic-bookmarks) |
 | [Letta Agents](https://github.com/raycast/extensions/tree/main/extensions/letta) | 36 | Chat with Letta stateful agents that remember and learn over time | wesseljt | macOS | [store](https://www.raycast.com/wesseljt/letta) |
-| [Clipfile](https://github.com/raycast/extensions/tree/main/extensions/read-this-later) | 33 | Browse and read your saved articles, and save the current browser tab. | shearm | macOS | [store](https://www.raycast.com/shearm/read-this-later) |
+| [Clipfile](https://github.com/raycast/extensions/tree/main/extensions/read-this-later) | 34 | Browse and read your saved articles, and save the current browser tab. | shearm | macOS | [store](https://www.raycast.com/shearm/read-this-later) |
