@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7e5936b4f526f21cd7a20eeac2dcd2b1466889f7",
-  "generatedAt": "2026-10-02T14:52:37.688Z",
-  "downloadsRefreshedAt": "2026-10-02T14:52:37.050Z",
+  "commit": "b5862aead2497ffcfc2bd4c9cd05fccff80fce4d",
+  "generatedAt": "2026-10-02T15:27:59.509Z",
+  "downloadsRefreshedAt": "2026-10-02T15:27:58.153Z",
   "count": 3364,
   "extensions": [
     {
@@ -10295,7 +10295,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 610025
+      "downloads": 610057
     },
     {
       "dir": "color-shades",
@@ -23025,7 +23025,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566553
+      "downloads": 566578
     },
     {
       "dir": "google-chrome-profiles",
@@ -29536,7 +29536,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 769154
+      "downloads": 769189
     },
     {
       "dir": "kimai",
@@ -31578,7 +31578,7 @@
       ],
       "store": "https://www.raycast.com/linear/linear",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linear",
-      "treeSha": "b809d4cd937222b30f6acb9df76f67afb30bf954",
+      "treeSha": "d00db9a628e0259bb0f20e1719009a2ce6c643a4",
       "downloads": 399590
     },
     {
@@ -44031,10 +44031,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/frdmn/phpipam",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/phpipam",
       "treeSha": "24bb7e4edfce07d16d685ee7509da468e240bd7a",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "phpmon",

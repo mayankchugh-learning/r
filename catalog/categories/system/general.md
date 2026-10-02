@@ -74,6 +74,6 @@
 | [OmniCast](https://github.com/raycast/extensions/tree/main/extensions/omni-cast) | 9 | Search and run OmniWM commands in plain English. | imprisonedmind | macOS | [store](https://www.raycast.com/imprisonedmind/omni-cast) |
 | [Slurm](https://github.com/raycast/extensions/tree/main/extensions/slurm) | 6 | Manage Slurm jobs across multiple clusters and inspect utilization from Raycast | p-koenig | macOS | [store](https://www.raycast.com/p-koenig/slurm) |
 | [Dmenu](https://github.com/raycast/extensions/tree/main/extensions/dmenu) | 2 | A dmenu-style picker for macOS, powered by a Python CLI and Raycast | 8w8kkr8typ | macOS | [store](https://www.raycast.com/8w8kkr8typ/dmenu) |
+| [phpIPAM](https://github.com/raycast/extensions/tree/main/extensions/phpipam) | 0 | Search and browse your phpIPAM instance: addresses, subnets, sections, VLANs and VRFs. | frdmn | macOS | [store](https://www.raycast.com/frdmn/phpipam) |
 | [Run Zipper Applet](https://github.com/raycast/extensions/tree/main/extensions/zipper-run) | 0 | Run a zipper applet | ariel_conti | macOS | [store](https://www.raycast.com/ariel_conti/zipper-run) |
 | [Windhawk](https://github.com/raycast/extensions/tree/main/extensions/windhawk) | 0 | Install and manage Windhawk mods, straight from Raycast | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/windhawk) |
-| [phpIPAM](https://github.com/raycast/extensions/tree/main/extensions/phpipam) | — | Search and browse your phpIPAM instance: addresses, subnets, sections, VLANs and VRFs. | frdmn | macOS | — |
