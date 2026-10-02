@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `57a04ad079`
+
+**Updated (1):** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew)
+
 ## 2026-10-02 — upstream `9f06b9031a`
 
 **Updated (1):** [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz)
