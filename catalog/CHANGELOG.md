@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `a487595b7d`
+
+**Added (1):** [Caviarde](https://github.com/raycast/extensions/tree/main/extensions/caviarde)
+
 ## 2026-10-02 — upstream `2c65c45fdb`
 
 **Updated (1):** [Search Router](https://github.com/raycast/extensions/tree/main/extensions/search-router)

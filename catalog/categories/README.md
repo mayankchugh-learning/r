@@ -14,10 +14,10 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Developer Tools](./developer-tools/README.md) | 1150 |
+| [Developer Tools](./developer-tools/README.md) | 1151 |
 | [Data](./data/README.md) | 277 |
 | [Documentation](./documentation/README.md) | 215 |
-| [Security](./security/README.md) | 88 |
+| [Security](./security/README.md) | 89 |
 | [AI](./ai/README.md) | 7 |
 
 ### Creative & Media
