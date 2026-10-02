@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 168,805 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,715 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,890 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,288,975 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,289,037 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 456,823 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,745 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,351 |
@@ -373,7 +373,7 @@
 | 363 | [imqdee](https://www.raycast.com/imqdee) | 2 | 173 |
 | 364 | [boosteblume](https://www.raycast.com/boosteblume) | 2 | 170 |
 | 365 | [damian_zachwieja](https://www.raycast.com/damian_zachwieja) | 2 | 164 |
-| 366 | [ertem_biyik](https://www.raycast.com/ertem_biyik) | 2 | 143 |
+| 366 | [ertem_biyik](https://www.raycast.com/ertem_biyik) | 2 | 144 |
 | 367 | [tuki0918](https://www.raycast.com/tuki0918) | 2 | 143 |
 | 368 | [shak](https://www.raycast.com/shak) | 2 | 119 |
 | 369 | [jorgetoh](https://www.raycast.com/jorgetoh) | 2 | 106 |
@@ -405,8 +405,8 @@
 | 395 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 396 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 2 | 9 |
 | 397 | github-next | 2 | — |
-| 398 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,710 |
-| 399 | [Codely](https://www.raycast.com/Codely) | 1 | 566,327 |
+| 398 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,784 |
+| 399 | [Codely](https://www.raycast.com/Codely) | 1 | 566,368 |
 | 400 | [linear](https://www.raycast.com/linear) | 1 | 399,590 |
 | 401 | [mommertf](https://www.raycast.com/mommertf) | 1 | 332,456 |
 | 402 | [nhojb](https://www.raycast.com/nhojb) | 1 | 291,102 |
@@ -448,8 +448,8 @@
 | 438 | [jlrochin](https://www.raycast.com/jlrochin) | 1 | 20,890 |
 | 439 | [mmazzarolo](https://www.raycast.com/mmazzarolo) | 1 | 20,588 |
 | 440 | [tailscale](https://www.raycast.com/tailscale) | 1 | 17,101 |
-| 441 | [jarry_chung](https://www.raycast.com/jarry_chung) | 1 | 17,071 |
-| 442 | [limonkufu](https://www.raycast.com/limonkufu) | 1 | 17,069 |
+| 441 | [limonkufu](https://www.raycast.com/limonkufu) | 1 | 17,081 |
+| 442 | [jarry_chung](https://www.raycast.com/jarry_chung) | 1 | 17,071 |
 | 443 | [SvenTiigi](https://www.raycast.com/SvenTiigi) | 1 | 16,859 |
 | 444 | [kom](https://www.raycast.com/kom) | 1 | 16,765 |
 | 445 | [fturcheti](https://www.raycast.com/fturcheti) | 1 | 15,792 |

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,288,975 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,289,037 |
 | 2 | [raycast](./id/raycast.md) | 11 | 900,442 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,710 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,327 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,784 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,368 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 494,370 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 490,702 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 456,823 |
@@ -130,9 +130,9 @@
 | 120 | [timoransky](https://www.raycast.com/timoransky) | 4 | 17,632 |
 | 121 | [ilian](https://www.raycast.com/ilian) | 3 | 17,584 |
 | 122 | [tailscale](https://www.raycast.com/tailscale) | 1 | 17,101 |
-| 123 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 17,077 |
-| 124 | [jarry_chung](https://www.raycast.com/jarry_chung) | 1 | 17,071 |
-| 125 | [limonkufu](https://www.raycast.com/limonkufu) | 1 | 17,069 |
+| 123 | [limonkufu](https://www.raycast.com/limonkufu) | 1 | 17,081 |
+| 124 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 17,077 |
+| 125 | [jarry_chung](https://www.raycast.com/jarry_chung) | 1 | 17,071 |
 | 126 | [SvenTiigi](https://www.raycast.com/SvenTiigi) | 1 | 16,859 |
 | 127 | [kom](https://www.raycast.com/kom) | 1 | 16,765 |
 | 128 | [k8scat](https://www.raycast.com/k8scat) | 6 | 16,291 |
@@ -1380,9 +1380,9 @@
 | 1370 | [candemet](https://www.raycast.com/candemet) | 1 | 145 |
 | 1371 | [ftonato](https://www.raycast.com/ftonato) | 1 | 145 |
 | 1372 | [marcusforsberg](https://www.raycast.com/marcusforsberg) | 1 | 145 |
-| 1373 | [nickradford](https://www.raycast.com/nickradford) | 1 | 144 |
-| 1374 | [syropian](https://www.raycast.com/syropian) | 1 | 144 |
-| 1375 | [ertem_biyik](https://www.raycast.com/ertem_biyik) | 2 | 143 |
+| 1373 | [ertem_biyik](https://www.raycast.com/ertem_biyik) | 2 | 144 |
+| 1374 | [nickradford](https://www.raycast.com/nickradford) | 1 | 144 |
+| 1375 | [syropian](https://www.raycast.com/syropian) | 1 | 144 |
 | 1376 | [tuki0918](https://www.raycast.com/tuki0918) | 2 | 143 |
 | 1377 | [chupi](https://www.raycast.com/chupi) | 1 | 143 |
 | 1378 | [codiini](https://www.raycast.com/codiini) | 1 | 143 |

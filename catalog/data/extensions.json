@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "8de1dbb73644570a58eb08db775dca33ada71b12",
-  "generatedAt": "2026-10-02T08:00:55.220Z",
-  "downloadsRefreshedAt": "2026-10-02T08:00:54.681Z",
+  "commit": "97a0f006481b691608823fa5203289aa235bee35",
+  "generatedAt": "2026-10-02T08:52:23.888Z",
+  "downloadsRefreshedAt": "2026-10-02T08:52:22.445Z",
   "count": 3358,
   "extensions": [
     {
@@ -631,8 +631,8 @@
       ],
       "store": "https://www.raycast.com/limonkufu/aerospace",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/aerospace",
-      "treeSha": "6e0ed61ff6cbf84edc2dcd3e16185633ee659887",
-      "downloads": 17069
+      "treeSha": "171d114ed1a427526b51e2df7df6783437e4c48c",
+      "downloads": 17081
     },
     {
       "dir": "affine-raycast",
@@ -9918,7 +9918,7 @@
       "store": "https://www.raycast.com/ertem_biyik/codex-dictation",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/codex-dictation",
       "treeSha": "c3cd6d535a76b47d247899b525832415f3eacd32",
-      "downloads": 0
+      "downloads": 1
     },
     {
       "dir": "codex-manager",
@@ -10273,7 +10273,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 609655
+      "downloads": 609717
     },
     {
       "dir": "color-shades",
@@ -23002,7 +23002,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566327
+      "downloads": 566368
     },
     {
       "dir": "google-chrome-profiles",
@@ -29513,7 +29513,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768710
+      "downloads": 768784
     },
     {
       "dir": "kimai",

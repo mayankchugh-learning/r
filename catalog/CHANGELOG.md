@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `97a0f00648`
+
+**Updated (1):** [AeroSpace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace)
+
 ## 2026-10-02 — upstream `8de1dbb736`
 
 **Added (1):** [Codex Dictation](https://github.com/raycast/extensions/tree/main/extensions/codex-dictation)
