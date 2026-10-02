@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `2c65c45fdb`
+
+**Updated (1):** [Search Router](https://github.com/raycast/extensions/tree/main/extensions/search-router)
+
 ## 2026-10-02 — upstream `97a0f00648`
 
 **Updated (1):** [AeroSpace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace)
