@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "acf6c9c6bd6d794a73b653443450e9d0b1dfe6f6",
-  "generatedAt": "2026-10-02T04:41:39.916Z",
-  "downloadsRefreshedAt": "2026-10-02T04:41:38.993Z",
+  "commit": "7e5504c05b2ed69170dd7561a20fc72a577093b6",
+  "generatedAt": "2026-10-02T04:42:24.098Z",
+  "downloadsRefreshedAt": "2026-10-02T04:42:23.666Z",
   "count": 3356,
   "extensions": [
     {
@@ -46366,7 +46366,7 @@
       ],
       "store": "https://www.raycast.com/izyuumi/proton-pass",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/proton-pass",
-      "treeSha": "1ceb4510abef2bbe99f80899cbcc72114caae3a9",
+      "treeSha": "da7916435ae03e4435574c4075aee9c92a828006",
       "downloads": 1900
     },
     {

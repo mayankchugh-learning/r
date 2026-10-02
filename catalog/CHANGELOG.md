@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `7e5504c05b`
+
+**Updated (1):** [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass)
+
 ## 2026-10-02 — upstream `acf6c9c6bd`
 
 **Updated (8):** [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker), [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles), [Music](https://github.com/raycast/extensions/tree/main/extensions/music), [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion), [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian), [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper), [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player), [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list)
