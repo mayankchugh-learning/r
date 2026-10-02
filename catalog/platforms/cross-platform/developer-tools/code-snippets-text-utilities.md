@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · **Code, Snippets & Text Utilities** · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-35 of 323 extensions · [← Cross-platform · Developer Tools](./README.md)
+36 of 324 extensions · [← Cross-platform · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -23,6 +23,7 @@
 | [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 4,484 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
 | [Code Review Emoji Guide](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis) | 1,186 | A simple emoji legend to help convey intention and added meaning in code review comments. | russellyeo | macOS, Windows | [store](https://www.raycast.com/russellyeo/code-review-emojis) |
 | [URL Parse](https://github.com/raycast/extensions/tree/main/extensions/url-parse) | 794 | URL parse tool for developer. | Johnson | macOS, Windows | [store](https://www.raycast.com/Johnson/url-parse) |
+| [Choose a License](https://github.com/raycast/extensions/tree/main/extensions/choose-a-license) | 766 | Read, copy, and paste Markdown licenses from choosealicense.com | sandypockets | macOS, Windows | [store](https://www.raycast.com/sandypockets/choose-a-license) |
 | [Comma Separator](https://github.com/raycast/extensions/tree/main/extensions/comma-separator) | 314 | Convert text into separated values with customizable delimiters and quote options | siddharth_rastogi | macOS, Windows | [store](https://www.raycast.com/siddharth_rastogi/comma-separator) |
 | [Modify Hash](https://github.com/raycast/extensions/tree/main/extensions/modify-hash) | 273 | Batch modify the hash of media files, which can be simply used for uploading online disk to prevent censorship. | isfeng | macOS, Windows | [store](https://www.raycast.com/isfeng/modify-hash) |
 | [Easy Variable](https://github.com/raycast/extensions/tree/main/extensions/easyvariable) | 268 | Convert Any Language Text into an English Variable Name | keleus | macOS, Windows | [store](https://www.raycast.com/keleus/easyvariable) |

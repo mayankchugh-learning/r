@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · **Clipboard & Text Expansion** · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-19 of 391 extensions · [← Windows · Productivity](./README.md)
+20 of 392 extensions · [← Windows · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -13,6 +13,7 @@
 | [Parse - Speed Reader](https://github.com/raycast/extensions/tree/main/extensions/parse) | 1,367 | Speed read copied text one word at a time. | traf | macOS, Windows | [store](https://www.raycast.com/traf/parse) |
 | [Conventional Comments](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) | 1,281 | Paste conventional comment into your foremost application | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/conventional-comments) |
 | [Shiori](https://github.com/raycast/extensions/tree/main/extensions/shiori-sh) | 818 | Search, save, and manage your Shiori bookmarks. Mark links as read, delete them, save from clipboard, and track unread count in the menu bar. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shiori-sh) |
+| [Choose a License](https://github.com/raycast/extensions/tree/main/extensions/choose-a-license) | 766 | Read, copy, and paste Markdown licenses from choosealicense.com | sandypockets | macOS, Windows | [store](https://www.raycast.com/sandypockets/choose-a-license) |
 | [Excel Formula Beautifier](https://github.com/raycast/extensions/tree/main/extensions/excel-formula-beautifier) | 455 | Allows excel formula in clipboard to be beautified. | oliverde8 | macOS, Windows | [store](https://www.raycast.com/oliverde8/excel-formula-beautifier) |
 | [Open Latest URL from Clipboard](https://github.com/raycast/extensions/tree/main/extensions/open-latest-url-from-clipboard) | 210 | Opens the latest URL from Clipboard if one is found in the latest 6 entries | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/open-latest-url-from-clipboard) |
 | [LaTeX Board](https://github.com/raycast/extensions/tree/main/extensions/latex-board) | 196 | A LaTeX-friendly clipboard tool for creating, organizing, and copying equations. | 273 | macOS, Windows | [store](https://www.raycast.com/273/latex-board) |

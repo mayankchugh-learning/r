@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 610,210 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 610,220 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 259,029 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 149,910 | Prevent the sleep function on your computer | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/coffee) |
 | [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 119,739 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
@@ -110,7 +110,7 @@
 | [Can I PHP?](https://github.com/raycast/extensions/tree/main/extensions/can-i-php) | 819 | Check if a certain function or method is available in different versions of PHP. | diana_scharf | macOS, Windows | [store](https://www.raycast.com/diana_scharf/can-i-php) |
 | [CIDR Conversion](https://github.com/raycast/extensions/tree/main/extensions/cidr) | 813 | CIDR to IPv4 Conversion | Gnosnay | macOS | [store](https://www.raycast.com/Gnosnay/cidr) |
 | [Counter](https://github.com/raycast/extensions/tree/main/extensions/counter) | 782 | A simple counter, in the comfort of Raycast root! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/counter) |
-| [Choose a License](https://github.com/raycast/extensions/tree/main/extensions/choose-a-license) | 766 | Read, copy, and paste Markdown licenses from choosealicense.com | sandypockets | macOS | [store](https://www.raycast.com/sandypockets/choose-a-license) |
+| [Choose a License](https://github.com/raycast/extensions/tree/main/extensions/choose-a-license) | 766 | Read, copy, and paste Markdown licenses from choosealicense.com | sandypockets | macOS, Windows | [store](https://www.raycast.com/sandypockets/choose-a-license) |
 | [CopyMoveTo](https://github.com/raycast/extensions/tree/main/extensions/copymoveto) | 758 | Save time moving files between folders. Define destinations once, use quick commands to copy or move files effortlessly | kumamaki | macOS | [store](https://www.raycast.com/kumamaki/copymoveto) |
 | [Clipboard Type](https://github.com/raycast/extensions/tree/main/extensions/clipboard-type) | 754 | Clipboard Type allows you to paste values of your clipboard, in the places where direct pasting is not allowed, like many web forms or RDP where clipboard is n… | krishna_bhanushali | macOS | [store](https://www.raycast.com/krishna_bhanushali/clipboard-type) |
 | [ChatGo](https://github.com/raycast/extensions/tree/main/extensions/chatgo) | 752 | A chatGPT AI Tool | DDDDesign | macOS | [store](https://www.raycast.com/DDDDesign/chatgo) |
