@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `1d13c79027`
+
+**Added (1):** [BetterShot](https://github.com/raycast/extensions/tree/main/extensions/bettershot)
+
 ## 2026-10-02 — upstream `57a04ad079`
 
 **Updated (1):** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew)

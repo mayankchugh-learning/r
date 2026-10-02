@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "57a04ad079ce113d7ffb3ea1c99526f262632fa1",
-  "generatedAt": "2026-10-02T18:36:24.434Z",
-  "downloadsRefreshedAt": "2026-10-02T18:36:23.624Z",
-  "count": 3365,
+  "commit": "1d13c79027bcceb2cd688be0d4b1367a1b8419df",
+  "generatedAt": "2026-10-02T18:38:37.470Z",
+  "downloadsRefreshedAt": "2026-10-02T18:38:36.891Z",
+  "count": 3366,
   "extensions": [
     {
       "dir": "0x0",
@@ -4899,6 +4899,26 @@
       "downloads": 6004
     },
     {
+      "dir": "bettershot",
+      "name": "bettershot",
+      "title": "BetterShot",
+      "description": "Capture screenshots, scan text, pick colors, and open recording options with BetterShot.",
+      "author": "andyli_lfs898",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Applications"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/andyli_lfs898/bettershot",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/bettershot",
+      "treeSha": "1f71f67c38a3aacbf9fb92e97a1e90222e7fa68d",
+      "downloads": 0
+    },
+    {
       "dir": "betterstack-utils",
       "name": "betterstack-utils",
       "title": "BetterStack Utils",
@@ -6189,7 +6209,7 @@
       "store": "https://www.raycast.com/nhojb/brew",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/brew",
       "treeSha": "9c4cf5e1d9b16833ed1bd72ae6f2ee441f6d9abe",
-      "downloads": 291442
+      "downloads": 291523
     },
     {
       "dir": "brew-services",
@@ -10295,7 +10315,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 610209
+      "downloads": 610210
     },
     {
       "dir": "color-shades",
@@ -23046,7 +23066,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566692
+      "downloads": 566694
     },
     {
       "dir": "google-chrome-profiles",
@@ -29557,7 +29577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 769379
+      "downloads": 769380
     },
     {
       "dir": "kimai",

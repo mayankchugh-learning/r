@@ -1,6 +1,6 @@
 # macOS · Applications
 
-381 extensions · [← macOS](../README.md)
+382 extensions · [← macOS](../README.md)
 
 ## Work & Knowledge Apps
 
@@ -17,7 +17,7 @@
 | Topic | Extensions |
 | --- | --- |
 | [Music & Audio Apps](./music-audio-apps.md) | 11 |
-| [Media & Photo Apps](./media-photo-apps.md) | 26 |
+| [Media & Photo Apps](./media-photo-apps.md) | 27 |
 
 ## Developer & Power-User Apps
 

@@ -1,6 +1,6 @@
 # Publishers
 
-2259 publishers · [← catalog index](../README.md)
+2260 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,17 +8,17 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,290,154 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,290,155 |
 | 2 | [raycast](./id/raycast.md) | 11 | 901,326 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 769,379 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,692 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 769,380 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,694 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 494,819 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 491,110 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 457,247 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 399,841 |
 | 9 | [vimtor](./id/vimtor.md) | 16 | 336,211 |
 | 10 | [mommertf](https://www.raycast.com/mommertf) | 1 | 332,775 |
-| 11 | [nhojb](https://www.raycast.com/nhojb) | 1 | 291,442 |
+| 11 | [nhojb](https://www.raycast.com/nhojb) | 1 | 291,523 |
 | 12 | [koinzhang](./id/koinzhang.md) | 50 | 288,831 |
 | 13 | [notion](https://www.raycast.com/notion) | 1 | 278,305 |
 | 14 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 264,966 |
@@ -2250,20 +2250,21 @@
 | 2240 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 1 |
 | 2241 | [adif_sgaid](https://www.raycast.com/adif_sgaid) | 1 | 0 |
 | 2242 | [andrey_tolstikov](https://www.raycast.com/andrey_tolstikov) | 1 | 0 |
-| 2243 | [ariel_conti](https://www.raycast.com/ariel_conti) | 1 | 0 |
-| 2244 | [asyntai](https://www.raycast.com/Asyntai) | 1 | 0 |
-| 2245 | [chefski](https://www.raycast.com/chefski) | 1 | 0 |
-| 2246 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2247 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2248 | [gabrielbelli](https://www.raycast.com/gabrielbelli) | 1 | 0 |
-| 2249 | [gldywn](https://www.raycast.com/gldywn) | 1 | 0 |
-| 2250 | [john_ndelembi](https://www.raycast.com/john_ndelembi) | 1 | 0 |
-| 2251 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2252 | [Marcelismus](https://www.raycast.com/Marcelismus) | 1 | 0 |
-| 2253 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2254 | [nch](https://www.raycast.com/nch) | 1 | 0 |
-| 2255 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2256 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2257 | github-next | 2 | — |
-| 2258 | eugenio | 1 | — |
-| 2259 | multi | 1 | — |
+| 2243 | [andyli_lfs898](https://www.raycast.com/andyli_lfs898) | 1 | 0 |
+| 2244 | [ariel_conti](https://www.raycast.com/ariel_conti) | 1 | 0 |
+| 2245 | [asyntai](https://www.raycast.com/Asyntai) | 1 | 0 |
+| 2246 | [chefski](https://www.raycast.com/chefski) | 1 | 0 |
+| 2247 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
+| 2248 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2249 | [gabrielbelli](https://www.raycast.com/gabrielbelli) | 1 | 0 |
+| 2250 | [gldywn](https://www.raycast.com/gldywn) | 1 | 0 |
+| 2251 | [john_ndelembi](https://www.raycast.com/john_ndelembi) | 1 | 0 |
+| 2252 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2253 | [Marcelismus](https://www.raycast.com/Marcelismus) | 1 | 0 |
+| 2254 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2255 | [nch](https://www.raycast.com/nch) | 1 | 0 |
+| 2256 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2257 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2258 | github-next | 2 | — |
+| 2259 | eugenio | 1 | — |
+| 2260 | multi | 1 | — |
