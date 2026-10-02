@@ -127,4 +127,4 @@
 | [Zenblog](https://github.com/raycast/extensions/tree/main/extensions/zenblog) | 4 | A tiny blogging CMS | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zenblog) |
 | [ETS2/ATS Profiles](https://github.com/raycast/extensions/tree/main/extensions/ets2-ats-profiles) | 3 | Manage Euro Truck Simulator 2 and American Truck Simulator Profiles directly from Raycast! | yugveer28 | Windows | [store](https://www.raycast.com/yugveer28/ets2-ats-profiles) |
 | [N-Term Grade Calculator](https://github.com/raycast/extensions/tree/main/extensions/nterm-calculator) | 0 | Calculate Dutch exam grades with the official N-term (CvTE) formula. | maarten_boelens | macOS, Windows | [store](https://www.raycast.com/maarten_boelens/nterm-calculator) |
-| [Windhawk](https://github.com/raycast/extensions/tree/main/extensions/windhawk) | — | Install and manage Windhawk mods, straight from Raycast | muhammadrizo | Windows | — |
+| [Windhawk](https://github.com/raycast/extensions/tree/main/extensions/windhawk) | 0 | Install and manage Windhawk mods, straight from Raycast | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/windhawk) |

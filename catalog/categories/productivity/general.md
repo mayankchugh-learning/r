@@ -384,4 +384,4 @@
 | [Nbnhhsh – Chinese Abbreviations](https://github.com/raycast/extensions/tree/main/extensions/nbnhhsh) | 1 | Decode Chinese pinyin abbreviations and internet slang with 能不能好好说话 (nbnhhsh). | Astatine-213 | macOS | [store](https://www.raycast.com/Astatine-213/nbnhhsh) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
 | [NUST Mess Menu](https://github.com/raycast/extensions/tree/main/extensions/nust-mess-menu) | 0 | Today's and this week's NUST hostel mess menu. | muhammadaljoufi | macOS | [store](https://www.raycast.com/muhammadaljoufi/nust-mess-menu) |
-| [Windhawk](https://github.com/raycast/extensions/tree/main/extensions/windhawk) | — | Install and manage Windhawk mods, straight from Raycast | muhammadrizo | Windows | — |
+| [Windhawk](https://github.com/raycast/extensions/tree/main/extensions/windhawk) | 0 | Install and manage Windhawk mods, straight from Raycast | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/windhawk) |

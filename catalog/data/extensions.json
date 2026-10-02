@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "98fcc8390dc5c4aa2c63b07a829304eb52102a8c",
-  "generatedAt": "2026-10-02T04:14:34.940Z",
-  "downloadsRefreshedAt": "2026-10-02T04:14:34.129Z",
+  "commit": "acf6c9c6bd6d794a73b653443450e9d0b1dfe6f6",
+  "generatedAt": "2026-10-02T04:41:39.916Z",
+  "downloadsRefreshedAt": "2026-10-02T04:41:38.993Z",
   "count": 3356,
   "extensions": [
     {
@@ -10229,8 +10229,8 @@
       ],
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
-      "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 609497
+      "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
+      "downloads": 609508
     },
     {
       "dir": "color-shades",
@@ -22959,7 +22959,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566224
+      "downloads": 566237
     },
     {
       "dir": "google-chrome-profiles",
@@ -22978,7 +22978,7 @@
       ],
       "store": "https://www.raycast.com/frouo/google-chrome-profiles",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles",
-      "treeSha": "b96dd2767e60d200243cdc6804b381fc14f4e99f",
+      "treeSha": "7a111f6b6199c914ab788908b39777f2b6cf2952",
       "downloads": 15376
     },
     {
@@ -29470,7 +29470,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768532
+      "downloads": 768549
     },
     {
       "dir": "kimai",
@@ -37078,7 +37078,7 @@
       ],
       "store": "https://www.raycast.com/fedevitaledev/music",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/music",
-      "treeSha": "0e0fc11a407cf0d7e1f82e4b0c47ed8040503cea",
+      "treeSha": "18361c0b095e1214021f407de4be0b7ed09a40c8",
       "downloads": 100486
     },
     {
@@ -39193,7 +39193,7 @@
       "description": "The fastest way to search, create and update Notion pages.",
       "author": "HenriChabrand",
       "owner": "notion",
-      "contributors": 17,
+      "contributors": 16,
       "categories": [
         "Applications",
         "Productivity"
@@ -39205,7 +39205,7 @@
       ],
       "store": "https://www.raycast.com/notion/notion",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/notion",
-      "treeSha": "1ed7d309ec2a66844bd5afb459ac97a3cb447a03",
+      "treeSha": "4c3170340e49ddb5f74a5d2f73f10ca45ead8aa6",
       "downloads": 278072
     },
     {
@@ -39937,8 +39937,8 @@
       ],
       "store": "https://www.raycast.com/marcjulian/obsidian",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/obsidian",
-      "treeSha": "b80040d3d06b2da0654418eba14e3418ed06d990",
-      "downloads": 173316
+      "treeSha": "cf8e8ee71f467af0eae929b1a7d6af4c6144bbcf",
+      "downloads": 173326
     },
     {
       "dir": "obsidian-bookmarks",
@@ -49451,7 +49451,7 @@
       ],
       "store": "https://www.raycast.com/koinzhang/raycast-wallpaper",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper",
-      "treeSha": "1035ff5d3a1ada17cf679a1343a8c1c3506c7014",
+      "treeSha": "a1d480432c78aa85b730117f0c1f9321d3a8228f",
       "downloads": 23362
     },
     {
@@ -57181,7 +57181,7 @@
       ],
       "store": "https://www.raycast.com/mattisssa/spotify-player",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/spotify-player",
-      "treeSha": "a3fd9be8dba68160e71acd171baf2b3df684869a",
+      "treeSha": "35a7f64e02c7edf14952908c21889a41fcbdc47d",
       "downloads": 486214
     },
     {
@@ -62146,7 +62146,7 @@
       ],
       "store": "https://www.raycast.com/maggie/todo-list",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/todo-list",
-      "treeSha": "074acd3b4b44627bd486075d1391784ed16b3c4c",
+      "treeSha": "6f57f3bb08e4a1cdea482e356edba71d1aecbf43",
       "downloads": 19095
     },
     {
@@ -67568,10 +67568,10 @@
       "platforms": [
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/muhammadrizo/windhawk",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/windhawk",
       "treeSha": "87ae2dc44cb300315916f8e58fae9aad3910ac50",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "windmill",
