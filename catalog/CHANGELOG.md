@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `81784fa956`
+
+**Updated (1):** [AndroMeld](https://github.com/raycast/extensions/tree/main/extensions/andromeld)
+
 ## 2026-10-02 — upstream `c1192850e4`
 
 **Updated (1):** [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator)

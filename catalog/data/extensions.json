@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c1192850e4cabdb0061774d8323cd0783d48b68d",
-  "generatedAt": "2026-10-02T06:16:41.386Z",
-  "downloadsRefreshedAt": "2026-10-02T06:16:39.538Z",
+  "commit": "81784fa9564d1f5c733cfda153af4c67f0c140a7",
+  "generatedAt": "2026-10-02T06:51:39.511Z",
+  "downloadsRefreshedAt": "2026-10-02T06:51:38.829Z",
   "count": 3356,
   "extensions": [
     {
@@ -1781,7 +1781,7 @@
       ],
       "store": "https://www.raycast.com/catchingnow/andromeld",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/andromeld",
-      "treeSha": "1faf8ebdf6abf54cb06fccb575e11cf2d4464ad4",
+      "treeSha": "2d9ce54d2ad2927b9bdc2bf182a562d9696f811d",
       "downloads": 45
     },
     {
@@ -10230,7 +10230,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 609567
+      "downloads": 609588
     },
     {
       "dir": "color-shades",
@@ -22959,7 +22959,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566280
+      "downloads": 566291
     },
     {
       "dir": "google-chrome-profiles",
@@ -29470,7 +29470,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768612
+      "downloads": 768637
     },
     {
       "dir": "kimai",
@@ -47171,7 +47171,7 @@
       "store": "https://www.raycast.com/Melvynx/qrcode-generator",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator",
       "treeSha": "4597d6e1114060eacc628fbdd87caff8a952abe2",
-      "downloads": 37422
+      "downloads": 37428
     },
     {
       "dir": "qrcp",
