@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "0d084dba10215b158d4c0a35fd410881f20f828f",
-  "generatedAt": "2026-10-02T10:48:46.768Z",
-  "downloadsRefreshedAt": "2026-10-02T10:48:45.323Z",
+  "commit": "1d4dcb4c330d660e5da5bcedb639689f06130f12",
+  "generatedAt": "2026-10-02T10:54:24.685Z",
+  "downloadsRefreshedAt": "2026-10-02T10:54:23.810Z",
   "count": 3359,
   "extensions": [
     {
@@ -10294,7 +10294,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 609815
+      "downloads": 609817
     },
     {
       "dir": "color-shades",
@@ -22983,7 +22983,7 @@
       "store": "https://www.raycast.com/thomas/google-calendar",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-calendar",
       "treeSha": "4447a931374ee99a0eecd3dccd1255d57953cbad",
-      "downloads": 70357
+      "downloads": 70408
     },
     {
       "dir": "google-calendar-quickadd",
@@ -29534,7 +29534,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768900
+      "downloads": 768901
     },
     {
       "dir": "kimai",
@@ -55628,7 +55628,7 @@
       ],
       "store": "https://www.raycast.com/petr/slack-status",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slack-status",
-      "treeSha": "2ca033496614d39ac954cdbea4a4df98116bd6fa",
+      "treeSha": "884eb0dcf1ec43e250e80b3a6be5143ec7fce6f1",
       "downloads": 18839
     },
     {

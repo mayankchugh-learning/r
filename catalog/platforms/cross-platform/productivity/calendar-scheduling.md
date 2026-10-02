@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 70,357 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
+| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 70,408 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
 | [Quick Calendar](https://github.com/raycast/extensions/tree/main/extensions/calendar) | 25,225 | View calendar month-by-month | fuksman | macOS, Windows | [store](https://www.raycast.com/fuksman/calendar) |
 | [Calendly](https://github.com/raycast/extensions/tree/main/extensions/calendly) | 3,620 | Share scheduling links, manage meetings, and book invitees with Calendly. | eluce2 | macOS, Windows | [store](https://www.raycast.com/eluce2/calendly) |
 | [Fathom](https://github.com/raycast/extensions/tree/main/extensions/fathom) | 231 | Search Fathom meetings, recordings, and team members | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/fathom) |

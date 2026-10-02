@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `1d4dcb4c33`
+
+**Updated (1):** [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status)
+
 ## 2026-10-02 — upstream `0d084dba10`
 
 **Updated (1):** [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar)
