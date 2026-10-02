@@ -1,6 +1,6 @@
 # Publishers
 
-2258 publishers · [← catalog index](../README.md)
+2259 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,14 +8,14 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,289,428 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,289,432 |
 | 2 | [raycast](./id/raycast.md) | 11 | 900,442 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 769,189 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,578 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 769,201 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,584 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 494,370 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 490,702 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 456,823 |
-| 8 | [linear](https://www.raycast.com/linear) | 1 | 399,590 |
+| 8 | [linear](https://www.raycast.com/linear) | 1 | 399,834 |
 | 9 | [vimtor](./id/vimtor.md) | 16 | 335,884 |
 | 10 | [mommertf](https://www.raycast.com/mommertf) | 1 | 332,456 |
 | 11 | [nhojb](https://www.raycast.com/nhojb) | 1 | 291,102 |
@@ -2266,3 +2266,4 @@
 | 2256 | github-next | 2 | — |
 | 2257 | eugenio | 1 | — |
 | 2258 | multi | 1 | — |
+| 2259 | paulgit | 1 | — |

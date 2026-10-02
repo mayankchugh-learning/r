@@ -1,8 +1,8 @@
 # AI ✦
 
-108 extensions · [← AI & Assistants](./README.md)
+109 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Model ✦](#model) (13) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (5) · [Openai ✦](#openai) (7) · [Prompts ✦](#prompts) (4) · [Tasks ✦](#tasks) (4) · [General](#general) (52)
+[Powered ✦](#powered) (16) · [Model ✦](#model) (14) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (5) · [Openai ✦](#openai) (7) · [Prompts ✦](#prompts) (4) · [Tasks ✦](#tasks) (4) · [General](#general) (52)
 
 *✦ auto-discovered topic group*
 
@@ -44,6 +44,7 @@
 | [OpenCode](https://github.com/raycast/extensions/tree/main/extensions/opencode) | 46 | Use models from your OpenCode Console workspace in Raycast AI | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/opencode) |
 | [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai) | 31 | Muse AI (Meta Model API) within Raycast — use Muse Spark in AI Chat, Quick AI and AI Commands | alhassanaraouf | Windows, macOS | [store](https://www.raycast.com/alhassanaraouf/muse-ai) |
 | [Osaurus](https://github.com/raycast/extensions/tree/main/extensions/osaurus) | 4 | Use local Osaurus models in Raycast AI, ask them directly, manage them, and search chat history | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/osaurus) |
+| [GLM Models](https://github.com/raycast/extensions/tree/main/extensions/glm-models) | — | Use Z.ai / BigModel GLM models inside Raycast AI Chat, Quick AI and AI Commands | paulgit | macOS | — |
 
 ## Chat ✦
 

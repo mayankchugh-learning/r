@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `93f78dfd12`
+
+**Added (1):** [GLM Models](https://github.com/raycast/extensions/tree/main/extensions/glm-models)
+
 ## 2026-10-02 — upstream `b5862aead2`
 
 **Updated (1):** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear)

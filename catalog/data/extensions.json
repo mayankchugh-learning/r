@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b5862aead2497ffcfc2bd4c9cd05fccff80fce4d",
-  "generatedAt": "2026-10-02T15:27:59.509Z",
-  "downloadsRefreshedAt": "2026-10-02T15:27:58.153Z",
-  "count": 3364,
+  "commit": "93f78dfd12c6f45bd26726f73bf99b0224465196",
+  "generatedAt": "2026-10-02T15:38:24.643Z",
+  "downloadsRefreshedAt": "2026-10-02T15:38:23.925Z",
+  "count": 3365,
   "extensions": [
     {
       "dir": "0x0",
@@ -10295,7 +10295,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 610057
+      "downloads": 610061
     },
     {
       "dir": "color-shades",
@@ -22634,6 +22634,27 @@
       "downloads": 3
     },
     {
+      "dir": "glm-models",
+      "name": "glm-models",
+      "title": "GLM Models",
+      "description": "Use Z.ai / BigModel GLM models inside Raycast AI Chat, Quick AI and AI Commands",
+      "author": "paulgit",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/glm-models",
+      "treeSha": "ed65c56f5ecc108b5b18bb58028624059d295ee1",
+      "downloads": null
+    },
+    {
       "dir": "global-media-key",
       "name": "global-media-key",
       "title": "Media Key Emulate",
@@ -23025,7 +23046,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566578
+      "downloads": 566584
     },
     {
       "dir": "google-chrome-profiles",
@@ -29536,7 +29557,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 769189
+      "downloads": 769201
     },
     {
       "dir": "kimai",
@@ -31579,7 +31600,7 @@
       "store": "https://www.raycast.com/linear/linear",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linear",
       "treeSha": "d00db9a628e0259bb0f20e1719009a2ce6c643a4",
-      "downloads": 399590
+      "downloads": 399834
     },
     {
       "dir": "lingo-rep-raycast",
