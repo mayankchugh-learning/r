@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "93f78dfd12c6f45bd26726f73bf99b0224465196",
-  "generatedAt": "2026-10-02T15:38:24.643Z",
-  "downloadsRefreshedAt": "2026-10-02T15:38:23.925Z",
+  "commit": "973168240deb5ca32c189b3426976f2a426f2f1a",
+  "generatedAt": "2026-10-02T15:41:23.209Z",
+  "downloadsRefreshedAt": "2026-10-02T15:41:22.423Z",
   "count": 3365,
   "extensions": [
     {
@@ -10295,7 +10295,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 610061
+      "downloads": 610064
     },
     {
       "dir": "color-shades",
@@ -22649,10 +22649,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/paulgit/glm-models",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/glm-models",
       "treeSha": "ed65c56f5ecc108b5b18bb58028624059d295ee1",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "global-media-key",
@@ -23046,7 +23046,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566584
+      "downloads": 566585
     },
     {
       "dir": "google-chrome-profiles",
@@ -29557,7 +29557,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 769201
+      "downloads": 769207
     },
     {
       "dir": "kimai",
@@ -46514,7 +46514,7 @@
       ],
       "store": "https://www.raycast.com/izyuumi/proton-pass",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/proton-pass",
-      "treeSha": "da7916435ae03e4435574c4075aee9c92a828006",
+      "treeSha": "354b683a5d652874b9b1080831f5db8ffdf54904",
       "downloads": 1900
     },
     {

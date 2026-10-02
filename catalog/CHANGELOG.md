@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `973168240d`
+
+**Updated (1):** [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass)
+
 ## 2026-10-02 — upstream `93f78dfd12`
 
 **Added (1):** [GLM Models](https://github.com/raycast/extensions/tree/main/extensions/glm-models)

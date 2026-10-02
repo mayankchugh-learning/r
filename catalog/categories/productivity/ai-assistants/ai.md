@@ -44,7 +44,7 @@
 | [OpenCode](https://github.com/raycast/extensions/tree/main/extensions/opencode) | 46 | Use models from your OpenCode Console workspace in Raycast AI | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/opencode) |
 | [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai) | 31 | Muse AI (Meta Model API) within Raycast — use Muse Spark in AI Chat, Quick AI and AI Commands | alhassanaraouf | Windows, macOS | [store](https://www.raycast.com/alhassanaraouf/muse-ai) |
 | [Osaurus](https://github.com/raycast/extensions/tree/main/extensions/osaurus) | 4 | Use local Osaurus models in Raycast AI, ask them directly, manage them, and search chat history | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/osaurus) |
-| [GLM Models](https://github.com/raycast/extensions/tree/main/extensions/glm-models) | — | Use Z.ai / BigModel GLM models inside Raycast AI Chat, Quick AI and AI Commands | paulgit | macOS | — |
+| [GLM Models](https://github.com/raycast/extensions/tree/main/extensions/glm-models) | 0 | Use Z.ai / BigModel GLM models inside Raycast AI Chat, Quick AI and AI Commands | paulgit | macOS | [store](https://www.raycast.com/paulgit/glm-models) |
 
 ## Chat ✦
 

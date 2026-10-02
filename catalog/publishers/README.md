@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,289,432 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,289,435 |
 | 2 | [raycast](./id/raycast.md) | 11 | 900,442 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 769,201 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,584 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 769,207 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,585 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 494,370 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 490,702 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 456,823 |
@@ -2260,10 +2260,10 @@
 | 2250 | [Marcelismus](https://www.raycast.com/Marcelismus) | 1 | 0 |
 | 2251 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
 | 2252 | [nch](https://www.raycast.com/nch) | 1 | 0 |
-| 2253 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2254 | [stevan_bogosavljevic](https://www.raycast.com/stevan_bogosavljevic) | 1 | 0 |
-| 2255 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2256 | github-next | 2 | — |
-| 2257 | eugenio | 1 | — |
-| 2258 | multi | 1 | — |
-| 2259 | paulgit | 1 | — |
+| 2253 | [paulgit](https://www.raycast.com/paulgit) | 1 | 0 |
+| 2254 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2255 | [stevan_bogosavljevic](https://www.raycast.com/stevan_bogosavljevic) | 1 | 0 |
+| 2256 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2257 | github-next | 2 | — |
+| 2258 | eugenio | 1 | — |
+| 2259 | multi | 1 | — |
