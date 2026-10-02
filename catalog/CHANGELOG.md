@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `3191dd6b17`
+
+**Updated (1):** [Folio](https://github.com/raycast/extensions/tree/main/extensions/folio)
+
 ## 2026-10-01 — upstream `f45a4201c8`
 
 **Added (1):** [T3 Code](https://github.com/raycast/extensions/tree/main/extensions/t3-code)
