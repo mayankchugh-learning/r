@@ -1,8 +1,8 @@
 # Notes ✦
 
-37 extensions · [← Notes & Knowledge](./README.md)
+38 extensions · [← Notes & Knowledge](./README.md)
 
-[Capture ✦](#capture) (8) · [Daily ✦](#daily) (5) · [Markdown ✦](#markdown) (4) · [General](#general) (20)
+[Capture ✦](#capture) (9) · [Daily ✦](#daily) (5) · [Markdown ✦](#markdown) (4) · [General](#general) (20)
 
 *✦ auto-discovered topic group*
 
@@ -18,6 +18,7 @@
 | [Capture - Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/capture-quick-notes) | 21 | Add, search, and manage notes in Capture without leaving Raycast. Requires Capture 2.15 or later. | furkansimsir | macOS | [store](https://www.raycast.com/furkansimsir/capture-quick-notes) |
 | [Stik](https://github.com/raycast/extensions/tree/main/extensions/stik) | 21 | Quick capture and browse your Stik notes. Create, search, organize, and manage markdown notes stored locally on your machine. | 0xMassi | macOS | [store](https://www.raycast.com/0xMassi/stik) |
 | [From](https://github.com/raycast/extensions/tree/main/extensions/from) | 3 | Capture thoughts, search your notes and open your daily note in From — the outliner that understands what you write, so capture stays frictionless and fast. | alberto_lezaun | macOS | [store](https://www.raycast.com/alberto_lezaun/from) |
+| [Prismical](https://github.com/raycast/extensions/tree/main/extensions/prismical) | 0 | Search, preview, and capture notes in your Prismical Cloud workspace. | nch | macOS | [store](https://www.raycast.com/nch/prismical) |
 
 ## Daily ✦
 

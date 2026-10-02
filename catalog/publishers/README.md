@@ -1,6 +1,6 @@
 # Publishers
 
-2254 publishers · [← catalog index](../README.md)
+2255 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,289,213 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,289,221 |
 | 2 | [raycast](./id/raycast.md) | 11 | 900,442 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,936 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,448 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,944 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,450 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 494,370 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 490,702 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 456,823 |
@@ -2256,9 +2256,10 @@
 | 2246 | [john_ndelembi](https://www.raycast.com/john_ndelembi) | 1 | 0 |
 | 2247 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
 | 2248 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2249 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2250 | [stevan_bogosavljevic](https://www.raycast.com/stevan_bogosavljevic) | 1 | 0 |
-| 2251 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2252 | github-next | 2 | — |
-| 2253 | eugenio | 1 | — |
-| 2254 | multi | 1 | — |
+| 2249 | [nch](https://www.raycast.com/nch) | 1 | 0 |
+| 2250 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2251 | [stevan_bogosavljevic](https://www.raycast.com/stevan_bogosavljevic) | 1 | 0 |
+| 2252 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2253 | github-next | 2 | — |
+| 2254 | eugenio | 1 | — |
+| 2255 | multi | 1 | — |

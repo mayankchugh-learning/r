@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "28b93240fe8cdf14753a28c0b84ca33b2347ce95",
-  "generatedAt": "2026-10-02T11:30:41.439Z",
-  "downloadsRefreshedAt": "2026-10-02T11:30:41.076Z",
-  "count": 3359,
+  "commit": "591130037fd3d6599b5866e5d8db4a64f361243b",
+  "generatedAt": "2026-10-02T11:37:29.291Z",
+  "downloadsRefreshedAt": "2026-10-02T11:37:22.529Z",
+  "count": 3360,
   "extensions": [
     {
       "dir": "0x0",
@@ -10294,7 +10294,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 609842
+      "downloads": 609850
     },
     {
       "dir": "color-shades",
@@ -23023,7 +23023,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566448
+      "downloads": 566450
     },
     {
       "dir": "google-chrome-profiles",
@@ -29534,7 +29534,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768936
+      "downloads": 768944
     },
     {
       "dir": "kimai",
@@ -45943,6 +45943,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/prisma-postgres",
       "treeSha": "e4f2b7557c1ca67b5444539edef52adfbffb4f77",
       "downloads": 114
+    },
+    {
+      "dir": "prismical",
+      "name": "prismical",
+      "title": "Prismical",
+      "description": "Search, preview, and capture notes in your Prismical Cloud workspace.",
+      "author": "nch",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/nch/prismical",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/prismical",
+      "treeSha": "97d6ee01147e7a6e215962898ceca2ae72240ad4",
+      "downloads": 0
     },
     {
       "dir": "pritunl",

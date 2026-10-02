@@ -1,10 +1,10 @@
 # Notes & Knowledge
 
-66 extensions · [← Productivity](../README.md)
+67 extensions · [← Productivity](../README.md)
 
 | Topic | Extensions |
 | --- | --- |
-| [Notes ✦](./notes.md) | 37 |
+| [Notes ✦](./notes.md) | 38 |
 | [Capture ✦](./capture.md) | 5 |
 | [Notion ✦](./notion.md) | 10 |
 | [Obsidian ✦](./obsidian.md) | 4 |
