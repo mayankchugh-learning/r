@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ba94a1758a90b85613c05c4de4e15e1b8b1a3eef",
-  "generatedAt": "2026-10-02T18:10:29.591Z",
-  "downloadsRefreshedAt": "2026-10-02T18:10:29.172Z",
+  "commit": "9f06b9031ae9319935d97fe14e2ec6a14ad412ee",
+  "generatedAt": "2026-10-02T18:35:53.295Z",
+  "downloadsRefreshedAt": "2026-10-02T18:35:53.012Z",
   "count": 3365,
   "extensions": [
     {
@@ -10295,7 +10295,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 610191
+      "downloads": 610208
     },
     {
       "dir": "color-shades",
@@ -16552,7 +16552,7 @@
       "store": "https://www.raycast.com/isfeng/easydict",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/easydict",
       "treeSha": "02df287b9b52e19f1a80a1ef51cd45f707cbbf3e",
-      "downloads": 39518
+      "downloads": 39528
     },
     {
       "dir": "easyvariable",
@@ -23046,7 +23046,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566679
+      "downloads": 566692
     },
     {
       "dir": "google-chrome-profiles",
@@ -29557,7 +29557,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 769359
+      "downloads": 769379
     },
     {
       "dir": "kimai",
@@ -47129,7 +47129,7 @@
       ],
       "store": "https://www.raycast.com/kud/qobuz",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/qobuz",
-      "treeSha": "ba2a0a54cfc61098ce05c4f53fedc3b4c48434db",
+      "treeSha": "01fcbc27db68eae8ed8a4b874016dd7674979a46",
       "downloads": 61
     },
     {

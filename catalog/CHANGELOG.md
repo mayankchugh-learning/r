@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `9f06b9031a`
+
+**Updated (1):** [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz)
+
 ## 2026-10-02 — upstream `ba94a1758a`
 
 **Updated (1):** [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict)
