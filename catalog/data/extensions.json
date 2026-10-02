@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3191dd6b171857875c253f58827c32444cc56037",
-  "generatedAt": "2026-10-02T04:09:41.254Z",
-  "downloadsRefreshedAt": "2026-10-02T04:09:40.823Z",
-  "count": 3355,
+  "commit": "98fcc8390dc5c4aa2c63b07a829304eb52102a8c",
+  "generatedAt": "2026-10-02T04:14:34.940Z",
+  "downloadsRefreshedAt": "2026-10-02T04:14:34.129Z",
+  "count": 3356,
   "extensions": [
     {
       "dir": "0x0",
@@ -10230,7 +10230,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 609496
+      "downloads": 609497
     },
     {
       "dir": "color-shades",
@@ -22959,7 +22959,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566223
+      "downloads": 566224
     },
     {
       "dir": "google-chrome-profiles",
@@ -29470,7 +29470,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 768531
+      "downloads": 768532
     },
     {
       "dir": "kimai",
@@ -67550,6 +67550,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/wikipedia",
       "treeSha": "d87511cc7b5ebc5f2f0dabba9042646ee375af78",
       "downloads": 47053
+    },
+    {
+      "dir": "windhawk",
+      "name": "windhawk",
+      "title": "Windhawk",
+      "description": "Install and manage Windhawk mods, straight from Raycast",
+      "author": "muhammadrizo",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "System",
+        "Applications",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/windhawk",
+      "treeSha": "87ae2dc44cb300315916f8e58fae9aad3910ac50",
+      "downloads": null
     },
     {
       "dir": "windmill",

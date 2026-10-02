@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `98fcc8390d`
+
+**Added (1):** [Windhawk](https://github.com/raycast/extensions/tree/main/extensions/windhawk)
+
 ## 2026-10-02 — upstream `3191dd6b17`
 
 **Updated (1):** [Folio](https://github.com/raycast/extensions/tree/main/extensions/folio)

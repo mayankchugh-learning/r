@@ -1,6 +1,6 @@
 # General
 
-116 extensions · [← Applications](./README.md)
+117 extensions · [← Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -120,3 +120,4 @@
 | [SayIntentions](https://github.com/raycast/extensions/tree/main/extensions/sayintentions) | 7 | Fast access to SayIntentions via keyboard shortcuts. Great for flight sim sessions where you don't want to speak but still want quick ATC communication. | kyleawayan | Windows, macOS | [store](https://www.raycast.com/kyleawayan/sayintentions) |
 | [Jumpseat](https://github.com/raycast/extensions/tree/main/extensions/jumpseat) | 0 | See your and your friends' upcoming Jumpseat flights at a glance. | chefski | macOS, Windows | [store](https://www.raycast.com/chefski/jumpseat) |
 | [Spirii Go](https://github.com/raycast/extensions/tree/main/extensions/spirii-go) | 0 | Find nearby Spirii Go chargers, view availability, and see prices for individual chargepoints. | alexandervarney | macOS, Windows | [store](https://www.raycast.com/alexandervarney/spirii-go) |
+| [Windhawk](https://github.com/raycast/extensions/tree/main/extensions/windhawk) | — | Install and manage Windhawk mods, straight from Raycast | muhammadrizo | Windows | — |

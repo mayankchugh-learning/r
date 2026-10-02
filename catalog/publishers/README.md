@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,288,816 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,288,817 |
 | 2 | [raycast](./id/raycast.md) | 11 | 900,433 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,531 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,223 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 768,532 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,224 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 494,370 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 490,673 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 456,823 |
@@ -636,7 +636,7 @@
 | 626 | [dilutedev](https://www.raycast.com/dilutedev) | 1 | 1,167 |
 | 627 | [roamresearch](https://www.raycast.com/roamresearch) | 1 | 1,166 |
 | 628 | [pauloedurezende](https://www.raycast.com/pauloedurezende) | 1 | 1,163 |
-| 629 | [muhammadrizo](https://www.raycast.com/muhammadrizo) | 5 | 1,161 |
+| 629 | [muhammadrizo](https://www.raycast.com/muhammadrizo) | 6 | 1,161 |
 | 630 | [dvhsh](https://www.raycast.com/dvhsh) | 1 | 1,160 |
 | 631 | [niallpaterson](https://www.raycast.com/niallpaterson) | 1 | 1,160 |
 | 632 | [lemikeone](https://www.raycast.com/lemikeone) | 7 | 1,158 |
