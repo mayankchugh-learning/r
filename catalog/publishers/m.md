@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-180 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+181 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -32,6 +32,7 @@
 | [mapleeit](https://www.raycast.com/mapleeit) | 1 | 9 | **Productivity:** [Niuma Logs](https://github.com/raycast/extensions/tree/main/extensions/niuma-logs) |
 | [marc.cinema](https://www.raycast.com/marc.cinema) | 1 | 190 | **Productivity:** [Time Addition Calculator](https://github.com/raycast/extensions/tree/main/extensions/time-calculator) |
 | [marcbouchenoire](https://www.raycast.com/marcbouchenoire) | 1 | 44 | **Fun:** [Splatoon](https://github.com/raycast/extensions/tree/main/extensions/splatoon) |
+| [Marcelismus](https://www.raycast.com/Marcelismus) | 1 | 0 | **News:** [Techgedöns.de](https://github.com/raycast/extensions/tree/main/extensions/techgedoens) |
 | [marcin-91](https://www.raycast.com/marcin-91) | 1 | 192 | **Developer Tools:** [AI Agency](https://github.com/raycast/extensions/tree/main/extensions/ai-agency) |
 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 173,604 | **Productivity:** [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian)<br>**Applications:** [Mac Mouse Fix](https://github.com/raycast/extensions/tree/main/extensions/mac-mouse-fix) |
 | [marcklingen](https://www.raycast.com/marcklingen) | 1 | 102 | **Productivity:** [Inkeep](https://github.com/raycast/extensions/tree/main/extensions/inkeep) |

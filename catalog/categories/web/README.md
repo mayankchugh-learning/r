@@ -1,8 +1,8 @@
 # Web
 
-477 extensions · [← all categories](../README.md)
+478 extensions · [← all categories](../README.md)
 
-macOS: 475 · Windows: 146
+macOS: 476 · Windows: 146
 
 ## Browse & Search
 
@@ -42,6 +42,6 @@ macOS: 475 · Windows: 146
 | [About ✦](./about.md) | 4 |
 | [Sites ✦](./sites.md) | 4 |
 
-Plus [General](./general.md) — 92 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 93 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

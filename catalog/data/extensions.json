@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f3c698c1d115ad52f5472fc3e643c470a8a3077c",
-  "generatedAt": "2026-10-02T13:48:41.046Z",
-  "downloadsRefreshedAt": "2026-10-02T13:48:40.641Z",
-  "count": 3362,
+  "commit": "0f5333d8e7ab4384f1c7b13159ce5de5c852216c",
+  "generatedAt": "2026-10-02T14:47:35.445Z",
+  "downloadsRefreshedAt": "2026-10-02T14:47:34.838Z",
+  "count": 3363,
   "extensions": [
     {
       "dir": "0x0",
@@ -10294,7 +10294,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 609957
+      "downloads": 610019
     },
     {
       "dir": "color-shades",
@@ -23023,7 +23023,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566523
+      "downloads": 566549
     },
     {
       "dir": "google-chrome-profiles",
@@ -29534,7 +29534,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 769083
+      "downloads": 769151
     },
     {
       "dir": "kimai",
@@ -60067,6 +60067,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/techcrunch",
       "treeSha": "c33ffc1a574be338b654c7d3a1aea4a19ef0c9c9",
       "downloads": 611
+    },
+    {
+      "dir": "techgedoens",
+      "name": "techgedoens",
+      "title": "Techgedöns.de",
+      "description": "The official Raycast extension for the German tech blog Techgedöns.de",
+      "author": "Marcelismus",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "News",
+        "Web"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/Marcelismus/techgedoens",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/techgedoens",
+      "treeSha": "1e53050199f89ccb6b0071ac12201dea8567d1ab",
+      "downloads": 0
     },
     {
       "dir": "techmeme",

@@ -1,8 +1,8 @@
 # macOS · News
 
-97 extensions · [← macOS](../README.md)
+98 extensions · [← macOS](../README.md)
 
-[Tech & Startup News](#tech-startup-news) (10) · [Feeds & Readers](#feeds-readers) (18) · [Sports & Esports News](#sports-esports-news) (12) · [Communities & Forums](#communities-forums) (4) · [Markets & Predictions](#markets-predictions) (4) · [World & Business](#world-business) (21) · [General](#general) (28)
+[Tech & Startup News](#tech-startup-news) (11) · [Feeds & Readers](#feeds-readers) (18) · [Sports & Esports News](#sports-esports-news) (12) · [Communities & Forums](#communities-forums) (4) · [Markets & Predictions](#markets-predictions) (4) · [World & Business](#world-business) (21) · [General](#general) (28)
 
 ## Topics
 
@@ -20,6 +20,7 @@
 | [Hacker News Top Stories](https://github.com/raycast/extensions/tree/main/extensions/hacker-news-top-stories) | 258 | A menubar extension to view top stories on Hacker News based on a configurable points threshold. | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/hacker-news-top-stories) |
 | [Ars Technica](https://github.com/raycast/extensions/tree/main/extensions/ars-technica) | 211 | Get the latest Ars Technica stories. | edwin-dd-ong | macOS | [store](https://www.raycast.com/edwin-dd-ong/ars-technica) |
 | [Órbita](https://github.com/raycast/extensions/tree/main/extensions/orbita) | 17 | Follow the posts in the Órbita, the Brazilian hacker news | tcelestino | macOS, Windows | [store](https://www.raycast.com/tcelestino/orbita) |
+| [Techgedöns.de](https://github.com/raycast/extensions/tree/main/extensions/techgedoens) | 0 | The official Raycast extension for the German tech blog Techgedöns.de | Marcelismus | macOS | [store](https://www.raycast.com/Marcelismus/techgedoens) |
 
 ### Sports & Esports News
 

@@ -1,6 +1,6 @@
 # General
 
-92 extensions · [← Web](./README.md)
+93 extensions · [← Web](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -96,3 +96,4 @@
 | [Quick Access for zeroheight](https://github.com/raycast/extensions/tree/main/extensions/quick-access-for-zeroheight) | 14 | Find and view pages in zeroheight | zeroheight | macOS | [store](https://www.raycast.com/zeroheight/quick-access-for-zeroheight) |
 | [QuickLinker](https://github.com/raycast/extensions/tree/main/extensions/quicklinker) | 13 | Resolve your QuickLinker shortcuts directly from Raycast | n-winspear | macOS | [store](https://www.raycast.com/n-winspear/quicklinker) |
 | [FBL - Finnish Business Lookup](https://github.com/raycast/extensions/tree/main/extensions/finnish-business-lookup) | 5 | Look up Finnish businesses by name or Business ID using PRH YTJ open data | eljn | macOS | [store](https://www.raycast.com/eljn/finnish-business-lookup) |
+| [Techgedöns.de](https://github.com/raycast/extensions/tree/main/extensions/techgedoens) | 0 | The official Raycast extension for the German tech blog Techgedöns.de | Marcelismus | macOS | [store](https://www.raycast.com/Marcelismus/techgedoens) |

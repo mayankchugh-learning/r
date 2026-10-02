@@ -1,6 +1,6 @@
 # Tech & Startup News
 
-10 extensions · [← News](./README.md)
+11 extensions · [← News](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -14,3 +14,4 @@
 | [Hacker News Top Stories](https://github.com/raycast/extensions/tree/main/extensions/hacker-news-top-stories) | 258 | A menubar extension to view top stories on Hacker News based on a configurable points threshold. | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/hacker-news-top-stories) |
 | [Ars Technica](https://github.com/raycast/extensions/tree/main/extensions/ars-technica) | 211 | Get the latest Ars Technica stories. | edwin-dd-ong | macOS | [store](https://www.raycast.com/edwin-dd-ong/ars-technica) |
 | [Órbita](https://github.com/raycast/extensions/tree/main/extensions/orbita) | 17 | Follow the posts in the Órbita, the Brazilian hacker news | tcelestino | macOS, Windows | [store](https://www.raycast.com/tcelestino/orbita) |
+| [Techgedöns.de](https://github.com/raycast/extensions/tree/main/extensions/techgedoens) | 0 | The official Raycast extension for the German tech blog Techgedöns.de | Marcelismus | macOS | [store](https://www.raycast.com/Marcelismus/techgedoens) |

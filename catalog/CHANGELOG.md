@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `0f5333d8e7`
+
+**Added (1):** [Techgedöns.de](https://github.com/raycast/extensions/tree/main/extensions/techgedoens)
+
 ## 2026-10-02 — upstream `f3c698c1d1`
 
 **Added (1):** [Orca](https://github.com/raycast/extensions/tree/main/extensions/orca)

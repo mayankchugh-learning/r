@@ -1,14 +1,14 @@
 # News
 
-97 extensions · [← all categories](../README.md)
+98 extensions · [← all categories](../README.md)
 
-macOS: 97 · Windows: 31
+macOS: 98 · Windows: 31
 
 ## Topics
 
 | Topic | Extensions |
 | --- | --- |
-| [Tech & Startup News](./tech-startup-news.md) | 10 |
+| [Tech & Startup News](./tech-startup-news.md) | 11 |
 | [Sports & Esports News](./sports-esports-news.md) | 12 |
 | [World & Business](./world-business.md) | 21 |
 | [Markets & Predictions](./markets-predictions.md) | 4 |

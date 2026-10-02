@@ -1,6 +1,6 @@
 # Publishers
 
-2257 publishers · [← catalog index](../README.md)
+2258 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 168,805 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,715 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,890 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,289,328 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,289,390 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 456,823 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,745 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,351 |
@@ -405,8 +405,8 @@
 | 395 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 396 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 2 | 9 |
 | 397 | github-next | 2 | — |
-| 398 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 769,083 |
-| 399 | [Codely](https://www.raycast.com/Codely) | 1 | 566,523 |
+| 398 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 769,151 |
+| 399 | [Codely](https://www.raycast.com/Codely) | 1 | 566,549 |
 | 400 | [linear](https://www.raycast.com/linear) | 1 | 399,590 |
 | 401 | [mommertf](https://www.raycast.com/mommertf) | 1 | 332,456 |
 | 402 | [nhojb](https://www.raycast.com/nhojb) | 1 | 291,102 |
@@ -2258,10 +2258,11 @@
 | 2248 | [gldywn](https://www.raycast.com/gldywn) | 1 | 0 |
 | 2249 | [john_ndelembi](https://www.raycast.com/john_ndelembi) | 1 | 0 |
 | 2250 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2251 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2252 | [nch](https://www.raycast.com/nch) | 1 | 0 |
-| 2253 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2254 | [stevan_bogosavljevic](https://www.raycast.com/stevan_bogosavljevic) | 1 | 0 |
-| 2255 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2256 | eugenio | 1 | — |
-| 2257 | multi | 1 | — |
+| 2251 | [Marcelismus](https://www.raycast.com/Marcelismus) | 1 | 0 |
+| 2252 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2253 | [nch](https://www.raycast.com/nch) | 1 | 0 |
+| 2254 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2255 | [stevan_bogosavljevic](https://www.raycast.com/stevan_bogosavljevic) | 1 | 0 |
+| 2256 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2257 | eugenio | 1 | — |
+| 2258 | multi | 1 | — |

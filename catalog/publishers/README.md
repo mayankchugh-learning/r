@@ -1,6 +1,6 @@
 # Publishers
 
-2257 publishers · [← catalog index](../README.md)
+2258 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,289,328 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,289,390 |
 | 2 | [raycast](./id/raycast.md) | 11 | 900,442 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 769,083 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,523 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 769,151 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,549 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 494,370 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 490,702 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 456,823 |
@@ -2257,11 +2257,12 @@
 | 2247 | [gldywn](https://www.raycast.com/gldywn) | 1 | 0 |
 | 2248 | [john_ndelembi](https://www.raycast.com/john_ndelembi) | 1 | 0 |
 | 2249 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2250 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2251 | [nch](https://www.raycast.com/nch) | 1 | 0 |
-| 2252 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2253 | [stevan_bogosavljevic](https://www.raycast.com/stevan_bogosavljevic) | 1 | 0 |
-| 2254 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2255 | github-next | 2 | — |
-| 2256 | eugenio | 1 | — |
-| 2257 | multi | 1 | — |
+| 2250 | [Marcelismus](https://www.raycast.com/Marcelismus) | 1 | 0 |
+| 2251 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2252 | [nch](https://www.raycast.com/nch) | 1 | 0 |
+| 2253 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2254 | [stevan_bogosavljevic](https://www.raycast.com/stevan_bogosavljevic) | 1 | 0 |
+| 2255 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2256 | github-next | 2 | — |
+| 2257 | eugenio | 1 | — |
+| 2258 | multi | 1 | — |
