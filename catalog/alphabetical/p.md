@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · **P** · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-221 extensions · [← catalog index](../README.md)
+222 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -227,3 +227,4 @@
 | [Postproxy](https://github.com/raycast/extensions/tree/main/extensions/postproxy) | 2 | Publish posts, manage comments, and answer DMs across your social profiles with Postproxy. | dmitrysereda | macOS | [store](https://www.raycast.com/dmitrysereda/postproxy) |
 | [Privacy Mask](https://github.com/raycast/extensions/tree/main/extensions/privmask) | 2 | Find personal information in text and mask it before you share it, entirely on your Mac — Japanese names, addresses and My Numbers included. | snaka | macOS | [store](https://www.raycast.com/snaka/privmask) |
 | [Prismical](https://github.com/raycast/extensions/tree/main/extensions/prismical) | 0 | Search, preview, and capture notes in your Prismical Cloud workspace. | nch | macOS | [store](https://www.raycast.com/nch/prismical) |
+| [phpIPAM](https://github.com/raycast/extensions/tree/main/extensions/phpipam) | — | Search and browse your phpIPAM instance: addresses, subnets, sections, VLANs and VRFs. | frdmn | macOS | — |

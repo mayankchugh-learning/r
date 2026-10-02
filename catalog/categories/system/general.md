@@ -1,6 +1,6 @@
 # General
 
-72 extensions · [← System](./README.md)
+73 extensions · [← System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -76,3 +76,4 @@
 | [Dmenu](https://github.com/raycast/extensions/tree/main/extensions/dmenu) | 2 | A dmenu-style picker for macOS, powered by a Python CLI and Raycast | 8w8kkr8typ | macOS | [store](https://www.raycast.com/8w8kkr8typ/dmenu) |
 | [Run Zipper Applet](https://github.com/raycast/extensions/tree/main/extensions/zipper-run) | 0 | Run a zipper applet | ariel_conti | macOS | [store](https://www.raycast.com/ariel_conti/zipper-run) |
 | [Windhawk](https://github.com/raycast/extensions/tree/main/extensions/windhawk) | 0 | Install and manage Windhawk mods, straight from Raycast | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/windhawk) |
+| [phpIPAM](https://github.com/raycast/extensions/tree/main/extensions/phpipam) | — | Search and browse your phpIPAM instance: addresses, subnets, sections, VLANs and VRFs. | frdmn | macOS | — |

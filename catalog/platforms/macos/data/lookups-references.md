@@ -2,7 +2,7 @@
 
 [Converters & Encoders](./converters-encoders.md) · [Generators](./generators.md) · [Calculators & Math](./calculators-math.md) · [Time & Dates](./time-dates.md) · [Crypto & Blockchain Data](./crypto-blockchain-data.md) · [Web & Network Intelligence](./web-network-intelligence.md) · [Games & Esports Data](./games-esports-data.md) · [Health, Nature & Science](./health-nature-science.md) · [Travel & Geo Data](./travel-geo-data.md) · [Business & Databases](./business-databases.md) · [Trackers & Monitors](./trackers-monitors.md) · [Text Processing](./text-processing.md) · [Weather & Environment](./weather-environment.md) · [Files & Archives](./files-archives.md) · [APIs & Scraping](./apis-scraping.md) · **Lookups & References** · [General](./general.md)
 
-38 of 277 extensions · [← macOS · Data](./README.md)
+39 of 278 extensions · [← macOS · Data](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -44,3 +44,4 @@
 | [Chinese Lottery](https://github.com/raycast/extensions/tree/main/extensions/chinese-lottery) | 30 | Check the results of China Welfare Lottery and Sports Lottery | elonwoo | macOS | [store](https://www.raycast.com/elonwoo/chinese-lottery) |
 | [Companies House](https://github.com/raycast/extensions/tree/main/extensions/companies-house) | 8 | Search the UK Companies House register — companies, officers, filings and charges. | aic | macOS, Windows | [store](https://www.raycast.com/aic/companies-house) |
 | [MemRadar](https://github.com/raycast/extensions/tree/main/extensions/memradar) | 6 | Search RAM and SSD prices with a decade of history, from MemRadar. | memradar | macOS, Windows | [store](https://www.raycast.com/memradar/memradar) |
+| [phpIPAM](https://github.com/raycast/extensions/tree/main/extensions/phpipam) | — | Search and browse your phpIPAM instance: addresses, subnets, sections, VLANs and VRFs. | frdmn | macOS | — |

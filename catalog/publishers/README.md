@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,289,391 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,289,396 |
 | 2 | [raycast](./id/raycast.md) | 11 | 900,442 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 769,152 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,551 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 769,154 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,553 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 494,370 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 490,702 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 456,823 |
@@ -2230,10 +2230,10 @@
 | 2220 | [tony_hule](https://www.raycast.com/tony_hule) | 1 | 2 |
 | 2221 | [u2l](https://www.raycast.com/u2l) | 1 | 2 |
 | 2222 | [vbrs](https://www.raycast.com/vbrs) | 1 | 2 |
-| 2223 | [azlandotgg](https://www.raycast.com/azlandotgg) | 1 | 1 |
-| 2224 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 |
-| 2225 | [farshed](https://www.raycast.com/farshed) | 1 | 1 |
-| 2226 | [frdmn](https://www.raycast.com/frdmn) | 1 | 1 |
+| 2223 | [frdmn](https://www.raycast.com/frdmn) | 2 | 1 |
+| 2224 | [azlandotgg](https://www.raycast.com/azlandotgg) | 1 | 1 |
+| 2225 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 |
+| 2226 | [farshed](https://www.raycast.com/farshed) | 1 | 1 |
 | 2227 | [joschka_rick](https://www.raycast.com/joschka_rick) | 1 | 1 |
 | 2228 | [kasuncfdo](https://www.raycast.com/kasuncfdo) | 1 | 1 |
 | 2229 | [lyager](https://www.raycast.com/lyager) | 1 | 1 |

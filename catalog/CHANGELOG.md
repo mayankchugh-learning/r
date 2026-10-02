@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-02 — upstream `7e5936b4f5`
+
+**Added (1):** [phpIPAM](https://github.com/raycast/extensions/tree/main/extensions/phpipam)
+
 ## 2026-10-02 — upstream `4b409e59dc`
 
 **Updated (5):** [Blockchain Explorer Search](https://github.com/raycast/extensions/tree/main/extensions/blockchain-explorer-search), [ENS Name Lookup](https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup), [Ethereum Utils — EVM Development](https://github.com/raycast/extensions/tree/main/extensions/ethereum-utils), [TinyFaces NFT](https://github.com/raycast/extensions/tree/main/extensions/tinyfaces-nft), [Web3 Profile](https://github.com/raycast/extensions/tree/main/extensions/web3-profile)

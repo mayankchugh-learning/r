@@ -71,7 +71,7 @@
 | [frank-miao](https://www.raycast.com/frank-miao) | 1 | 6 | **Documentation:** [Lattice Scholar Extension](https://github.com/raycast/extensions/tree/main/extensions/lattice-scholar-extension) |
 | [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 15,590 | **Productivity:** [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track)<br>**Web:** [Search Router](https://github.com/raycast/extensions/tree/main/extensions/search-router) |
 | [fratoro](https://www.raycast.com/fratoro) | 1 | 56 | **Web:** [Hakuna](https://github.com/raycast/extensions/tree/main/extensions/hakuna) |
-| [frdmn](https://www.raycast.com/frdmn) | 1 | 1 | **Communication:** [LDAP Contacts](https://github.com/raycast/extensions/tree/main/extensions/ldap-contacts) |
+| [frdmn](https://www.raycast.com/frdmn) | 2 | 1 | **Communication:** [LDAP Contacts](https://github.com/raycast/extensions/tree/main/extensions/ldap-contacts)<br>**System:** [phpIPAM](https://github.com/raycast/extensions/tree/main/extensions/phpipam) |
 | [freak4pc](https://www.raycast.com/freak4pc) | 1 | 1,850 | **Productivity:** [monday.com](https://github.com/raycast/extensions/tree/main/extensions/monday) |
 | [Freaktion](https://www.raycast.com/freaktion) | 1 | 13 | **Developer Tools:** [BlurHash](https://github.com/raycast/extensions/tree/main/extensions/blurhash) |
 | [freepicheep](https://www.raycast.com/freepicheep) | 1 | 57 | **Applications:** [Rainaissance](https://github.com/raycast/extensions/tree/main/extensions/rainaissance) |

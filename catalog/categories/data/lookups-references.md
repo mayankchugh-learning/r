@@ -1,6 +1,6 @@
 # Lookups & References
 
-38 extensions · [← Data](./README.md)
+39 extensions · [← Data](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -42,3 +42,4 @@
 | [Chinese Lottery](https://github.com/raycast/extensions/tree/main/extensions/chinese-lottery) | 30 | Check the results of China Welfare Lottery and Sports Lottery | elonwoo | macOS | [store](https://www.raycast.com/elonwoo/chinese-lottery) |
 | [Companies House](https://github.com/raycast/extensions/tree/main/extensions/companies-house) | 8 | Search the UK Companies House register — companies, officers, filings and charges. | aic | macOS, Windows | [store](https://www.raycast.com/aic/companies-house) |
 | [MemRadar](https://github.com/raycast/extensions/tree/main/extensions/memradar) | 6 | Search RAM and SSD prices with a decade of history, from MemRadar. | memradar | macOS, Windows | [store](https://www.raycast.com/memradar/memradar) |
+| [phpIPAM](https://github.com/raycast/extensions/tree/main/extensions/phpipam) | — | Search and browse your phpIPAM instance: addresses, subnets, sections, VLANs and VRFs. | frdmn | macOS | — |

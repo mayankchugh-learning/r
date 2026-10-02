@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4b409e59dc0ee5520e7718c6a03c249b4db2e3b3",
-  "generatedAt": "2026-10-02T14:48:36.510Z",
-  "downloadsRefreshedAt": "2026-10-02T14:48:35.734Z",
-  "count": 3363,
+  "commit": "7e5936b4f526f21cd7a20eeac2dcd2b1466889f7",
+  "generatedAt": "2026-10-02T14:52:37.688Z",
+  "downloadsRefreshedAt": "2026-10-02T14:52:37.050Z",
+  "count": 3364,
   "extensions": [
     {
       "dir": "0x0",
@@ -10295,7 +10295,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 610020
+      "downloads": 610025
     },
     {
       "dir": "color-shades",
@@ -23025,7 +23025,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566551
+      "downloads": 566553
     },
     {
       "dir": "google-chrome-profiles",
@@ -29536,7 +29536,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 769152
+      "downloads": 769154
     },
     {
       "dir": "kimai",
@@ -44014,6 +44014,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/php-toolbox",
       "treeSha": "b91e412ab86a6e35c6d32361d201b7077f9851e3",
       "downloads": 498
+    },
+    {
+      "dir": "phpipam",
+      "name": "phpipam",
+      "title": "phpIPAM",
+      "description": "Search and browse your phpIPAM instance: addresses, subnets, sections, VLANs and VRFs.",
+      "author": "frdmn",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "System",
+        "Data"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/phpipam",
+      "treeSha": "24bb7e4edfce07d16d685ee7509da468e240bd7a",
+      "downloads": null
     },
     {
       "dir": "phpmon",

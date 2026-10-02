@@ -2,7 +2,7 @@
 
 [Apps & Processes](./apps-processes.md) · [Window & Desktop Management](./window-desktop-management.md) · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · [Clipboard & Input](./clipboard-input.md) · [Files & Storage](./files-storage.md) · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · **General**
 
-80 of 265 extensions · [← macOS · System](./README.md)
+81 of 266 extensions · [← macOS · System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -86,3 +86,4 @@
 | [Slurm](https://github.com/raycast/extensions/tree/main/extensions/slurm) | 6 | Manage Slurm jobs across multiple clusters and inspect utilization from Raycast | p-koenig | macOS | [store](https://www.raycast.com/p-koenig/slurm) |
 | [Dmenu](https://github.com/raycast/extensions/tree/main/extensions/dmenu) | 2 | A dmenu-style picker for macOS, powered by a Python CLI and Raycast | 8w8kkr8typ | macOS | [store](https://www.raycast.com/8w8kkr8typ/dmenu) |
 | [Run Zipper Applet](https://github.com/raycast/extensions/tree/main/extensions/zipper-run) | 0 | Run a zipper applet | ariel_conti | macOS | [store](https://www.raycast.com/ariel_conti/zipper-run) |
+| [phpIPAM](https://github.com/raycast/extensions/tree/main/extensions/phpipam) | — | Search and browse your phpIPAM instance: addresses, subnets, sections, VLANs and VRFs. | frdmn | macOS | — |
