@@ -10,12 +10,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 24,362 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
-| [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,760 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
+| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 24,377 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
+| [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,769 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
 | [Go Package Search](https://github.com/raycast/extensions/tree/main/extensions/go-package-search) | 1,397 | Quickly search packages on https://pkg.go.dev | bstncartwright | macOS | [store](https://www.raycast.com/bstncartwright/go-package-search) |
 | [Search Composer Packagist](https://github.com/raycast/extensions/tree/main/extensions/search-composer-packagist) | 1,140 | Search Composer Packagist For PHP Packages | danyelkeddah | macOS | [store](https://www.raycast.com/danyelkeddah/search-composer-packagist) |
-| [Libraries.io](https://github.com/raycast/extensions/tree/main/extensions/libraries-io) | 1,032 | Look up packages and dependency information via Libraries.io | djpowers | macOS | [store](https://www.raycast.com/djpowers/libraries-io) |
-| [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget) | 728 | Search, install, and manage Windows packages with WinGet | eray_ercan | Windows | [store](https://www.raycast.com/eray_ercan/winget) |
+| [Libraries.io](https://github.com/raycast/extensions/tree/main/extensions/libraries-io) | 1,034 | Look up packages and dependency information via Libraries.io | djpowers | macOS | [store](https://www.raycast.com/djpowers/libraries-io) |
+| [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget) | 732 | Search, install, and manage Windows packages with WinGet | eray_ercan | Windows | [store](https://www.raycast.com/eray_ercan/winget) |
 | [Bundlephobia Search](https://github.com/raycast/extensions/tree/main/extensions/bundlephobia-search) | 660 | Find package and check its size on Bundlephobia | dgrzedzielski | macOS | [store](https://www.raycast.com/dgrzedzielski/bundlephobia-search) |
 | [Search Hex](https://github.com/raycast/extensions/tree/main/extensions/search-hexpm) | 494 | A Raycast extension that enables you to quickly look up package information from Hex | jordelver | macOS | [store](https://www.raycast.com/jordelver/search-hex) |
 | [JSR](https://github.com/raycast/extensions/tree/main/extensions/jsr) | 260 | Search through JSR, the Open Source Package Registry for Javascript/Typescript | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/jsr) |
@@ -28,7 +28,7 @@
 | [NuGet Package Explorer](https://github.com/raycast/extensions/tree/main/extensions/nuget-package-explorer) | 101 | Local NuGet package explorer | gaoyang | macOS | [store](https://www.raycast.com/gaoyang/nuget-package-explorer) |
 | [Repology Search](https://github.com/raycast/extensions/tree/main/extensions/repology-search) | 101 | Search packages from repology.org | sebdanielsson | macOS, Windows | [store](https://www.raycast.com/sebdanielsson/repology-search) |
 | [Gleam Packages](https://github.com/raycast/extensions/tree/main/extensions/gleam-packages) | 97 | search for Gleam packages | ryanmiville | macOS | [store](https://www.raycast.com/ryanmiville/gleam-packages) |
-| [CRAN/E Search](https://github.com/raycast/extensions/tree/main/extensions/cran-e-search) | 71 | Search for R-code packages & authors hosted on CRAN via the CRAN/E search engine. | flaming-codes | macOS | [store](https://www.raycast.com/flaming-codes/cran-e-search) |
+| [CRAN/E Search](https://github.com/raycast/extensions/tree/main/extensions/cran-e-search) | 72 | Search for R-code packages & authors hosted on CRAN via the CRAN/E search engine. | flaming-codes | macOS | [store](https://www.raycast.com/flaming-codes/cran-e-search) |
 | [npm Claimer](https://github.com/raycast/extensions/tree/main/extensions/npm-claimer) | 68 | Instantly claim npm package names in one click | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/npm-claimer) |
 | [Django Packages](https://github.com/raycast/extensions/tree/main/extensions/djangopackages) | 62 | Search and explore djangopackages.org without leaving Raycast. | saadmk11 | macOS, Windows | [store](https://www.raycast.com/saadmk11/djangopackages) |
 | [FHIR](https://github.com/raycast/extensions/tree/main/extensions/fhir) | 42 | Search FHIR packages and browse documentation | loris | macOS | [store](https://www.raycast.com/loris/fhir) |
@@ -39,8 +39,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 36,498 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
-| [SnippetsLab](https://github.com/raycast/extensions/tree/main/extensions/snippetslab) | 8,904 | Search and view contents in your SnippetsLab library. | renfei_song | macOS | [store](https://www.raycast.com/renfei_song/snippetslab) |
+| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 36,526 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
+| [SnippetsLab](https://github.com/raycast/extensions/tree/main/extensions/snippetslab) | 8,911 | Search and view contents in your SnippetsLab library. | renfei_song | macOS | [store](https://www.raycast.com/renfei_song/snippetslab) |
 | [Avatar](https://github.com/raycast/extensions/tree/main/extensions/avatar) | 969 | An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/avatar) |
 | [Remix Icon](https://github.com/raycast/extensions/tree/main/extensions/remix-icon) | 147 | Search and browse icons from Remix Icon library | tristan_heinig | macOS | [store](https://www.raycast.com/tristan_heinig/remix-icon) |
 | [Rust Documentation](https://github.com/raycast/extensions/tree/main/extensions/rust-docs) | 146 | Search Rust Standard Library documentation | patrick-ehimen | macOS, Windows | [store](https://www.raycast.com/patrick-ehimen/rust-docs) |
@@ -51,11 +51,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 291,523 | Search, install and manage Homebrew formulae and casks | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
-| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 19,149 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
-| [Maven Central Repository](https://github.com/raycast/extensions/tree/main/extensions/maven-central-repository) | 1,276 | Official search by the maintainers of Maven Central Repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/maven-central-repository) |
+| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 291,648 | Search, install and manage Homebrew formulae and casks | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
+| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 19,161 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
+| [Maven Central Repository](https://github.com/raycast/extensions/tree/main/extensions/maven-central-repository) | 1,277 | Official search by the maintainers of Maven Central Repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/maven-central-repository) |
 | [Google Maven Repository](https://github.com/raycast/extensions/tree/main/extensions/google-maven-repository) | 282 | Show and search for artifacts in Google's Maven repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/google-maven-repository) |
-| [NPM Registry Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-nrm) | 246 | Change the NPM registry address | lihzsky | macOS | [store](https://www.raycast.com/lihzsky/raycast-nrm) |
+| [NPM Registry Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-nrm) | 247 | Change the NPM registry address | lihzsky | macOS | [store](https://www.raycast.com/lihzsky/raycast-nrm) |
 | [Gradle Plugins](https://github.com/raycast/extensions/tree/main/extensions/gradle-plugins) | 166 | Search for gradle plugins | alex-w0 | macOS | [store](https://www.raycast.com/alex-w0/gradle-plugins) |
 | [cdnjs](https://github.com/raycast/extensions/tree/main/extensions/cdnjs) | 45 | Search libraries on cdnjs | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cdnjs) |
 | [DevContainer Features](https://github.com/raycast/extensions/tree/main/extensions/devcontainer-features) | 44 | Search and browse devcontainer features from the official registry | keito4 | macOS | [store](https://www.raycast.com/keito4/devcontainer-features) |

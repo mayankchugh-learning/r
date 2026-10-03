@@ -10,9 +10,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dad Jokes](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes) | 5,207 | Get a random dad joke | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/dad-jokes) |
-| [Dice & Coin](https://github.com/raycast/extensions/tree/main/extensions/dice-and-coin) | 2,491 | Quickly and easily make random decisions or generate a random number | yonbergman | macOS, Windows | [store](https://www.raycast.com/yonbergman/dice-and-coin) |
-| [Developer Excuses](https://github.com/raycast/extensions/tree/main/extensions/developer-excuse) | 2,117 | Insert a random developer excuse for not doing your work. | niemtec | macOS | [store](https://www.raycast.com/niemtec/developer-excuse) |
+| [Dad Jokes](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes) | 5,210 | Get a random dad joke | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/dad-jokes) |
+| [Dice & Coin](https://github.com/raycast/extensions/tree/main/extensions/dice-and-coin) | 2,492 | Quickly and easily make random decisions or generate a random number | yonbergman | macOS, Windows | [store](https://www.raycast.com/yonbergman/dice-and-coin) |
+| [Developer Excuses](https://github.com/raycast/extensions/tree/main/extensions/developer-excuse) | 2,118 | Insert a random developer excuse for not doing your work. | niemtec | macOS | [store](https://www.raycast.com/niemtec/developer-excuse) |
 | [Truth or Dare](https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare) | 780 | Get a random Truth or Dare, Would You Rather, Never Have I Ever, or Paranoia question! Powered by https://truthordarebot.xyz | coding | macOS | [store](https://www.raycast.com/coding/truth-or-dare) |
 | [Random Fart](https://github.com/raycast/extensions/tree/main/extensions/random-fart) | 695 | Plays a random fart sound. An extension nobody asked for and nobody needed. | szy.fr | macOS | [store](https://www.raycast.com/szy.fr/random-fart) |
 | [No as a Service](https://github.com/raycast/extensions/tree/main/extensions/no-as-a-service) | 459 | Get a random reason to say no. Inspired by https://github.com/hotheadhacker/no-as-a-service | nedini | macOS, Windows | [store](https://www.raycast.com/nedini/no-as-a-service) |
@@ -38,12 +38,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 15,437 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
+| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 15,446 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
 | [Time Until I Do](https://github.com/raycast/extensions/tree/main/extensions/time-until-i-do) | 1,568 | Time Until 'The Big Day' is a customizable Raycast extension that helps you keep track of the time left until your upcoming event. Whether you're counting down… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/time-until-i-do) |
 | [KnowYourMeme](https://github.com/raycast/extensions/tree/main/extensions/knowyourmeme) | 825 | Search KnowYourMeme.com and view meme details from Raycast | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/knowyourmeme) |
-| [LetMeGoogleThat](https://github.com/raycast/extensions/tree/main/extensions/let-me-google-that) | 739 | LetMeGoogleThat is a Raycast extension that generates links to the popular 'Let Me Google That For You' website. With just a few clicks, you can create a custo… | Ek217 | macOS | [store](https://www.raycast.com/Ek217/let-me-google-that) |
+| [LetMeGoogleThat](https://github.com/raycast/extensions/tree/main/extensions/let-me-google-that) | 740 | LetMeGoogleThat is a Raycast extension that generates links to the popular 'Let Me Google That For You' website. With just a few clicks, you can create a custo… | Ek217 | macOS | [store](https://www.raycast.com/Ek217/let-me-google-that) |
 | [Office Quotes](https://github.com/raycast/extensions/tree/main/extensions/office-quotes) | 618 | An extension that displays quotes from NBC's beloved mockumentary series 'The Office'. | braydoncoyer | macOS | [store](https://www.raycast.com/braydoncoyer/office-quotes) |
-| [Evil Insult](https://github.com/raycast/extensions/tree/main/extensions/evil-insult) | 330 | Generate Evil Insults | j3lte | macOS | [store](https://www.raycast.com/j3lte/evil-insult) |
+| [Evil Insult](https://github.com/raycast/extensions/tree/main/extensions/evil-insult) | 331 | Generate Evil Insults | j3lte | macOS | [store](https://www.raycast.com/j3lte/evil-insult) |
 | [Jokes](https://github.com/raycast/extensions/tree/main/extensions/jokes) | 289 | Get up to 10 jokes at a time from a variety of categories. | xmok | macOS | [store](https://www.raycast.com/xmok/jokes) |
 | [Designer Excuses](https://github.com/raycast/extensions/tree/main/extensions/designer-excuses) | 178 | Designer Excuses is a playful Raycast extension that generates lighthearted, witty excuses for designers | shreeram | macOS | [store](https://www.raycast.com/shreeram/designer-excuses) |
 | [Bored](https://github.com/raycast/extensions/tree/main/extensions/bored) | 164 | Let's find you something to do! | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/bored) |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-03 — upstream `5cb604c530`
+
+**Added (1):** [Bible Q&A](https://github.com/raycast/extensions/tree/main/extensions/gamaliel)
+
 ## 2026-10-03 — upstream `cb1cbed070`
 
 **Added (1):** [Baalda](https://github.com/raycast/extensions/tree/main/extensions/baalda)

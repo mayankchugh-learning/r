@@ -6,13 +6,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) | 408,937 | Control VS Code and compatible editors directly from Raycast | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/visual-studio-code) |
-| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 115,165 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
-| [Shell](https://github.com/raycast/extensions/tree/main/extensions/shell) | 75,695 | Run shell commands from Raycast | asubbotin | macOS, Windows | [store](https://www.raycast.com/asubbotin/shell) |
-| [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains) | 33,788 | Search and open JetBrains Toolbox projects | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jetbrains) |
-| [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) | 22,942 | Search Vim commands | ajaypremshankar | macOS, Windows | [store](https://www.raycast.com/ajaypremshankar/vim-bro) |
-| [JSON Editor](https://github.com/raycast/extensions/tree/main/extensions/json-editor) | 5,031 | All JSON operations in one editor. | HerbertLu | macOS, Windows | [store](https://www.raycast.com/HerbertLu/json-editor) |
-| [Get SSH Key](https://github.com/raycast/extensions/tree/main/extensions/get-ssh-key) | 4,028 | Get your local SSH key in a split of a second. | Theon | macOS, Windows | [store](https://www.raycast.com/Theon/get-ssh-key) |
+| [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) | 409,165 | Control VS Code and compatible editors directly from Raycast | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/visual-studio-code) |
+| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 115,213 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
+| [Shell](https://github.com/raycast/extensions/tree/main/extensions/shell) | 75,757 | Run shell commands from Raycast | asubbotin | macOS, Windows | [store](https://www.raycast.com/asubbotin/shell) |
+| [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains) | 33,803 | Search and open JetBrains Toolbox projects | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jetbrains) |
+| [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) | 22,962 | Search Vim commands | ajaypremshankar | macOS, Windows | [store](https://www.raycast.com/ajaypremshankar/vim-bro) |
+| [JSON Editor](https://github.com/raycast/extensions/tree/main/extensions/json-editor) | 5,035 | All JSON operations in one editor. | HerbertLu | macOS, Windows | [store](https://www.raycast.com/HerbertLu/json-editor) |
+| [Get SSH Key](https://github.com/raycast/extensions/tree/main/extensions/get-ssh-key) | 4,032 | Get your local SSH key in a split of a second. | Theon | macOS, Windows | [store](https://www.raycast.com/Theon/get-ssh-key) |
 | [Trimmy](https://github.com/raycast/extensions/tree/main/extensions/trimmy) | 193 | "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/trimmy) |
 | [Bash Commands](https://github.com/raycast/extensions/tree/main/extensions/bash-commands) | 151 | A quick reference for bash commands with search, and categories. | koala1206 | macOS, Windows | [store](https://www.raycast.com/koala1206/bash-commands) |
 | [Tabby](https://github.com/raycast/extensions/tree/main/extensions/tabby) | 144 | Control Tabby terminal with Raycast | chupi | macOS, Windows | [store](https://www.raycast.com/chupi/tabby) |

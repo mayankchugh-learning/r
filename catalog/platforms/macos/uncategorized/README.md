@@ -10,15 +10,15 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry) | 42,868 | Find and install MCP servers in Raycast and other MCP clients like Claude or Cursor. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/model-context-protocol-registry) |
-| [Claude Code Cheatsheet](https://github.com/raycast/extensions/tree/main/extensions/claude-code-cheatsheet) | 6,202 | A comprehensive, interactive cheatsheet for the Claude Code CLI. Instantly access the latest commands, options, and unique thinking keywords to supercharge you… | harumeri | macOS | [store](https://www.raycast.com/harumeri/claude-code-cheatsheet) |
-| [Writersbrew](https://github.com/raycast/extensions/tree/main/extensions/writersbrew) | 2,385 | Meet the AI assistant that accelerates your reading & writing 2x faster & better | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/writersbrew) |
-| [Dia Skills](https://github.com/raycast/extensions/tree/main/extensions/dia-skills) | 2,182 | Import your favorite Dia skills into Raycast, so you can have the freedom to use whatever LLM you want, wherever you want, however you want. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/dia-skills) |
+| [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry) | 42,872 | Find and install MCP servers in Raycast and other MCP clients like Claude or Cursor. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/model-context-protocol-registry) |
+| [Claude Code Cheatsheet](https://github.com/raycast/extensions/tree/main/extensions/claude-code-cheatsheet) | 6,209 | A comprehensive, interactive cheatsheet for the Claude Code CLI. Instantly access the latest commands, options, and unique thinking keywords to supercharge you… | harumeri | macOS | [store](https://www.raycast.com/harumeri/claude-code-cheatsheet) |
+| [Writersbrew](https://github.com/raycast/extensions/tree/main/extensions/writersbrew) | 2,386 | Meet the AI assistant that accelerates your reading & writing 2x faster & better | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/writersbrew) |
+| [Dia Skills](https://github.com/raycast/extensions/tree/main/extensions/dia-skills) | 2,183 | Import your favorite Dia skills into Raycast, so you can have the freedom to use whatever LLM you want, wherever you want, however you want. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/dia-skills) |
 | [ChatGPT Search](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-search) | 1,357 | Initiate ChatGPT Search (aka SearchGPT) from within Raycast. https://openai.com/index/introducing-chatgpt-search/ | kopach | macOS | [store](https://www.raycast.com/kopach/chatgpt-search) |
-| [Google Calendar Events Quick Add](https://github.com/raycast/extensions/tree/main/extensions/google-calendar-quickadd) | 1,136 | Create Google Calendar events using natural language powered by Raycast AI | ben_aguirre | macOS | [store](https://www.raycast.com/ben_aguirre/google-calendar-quickadd) |
+| [Google Calendar Events Quick Add](https://github.com/raycast/extensions/tree/main/extensions/google-calendar-quickadd) | 1,137 | Create Google Calendar events using natural language powered by Raycast AI | ben_aguirre | macOS | [store](https://www.raycast.com/ben_aguirre/google-calendar-quickadd) |
 | [Apify](https://github.com/raycast/extensions/tree/main/extensions/apify) | 160 | Your full-stack platform for web scraping | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/apify) |
 | [Commit Message Formatter](https://github.com/raycast/extensions/tree/main/extensions/commit-message-formatter) | 155 | Generate and format your commit message according to the selected text with LLM | zrr1999 | macOS | [store](https://www.raycast.com/zrr1999/commit-message-formatter) |
-| [Clipyai](https://github.com/raycast/extensions/tree/main/extensions/clipyai) | 150 | AI-powered clipboard enhancement for productivity | strikeraryu | macOS | [store](https://www.raycast.com/strikeraryu/clipyai) |
+| [Clipyai](https://github.com/raycast/extensions/tree/main/extensions/clipyai) | 151 | AI-powered clipboard enhancement for productivity | strikeraryu | macOS | [store](https://www.raycast.com/strikeraryu/clipyai) |
 | [DB Schema Explorer](https://github.com/raycast/extensions/tree/main/extensions/db-schema-explorer) | 98 | Get database schema (tables, columns, relations) from PostgreSQL and MongoDB for AI reference and context | scisaif | macOS, Windows | [store](https://www.raycast.com/scisaif/db-schema-explorer) |
 | [Qoder](https://github.com/raycast/extensions/tree/main/extensions/qoder) | 97 | Quick access to Qoder AI Editor | ezreal09 | macOS | [store](https://www.raycast.com/ezreal09/qoder) |
 | [Autumn](https://github.com/raycast/extensions/tree/main/extensions/autumn) | 45 | Stripe made easy for AI Startups | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/autumn) |
@@ -29,13 +29,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Quick Search](https://github.com/raycast/extensions/tree/main/extensions/quick-search) | 5,989 | Quickly search selected text or clipboard text via Google or Github or DeepL etc. | iwfan | macOS | [store](https://www.raycast.com/iwfan/quick-search) |
-| [GitHub Enterprise](https://github.com/raycast/extensions/tree/main/extensions/github-for-enterprise) | 4,435 | Visualize and manage your issues and pull requests | Kinbaum | macOS | [store](https://www.raycast.com/Kinbaum/github-for-enterprise) |
-| [GitHub Stars](https://github.com/raycast/extensions/tree/main/extensions/github-stars) | 4,164 | Display and filter your recent GitHub stars | mrmartineau | macOS | [store](https://www.raycast.com/mrmartineau/search-github-stars) |
+| [Quick Search](https://github.com/raycast/extensions/tree/main/extensions/quick-search) | 5,990 | Quickly search selected text or clipboard text via Google or Github or DeepL etc. | iwfan | macOS | [store](https://www.raycast.com/iwfan/quick-search) |
+| [GitHub Enterprise](https://github.com/raycast/extensions/tree/main/extensions/github-for-enterprise) | 4,438 | Visualize and manage your issues and pull requests | Kinbaum | macOS | [store](https://www.raycast.com/Kinbaum/github-for-enterprise) |
+| [GitHub Stars](https://github.com/raycast/extensions/tree/main/extensions/github-stars) | 4,167 | Display and filter your recent GitHub stars | mrmartineau | macOS | [store](https://www.raycast.com/mrmartineau/search-github-stars) |
 | [Clash](https://github.com/raycast/extensions/tree/main/extensions/clash) | 2,995 | Monitor your Clash with Raycast. Including Proxies, Connections, Rules and Logs data, and support backends switch. | Go2SheeP | macOS | [store](https://www.raycast.com/Go2SheeP/clash) |
-| [Popcorn - Explore Stremio Streams](https://github.com/raycast/extensions/tree/main/extensions/popcorn) | 1,430 | A Raycast extension that uses the Stremio API to search for movies and TV shows and stream them to local media players using Stremio addons. IINA is highly rec… | martipops | macOS, Windows | [store](https://www.raycast.com/martipops/popcorn) |
-| [Image Web Search](https://github.com/raycast/extensions/tree/main/extensions/image-search) | 1,293 | Searches image using Google Image API | talha_balaj | macOS | [store](https://www.raycast.com/talha_balaj/image-search) |
-| [Checksum](https://github.com/raycast/extensions/tree/main/extensions/checksum) | 1,053 | This Raycast extension allows you to check the checksum of a file. Simply enter the file path and the extension will calculate its checksum and compare it to a… | Ek217 | macOS | [store](https://www.raycast.com/Ek217/checksum) |
+| [Popcorn - Explore Stremio Streams](https://github.com/raycast/extensions/tree/main/extensions/popcorn) | 1,434 | A Raycast extension that uses the Stremio API to search for movies and TV shows and stream them to local media players using Stremio addons. IINA is highly rec… | martipops | macOS, Windows | [store](https://www.raycast.com/martipops/popcorn) |
+| [Image Web Search](https://github.com/raycast/extensions/tree/main/extensions/image-search) | 1,295 | Searches image using Google Image API | talha_balaj | macOS | [store](https://www.raycast.com/talha_balaj/image-search) |
+| [Checksum](https://github.com/raycast/extensions/tree/main/extensions/checksum) | 1,054 | This Raycast extension allows you to check the checksum of a file. Simply enter the file path and the extension will calculate its checksum and compare it to a… | Ek217 | macOS | [store](https://www.raycast.com/Ek217/checksum) |
 | [Open Docker](https://github.com/raycast/extensions/tree/main/extensions/open-docker) | 949 | A reliable fix to open the Docker Desktop dashboard, especially when it's already running but the window is hidden. | k4lok | macOS | [store](https://www.raycast.com/k4lok/open-docker) |
 | [Network Proxy](https://github.com/raycast/extensions/tree/main/extensions/network-proxy) | 303 | View and manage network proxy settings on macOS | wuyuxiangX | macOS | [store](https://www.raycast.com/wuyuxiangX/network-proxy) |
 | [Tidal](https://github.com/raycast/extensions/tree/main/extensions/tidal) | 221 | Control Tidal playback and view track info directly from Raycast with seamless integration. PLEASE NOTE 🚨: This extension may be VERY confusing to use if you… | Ek217 | macOS | [store](https://www.raycast.com/Ek217/tidal) |
@@ -49,12 +49,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 566,840 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
-| [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) | 8,189 | Search and copy to the clipboard different kaomoji (ascii/unicode emotes). | yalishanda | macOS, Windows | [store](https://www.raycast.com/yalishanda/kaomoji-search) |
-| [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify) | 4,683 | Control Clockify time tracking from Raycast | isma | macOS | [store](https://www.raycast.com/isma/clockify) |
-| [Clear Clipboard](https://github.com/raycast/extensions/tree/main/extensions/clear-clipboard) | 3,612 | Clears your clipboard so you don't accidentally paste things into work chat. | d3caf | macOS | [store](https://www.raycast.com/d3caf/clear-clipboard) |
-| [Nextcloud](https://github.com/raycast/extensions/tree/main/extensions/nextcloud) | 1,471 | Search files, deck, notes, favorites and activity in Nextcloud. | uetchy | macOS | [store](https://www.raycast.com/uetchy/nextcloud) |
-| [AppGrid](https://github.com/raycast/extensions/tree/main/extensions/appgrid) | 556 | Smart app launcher with grid view and category grouping | jungwoon | macOS | [store](https://www.raycast.com/Jungwoon/appgrid) |
+| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 566,881 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
+| [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) | 8,204 | Search and copy to the clipboard different kaomoji (ascii/unicode emotes). | yalishanda | macOS, Windows | [store](https://www.raycast.com/yalishanda/kaomoji-search) |
+| [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify) | 4,687 | Control Clockify time tracking from Raycast | isma | macOS | [store](https://www.raycast.com/isma/clockify) |
+| [Clear Clipboard](https://github.com/raycast/extensions/tree/main/extensions/clear-clipboard) | 3,614 | Clears your clipboard so you don't accidentally paste things into work chat. | d3caf | macOS | [store](https://www.raycast.com/d3caf/clear-clipboard) |
+| [Nextcloud](https://github.com/raycast/extensions/tree/main/extensions/nextcloud) | 1,472 | Search files, deck, notes, favorites and activity in Nextcloud. | uetchy | macOS | [store](https://www.raycast.com/uetchy/nextcloud) |
+| [AppGrid](https://github.com/raycast/extensions/tree/main/extensions/appgrid) | 557 | Smart app launcher with grid view and category grouping | jungwoon | macOS | [store](https://www.raycast.com/Jungwoon/appgrid) |
 | [Save Link](https://github.com/raycast/extensions/tree/main/extensions/save-link) | 229 | Get the current browser tab URL and generate a webloc file, then copy it to clipboard. | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/save-link) |
 | [Focusflow - a Study Clock](https://github.com/raycast/extensions/tree/main/extensions/focus-flow) | 130 | A Raycast extension to help you Focus on your studies and Flow with your team. Engage with your friends in some friendly competition. | Ek217 | macOS | [store](https://www.raycast.com/Ek217/focus-flow) |
 | [Jitsi](https://github.com/raycast/extensions/tree/main/extensions/jitsi) | 70 | Create meetings with Jitsi Meet | tjwds | macOS | [store](https://www.raycast.com/tjwds/jitsi) |
@@ -65,12 +65,12 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [TablePlus](https://github.com/raycast/extensions/tree/main/extensions/tableplus) | 8,818 | Search and open database connections in TablePlus | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/tableplus) |
-| [Kagi Search](https://github.com/raycast/extensions/tree/main/extensions/kagi-search) | 7,314 | Searches the Closed Beta of Kagi Search, with autosuggestions and quick access to FastGPT | fearoffish | macOS, Windows | [store](https://www.raycast.com/fearoffish/kagi-search) |
-| [crates.io Search](https://github.com/raycast/extensions/tree/main/extensions/cratecast) | 2,402 | Explore crates.io | matt | macOS | [store](https://www.raycast.com/matt/cratecast) |
-| [Get Favicon](https://github.com/raycast/extensions/tree/main/extensions/get-favicon) | 1,908 | Get favicon from website URL | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/get-favicon) |
+| [Kagi Search](https://github.com/raycast/extensions/tree/main/extensions/kagi-search) | 7,321 | Searches the Closed Beta of Kagi Search, with autosuggestions and quick access to FastGPT | fearoffish | macOS, Windows | [store](https://www.raycast.com/fearoffish/kagi-search) |
+| [crates.io Search](https://github.com/raycast/extensions/tree/main/extensions/cratecast) | 2,403 | Explore crates.io | matt | macOS | [store](https://www.raycast.com/matt/cratecast) |
+| [Get Favicon](https://github.com/raycast/extensions/tree/main/extensions/get-favicon) | 1,909 | Get favicon from website URL | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/get-favicon) |
 | [Google Scholar](https://github.com/raycast/extensions/tree/main/extensions/google-scholar) | 1,402 | Search Google Scholar for academic articles, papers, and research. | leandro.maia | macOS | [store](https://www.raycast.com/leandro.maia/google-scholar) |
-| [Radix](https://github.com/raycast/extensions/tree/main/extensions/radix) | 1,141 | Search and open Radix content directly from Raycast. | peduarte | macOS | [store](https://www.raycast.com/peduarte/radix) |
-| [Phind Search](https://github.com/raycast/extensions/tree/main/extensions/phind-search) | 1,098 | Search anything with Phind | Chuck | macOS | [store](https://www.raycast.com/Chuck/phind-search) |
+| [Radix](https://github.com/raycast/extensions/tree/main/extensions/radix) | 1,142 | Search and open Radix content directly from Raycast. | peduarte | macOS | [store](https://www.raycast.com/peduarte/radix) |
+| [Phind Search](https://github.com/raycast/extensions/tree/main/extensions/phind-search) | 1,099 | Search anything with Phind | Chuck | macOS | [store](https://www.raycast.com/Chuck/phind-search) |
 | [Obsidian Link Opener](https://github.com/raycast/extensions/tree/main/extensions/obsidian-link-opener) | 547 | Open URLs from Obsidian markdown files' frontmatter | osteele | macOS | [store](https://www.raycast.com/osteele/obsidian-link-opener) |
 | [OTP Auth](https://github.com/raycast/extensions/tree/main/extensions/otp-auth) | 274 | Search OTPs in your OTP Auth database | huzef44 | macOS | [store](https://www.raycast.com/huzef44/otp-auth) |
 | [Plexus - Localhost Search](https://github.com/raycast/extensions/tree/main/extensions/plexus) | 218 | Discover and manage all running localhost web servers (Node, PHP, Python, and more) with smart project detection, framework identification, WSL support, and qu… | RensHoogendam | macOS, Windows | [store](https://www.raycast.com/RensHoogendam/plexus) |
@@ -85,10 +85,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Change Scroll Direction](https://github.com/raycast/extensions/tree/main/extensions/change-scroll-direction) | 3,270 | Changes between the two scroll directions „natural“ and „mouse-friendly“. Useful when switching between trackpad and mouse. | gregoralbrecht | macOS | [store](https://www.raycast.com/gregoralbrecht/change-scroll-direction) |
-| [HazeOver Controls](https://github.com/raycast/extensions/tree/main/extensions/hazeover) | 3,059 | Control the HazeOver app. | ratoru | macOS | [store](https://www.raycast.com/ratoru/hazeover) |
-| [Flighty](https://github.com/raycast/extensions/tree/main/extensions/flighty) | 2,154 | Interact with the Flighty app. | hrishabhn | macOS | [store](https://www.raycast.com/hrishabhn/flighty) |
-| [Sidecar](https://github.com/raycast/extensions/tree/main/extensions/sidecar) | 1,399 | Quickly connect/disconnect iPad as a second display. | philip_chen | macOS | [store](https://www.raycast.com/philip_chen/sidecar) |
+| [Change Scroll Direction](https://github.com/raycast/extensions/tree/main/extensions/change-scroll-direction) | 3,272 | Changes between the two scroll directions „natural“ and „mouse-friendly“. Useful when switching between trackpad and mouse. | gregoralbrecht | macOS | [store](https://www.raycast.com/gregoralbrecht/change-scroll-direction) |
+| [HazeOver Controls](https://github.com/raycast/extensions/tree/main/extensions/hazeover) | 3,061 | Control the HazeOver app. | ratoru | macOS | [store](https://www.raycast.com/ratoru/hazeover) |
+| [Flighty](https://github.com/raycast/extensions/tree/main/extensions/flighty) | 2,155 | Interact with the Flighty app. | hrishabhn | macOS | [store](https://www.raycast.com/hrishabhn/flighty) |
+| [Sidecar](https://github.com/raycast/extensions/tree/main/extensions/sidecar) | 1,403 | Quickly connect/disconnect iPad as a second display. | philip_chen | macOS | [store](https://www.raycast.com/philip_chen/sidecar) |
 | [Unix Timestamp Converter](https://github.com/raycast/extensions/tree/main/extensions/unix-timestamp-converter) | 1,105 | Convert Unix timestamps to readable date and time formats for any country or timezone, or generate Unix timestamps from human-readable dates. Supports multiple… | ride-space | macOS | [store](https://www.raycast.com/ride-space/unix-timestamp-converter) |
 | [VLC](https://github.com/raycast/extensions/tree/main/extensions/vlc) | 563 | Seamlessly control VLC Media Player from Raycast. Play, pause, skip tracks, adjust volume, seek, toggle fullscreen, and more—all from your keyboard. Requires V… | kud | macOS | [store](https://www.raycast.com/kud/vlc) |
 | [DockLock Plus](https://github.com/raycast/extensions/tree/main/extensions/docklock-plus) | 213 | Control macOS Dock position and automation | IGHOR | macOS | [store](https://www.raycast.com/IGHOR/docklock-plus) |
@@ -108,7 +108,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Bambu Lab Controller](https://github.com/raycast/extensions/tree/main/extensions/bambu-lab) | 167 | Control your Bambulab 3D printer | johancvl | macOS, Windows | [store](https://www.raycast.com/johancvl/bambu-lab) |
+| [Bambu Lab Controller](https://github.com/raycast/extensions/tree/main/extensions/bambu-lab) | 168 | Control your Bambulab 3D printer | johancvl | macOS, Windows | [store](https://www.raycast.com/johancvl/bambu-lab) |
 
 ## Media, Money & Words
 
@@ -116,7 +116,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Spotify Beta](https://github.com/raycast/extensions/tree/main/extensions/spotify-beta) | 4,002 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS | [store](https://www.raycast.com/mattisssa/spotify-beta) |
+| [Spotify Beta](https://github.com/raycast/extensions/tree/main/extensions/spotify-beta) | 4,003 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS | [store](https://www.raycast.com/mattisssa/spotify-beta) |
 | [Resend Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/resend-wallpaper) | 705 | Get and set Resend official wallpapers. | jopcmelo | macOS | [store](https://www.raycast.com/jopcmelo/resend-wallpaper) |
 | [Expand Video Canvas](https://github.com/raycast/extensions/tree/main/extensions/expand-video-canvas) | 113 | Expand different size video to 1920*1080. It will center the original video and fill background with the edge color. | lzybiasia | macOS | [store](https://www.raycast.com/lzybiasia/expand-video-canvas) |
 
@@ -143,26 +143,26 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Recents](https://github.com/raycast/extensions/tree/main/extensions/recents) | 12,525 | Show Recently used files and folders in Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/recents) |
-| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 2,300 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
+| [Recents](https://github.com/raycast/extensions/tree/main/extensions/recents) | 12,535 | Show Recently used files and folders in Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/recents) |
+| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 2,302 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
 | [8 Ball](https://github.com/raycast/extensions/tree/main/extensions/8ball) | 2,131 | Returns an 8 ball like answer to questions | rocksack | macOS | [store](https://www.raycast.com/rocksack/8-ball) |
-| [PDF Compression](https://github.com/raycast/extensions/tree/main/extensions/pdf-compression) | 2,080 | PDF Compression using native PDFKit | birkhoff | macOS | [store](https://www.raycast.com/birkhoff/pdf-compression) |
-| [Paste to Markdown](https://github.com/raycast/extensions/tree/main/extensions/paste-to-markdown) | 2,011 | A Raycast Extension that instantly pastes rich text or HTML content into Markdown. | weicodes | macOS | [store](https://www.raycast.com/weicodes/paste-to-markdown) |
+| [PDF Compression](https://github.com/raycast/extensions/tree/main/extensions/pdf-compression) | 2,083 | PDF Compression using native PDFKit | birkhoff | macOS | [store](https://www.raycast.com/birkhoff/pdf-compression) |
+| [Paste to Markdown](https://github.com/raycast/extensions/tree/main/extensions/paste-to-markdown) | 2,015 | A Raycast Extension that instantly pastes rich text or HTML content into Markdown. | weicodes | macOS | [store](https://www.raycast.com/weicodes/paste-to-markdown) |
 | [Ulysses](https://github.com/raycast/extensions/tree/main/extensions/ulysses) | 1,941 | Use Ulysses with Raycast | praveenjuge | macOS | [store](https://www.raycast.com/praveenjuge/ulysses) |
-| [Easings](https://github.com/raycast/extensions/tree/main/extensions/easings) | 1,935 | Quickly find and grab your favorite easings. | madebyankur | macOS | [store](https://www.raycast.com/madebyankur/easings) |
-| [Launch Agents](https://github.com/raycast/extensions/tree/main/extensions/launch-agents) | 1,421 | Manage Launch Agents | stevensd2m | macOS | [store](https://www.raycast.com/stevensd2m/launch-agents) |
+| [Easings](https://github.com/raycast/extensions/tree/main/extensions/easings) | 1,937 | Quickly find and grab your favorite easings. | madebyankur | macOS | [store](https://www.raycast.com/madebyankur/easings) |
+| [Launch Agents](https://github.com/raycast/extensions/tree/main/extensions/launch-agents) | 1,422 | Manage Launch Agents | stevensd2m | macOS | [store](https://www.raycast.com/stevensd2m/launch-agents) |
 | [Feedly](https://github.com/raycast/extensions/tree/main/extensions/feedly) | 1,332 | Browse Feedly through Raycast | shubham | macOS | [store](https://www.raycast.com/shubham/feedly) |
 | [Simple Youdao Translate](https://github.com/raycast/extensions/tree/main/extensions/simple-youdao) | 1,224 | This is a Youdao translation extension with simple interaction | xeric | macOS | [store](https://www.raycast.com/xeric/simple-youdao) |
 | [Color Hunt](https://github.com/raycast/extensions/tree/main/extensions/color-hunt) | 1,119 | Color Palettes for Designers and Artists | Lemon | macOS | [store](https://www.raycast.com/Lemon/color-hunt) |
-| [Sniffer](https://github.com/raycast/extensions/tree/main/extensions/sniffer) | 1,084 | FInd who is connected to your network | night_coder | macOS | [store](https://www.raycast.com/night_coder/sniffer) |
+| [Sniffer](https://github.com/raycast/extensions/tree/main/extensions/sniffer) | 1,085 | FInd who is connected to your network | night_coder | macOS | [store](https://www.raycast.com/night_coder/sniffer) |
 | [Week Number](https://github.com/raycast/extensions/tree/main/extensions/week-number) | 1,056 | Show the current week of the year. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/week-number) |
 | [Kaalam](https://github.com/raycast/extensions/tree/main/extensions/kaalam) | 949 | Gives Current Time in all formats | heerthees | macOS | [store](https://www.raycast.com/heerthees/kaalam) |
 | [Squeeze](https://github.com/raycast/extensions/tree/main/extensions/squeeze) | 853 | A simple utility for whitespace and line break removal. | daniel_ac | macOS | [store](https://www.raycast.com/daniel_ac/squeeze) |
 | [Better Aliases](https://github.com/raycast/extensions/tree/main/extensions/better-aliases) | 539 | Better Aliases - Create better aliases in Raycast | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/better-aliases) |
-| [What Happened Today](https://github.com/raycast/extensions/tree/main/extensions/what-happened-today) | 405 | Discover historical events, notable birthdays, and milestones on any date. | nikhil_tiwari | macOS | [store](https://www.raycast.com/nikhil_tiwari/what-happened-today) |
+| [What Happened Today](https://github.com/raycast/extensions/tree/main/extensions/what-happened-today) | 406 | Discover historical events, notable birthdays, and milestones on any date. | nikhil_tiwari | macOS | [store](https://www.raycast.com/nikhil_tiwari/what-happened-today) |
 | [NetNewsWire](https://github.com/raycast/extensions/tree/main/extensions/netnewswire) | 177 | NetNewsWire is a free and open source RSS reader for Mac, iPhone, and iPad | xmok | macOS | [store](https://www.raycast.com/xmok/netnewswire) |
 | [Tally](https://github.com/raycast/extensions/tree/main/extensions/tally) | 150 | Tally is the simplest way to create forms, for free. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/tally) |
-| [SVG Studio](https://github.com/raycast/extensions/tree/main/extensions/svg-studio) | 136 | Powerful SVG previewer and editor with dark mode and PNG export. | gaosunhao | macOS | [store](https://www.raycast.com/gaosunhao/svg-studio) |
+| [SVG Studio](https://github.com/raycast/extensions/tree/main/extensions/svg-studio) | 138 | Powerful SVG previewer and editor with dark mode and PNG export. | gaosunhao | macOS | [store](https://www.raycast.com/gaosunhao/svg-studio) |
 | [Text Rewrap](https://github.com/raycast/extensions/tree/main/extensions/text-rewrap) | 118 | Rewraps Text at a given width | rembridge | macOS, Windows | [store](https://www.raycast.com/rembridge/text-rewrap) |
 | [Usememos](https://github.com/raycast/extensions/tree/main/extensions/usememos) | 118 | Usememos is an extension for usememos/memos | zrr1999 | macOS | [store](https://www.raycast.com/zrr1999/usememos) |
 | [Ping Menu](https://github.com/raycast/extensions/tree/main/extensions/ping-menu) | 104 | Monitor ping latency in the menu bar | domonkos_nagy | macOS | [store](https://www.raycast.com/domonkos_nagy/ping-menu) |

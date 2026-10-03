@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Code Execution](https://github.com/raycast/extensions/tree/main/extensions/code-execution) | 5,003 | Give Raycast AI the ability to run Python, Bash, and AppleScript | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/code) |
-| [LLM Stats](https://github.com/raycast/extensions/tree/main/extensions/llm-stats) | 1,401 | The largest collection of high-quality evaluations for every AI modality—language, vision, code, reasoning, and beyond | ernest0n | macOS, Windows | [store](https://www.raycast.com/ernest0n/llm-stats) |
+| [Code Execution](https://github.com/raycast/extensions/tree/main/extensions/code-execution) | 5,007 | Give Raycast AI the ability to run Python, Bash, and AppleScript | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/code) |
+| [LLM Stats](https://github.com/raycast/extensions/tree/main/extensions/llm-stats) | 1,404 | The largest collection of high-quality evaluations for every AI modality—language, vision, code, reasoning, and beyond | ernest0n | macOS, Windows | [store](https://www.raycast.com/ernest0n/llm-stats) |
 | [AI Code Namer](https://github.com/raycast/extensions/tree/main/extensions/ai-code-namer) | 591 | AI Code Namer is a Raycast extension that leverages AI to help developers generate clear, descriptive, and context-appropriate names for various code elements… | HunterJi | macOS | [store](https://www.raycast.com/HunterJi/ai-code-namer) |
-| [CodeGeex](https://github.com/raycast/extensions/tree/main/extensions/codegeex) | 502 | CodeGeex AI code tools | MBearo | macOS | [store](https://www.raycast.com/MBearo/codegeex) |
+| [CodeGeex](https://github.com/raycast/extensions/tree/main/extensions/codegeex) | 503 | CodeGeex AI code tools | MBearo | macOS | [store](https://www.raycast.com/MBearo/codegeex) |
 | [Project Code to Text](https://github.com/raycast/extensions/tree/main/extensions/project-code-to-text) | 369 | Consolidates project source code, structure, and metadata into a single text file optimized for AI analysis or archiving. | borzov | macOS | [store](https://www.raycast.com/borzov/project-code-to-text) |
 | [Token Track](https://github.com/raycast/extensions/tree/main/extensions/tokentrack) | 179 | Track Token Usage across AI editors - Codex, Claude Code, Cursor. | liel_azulay | macOS | [store](https://www.raycast.com/liel_azulay/tokentrack) |
 | [TikZ](https://github.com/raycast/extensions/tree/main/extensions/tikz) | 44 | Convert TikZ code to an image, to be shown in AI chat | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/tikz) |

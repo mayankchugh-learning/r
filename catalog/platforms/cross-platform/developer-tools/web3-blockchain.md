@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Ethereum Utils — EVM Development](https://github.com/raycast/extensions/tree/main/extensions/ethereum-utils) | 737 | Collection of utils for Ethereum and EVM-compatible chain development | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/ethereum-utils) |
+| [Ethereum Utils — EVM Development](https://github.com/raycast/extensions/tree/main/extensions/ethereum-utils) | 738 | Collection of utils for Ethereum and EVM-compatible chain development | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/ethereum-utils) |
 | [Blockchain Explorer Search](https://github.com/raycast/extensions/tree/main/extensions/blockchain-explorer-search) | 684 | Search open links for address, transaction, block, token, and ens on Etherscan-like sites. | Namaskar | macOS, Windows | [store](https://www.raycast.com/Namaskar/blockchain-explorer-search) |
 | [PDSls](https://github.com/raycast/extensions/tree/main/extensions/pdsls) | 171 | Browse the public data on atproto. | juliet_philippe | macOS, Windows | [store](https://www.raycast.com/juliet_philippe/pdsls) |
 | [EVM Toolkit](https://github.com/raycast/extensions/tree/main/extensions/evm-toolkit) | 16 | A toolkit for Ethereum power users: explore addresses, transactions, and blocks across EVM chains | imqdee | macOS, Windows | [store](https://www.raycast.com/imqdee/evm-toolkit) |

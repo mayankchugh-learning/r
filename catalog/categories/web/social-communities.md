@@ -10,13 +10,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) | 15,395 | Switch between Chrome profiles and access their bookmarks instantly | frouo | macOS | [store](https://www.raycast.com/frouo/google-chrome-profiles) |
+| [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) | 15,406 | Switch between Chrome profiles and access their bookmarks instantly | frouo | macOS | [store](https://www.raycast.com/frouo/google-chrome-profiles) |
 | [@ Profile](https://github.com/raycast/extensions/tree/main/extensions/at-profile) | 973 | Quickly open profiles on social apps. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/at-profile) |
-| [Substack](https://github.com/raycast/extensions/tree/main/extensions/substack) | 709 | Search Substack posts and profiles from Raycast | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/substack) |
-| [Link Bundles](https://github.com/raycast/extensions/tree/main/extensions/link-bundles) | 671 | Efficiently manage and launch groups of links in specific Chrome profiles. | toni_birka | macOS | [store](https://www.raycast.com/toni_birka/link-bundles) |
+| [Substack](https://github.com/raycast/extensions/tree/main/extensions/substack) | 711 | Search Substack posts and profiles from Raycast | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/substack) |
+| [Link Bundles](https://github.com/raycast/extensions/tree/main/extensions/link-bundles) | 672 | Efficiently manage and launch groups of links in specific Chrome profiles. | toni_birka | macOS | [store](https://www.raycast.com/toni_birka/link-bundles) |
 | [Web3 Profile](https://github.com/raycast/extensions/tree/main/extensions/web3-profile) | 448 | Search for ENS names and view its profile — Avatar, description, social URLs and more! | peduarte | macOS, Windows | [store](https://www.raycast.com/peduarte/web3-profile) |
 | [Farcaster](https://github.com/raycast/extensions/tree/main/extensions/farcaster) | 128 | Most comprehensive extension for Farcaster. Search for casts, profiles and explore details. | artivilla | macOS | [store](https://www.raycast.com/artivilla/farcaster) |
-| [Web3.bio](https://github.com/raycast/extensions/tree/main/extensions/web3bio) | 110 | Discover ENS, Farcaster, Lens and Web3 universal profiles | web3bio | macOS | [store](https://www.raycast.com/web3bio/web3bio) |
+| [Web3.bio](https://github.com/raycast/extensions/tree/main/extensions/web3bio) | 111 | Discover ENS, Farcaster, Lens and Web3 universal profiles | web3bio | macOS | [store](https://www.raycast.com/web3bio/web3bio) |
 | [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router) | 12 | Route search queries and URLs to any installed browser and profile on Windows. | raghavg02 | Windows | [store](https://www.raycast.com/raghavg02/browser-router) |
 | [Aimlab Tracker](https://github.com/raycast/extensions/tree/main/extensions/aimlab) | 11 | Track player profiles and leaderboards on Aimlab | Whitespace | macOS | [store](https://www.raycast.com/Whitespace/aimlab) |
 
@@ -34,7 +34,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Bluesky](https://github.com/raycast/extensions/tree/main/extensions/bluesky) | 2,462 | Browse through your Bluesky timeline. Create new posts, find people, and view your notifications. | dharamkapila | macOS | [store](https://www.raycast.com/dharamkapila/bluesky) |
+| [Bluesky](https://github.com/raycast/extensions/tree/main/extensions/bluesky) | 2,464 | Browse through your Bluesky timeline. Create new posts, find people, and view your notifications. | dharamkapila | macOS | [store](https://www.raycast.com/dharamkapila/bluesky) |
 | [Pinboard](https://github.com/raycast/extensions/tree/main/extensions/pinboard) | 1,650 | Post new bookmarks to Pinboard and search through your Pinboard bookmarks. Tip: Assign a global shortcut to the "Add Bookmark" command, select a URL, and then… | fe9lix | macOS | [store](https://www.raycast.com/fe9lix/pinboard) |
 | [v2ex](https://github.com/raycast/extensions/tree/main/extensions/v2ex) | 838 | You can quickly access the 10 most popular posts of v2ex at the moment. Note: The v2ex home page can be reached by visiting https://www.v2ex.com/ through your… | leo | macOS | [store](https://www.raycast.com/leo/v2ex) |
 | [Beehiiv](https://github.com/raycast/extensions/tree/main/extensions/beehiiv) | 67 | Integrate beehiiv with Raycast, allowing you to search for posts, check statistics, show subscribers count in the menu bar, and more. | damian_zachwieja | macOS | [store](https://www.raycast.com/damian_zachwieja/beehiiv) |
@@ -44,10 +44,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 24,344 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
-| [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,822 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
+| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 24,365 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
+| [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,827 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 699 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
-| [Mastodon Search](https://github.com/raycast/extensions/tree/main/extensions/mastodon-search) | 380 | Search for People or Hashtags on Mastodon. | daveverwer | macOS | [store](https://www.raycast.com/daveverwer/mastodon-search) |
+| [Mastodon Search](https://github.com/raycast/extensions/tree/main/extensions/mastodon-search) | 381 | Search for People or Hashtags on Mastodon. | daveverwer | macOS | [store](https://www.raycast.com/daveverwer/mastodon-search) |
 | [Copy Skeet Link](https://github.com/raycast/extensions/tree/main/extensions/copy-skeet-link) | 38 | Create a rich Bluesky skeet link using skeeet.xyz. | justinw | macOS | [store](https://www.raycast.com/justinw/copy-skeet-link) |
 | [Akkoma](https://github.com/raycast/extensions/tree/main/extensions/akkoma) | 18 | Publish status from Raycast to Akkoma or Pleroma, and view your bookmarked status | SevicheCC | macOS | [store](https://www.raycast.com/SevicheCC/akkoma) |
 | [CommerceQuest](https://github.com/raycast/extensions/tree/main/extensions/commercequest) | 13 | Access Spryker's CommerceQuest Forum | skroll | macOS | [store](https://www.raycast.com/skroll/commercequest) |
