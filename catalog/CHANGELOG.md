@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-03 — upstream `56bb566a37`
+
+**Updated (1):** [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz)
+
 ## 2026-10-03 — upstream `f42e63ad6d`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
