@@ -29,7 +29,7 @@
 | [patrick-web](https://www.raycast.com/patrick-web) | 1 | 288 | **Developer Tools:** [Expo](https://github.com/raycast/extensions/tree/main/extensions/expo) |
 | [patricklenz](https://www.raycast.com/patricklenz) | 1 | 20 | **Productivity:** [Plaud](https://github.com/raycast/extensions/tree/main/extensions/plaud) |
 | [Paul12169](https://www.raycast.com/Paul12169) | 1 | 30 | **Productivity:** [Flashcards](https://github.com/raycast/extensions/tree/main/extensions/flashcards) |
-| [paulgit](https://www.raycast.com/paulgit) | 1 | 2 | **Productivity:** [GLM Models](https://github.com/raycast/extensions/tree/main/extensions/glm-models) |
+| [paulgit](https://www.raycast.com/paulgit) | 1 | 0 | **Productivity:** [GLM Models](https://github.com/raycast/extensions/tree/main/extensions/glm-models) |
 | [pauloedurezende](https://www.raycast.com/pauloedurezende) | 1 | 1,163 | **Developer Tools:** [Simulator Manager](https://github.com/raycast/extensions/tree/main/extensions/simulator-manager) |
 | [paulovictor237](https://www.raycast.com/paulovictor237) | 1 | 339 | **Productivity:** [NumPad](https://github.com/raycast/extensions/tree/main/extensions/numpad) |
 | [pavzagor](https://www.raycast.com/pavzagor) | 1 | 188 | **System:** [Extend Display](https://github.com/raycast/extensions/tree/main/extensions/extend-display) |
