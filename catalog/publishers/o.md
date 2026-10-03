@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · **O** · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-45 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+46 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -50,4 +50,5 @@
 | [owanesh](https://www.raycast.com/owanesh) | 1 | 85 | **Developer Tools:** [Shodan](https://github.com/raycast/extensions/tree/main/extensions/shodan) |
 | [oward](https://www.raycast.com/oward) | 1 | 20 | **Productivity:** [English Irregular Verbs](https://github.com/raycast/extensions/tree/main/extensions/english-irregular-verbs) |
 | [owen_wang](https://www.raycast.com/owen_wang) | 1 | 49 | **Productivity:** [WeRead Sync](https://github.com/raycast/extensions/tree/main/extensions/weread-sync) |
+| owendavidprice | 1 | — | **Productivity:** [Baalda](https://github.com/raycast/extensions/tree/main/extensions/baalda) |
 | [ozencb](https://www.raycast.com/ozencb) | 1 | 4,501 | **Productivity:** [Obsidian Tasks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-tasks) |

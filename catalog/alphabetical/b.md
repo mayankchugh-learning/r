@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · **B** · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-135 extensions · [← catalog index](../README.md)
+136 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -141,3 +141,4 @@
 | [Bitcoin Tools](https://github.com/raycast/extensions/tree/main/extensions/bitcoin-tools) | 3 | Generate, convert, and inspect Bitcoin SV keys, addresses, scripts, transactions, and market data. | satchmo | macOS | [store](https://www.raycast.com/satchmo/bitcoin-tools) |
 | [Bookface](https://github.com/raycast/extensions/tree/main/extensions/bookface) | 3 | Search Bookface and chat with the YC Agent from Raycast. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/bookface) |
 | [BetterShot](https://github.com/raycast/extensions/tree/main/extensions/bettershot) | 0 | Capture screenshots, scan text, pick colors, and open recording options with BetterShot. | andyli_lfs898 | macOS | [store](https://www.raycast.com/andyli_lfs898/bettershot) |
+| [Baalda](https://github.com/raycast/extensions/tree/main/extensions/baalda) | — | Manage your Baalda second brain from Raycast with note capture, search, folders, and AI tools. | owendavidprice | macOS, Windows | — |

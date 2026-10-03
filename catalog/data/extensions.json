@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6f5536e2aa2807e2149d47ba0fef77898f495375",
-  "generatedAt": "2026-10-03T02:03:32.492Z",
-  "downloadsRefreshedAt": "2026-10-03T02:03:31.641Z",
-  "count": 3366,
+  "commit": "cb1cbed070a7f0291952d1eef7f68c3423cf72e9",
+  "generatedAt": "2026-10-03T02:16:38.300Z",
+  "downloadsRefreshedAt": "2026-10-03T02:16:37.443Z",
+  "count": 3367,
   "extensions": [
     {
       "dir": "0x0",
@@ -3765,6 +3765,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/azure-tts-raycast-extension",
       "treeSha": "a11a5ae63242a880fe140025d6e0d9ec0e94568f",
       "downloads": 168
+    },
+    {
+      "dir": "baalda",
+      "name": "baalda",
+      "title": "Baalda",
+      "description": "Manage your Baalda second brain from Raycast with note capture, search, folders, and AI tools.",
+      "author": "owendavidprice",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/baalda",
+      "treeSha": "b1a9135b4bff0dccf1bcb995b5a449f5333df478",
+      "downloads": null
     },
     {
       "dir": "background-sounds",
@@ -10316,7 +10337,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 610388
+      "downloads": 610392
     },
     {
       "dir": "color-shades",
@@ -23067,7 +23088,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566837
+      "downloads": 566840
     },
     {
       "dir": "google-chrome-profiles",
@@ -29578,7 +29599,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 769617
+      "downloads": 769620
     },
     {
       "dir": "kimai",
@@ -36184,7 +36205,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "97861fbc2df50106d75b35bba87f787052d7377d",
-      "downloads": 42846
+      "downloads": 42868
     },
     {
       "dir": "models-dev",

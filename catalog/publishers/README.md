@@ -1,6 +1,6 @@
 # Publishers
 
-2260 publishers · [← catalog index](../README.md)
+2261 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,290,333 |
-| 2 | [raycast](./id/raycast.md) | 11 | 901,326 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 769,617 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,837 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,290,337 |
+| 2 | [raycast](./id/raycast.md) | 11 | 901,348 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 769,620 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 566,840 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 494,819 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 491,110 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 457,247 |
@@ -2268,3 +2268,4 @@
 | 2258 | github-next | 2 | — |
 | 2259 | eugenio | 1 | — |
 | 2260 | multi | 1 | — |
+| 2261 | owendavidprice | 1 | — |

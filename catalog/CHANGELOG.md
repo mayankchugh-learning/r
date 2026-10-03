@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-03 — upstream `cb1cbed070`
+
+**Added (1):** [Baalda](https://github.com/raycast/extensions/tree/main/extensions/baalda)
+
 ## 2026-10-03 — upstream `6f5536e2aa`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
