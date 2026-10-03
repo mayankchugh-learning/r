@@ -7,16 +7,16 @@
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [r0hin](https://www.raycast.com/r0hin) | 1 | 305 | **Fun:** [Urban Dictionary Word of the Day](https://github.com/raycast/extensions/tree/main/extensions/raycast-urbandictionary-word-of-the-day) |
-| [radouane-tamouss](https://www.raycast.com/radouane-tamouss) | 1 | 1,720 | **Productivity:** [Monkeytype](https://github.com/raycast/extensions/tree/main/extensions/monkeytype) |
+| [radouane-tamouss](https://www.raycast.com/radouane-tamouss) | 1 | 1,722 | **Productivity:** [Monkeytype](https://github.com/raycast/extensions/tree/main/extensions/monkeytype) |
 | [rafael_garcia](https://www.raycast.com/rafael_garcia) | 1 | 1,786 | **Media:** [Letterboxd](https://github.com/raycast/extensions/tree/main/extensions/letterboxd) |
 | [rafaelvicio](https://www.raycast.com/rafaelvicio) | 1 | 168 | **Data:** [Esports Pass](https://github.com/raycast/extensions/tree/main/extensions/esports-pass) |
 | [rafal_zawadzki](https://www.raycast.com/rafal_zawadzki) | 2 | 1,509 | **Productivity:** [Gistly](https://github.com/raycast/extensions/tree/main/extensions/gistly), [Chatwith](https://github.com/raycast/extensions/tree/main/extensions/chatwith) |
 | [rafalpetryka](https://www.raycast.com/rafalpetryka) | 1 | 245 | **System:** [Openfortivpn](https://github.com/raycast/extensions/tree/main/extensions/openfortivpn) |
-| [raffeyang](https://www.raycast.com/raffeyang) | 2 | 7,612 | **Communication:** [WeChat](https://github.com/raycast/extensions/tree/main/extensions/wechat)<br>**Productivity:** [Chinese Numbers](https://github.com/raycast/extensions/tree/main/extensions/chinese-numbers) |
+| [raffeyang](https://www.raycast.com/raffeyang) | 2 | 7,615 | **Communication:** [WeChat](https://github.com/raycast/extensions/tree/main/extensions/wechat)<br>**Productivity:** [Chinese Numbers](https://github.com/raycast/extensions/tree/main/extensions/chinese-numbers) |
 | [RaffeYang](https://www.raycast.com/raffeyang) | 1 | 12 | **Design Tools:** [Chinese Traditional Colors](https://github.com/raycast/extensions/tree/main/extensions/chinese-traditional-colors) |
-| [Rafo94](https://www.raycast.com/Rafo94) | 1 | 12,090 | **Productivity:** [Easy OCR](https://github.com/raycast/extensions/tree/main/extensions/easy-ocr) |
+| [Rafo94](https://www.raycast.com/Rafo94) | 1 | 12,099 | **Productivity:** [Easy OCR](https://github.com/raycast/extensions/tree/main/extensions/easy-ocr) |
 | [raghavg02](https://www.raycast.com/raghavg02) | 1 | 12 | **Productivity:** [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router) |
-| [ragnor](https://www.raycast.com/ragnor) | 2 | 9,335 | **News:** [Product Hunt](https://github.com/raycast/extensions/tree/main/extensions/producthunt)<br>**AI:** [Huggingcast](https://github.com/raycast/extensions/tree/main/extensions/huggingcast) |
+| [ragnor](https://www.raycast.com/ragnor) | 2 | 9,339 | **News:** [Product Hunt](https://github.com/raycast/extensions/tree/main/extensions/producthunt)<br>**AI:** [Huggingcast](https://github.com/raycast/extensions/tree/main/extensions/huggingcast) |
 | [RahulatRaycast](https://www.raycast.com/RahulatRaycast) | 1 | 80 | **Design Tools:** [Geist UI Components & Hooks](https://github.com/raycast/extensions/tree/main/extensions/geist-ui-components) |
 | [rahulchowdhury](https://www.raycast.com/rahulchowdhury) | 1 | 11 | **Finance:** [Ducat](https://github.com/raycast/extensions/tree/main/extensions/ducat) |
 | [raihan_khan](https://www.raycast.com/raihan_khan) | 1 | 14 | **Productivity:** [Algorand](https://github.com/raycast/extensions/tree/main/extensions/algorand) |
@@ -24,83 +24,83 @@
 | [raj_asha](https://www.raycast.com/raj_asha) | 1 | 208 | **Productivity:** [Prisma CLI Commands](https://github.com/raycast/extensions/tree/main/extensions/prisma-cli-commands) |
 | [ramysamy](https://www.raycast.com/ramysamy) | 1 | 13 | **Productivity:** [Don't Break the Chain](https://github.com/raycast/extensions/tree/main/extensions/don-t-break-the-chain) |
 | [rasheed_s](https://www.raycast.com/rasheed_s) | 1 | 146 | **Productivity:** [FitDesk](https://github.com/raycast/extensions/tree/main/extensions/fitdesk) |
-| [rasmusbe](https://www.raycast.com/rasmusbe) | 2 | 27,670 | **Developer Tools:** [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns)<br>**Productivity:** [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) |
-| [ratoru](https://www.raycast.com/ratoru) | 2 | 55,031 | **Web:** [Google Maps Search](https://github.com/raycast/extensions/tree/main/extensions/google-maps-search)<br>**Uncategorized:** [HazeOver Controls](https://github.com/raycast/extensions/tree/main/extensions/hazeover) |
-| [raulanatol](https://www.raycast.com/raulanatol) | 1 | 1,579 | **Design Tools:** [PX to Rem Converter](https://github.com/raycast/extensions/tree/main/extensions/px-to-rem-converter) |
+| [rasmusbe](https://www.raycast.com/rasmusbe) | 2 | 27,684 | **Developer Tools:** [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns)<br>**Productivity:** [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) |
+| [ratoru](https://www.raycast.com/ratoru) | 2 | 55,065 | **Web:** [Google Maps Search](https://github.com/raycast/extensions/tree/main/extensions/google-maps-search)<br>**Uncategorized:** [HazeOver Controls](https://github.com/raycast/extensions/tree/main/extensions/hazeover) |
+| [raulanatol](https://www.raycast.com/raulanatol) | 1 | 1,580 | **Design Tools:** [PX to Rem Converter](https://github.com/raycast/extensions/tree/main/extensions/px-to-rem-converter) |
 | [rauno](https://www.raycast.com/rauno) | 1 | 1,883 | **Applications:** [(Basic) Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/bmrks) |
 | [ravi_s](https://www.raycast.com/ravi_s) | 1 | 12 | **Data:** [EdgeStore](https://github.com/raycast/extensions/tree/main/extensions/edgestore-raycast) |
 | [ray_tan](https://www.raycast.com/ray_tan) | 1 | 35 | **Developer Tools:** [Auth0 Management](https://github.com/raycast/extensions/tree/main/extensions/auth0-management) |
-| [ray.dhruv](https://www.raycast.com/ray.dhruv) | 1 | 5 | **Design Tools:** [Museum](https://github.com/raycast/extensions/tree/main/extensions/try-museum) |
-| [raycast](./id/raycast.md) | 11 | 902,051 | [see all 11 →](./id/raycast.md) |
+| [ray.dhruv](https://www.raycast.com/ray.dhruv) | 1 | 6 | **Design Tools:** [Museum](https://github.com/raycast/extensions/tree/main/extensions/try-museum) |
+| [raycast](./id/raycast.md) | 11 | 902,542 | [see all 11 →](./id/raycast.md) |
 | [raycast_0ukl](https://www.raycast.com/raycast_0ukl) | 1 | 9 | **Developer Tools:** [Aqua Registry Search](https://github.com/raycast/extensions/tree/main/extensions/aqua-registry-search) |
 | [Raynold](https://www.raycast.com/Raynold) | 1 | 9 | **Productivity:** [PlanWell](https://github.com/raycast/extensions/tree/main/extensions/planwell) |
 | [raz_gaon](https://www.raycast.com/raz_gaon) | 1 | 1,148 | **Productivity:** [Notion Researcher](https://github.com/raycast/extensions/tree/main/extensions/notion_researcher) |
 | [razz13](https://www.raycast.com/razz13) | 1 | 21 | **Productivity:** [Habitify](https://github.com/raycast/extensions/tree/main/extensions/habitify-raycast) |
-| [rbstp](https://www.raycast.com/rbstp) | 1 | 4 | **System:** [Heed](https://github.com/raycast/extensions/tree/main/extensions/heed) |
+| [rbstp](https://www.raycast.com/rbstp) | 1 | 5 | **System:** [Heed](https://github.com/raycast/extensions/tree/main/extensions/heed) |
 | [rclone](https://www.raycast.com/rclone) | 1 | 207 | **Data:** [rclone](https://github.com/raycast/extensions/tree/main/extensions/rclone-raycast) |
 | [rcouto](https://www.raycast.com/rcouto) | 2 | 348 | **System:** [Mac Network Location Changer](https://github.com/raycast/extensions/tree/main/extensions/mac-network-location-changer)<br>**Applications:** [Capso](https://github.com/raycast/extensions/tree/main/extensions/capso) |
-| [reboot](https://www.raycast.com/reboot) | 1 | 11,819 | **Developer Tools:** [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) |
-| [reckoning-dev](https://www.raycast.com/reckoning-dev) | 4 | 33,552 | **Productivity:** [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion), [Search Zotero](https://github.com/raycast/extensions/tree/main/extensions/zotero)<br>**Web:** [Search Stack Exchange Sites](https://github.com/raycast/extensions/tree/main/extensions/stackoverflow)<br>**Developer Tools:** [MLDocs](https://github.com/raycast/extensions/tree/main/extensions/mldocs) |
-| [reclaim-ai](https://www.raycast.com/reclaim-ai) | 1 | 14,252 | **Productivity:** [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) |
-| [red.avtovo](https://www.raycast.com/red.avtovo) | 1 | 749 | **Productivity:** [Punto Switcher](https://github.com/raycast/extensions/tree/main/extensions/punto) |
+| [reboot](https://www.raycast.com/reboot) | 1 | 11,823 | **Developer Tools:** [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) |
+| [reckoning-dev](https://www.raycast.com/reckoning-dev) | 4 | 33,569 | **Productivity:** [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion), [Search Zotero](https://github.com/raycast/extensions/tree/main/extensions/zotero)<br>**Web:** [Search Stack Exchange Sites](https://github.com/raycast/extensions/tree/main/extensions/stackoverflow)<br>**Developer Tools:** [MLDocs](https://github.com/raycast/extensions/tree/main/extensions/mldocs) |
+| [reclaim-ai](https://www.raycast.com/reclaim-ai) | 1 | 14,259 | **Productivity:** [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) |
+| [red.avtovo](https://www.raycast.com/red.avtovo) | 1 | 750 | **Productivity:** [Punto Switcher](https://github.com/raycast/extensions/tree/main/extensions/punto) |
 | [Rediwed](https://www.raycast.com/Rediwed) | 1 | 20 | **Developer Tools:** [Microsoft Tenant ID](https://github.com/raycast/extensions/tree/main/extensions/microsoft-tenant-id) |
-| [relevantsam](https://www.raycast.com/relevantsam) | 1 | 88 | **Fun:** [Luna Search](https://github.com/raycast/extensions/tree/main/extensions/luna-search) |
+| [relevantsam](https://www.raycast.com/relevantsam) | 1 | 89 | **Fun:** [Luna Search](https://github.com/raycast/extensions/tree/main/extensions/luna-search) |
 | [rembridge](https://www.raycast.com/rembridge) | 1 | 118 | **Uncategorized:** [Text Rewrap](https://github.com/raycast/extensions/tree/main/extensions/text-rewrap) |
 | [RemiBonnet](https://www.raycast.com/remibonnet) | 1 | 11 | **Developer Tools:** [Qovery](https://github.com/raycast/extensions/tree/main/extensions/qovery) |
 | [remo_fritzsche](https://www.raycast.com/remo_fritzsche) | 1 | 63 | **Productivity:** [Rubygem Documentation Browser](https://github.com/raycast/extensions/tree/main/extensions/open-gem-documentation) |
-| [RenderCoder](https://www.raycast.com/RenderCoder) | 1 | 3,839 | **Media:** [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) |
-| [renfei_song](https://www.raycast.com/renfei_song) | 1 | 8,911 | **Developer Tools:** [SnippetsLab](https://github.com/raycast/extensions/tree/main/extensions/snippetslab) |
+| [RenderCoder](https://www.raycast.com/RenderCoder) | 1 | 3,840 | **Media:** [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) |
+| [renfei_song](https://www.raycast.com/renfei_song) | 1 | 8,924 | **Developer Tools:** [SnippetsLab](https://github.com/raycast/extensions/tree/main/extensions/snippetslab) |
 | [rennesis](https://www.raycast.com/rennesis) | 1 | 86 | **Productivity:** [Voice-to-Text for Windows](https://github.com/raycast/extensions/tree/main/extensions/voice-to-text-windows) |
 | [RensHoogendam](https://www.raycast.com/RensHoogendam) | 1 | 218 | **Uncategorized:** [Plexus - Localhost Search](https://github.com/raycast/extensions/tree/main/extensions/plexus) |
-| [renzo](https://www.raycast.com/renzo) | 3 | 4,302 | **Productivity:** [Prompt Stash](https://github.com/raycast/extensions/tree/main/extensions/prompt-stash), [SnapAsk](https://github.com/raycast/extensions/tree/main/extensions/snapask)<br>**Developer Tools:** [Rails Routes](https://github.com/raycast/extensions/tree/main/extensions/rails-routes) |
+| [renzo](https://www.raycast.com/renzo) | 3 | 4,305 | **Productivity:** [Prompt Stash](https://github.com/raycast/extensions/tree/main/extensions/prompt-stash), [SnapAsk](https://github.com/raycast/extensions/tree/main/extensions/snapask)<br>**Developer Tools:** [Rails Routes](https://github.com/raycast/extensions/tree/main/extensions/rails-routes) |
 | [resend](https://www.raycast.com/resend) | 1 | 1,294 | **Communication:** [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) |
-| [resessh](https://www.raycast.com/resessh) | 1 | 2,145 | **Productivity:** [GitHub Review Requests](https://github.com/raycast/extensions/tree/main/extensions/github-review-requests) |
+| [resessh](https://www.raycast.com/resessh) | 1 | 2,146 | **Productivity:** [GitHub Review Requests](https://github.com/raycast/extensions/tree/main/extensions/github-review-requests) |
 | [resmo](https://www.raycast.com/resmo) | 1 | 72 | **Security:** [Resmo](https://github.com/raycast/extensions/tree/main/extensions/resmo) |
 | [rewiser_io](https://www.raycast.com/rewiser_io) | 1 | 19 | **Finance:** [Rewiser](https://github.com/raycast/extensions/tree/main/extensions/rewiser) |
-| [RG-IL](https://www.raycast.com/RG-IL) | 1 | 46 | **Developer Tools:** [Neovim](https://github.com/raycast/extensions/tree/main/extensions/neovim) |
+| [RG-IL](https://www.raycast.com/RG-IL) | 1 | 47 | **Developer Tools:** [Neovim](https://github.com/raycast/extensions/tree/main/extensions/neovim) |
 | [rgllm](https://www.raycast.com/rgllm) | 1 | 11 | **Finance:** [NIF - Portugal Tax Number Lookup](https://github.com/raycast/extensions/tree/main/extensions/nif) |
 | [rhrabun](https://www.raycast.com/rhrabun) | 1 | 99 | **Productivity:** [Shortcut Library](https://github.com/raycast/extensions/tree/main/extensions/shortcut-library) |
 | [rhuk](https://www.raycast.com/rhuk) | 2 | 275 | **Developer Tools:** [Clean Agent Text](https://github.com/raycast/extensions/tree/main/extensions/clean-agent-text), [Decimal 2 Time](https://github.com/raycast/extensions/tree/main/extensions/decimal-2-time) |
 | [RhysLees](https://www.raycast.com/RhysLees) | 1 | 162 | **Developer Tools:** [Websocket Debugging](https://github.com/raycast/extensions/tree/main/extensions/websocket-debugging) |
 | [rickMcGavin](https://www.raycast.com/rickMcGavin) | 1 | 2,791 | **Developer Tools:** [SVGR](https://github.com/raycast/extensions/tree/main/extensions/svgr) |
 | [riclib](https://www.raycast.com/riclib) | 1 | 80 | **Media:** [Volumio Control](https://github.com/raycast/extensions/tree/main/extensions/volumio-control) |
-| [ricoberger](https://www.raycast.com/ricoberger) | 3 | 6,209 | **Developer Tools:** [Gitmoji Search](https://github.com/raycast/extensions/tree/main/extensions/gitmoji), [Opsgenie](https://github.com/raycast/extensions/tree/main/extensions/opsgenie)<br>**Security:** [Yopass](https://github.com/raycast/extensions/tree/main/extensions/yopass) |
+| [ricoberger](https://www.raycast.com/ricoberger) | 3 | 6,211 | **Developer Tools:** [Gitmoji Search](https://github.com/raycast/extensions/tree/main/extensions/gitmoji), [Opsgenie](https://github.com/raycast/extensions/tree/main/extensions/opsgenie)<br>**Security:** [Yopass](https://github.com/raycast/extensions/tree/main/extensions/yopass) |
 | [ricoloic](https://www.raycast.com/ricoloic) | 1 | 9 | **System:** [Storage Benchmark](https://github.com/raycast/extensions/tree/main/extensions/storage-benchmark) |
 | [ride-space](https://www.raycast.com/ride-space) | 1 | 1,105 | **Uncategorized:** [Unix Timestamp Converter](https://github.com/raycast/extensions/tree/main/extensions/unix-timestamp-converter) |
-| [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,751 | [see all 16 →](./id/ridemountainpig.md) |
-| [riomadeit](https://www.raycast.com/riomadeit) | 1 | 6,615 | **Developer Tools:** [Font Sniper](https://github.com/raycast/extensions/tree/main/extensions/font-sniper) |
-| [rishabswift](https://www.raycast.com/rishabswift) | 2 | 32,308 | **Productivity:** [Word Search](https://github.com/raycast/extensions/tree/main/extensions/word-search)<br>**Media:** [JustWatch Search](https://github.com/raycast/extensions/tree/main/extensions/justwatch-search) |
-| [rishi](https://www.raycast.com/rishi) | 2 | 1,112 | **Design Tools:** [Pika](https://github.com/raycast/extensions/tree/main/extensions/pika)<br>**Web:** [Orshot](https://github.com/raycast/extensions/tree/main/extensions/orshot) |
+| [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,759 | [see all 16 →](./id/ridemountainpig.md) |
+| [riomadeit](https://www.raycast.com/riomadeit) | 1 | 6,620 | **Developer Tools:** [Font Sniper](https://github.com/raycast/extensions/tree/main/extensions/font-sniper) |
+| [rishabswift](https://www.raycast.com/rishabswift) | 2 | 32,320 | **Productivity:** [Word Search](https://github.com/raycast/extensions/tree/main/extensions/word-search)<br>**Media:** [JustWatch Search](https://github.com/raycast/extensions/tree/main/extensions/justwatch-search) |
+| [rishi](https://www.raycast.com/rishi) | 2 | 1,113 | **Design Tools:** [Pika](https://github.com/raycast/extensions/tree/main/extensions/pika)<br>**Web:** [Orshot](https://github.com/raycast/extensions/tree/main/extensions/orshot) |
 | [rita_mordio](https://www.raycast.com/rita_mordio) | 1 | 837 | **Applications:** [Papago Translate](https://github.com/raycast/extensions/tree/main/extensions/papago-translate) |
 | [rithmic](https://www.raycast.com/rithmic) | 1 | 53 | **Productivity:** [Raycall](https://github.com/raycast/extensions/tree/main/extensions/raycall) |
 | [rkjaer](https://www.raycast.com/rkjaer) | 1 | 1,757 | **Productivity:** [Random Email](https://github.com/raycast/extensions/tree/main/extensions/random-email) |
 | [rkusa](https://www.raycast.com/rkusa) | 1 | 323 | **Developer Tools:** [Cache-Control Builder](https://github.com/raycast/extensions/tree/main/extensions/cache-control-builder) |
-| [rmartins](https://www.raycast.com/rmartins) | 1 | 239 | **Productivity:** [MarkMarks](https://github.com/raycast/extensions/tree/main/extensions/markmarks) |
-| [roamresearch](https://www.raycast.com/roamresearch) | 1 | 1,169 | **Productivity:** [Roam Research](https://github.com/raycast/extensions/tree/main/extensions/roam-research) |
-| [Rob](./id/rob.md) | 11 | 12,340 | [see all 11 →](./id/rob.md) |
-| [rob_brown96cc](https://www.raycast.com/rob_brown96cc) | 1 | 25 | **Finance:** [UniRate Currency](https://github.com/raycast/extensions/tree/main/extensions/unirate-currency) |
+| [rmartins](https://www.raycast.com/rmartins) | 1 | 240 | **Productivity:** [MarkMarks](https://github.com/raycast/extensions/tree/main/extensions/markmarks) |
+| [roamresearch](https://www.raycast.com/roamresearch) | 1 | 1,170 | **Productivity:** [Roam Research](https://github.com/raycast/extensions/tree/main/extensions/roam-research) |
+| [Rob](./id/rob.md) | 11 | 12,347 | [see all 11 →](./id/rob.md) |
+| [rob_brown96cc](https://www.raycast.com/rob_brown96cc) | 1 | 26 | **Finance:** [UniRate Currency](https://github.com/raycast/extensions/tree/main/extensions/unirate-currency) |
 | [robertguss](https://www.raycast.com/robertguss) | 1 | 342 | **Documentation:** [Cypress Documentation](https://github.com/raycast/extensions/tree/main/extensions/cypress-docs) |
 | [robertoalvarezalonso](https://www.raycast.com/robertoalvarezalonso) | 1 | 219 | **Productivity:** [ServiceNow](https://github.com/raycast/extensions/tree/main/extensions/servicenow) |
 | [robimez](https://www.raycast.com/robimez) | 1 | 9 | **Productivity:** [Wip.et](https://github.com/raycast/extensions/tree/main/extensions/wipet) |
-| [robinradx](https://www.raycast.com/robinradx) | 1 | 95 | **Productivity:** [TaskNotes](https://github.com/raycast/extensions/tree/main/extensions/tasknotes) |
+| [robinradx](https://www.raycast.com/robinradx) | 1 | 97 | **Productivity:** [TaskNotes](https://github.com/raycast/extensions/tree/main/extensions/tasknotes) |
 | [robsel118](https://www.raycast.com/robsel118) | 1 | 283 | **Productivity:** [Wise Accounts](https://github.com/raycast/extensions/tree/main/extensions/wise-accounts) |
 | [rocksack](https://www.raycast.com/rocksack) | 2 | 2,876 | **Uncategorized:** [8 Ball](https://github.com/raycast/extensions/tree/main/extensions/8ball)<br>**Productivity:** [Advanced Replace](https://github.com/raycast/extensions/tree/main/extensions/advanced-replace) |
 | [rodolfo_lopez](https://www.raycast.com/rodolfo_lopez) | 1 | 77 | **Productivity:** [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy) |
 | [rodrigoarias](https://www.raycast.com/rodrigoarias) | 1 | 327 | **Productivity:** [Project Hub](https://github.com/raycast/extensions/tree/main/extensions/project-hub) |
 | [rodrigoherera](https://www.raycast.com/rodrigoherera) | 1 | 7 | **Finance:** [Chilean Indicators](https://github.com/raycast/extensions/tree/main/extensions/cl-indicators) |
 | [rodrigouroz](https://www.raycast.com/rodrigouroz) | 1 | 2,039 | **Data:** [Upcoming Holidays](https://github.com/raycast/extensions/tree/main/extensions/upcoming-holidays) |
-| [roele](https://www.raycast.com/roele) | 3 | 1,839 | **System:** [Doorstopper](https://github.com/raycast/extensions/tree/main/extensions/doorstopper)<br>**Developer Tools:** [Simple Http](https://github.com/raycast/extensions/tree/main/extensions/simple-http)<br>**Media:** [WiiM Remote](https://github.com/raycast/extensions/tree/main/extensions/wiim-remote) |
+| [roele](https://www.raycast.com/roele) | 3 | 1,842 | **System:** [Doorstopper](https://github.com/raycast/extensions/tree/main/extensions/doorstopper)<br>**Developer Tools:** [Simple Http](https://github.com/raycast/extensions/tree/main/extensions/simple-http)<br>**Media:** [WiiM Remote](https://github.com/raycast/extensions/tree/main/extensions/wiim-remote) |
 | [roelvan](https://www.raycast.com/roelvan) | 1 | 839 | **Developer Tools:** [Generate Nanoid](https://github.com/raycast/extensions/tree/main/extensions/nanoid) |
 | [rogovk](https://www.raycast.com/rogovk) | 1 | 6 | **Productivity:** [Keyboard Layout Search](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search) |
-| [rokartur](https://www.raycast.com/rokartur) | 2 | 1,029 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
-| [rokcso](https://www.raycast.com/rokcso) | 1 | 726 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
-| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 769,885 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
+| [rokartur](https://www.raycast.com/rokartur) | 2 | 1,030 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
+| [rokcso](https://www.raycast.com/rokcso) | 1 | 727 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
+| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 770,149 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
 | [rolfkoenders](https://www.raycast.com/RolfKoenders) | 1 | 21 | **Productivity:** [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) |
 | [Romain](https://www.raycast.com/Romain) | 1 | 638 | **Applications:** [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) |
 | [romain_lajeunesse](https://www.raycast.com/romain_lajeunesse) | 1 | 4 | **Developer Tools:** [Gatus Status](https://github.com/raycast/extensions/tree/main/extensions/gatus-status) |
 | [RomanVPX](https://www.raycast.com/RomanVPX) | 1 | 5 | **Developer Tools:** [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) |
 | [RomiC](https://www.raycast.com/RomiC) | 1 | 2 | **Media:** [AudioCast Control](https://github.com/raycast/extensions/tree/main/extensions/audiocast-control) |
-| [ron-myers](https://www.raycast.com/ron-myers) | 5 | 97,437 | **Applications:** [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm), [Brave](https://github.com/raycast/extensions/tree/main/extensions/brave), [Terminal](https://github.com/raycast/extensions/tree/main/extensions/terminal)<br>**Communication:** [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime)<br>**Media:** [Podcasts](https://github.com/raycast/extensions/tree/main/extensions/podcasts) |
+| [ron-myers](https://www.raycast.com/ron-myers) | 5 | 97,497 | **Applications:** [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm), [Brave](https://github.com/raycast/extensions/tree/main/extensions/brave), [Terminal](https://github.com/raycast/extensions/tree/main/extensions/terminal)<br>**Communication:** [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime)<br>**Media:** [Podcasts](https://github.com/raycast/extensions/tree/main/extensions/podcasts) |
 | [ronglecat](https://www.raycast.com/ronglecat) | 1 | 362 | **Developer Tools:** [Cheetah](https://github.com/raycast/extensions/tree/main/extensions/cheetah) |
 | [rosszurowski](https://www.raycast.com/rosszurowski) | 1 | 69 | **Developer Tools:** [xid](https://github.com/raycast/extensions/tree/main/extensions/xid) |
 | [rosvik](https://www.raycast.com/rosvik) | 1 | 134 | **Web:** [Norwegian Public Transport](https://github.com/raycast/extensions/tree/main/extensions/norwegian-public-transport) |
@@ -108,9 +108,9 @@
 | [rpenco](https://www.raycast.com/rpenco) | 1 | 114 | **Web:** [Inspire HEP Search](https://github.com/raycast/extensions/tree/main/extensions/inspire-search) |
 | [rpvsilva](https://www.raycast.com/rpvsilva) | 1 | 2,038 | **Developer Tools:** [Kubernetes Documenation](https://github.com/raycast/extensions/tree/main/extensions/kubernetes-docs) |
 | [rrajath](https://www.raycast.com/rrajath) | 1 | 1,455 | **Other:** [Stoic Quotes](https://github.com/raycast/extensions/tree/main/extensions/stoicquotes) |
-| [rrmaximiliano](https://www.raycast.com/rrmaximiliano) | 1 | 118 | **Developer Tools:** [Positron](https://github.com/raycast/extensions/tree/main/extensions/positron) |
+| [rrmaximiliano](https://www.raycast.com/rrmaximiliano) | 1 | 119 | **Developer Tools:** [Positron](https://github.com/raycast/extensions/tree/main/extensions/positron) |
 | [rrroyal](https://www.raycast.com/rrroyal) | 1 | 113 | **Web:** [DekuDeals](https://github.com/raycast/extensions/tree/main/extensions/dekudeals) |
-| [RSO](https://www.raycast.com/RSO) | 1 | 24,738 | **Documentation:** [Dash](https://github.com/raycast/extensions/tree/main/extensions/dash) |
+| [RSO](https://www.raycast.com/RSO) | 1 | 24,750 | **Documentation:** [Dash](https://github.com/raycast/extensions/tree/main/extensions/dash) |
 | [rubisco0211](https://www.raycast.com/rubisco0211) | 1 | 61 | **Applications:** [PicGo](https://github.com/raycast/extensions/tree/main/extensions/picgo) |
 | [ruiaureliano](https://www.raycast.com/ruiaureliano) | 1 | 172 | **Developer Tools:** [Lyne](https://github.com/raycast/extensions/tree/main/extensions/lyne) |
 | [runningdeveloper](https://www.raycast.com/runningdeveloper) | 1 | 35 | **Developer Tools:** [South African Fake ID Number Generator](https://github.com/raycast/extensions/tree/main/extensions/za-fake-id-number-generator) |
@@ -119,7 +119,7 @@
 | [russellyeo](https://www.raycast.com/russellyeo) | 1 | 1,188 | **Documentation:** [Code Review Emoji Guide](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis) |
 | [rvaccone](https://www.raycast.com/rvaccone) | 1 | 16 | **Developer Tools:** [Effect Docs](https://github.com/raycast/extensions/tree/main/extensions/effect-docs) |
 | [rxtsel](https://www.raycast.com/rxtsel) | 1 | 15 | **Productivity:** [RPass](https://github.com/raycast/extensions/tree/main/extensions/rpass) |
-| [ryan](https://www.raycast.com/ryan) | 1 | 14,904 | **Media:** [IMDb Search](https://github.com/raycast/extensions/tree/main/extensions/imdb) |
+| [ryan](https://www.raycast.com/ryan) | 1 | 14,912 | **Media:** [IMDb Search](https://github.com/raycast/extensions/tree/main/extensions/imdb) |
 | [ryan_feigenbaum](https://www.raycast.com/ryan_feigenbaum) | 1 | 278 | **Documentation:** [Ghost - Docs Search](https://github.com/raycast/extensions/tree/main/extensions/ghost-docs) |
 | [ryanmiville](https://www.raycast.com/ryanmiville) | 1 | 97 | **Documentation:** [Gleam Packages](https://github.com/raycast/extensions/tree/main/extensions/gleam-packages) |
-| [ryon](https://www.raycast.com/ryon) | 1 | 2,280 | **Applications:** [Reflect](https://github.com/raycast/extensions/tree/main/extensions/reflect) |
+| [ryon](https://www.raycast.com/ryon) | 1 | 2,281 | **Applications:** [Reflect](https://github.com/raycast/extensions/tree/main/extensions/reflect) |

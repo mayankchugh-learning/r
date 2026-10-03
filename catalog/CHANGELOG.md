@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-03 — upstream `d2bd543af7`
+
+**Updated (1):** [Video Converter](https://github.com/raycast/extensions/tree/main/extensions/video-converter)
+
 ## 2026-10-03 — upstream `b1f84e6554`
 
 **Updated (1):** [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend)

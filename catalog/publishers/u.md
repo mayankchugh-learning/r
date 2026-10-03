@@ -6,13 +6,13 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [u-ran](https://www.raycast.com/u-ran) | 1 | 1,028 | **Applications:** [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) |
+| [u-ran](https://www.raycast.com/u-ran) | 1 | 1,029 | **Applications:** [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) |
 | [u2l](https://www.raycast.com/u2l) | 1 | 2 | **Productivity:** [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) |
 | [ubergraham](https://www.raycast.com/ubergraham) | 1 | 91 | **Other:** [ICD10 Lookup](https://github.com/raycast/extensions/tree/main/extensions/icd10-lookup) |
 | [ubinatus](https://www.raycast.com/ubinatus) | 1 | 1,155 | **Developer Tools:** [Ngrok](https://github.com/raycast/extensions/tree/main/extensions/ngrok) |
 | [ubuntudroid](https://www.raycast.com/ubuntudroid) | 1 | 434 | **Developer Tools:** [Photoroom Image Editing](https://github.com/raycast/extensions/tree/main/extensions/photoroom-image-editing) |
 | [udus](https://www.raycast.com/udus) | 1 | 87 | **Media:** [Gyazo Uploader](https://github.com/raycast/extensions/tree/main/extensions/gyazo-uploader) |
-| [uetchy](https://www.raycast.com/uetchy) | 3 | 1,731 | **Uncategorized:** [Nextcloud](https://github.com/raycast/extensions/tree/main/extensions/nextcloud)<br>**Web:** [Holodex](https://github.com/raycast/extensions/tree/main/extensions/holodex)<br>**Applications:** [Nature Remo](https://github.com/raycast/extensions/tree/main/extensions/nature-remo) |
+| [uetchy](https://www.raycast.com/uetchy) | 3 | 1,732 | **Uncategorized:** [Nextcloud](https://github.com/raycast/extensions/tree/main/extensions/nextcloud)<br>**Web:** [Holodex](https://github.com/raycast/extensions/tree/main/extensions/holodex)<br>**Applications:** [Nature Remo](https://github.com/raycast/extensions/tree/main/extensions/nature-remo) |
 | [uixmat](https://www.raycast.com/uixmat) | 1 | 14 | **Web:** [Bklit Analytics](https://github.com/raycast/extensions/tree/main/extensions/bklit-analytics) |
 | [ujjwal1998](https://www.raycast.com/ujjwal1998) | 1 | 633 | **Productivity:** [UpNote](https://github.com/raycast/extensions/tree/main/extensions/upnote) |
 | [uladkaminski](https://www.raycast.com/uladkaminski) | 1 | 61 | **Finance:** [Solana Wallets Generation](https://github.com/raycast/extensions/tree/main/extensions/solana-wallets-generation) |

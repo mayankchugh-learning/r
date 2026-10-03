@@ -10,10 +10,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Remove Paywall](https://github.com/raycast/extensions/tree/main/extensions/remove-paywall) | 86,137 | Remove the paywall from the selected or clipboard URL. | tegola | macOS, Windows | [store](https://www.raycast.com/tegola/remove-paywall) |
-| [URL Tools](https://github.com/raycast/extensions/tree/main/extensions/url-tools) | 14,043 | Quickly encode or decode URL from the clipboard | huzef44 | macOS | [store](https://www.raycast.com/huzef44/url-tools) |
+| [Remove Paywall](https://github.com/raycast/extensions/tree/main/extensions/remove-paywall) | 86,201 | Remove the paywall from the selected or clipboard URL. | tegola | macOS, Windows | [store](https://www.raycast.com/tegola/remove-paywall) |
+| [URL Tools](https://github.com/raycast/extensions/tree/main/extensions/url-tools) | 14,049 | Quickly encode or decode URL from the clipboard | huzef44 | macOS | [store](https://www.raycast.com/huzef44/url-tools) |
 | [URL Unshortener](https://github.com/raycast/extensions/tree/main/extensions/url-unshortener) | 1,656 | Unshorten/expand those pesky short links in your clipboard or text selection, enhancing your privacy and security. | sebdanielsson | macOS, Windows | [store](https://www.raycast.com/sebdanielsson/url-unshortener) |
-| [Create Link](https://github.com/raycast/extensions/tree/main/extensions/create-link) | 830 | Copy browser-tab links in various formats or turn a clipboard URL into a rich title hyperlink for Slack. | sinsky | macOS | [store](https://www.raycast.com/sinsky/create-link) |
+| [Create Link](https://github.com/raycast/extensions/tree/main/extensions/create-link) | 831 | Copy browser-tab links in various formats or turn a clipboard URL into a rich title hyperlink for Slack. | sinsky | macOS | [store](https://www.raycast.com/sinsky/create-link) |
 | [Masked Link Generator](https://github.com/raycast/extensions/tree/main/extensions/masked-link-generator) | 310 | Input a destination URL and the title of the link and receive a masked link in your clipboard. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/masked-link-generator) |
 | [Annotely](https://github.com/raycast/extensions/tree/main/extensions/annotely) | 143 | Instantly annotate images from your clipboard, Finder selection, or web URLs with Annotely. | codiini | macOS, Windows | [store](https://www.raycast.com/codiini/annotely) |
 | [curto.io URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/curto-io-url-shortener) | 113 | Quickly shorten the current clipboard URL with curto.io | birobirobiro | macOS | [store](https://www.raycast.com/birobirobiro/curto-io-url-shortener) |
@@ -22,8 +22,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/url-shortener) | 12,493 | Experience the joy of shortening URLs to your heart's desire with Raycast's URL Shortener! Enjoy the convenience of free URL shortening, without the need for a… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/url-shortener) |
-| [Liba.ro - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/liba-ro) | 506 | The Libaro powered URL shortener Shorten your URL in seconds | libaro | macOS | [store](https://www.raycast.com/libaro/liba-ro_shortener) |
+| [URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/url-shortener) | 12,501 | Experience the joy of shortening URLs to your heart's desire with Raycast's URL Shortener! Enjoy the convenience of free URL shortening, without the need for a… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/url-shortener) |
+| [Liba.ro - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/liba-ro) | 507 | The Libaro powered URL shortener Shorten your URL in seconds | libaro | macOS | [store](https://www.raycast.com/libaro/liba-ro_shortener) |
 | [Tynyfy - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/tynyfy) | 165 | Shortens your boring long URLs | kusthi | macOS | [store](https://www.raycast.com/kusthi/tynyfy) |
 | [Clip - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/clip) | 89 | Shorten URLs using multiple services (bit.ly, cutt.ly, tinyurl, is.gd, v.gd) | benbenbang | macOS, Windows | [store](https://www.raycast.com/benbenbang/raycast-clip) |
 | [Rdir](https://github.com/raycast/extensions/tree/main/extensions/rdir) | 52 | Free URL shortener | krakowiak | macOS, Windows | [store](https://www.raycast.com/krakowiak/rdir) |
@@ -32,12 +32,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) | 37,503 | Generate QR codes from text or URLs. | Melvynx | macOS, Windows | [store](https://www.raycast.com/Melvynx/qrcode-generator) |
-| [Pins](https://github.com/raycast/extensions/tree/main/extensions/pins) | 4,695 | Create pins for paths and URLs and display them in the menu bar | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/pins) |
-| [Xecutor](https://github.com/raycast/extensions/tree/main/extensions/xecutor) | 2,392 | Create presets to launch multiple macOS applications and/or urls from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/xecutor) |
-| [Silent Mention](https://github.com/raycast/extensions/tree/main/extensions/silent-mention) | 2,043 | Silently mention a handle, a URL or a hashtag. | peduarte | Windows, macOS | [store](https://www.raycast.com/peduarte/silent-mention) |
+| [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) | 37,531 | Generate QR codes from text or URLs. | Melvynx | macOS, Windows | [store](https://www.raycast.com/Melvynx/qrcode-generator) |
+| [Pins](https://github.com/raycast/extensions/tree/main/extensions/pins) | 4,696 | Create pins for paths and URLs and display them in the menu bar | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/pins) |
+| [Xecutor](https://github.com/raycast/extensions/tree/main/extensions/xecutor) | 2,393 | Create presets to launch multiple macOS applications and/or urls from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/xecutor) |
+| [Silent Mention](https://github.com/raycast/extensions/tree/main/extensions/silent-mention) | 2,045 | Silently mention a handle, a URL or a hashtag. | peduarte | Windows, macOS | [store](https://www.raycast.com/peduarte/silent-mention) |
 | [Incognito Clone](https://github.com/raycast/extensions/tree/main/extensions/incognito-clone) | 1,598 | Open the URL of the currently active tab in an Incognito (Chromium-based) or private (Webkit-based) browser window. | kgrhartlage | macOS | [store](https://www.raycast.com/kgrhartlage/incognito-clone) |
-| [YouTube Thumbnail](https://github.com/raycast/extensions/tree/main/extensions/youtube-thumbnail) | 1,176 | View a YouTube video's thumbnail variants, then download the images or copy their URLs. | bensomething | macOS | [store](https://www.raycast.com/bensomething/youtube-thumbnail) |
+| [YouTube Thumbnail](https://github.com/raycast/extensions/tree/main/extensions/youtube-thumbnail) | 1,178 | View a YouTube video's thumbnail variants, then download the images or copy their URLs. | bensomething | macOS | [store](https://www.raycast.com/bensomething/youtube-thumbnail) |
 | [UTM Campaign Builder](https://github.com/raycast/extensions/tree/main/extensions/utm-campaign-builder) | 444 | Create a campaign URL with UTM attributes | vimtor | macOS | [store](https://www.raycast.com/vimtor/utm-campaign-builder) |
 | [Shlink](https://github.com/raycast/extensions/tree/main/extensions/shlink) | 410 | Shorten and manage URLs using your own Shlink instance. | xeretis | macOS | [store](https://www.raycast.com/xeretis/shlink) |
 | [Host Switch](https://github.com/raycast/extensions/tree/main/extensions/host-switch) | 363 | Quickly switch between hosts while preserving the url path | ewgenius | macOS | [store](https://www.raycast.com/ewgenius/host-switch) |
