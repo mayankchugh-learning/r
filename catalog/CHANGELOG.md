@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-03 — upstream `b1f84e6554`
+
+**Updated (1):** [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend)
+
 ## 2026-10-03 — upstream `56bb566a37`
 
 **Updated (1):** [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz)

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "56bb566a377a217268154bfa038e35944687c62a",
-  "generatedAt": "2026-10-03T10:41:58.398Z",
-  "downloadsRefreshedAt": "2026-10-03T10:41:57.829Z",
+  "commit": "b1f84e65542b67b7d0f6d3834a09472c422d0f65",
+  "generatedAt": "2026-10-03T10:42:35.718Z",
+  "downloadsRefreshedAt": "2026-10-03T10:42:34.974Z",
   "count": 3369,
   "extensions": [
     {
@@ -32320,7 +32320,7 @@
       ],
       "store": "https://www.raycast.com/kud/localsend",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/localsend",
-      "treeSha": "f9607fc02a5fe7865ae859400dd78a496aa97efd",
+      "treeSha": "12865b3f1a42fbbc4c49a1fef1273da9bcf30524",
       "downloads": 2302
     },
     {
