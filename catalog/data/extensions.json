@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "83cbebf576d1be863e5b0a9591289e18f9853069",
-  "generatedAt": "2026-10-03T18:14:46.733Z",
-  "downloadsRefreshedAt": "2026-10-03T18:14:46.103Z",
+  "commit": "11b060ecbad725f70a91e077c7a4b65f640cb1f9",
+  "generatedAt": "2026-10-03T18:15:37.562Z",
+  "downloadsRefreshedAt": "2026-10-03T18:15:36.849Z",
   "count": 3369,
   "extensions": [
     {
@@ -36248,7 +36248,7 @@
       ],
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
-      "treeSha": "f703f40ca37587d05c400e46e379ab8ed47de177",
+      "treeSha": "269478b1f45e85f82398122f49825549acb1d382",
       "downloads": 42913
     },
     {
