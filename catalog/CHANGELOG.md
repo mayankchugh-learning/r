@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-03 — upstream `4f472fca62`
+
+**Updated (1):** [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom)
+
 ## 2026-10-03 — upstream `334478c924`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
