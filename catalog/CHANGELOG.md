@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-03 — upstream `c33f82785f`
+
+**Added (1):** [DevT Pro Tools](https://github.com/raycast/extensions/tree/main/extensions/devt-pro-tools)
+
 ## 2026-10-03 — upstream `4f472fca62`
 
 **Updated (1):** [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom)

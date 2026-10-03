@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · **Code, Snippets & Text Utilities** · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-101 of 1141 extensions · [← macOS · Developer Tools](./README.md)
+102 of 1142 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -107,3 +107,4 @@
 | [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) | 5 | Compile GLES shader code with MaliOC and get performance stats. | RomanVPX | macOS | [store](https://www.raycast.com/RomanVPX/gles-to-malioc) |
 | [T3 Code](https://github.com/raycast/extensions/tree/main/extensions/t3-code) | 4 | Start T3 Code sessions, search threads, and jump to the ones waiting on you. | skilux | macOS | [store](https://www.raycast.com/skilux/t3-code) |
 | [Privacy Mask](https://github.com/raycast/extensions/tree/main/extensions/privmask) | 2 | Find personal information in text and mask it before you share it, entirely on your Mac — Japanese names, addresses and My Numbers included. | snaka | macOS | [store](https://www.raycast.com/snaka/privmask) |
+| [DevT Pro Tools](https://github.com/raycast/extensions/tree/main/extensions/devt-pro-tools) | — | Search, pin, and launch tools in DevT Pro, a paid developer toolbox app for macOS and Windows that is sold separately. Tools that accept input open pre-filled… | devtpro | macOS, Windows | — |

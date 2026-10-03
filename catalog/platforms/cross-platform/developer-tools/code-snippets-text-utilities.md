@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · **Code, Snippets & Text Utilities** · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-36 of 324 extensions · [← Cross-platform · Developer Tools](./README.md)
+37 of 325 extensions · [← Cross-platform · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -42,3 +42,4 @@
 | [Daytona](https://github.com/raycast/extensions/tree/main/extensions/daytona) | 22 | Create Daytona sandboxes and run code directly from Raycast. | jurajstefanic | macOS, Windows | [store](https://www.raycast.com/jurajstefanic/daytona) |
 | [Better JSON Inspector](https://github.com/raycast/extensions/tree/main/extensions/better-json) | 18 | Browse, search, decode, and extract nested JSON. | xiaodaiguaray | macOS, Windows | [store](https://www.raycast.com/xiaodaiguaray/better-json) |
 | [Greptile](https://github.com/raycast/extensions/tree/main/extensions/greptile) | 11 | Browse Greptile pull requests, code reviews, and review comments from Raycast. | clins1994 | Windows, macOS | [store](https://www.raycast.com/clins1994/greptile) |
+| [DevT Pro Tools](https://github.com/raycast/extensions/tree/main/extensions/devt-pro-tools) | — | Search, pin, and launch tools in DevT Pro, a paid developer toolbox app for macOS and Windows that is sold separately. Tools that accept input open pre-filled… | devtpro | macOS, Windows | — |

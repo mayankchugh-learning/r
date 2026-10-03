@@ -1,6 +1,6 @@
 # Clipboard & Text Expansion
 
-75 extensions · [← Productivity](./README.md)
+76 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -79,3 +79,4 @@
 | [VisiGrid](https://github.com/raycast/extensions/tree/main/extensions/visigrid) | 6 | Spreadsheet powers from your launcher: evaluate Excel formulas against clipboard data, peek inside xlsx/csv/sheet files, and open workbooks — via the VisiGrid… | visigrid | macOS | [store](https://www.raycast.com/visigrid/visigrid) |
 | [FlowSpeech TTS](https://github.com/raycast/extensions/tree/main/extensions/flowspeech-tts) | 1 | Turn selected or copied text into natural speech with FlowSpeech | waeckerlinfederowicz66-sketch | macOS | [store](https://www.raycast.com/waeckerlinfederowicz66-sketch/flowspeech-tts) |
 | [Nepali Typing](https://github.com/raycast/extensions/tree/main/extensions/nepali-typing) | 1 | Convert romanized Nepali to Devanagari and paste it anywhere. | viper_x | macOS | [store](https://www.raycast.com/viper_x/nepali-typing) |
+| [DevT Pro Tools](https://github.com/raycast/extensions/tree/main/extensions/devt-pro-tools) | — | Search, pin, and launch tools in DevT Pro, a paid developer toolbox app for macOS and Windows that is sold separately. Tools that accept input open pre-filled… | devtpro | macOS, Windows | — |

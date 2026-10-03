@@ -1,6 +1,6 @@
 # macOS · Developer Tools
 
-1141 extensions · [← macOS](../README.md)
+1142 extensions · [← macOS](../README.md)
 
 ## Code & Collaboration
 
@@ -8,7 +8,7 @@
 | --- | --- |
 | [Git & Version Control](./git-version-control.md) | 50 |
 | [Issue Tracking & Projects](./issue-tracking-projects.md) | 12 |
-| [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) | 101 |
+| [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) | 102 |
 | [Search & Reference](./search-reference.md) | 116 |
 
 ## Build, Ship & Operate

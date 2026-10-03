@@ -1,8 +1,8 @@
 # Code, Snippets & Text Utilities
 
-101 extensions · [← Developer Tools](./README.md)
+102 extensions · [← Developer Tools](./README.md)
 
-[Code ✦](#code) (29) · [Format ✦](#format) (12) · [Markdown ✦](#markdown) (9) · [Clipboard ✦](#clipboard) (8) · [Json ✦](#json) (7) · [Between ✦](#between) (6) · [General](#general) (30)
+[Code ✦](#code) (29) · [Clipboard ✦](#clipboard) (12) · [Format ✦](#format) (10) · [Markdown ✦](#markdown) (8) · [Json ✦](#json) (7) · [Between ✦](#between) (6) · [General](#general) (30)
 
 *✦ auto-discovered topic group*
 
@@ -40,15 +40,30 @@
 | [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) | 5 | Compile GLES shader code with MaliOC and get performance stats. | RomanVPX | macOS | [store](https://www.raycast.com/RomanVPX/gles-to-malioc) |
 | [T3 Code](https://github.com/raycast/extensions/tree/main/extensions/t3-code) | 4 | Start T3 Code sessions, search threads, and jump to the ones waiting on you. | skilux | macOS | [store](https://www.raycast.com/skilux/t3-code) |
 
+## Clipboard ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Base64](https://github.com/raycast/extensions/tree/main/extensions/base64) | 41,969 | Quickly encode or decode base64 from the clipboard | DanielSinclair | macOS, Windows | [store](https://www.raycast.com/DanielSinclair/base64) |
+| [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) | 26,668 | Paste text from the clipboard as any format. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/paste-as-plain-text) |
+| [URL Tools](https://github.com/raycast/extensions/tree/main/extensions/url-tools) | 14,043 | Quickly encode or decode URL from the clipboard | huzef44 | macOS | [store](https://www.raycast.com/huzef44/url-tools) |
+| [Text Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/text-shortcuts) | 8,037 | Use Text Shortcuts to handle text from the selection or clipboard | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/text-shortcuts) |
+| [Append Clipboard](https://github.com/raycast/extensions/tree/main/extensions/append-clipboard) | 3,328 | Append or prepend selected text to your clipboard with different separators | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/append-clipboard) |
+| [Markdown Converter](https://github.com/raycast/extensions/tree/main/extensions/markdown-converter) | 992 | Convert rich text from clipboard into Markdown format | ewilderj | macOS | [store](https://www.raycast.com/ewilderj/markdown-converter) |
+| [json-to-go](https://github.com/raycast/extensions/tree/main/extensions/json-to-go) | 921 | Translate JSON from clipboard into a Go type definition | chyroc | macOS | [store](https://www.raycast.com/chyroc/json-to-go) |
+| [Table Converter](https://github.com/raycast/extensions/tree/main/extensions/table-converter) | 318 | Convert tables from Clipboard to Markdown and vice versa. | naserowaimer | macOS | [store](https://www.raycast.com/naserowaimer/table-converter) |
+| [TextArray](https://github.com/raycast/extensions/tree/main/extensions/textarray) | 72 | 650+ text tools that run locally — transform the selected text or clipboard: case, encoding, cleaning, formatting, ciphers and more. Nothing leaves your machin… | apptiary_com | macOS, Windows | [store](https://www.raycast.com/apptiary_com/textarray) |
+| [paste.rs - Quick Pastes](https://github.com/raycast/extensions/tree/main/extensions/paste-rs) | 27 | Create anonymous paste.rs links from typed text or your clipboard, and browse recent pastes. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/paste-rs) |
+| [Tflink Tmpfile](https://github.com/raycast/extensions/tree/main/extensions/tflink-tmpfile) | 25 | Upload clipboard text or files to tmpfile.link anonymously and get a shareable link. | tflink-tmpfile | macOS | [store](https://www.raycast.com/tflink-tmpfile/tflink-tmpfile) |
+| [DevT Pro Tools](https://github.com/raycast/extensions/tree/main/extensions/devt-pro-tools) | — | Search, pin, and launch tools in DevT Pro, a paid developer toolbox app for macOS and Windows that is sold separately. Tools that accept input open pre-filled… | devtpro | macOS, Windows | — |
+
 ## Format ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Format JSON](https://github.com/raycast/extensions/tree/main/extensions/json-format) | 100,269 | Formats a JSON file with a selected indentation. If the JSON is stringified, it will be parsed before formatting. | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/json-format) |
-| [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) | 26,668 | Paste text from the clipboard as any format. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/paste-as-plain-text) |
 | [Date Format Converter](https://github.com/raycast/extensions/tree/main/extensions/datetime-format-converter) | 9,350 | Convert timestamps and datetime strings into various formats. | yangxy | macOS | [store](https://www.raycast.com/yangxy/date-format-converter) |
 | [Date Converter](https://github.com/raycast/extensions/tree/main/extensions/date-converter) | 6,423 | Convert a variety of date formats | asportnoy | macOS | [store](https://www.raycast.com/asportnoy/date-converter) |
-| [Markdown Converter](https://github.com/raycast/extensions/tree/main/extensions/markdown-converter) | 992 | Convert rich text from clipboard into Markdown format | ewilderj | macOS | [store](https://www.raycast.com/ewilderj/markdown-converter) |
 | [Array This](https://github.com/raycast/extensions/tree/main/extensions/array-this) | 636 | Format list of items into an array. | matheus_de_paula_domingos | macOS | [store](https://www.raycast.com/matheus_de_paula_domingos/array-this) |
 | [String Formatter](https://github.com/raycast/extensions/tree/main/extensions/string-formatter) | 231 | Format strings with custom separators and decorators | fireice009 | macOS, Windows | [store](https://www.raycast.com/fireice009/string-formatter) |
 | [Font Converter](https://github.com/raycast/extensions/tree/main/extensions/font-converter) | 212 | Convert fonts to TTF, WOFF, WOFF2, and EOT formats directly from Raycast | meshal | macOS, Windows | [store](https://www.raycast.com/meshal/font-converter) |
@@ -67,22 +82,8 @@
 | [Markdown Preview](https://github.com/raycast/extensions/tree/main/extensions/markdown-preview) | 797 | A simple way to preview markdown content | xjo_nd | macOS | [store](https://www.raycast.com/xjo_nd/markdown-preview) |
 | [Choose a License](https://github.com/raycast/extensions/tree/main/extensions/choose-a-license) | 766 | Read, copy, and paste Markdown licenses from choosealicense.com | sandypockets | macOS, Windows | [store](https://www.raycast.com/sandypockets/choose-a-license) |
 | [Paper](https://github.com/raycast/extensions/tree/main/extensions/paper) | 568 | Create and organize your ideas, work, etc., in Markdown files by category. | luctst | macOS | [store](https://www.raycast.com/luctst/paper) |
-| [Table Converter](https://github.com/raycast/extensions/tree/main/extensions/table-converter) | 318 | Convert tables from Clipboard to Markdown and vice versa. | naserowaimer | macOS | [store](https://www.raycast.com/naserowaimer/table-converter) |
 | [RICE Score](https://github.com/raycast/extensions/tree/main/extensions/ricescore) | 175 | Calculate RICE Score and output value or markdown table | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/ricescore) |
 | [Defuddle](https://github.com/raycast/extensions/tree/main/extensions/defuddle) | 68 | Extract readable web pages to Markdown with Defuddle | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/defuddle) |
-
-## Clipboard ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Base64](https://github.com/raycast/extensions/tree/main/extensions/base64) | 41,969 | Quickly encode or decode base64 from the clipboard | DanielSinclair | macOS, Windows | [store](https://www.raycast.com/DanielSinclair/base64) |
-| [URL Tools](https://github.com/raycast/extensions/tree/main/extensions/url-tools) | 14,043 | Quickly encode or decode URL from the clipboard | huzef44 | macOS | [store](https://www.raycast.com/huzef44/url-tools) |
-| [Text Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/text-shortcuts) | 8,037 | Use Text Shortcuts to handle text from the selection or clipboard | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/text-shortcuts) |
-| [Append Clipboard](https://github.com/raycast/extensions/tree/main/extensions/append-clipboard) | 3,328 | Append or prepend selected text to your clipboard with different separators | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/append-clipboard) |
-| [json-to-go](https://github.com/raycast/extensions/tree/main/extensions/json-to-go) | 921 | Translate JSON from clipboard into a Go type definition | chyroc | macOS | [store](https://www.raycast.com/chyroc/json-to-go) |
-| [TextArray](https://github.com/raycast/extensions/tree/main/extensions/textarray) | 72 | 650+ text tools that run locally — transform the selected text or clipboard: case, encoding, cleaning, formatting, ciphers and more. Nothing leaves your machin… | apptiary_com | macOS, Windows | [store](https://www.raycast.com/apptiary_com/textarray) |
-| [paste.rs - Quick Pastes](https://github.com/raycast/extensions/tree/main/extensions/paste-rs) | 27 | Create anonymous paste.rs links from typed text or your clipboard, and browse recent pastes. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/paste-rs) |
-| [Tflink Tmpfile](https://github.com/raycast/extensions/tree/main/extensions/tflink-tmpfile) | 25 | Upload clipboard text or files to tmpfile.link anonymously and get a shareable link. | tflink-tmpfile | macOS | [store](https://www.raycast.com/tflink-tmpfile/tflink-tmpfile) |
 
 ## Json ✦
 

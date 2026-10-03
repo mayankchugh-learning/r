@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-156 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+157 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -86,6 +86,7 @@
 | [devmoath](https://www.raycast.com/devmoath) | 1 | 6,710 | **Productivity:** [Night Light](https://github.com/raycast/extensions/tree/main/extensions/night-light) |
 | [devrecordso](https://www.raycast.com/devrecordso) | 1 | 30 | **Productivity:** [Record](https://github.com/raycast/extensions/tree/main/extensions/record-so) |
 | [devsargam](https://www.raycast.com/devsargam) | 1 | 26 | **Finance:** [Quikwallet](https://github.com/raycast/extensions/tree/main/extensions/quikwallet) |
+| devtpro | 1 | — | **Developer Tools:** [DevT Pro Tools](https://github.com/raycast/extensions/tree/main/extensions/devt-pro-tools) |
 | [devuo](https://www.raycast.com/devuo) | 1 | 362 | **Developer Tools:** [Fly.io](https://github.com/raycast/extensions/tree/main/extensions/raycast-fly) |
 | [devutils](https://www.raycast.com/devutils) | 1 | 26,089 | **Applications:** [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) |
 | [devwithbobby](https://www.raycast.com/devwithbobby) | 1 | 117 | **Developer Tools:** [Convex](https://github.com/raycast/extensions/tree/main/extensions/convex) |

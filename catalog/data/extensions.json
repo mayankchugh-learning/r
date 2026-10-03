@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4f472fca62a509295193991a3ce770cfd4861f27",
-  "generatedAt": "2026-10-03T07:53:02.315Z",
-  "downloadsRefreshedAt": "2026-10-03T07:53:01.602Z",
-  "count": 3368,
+  "commit": "c33f82785fb5ae403e8f8eb6f9bc68abc68e7900",
+  "generatedAt": "2026-10-03T08:45:32.601Z",
+  "downloadsRefreshedAt": "2026-10-03T08:45:32.192Z",
+  "count": 3369,
   "extensions": [
     {
       "dir": "0x0",
@@ -10337,7 +10337,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 610518
+      "downloads": 610542
     },
     {
       "dir": "color-shades",
@@ -14244,6 +14244,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/devpod",
       "treeSha": "680675447f3d0ea9a65478fcf03b0033afe3248c",
       "downloads": 119
+    },
+    {
+      "dir": "devt-pro-tools",
+      "name": "devt-pro-tools",
+      "title": "DevT Pro Tools",
+      "description": "Search, pin, and launch tools in DevT Pro, a paid developer toolbox app for macOS and Windows that is sold separately. Tools that accept input open pre-filled with your clipboard text, or with text you enter in Raycast.",
+      "author": "devtpro",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/devt-pro-tools",
+      "treeSha": "72ea29079c7e236a1076548f22db73c10bd5d289",
+      "downloads": null
     },
     {
       "dir": "devutils",
@@ -23110,7 +23132,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566941
+      "downloads": 566962
     },
     {
       "dir": "google-chrome-profiles",
@@ -29621,7 +29643,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 769773
+      "downloads": 769803
     },
     {
       "dir": "kimai",

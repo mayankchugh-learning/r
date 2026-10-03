@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · **Clipboard & Text Expansion** · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-20 of 394 extensions · [← Windows · Productivity](./README.md)
+21 of 395 extensions · [← Windows · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,4 @@
 | [Chinese Character Converter](https://github.com/raycast/extensions/tree/main/extensions/chinese-character-converter) | 53 | Auto convert clipboard content between Traditional and Simplified Chinese | simon_lai | Windows | [store](https://www.raycast.com/simon_lai/chinese-character-converter) |
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 47 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
 | [Load-Bearing Reply](https://github.com/raycast/extensions/tree/main/extensions/load-bearing-reply) | 8 | Paste a confidently over-engineered reply into the frontmost app. | chris_deeming | macOS, Windows | [store](https://www.raycast.com/chris_deeming/load-bearing-reply) |
+| [DevT Pro Tools](https://github.com/raycast/extensions/tree/main/extensions/devt-pro-tools) | — | Search, pin, and launch tools in DevT Pro, a paid developer toolbox app for macOS and Windows that is sold separately. Tools that accept input open pre-filled… | devtpro | macOS, Windows | — |
