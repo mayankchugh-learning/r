@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c33f82785fb5ae403e8f8eb6f9bc68abc68e7900",
-  "generatedAt": "2026-10-03T08:45:32.601Z",
-  "downloadsRefreshedAt": "2026-10-03T08:45:32.192Z",
+  "commit": "f42e63ad6d18c5c70f862144d66db53c5f5bef25",
+  "generatedAt": "2026-10-03T08:56:39.851Z",
+  "downloadsRefreshedAt": "2026-10-03T08:56:39.324Z",
   "count": 3369,
   "extensions": [
     {
@@ -10337,7 +10337,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 610542
+      "downloads": 610545
     },
     {
       "dir": "color-shades",
@@ -14262,10 +14262,10 @@
         "macOS",
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/devtpro/devt-pro-tools",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/devt-pro-tools",
       "treeSha": "72ea29079c7e236a1076548f22db73c10bd5d289",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "devutils",
@@ -23132,7 +23132,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 566962
+      "downloads": 566965
     },
     {
       "dir": "google-chrome-profiles",
@@ -29643,7 +29643,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 769803
+      "downloads": 769808
     },
     {
       "dir": "kimai",
@@ -36248,7 +36248,7 @@
       ],
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
-      "treeSha": "a01b2e2e34153623e74842b15446a0fbb822c83c",
+      "treeSha": "e6453b7181cff47b5511a38677ab268aa7a94e8c",
       "downloads": 42878
     },
     {

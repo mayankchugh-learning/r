@@ -86,7 +86,7 @@
 | [devmoath](https://www.raycast.com/devmoath) | 1 | 6,710 | **Productivity:** [Night Light](https://github.com/raycast/extensions/tree/main/extensions/night-light) |
 | [devrecordso](https://www.raycast.com/devrecordso) | 1 | 30 | **Productivity:** [Record](https://github.com/raycast/extensions/tree/main/extensions/record-so) |
 | [devsargam](https://www.raycast.com/devsargam) | 1 | 26 | **Finance:** [Quikwallet](https://github.com/raycast/extensions/tree/main/extensions/quikwallet) |
-| devtpro | 1 | — | **Developer Tools:** [DevT Pro Tools](https://github.com/raycast/extensions/tree/main/extensions/devt-pro-tools) |
+| [devtpro](https://www.raycast.com/devtpro) | 1 | 0 | **Developer Tools:** [DevT Pro Tools](https://github.com/raycast/extensions/tree/main/extensions/devt-pro-tools) |
 | [devuo](https://www.raycast.com/devuo) | 1 | 362 | **Developer Tools:** [Fly.io](https://github.com/raycast/extensions/tree/main/extensions/raycast-fly) |
 | [devutils](https://www.raycast.com/devutils) | 1 | 26,089 | **Applications:** [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) |
 | [devwithbobby](https://www.raycast.com/devwithbobby) | 1 | 117 | **Developer Tools:** [Convex](https://github.com/raycast/extensions/tree/main/extensions/convex) |

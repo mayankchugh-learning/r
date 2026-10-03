@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-03 — upstream `f42e63ad6d`
+
+**Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
+
 ## 2026-10-03 — upstream `c33f82785f`
 
 **Added (1):** [DevT Pro Tools](https://github.com/raycast/extensions/tree/main/extensions/devt-pro-tools)
