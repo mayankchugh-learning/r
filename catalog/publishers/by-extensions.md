@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 169,172 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,759 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,897 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,291,567 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,291,570 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 457,831 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,796 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,381 |
@@ -407,8 +407,8 @@
 | 397 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 2 | 9 |
 | 398 | [frdmn](https://www.raycast.com/frdmn) | 2 | 1 |
 | 399 | github-next | 2 | — |
-| 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 770,149 |
-| 401 | [Codely](https://www.raycast.com/Codely) | 1 | 567,156 |
+| 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 770,152 |
+| 401 | [Codely](https://www.raycast.com/Codely) | 1 | 567,158 |
 | 402 | [linear](https://www.raycast.com/linear) | 1 | 400,207 |
 | 403 | [mommertf](https://www.raycast.com/mommertf) | 1 | 333,065 |
 | 404 | [nhojb](https://www.raycast.com/nhojb) | 1 | 291,862 |
@@ -565,7 +565,7 @@
 | 555 | [d3caf](https://www.raycast.com/d3caf) | 1 | 3,616 |
 | 556 | [hieudinh](https://www.raycast.com/hieudinh) | 1 | 3,601 |
 | 557 | [SeoFood](https://www.raycast.com/SeoFood) | 1 | 3,588 |
-| 558 | [any](https://www.raycast.com/any) | 1 | 3,584 |
+| 558 | [any](https://www.raycast.com/any) | 1 | 3,586 |
 | 559 | [aiotter](https://www.raycast.com/aiotter) | 1 | 3,526 |
 | 560 | [mjoosuf](https://www.raycast.com/mjoosuf) | 1 | 3,426 |
 | 561 | [shakedlokits](https://www.raycast.com/shakedlokits) | 1 | 3,398 |
@@ -640,7 +640,7 @@
 | 630 | [tnixc](https://www.raycast.com/tnixc) | 1 | 2,176 |
 | 631 | [comes](https://www.raycast.com/comes) | 1 | 2,165 |
 | 632 | [puneeth](https://www.raycast.com/puneeth) | 1 | 2,165 |
-| 633 | [grosst](https://www.raycast.com/grosst) | 1 | 2,161 |
+| 633 | [grosst](https://www.raycast.com/grosst) | 1 | 2,162 |
 | 634 | [jones-sam](https://www.raycast.com/jones-sam) | 1 | 2,160 |
 | 635 | [hrishabhn](https://www.raycast.com/hrishabhn) | 1 | 2,155 |
 | 636 | [resessh](https://www.raycast.com/resessh) | 1 | 2,146 |

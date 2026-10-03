@@ -144,7 +144,7 @@
 | [Antonwy](https://www.raycast.com/Antonwy) | 1 | 781 | **News:** [New York Times](https://github.com/raycast/extensions/tree/main/extensions/new-york-times) |
 | [anu](https://www.raycast.com/anu) | 1 | 1,214 | **Design Tools:** [Tints and Shades](https://github.com/raycast/extensions/tree/main/extensions/tints-and-shades) |
 | [anwarulislam](https://www.raycast.com/anwarulislam) | 1 | 43,127 | **Applications:** [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) |
-| [any](https://www.raycast.com/any) | 1 | 3,584 | **Applications:** [Anytype](https://github.com/raycast/extensions/tree/main/extensions/anytype) |
+| [any](https://www.raycast.com/any) | 1 | 3,586 | **Applications:** [Anytype](https://github.com/raycast/extensions/tree/main/extensions/anytype) |
 | [anybox](https://www.raycast.com/anybox) | 2 | 8,803 | **Applications:** [Anybox](https://github.com/raycast/extensions/tree/main/extensions/anybox)<br>**Developer Tools:** [OK JSON](https://github.com/raycast/extensions/tree/main/extensions/ok-json) |
 | [anyerqi](https://www.raycast.com/anyerqi) | 1 | 21 | **Productivity:** [Wubi Code](https://github.com/raycast/extensions/tree/main/extensions/wu-bi-bian-ma) |
 | [anysphere](https://www.raycast.com/anysphere) | 1 | 7,041 | **Developer Tools:** [Cursor Agents](https://github.com/raycast/extensions/tree/main/extensions/cursor-agents) |

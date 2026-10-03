@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,291,567 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,291,570 |
 | 2 | [raycast](./id/raycast.md) | 11 | 902,542 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 770,149 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 567,156 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 770,152 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 567,158 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 495,379 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 491,622 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 457,831 |
@@ -330,7 +330,7 @@
 | 320 | [d3caf](https://www.raycast.com/d3caf) | 1 | 3,616 |
 | 321 | [hieudinh](https://www.raycast.com/hieudinh) | 1 | 3,601 |
 | 322 | [SeoFood](https://www.raycast.com/SeoFood) | 1 | 3,588 |
-| 323 | [any](https://www.raycast.com/any) | 1 | 3,584 |
+| 323 | [any](https://www.raycast.com/any) | 1 | 3,586 |
 | 324 | [Fatpandac](https://www.raycast.com/Fatpandac) | 2 | 3,552 |
 | 325 | [aiotter](https://www.raycast.com/aiotter) | 1 | 3,526 |
 | 326 | [gaoyang](https://www.raycast.com/gaoyang) | 2 | 3,456 |
@@ -443,7 +443,7 @@
 | 433 | [jns](https://www.raycast.com/jns) | 4 | 2,169 |
 | 434 | [comes](https://www.raycast.com/comes) | 1 | 2,165 |
 | 435 | [puneeth](https://www.raycast.com/puneeth) | 1 | 2,165 |
-| 436 | [grosst](https://www.raycast.com/grosst) | 1 | 2,161 |
+| 436 | [grosst](https://www.raycast.com/grosst) | 1 | 2,162 |
 | 437 | [jones-sam](https://www.raycast.com/jones-sam) | 1 | 2,160 |
 | 438 | [hrishabhn](https://www.raycast.com/hrishabhn) | 1 | 2,155 |
 | 439 | [resessh](https://www.raycast.com/resessh) | 1 | 2,146 |
