@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-03 — upstream `34b37efd77`
+
+**Updated (1):** [Schwab Portfolio](https://github.com/raycast/extensions/tree/main/extensions/schwab-portfolio)
+
 ## 2026-10-03 — upstream `25bc1facbe`
 
 **Updated (1):** [Aktar](https://github.com/raycast/extensions/tree/main/extensions/aktar)

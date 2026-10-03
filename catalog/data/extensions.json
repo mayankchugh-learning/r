@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "25bc1facbe6e589973250547e57819debe257559",
-  "generatedAt": "2026-10-03T02:00:27.291Z",
-  "downloadsRefreshedAt": "2026-10-03T02:00:26.892Z",
+  "commit": "34b37efd774be83cbbe8817fa4774822569a7cf8",
+  "generatedAt": "2026-10-03T02:02:32.053Z",
+  "downloadsRefreshedAt": "2026-10-03T02:02:31.289Z",
   "count": 3366,
   "extensions": [
     {
@@ -52705,7 +52705,7 @@
       ],
       "store": "https://www.raycast.com/drew_levinson/schwab-portfolio",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/schwab-portfolio",
-      "treeSha": "7f3afb95b921ab477c18c385631f634480921f39",
+      "treeSha": "c73da268bc5523da575f3a192f080bd1c935810c",
       "downloads": 10
     },
     {
