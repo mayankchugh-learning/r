@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-04 — upstream `97f2b1aade`
+
+**Updated (1):** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew)
+
 ## 2026-10-04 — upstream `d284e7d08a`
 
 **Updated (2):** [Moon Mansions](https://github.com/raycast/extensions/tree/main/extensions/moon-mansions), [Schwab Portfolio](https://github.com/raycast/extensions/tree/main/extensions/schwab-portfolio)

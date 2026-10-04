@@ -4,12 +4,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 250,306 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
-| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 60,379 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
-| [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 11,149 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
+| [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 250,399 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
+| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 60,418 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
+| [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 11,154 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
 | [Incognito Clone](https://github.com/raycast/extensions/tree/main/extensions/incognito-clone) | 1,598 | Open the URL of the currently active tab in an Incognito (Chromium-based) or private (Webkit-based) browser window. | kgrhartlage | macOS | [store](https://www.raycast.com/kgrhartlage/incognito-clone) |
-| [Defbro](https://github.com/raycast/extensions/tree/main/extensions/defbro) | 1,070 | Change the default browser quickly! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/defbro) |
-| [OSS Browser](https://github.com/raycast/extensions/tree/main/extensions/oss-browser) | 186 | Browse and manage Aliyun Object Storage Service | JinShi | macOS | [store](https://www.raycast.com/JinShi/oss-browser) |
+| [Defbro](https://github.com/raycast/extensions/tree/main/extensions/defbro) | 1,071 | Change the default browser quickly! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/defbro) |
+| [OSS Browser](https://github.com/raycast/extensions/tree/main/extensions/oss-browser) | 187 | Browse and manage Aliyun Object Storage Service | JinShi | macOS | [store](https://www.raycast.com/JinShi/oss-browser) |
 | [Firefox Tabs](https://github.com/raycast/extensions/tree/main/extensions/firefox-tabs) | 134 | Search and switch Firefox tabs from Raycast | stephen_lau | macOS | [store](https://www.raycast.com/stephen_lau/firefox-tabs) |
 | [VivaPB](https://github.com/raycast/extensions/tree/main/extensions/vivapb) | 82 | Browse the web in privacy with the Vivaldi Browser. | Codrkoaz | macOS | [store](https://www.raycast.com/Codrkoaz/vivapb) |
 | [Qutebrowser Tabs](https://github.com/raycast/extensions/tree/main/extensions/qutebrowser-tabs) | 81 | Search and manage qutebrowser tabs | alon.hearter | macOS | [store](https://www.raycast.com/alon.hearter/qutebrowser-tabs) |

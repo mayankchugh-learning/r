@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [CircleCI Workflows](https://github.com/raycast/extensions/tree/main/extensions/circle-ci) | 1,003 | This extension shows a list of your latest CircleCI workflows. It requires a CircleCI API token which you can get on https://app.circleci.com/settings/user/tok… | qeude | macOS | [store](https://www.raycast.com/qeude/circle-ci) |
+| [CircleCI Workflows](https://github.com/raycast/extensions/tree/main/extensions/circle-ci) | 1,004 | This extension shows a list of your latest CircleCI workflows. It requires a CircleCI API token which you can get on https://app.circleci.com/settings/user/tok… | qeude | macOS | [store](https://www.raycast.com/qeude/circle-ci) |
 | [Ethereum Utils — EVM Development](https://github.com/raycast/extensions/tree/main/extensions/ethereum-utils) | 739 | Collection of utils for Ethereum and EVM-compatible chain development | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/ethereum-utils) |
-| [Blockchain Explorer Search](https://github.com/raycast/extensions/tree/main/extensions/blockchain-explorer-search) | 684 | Search open links for address, transaction, block, token, and ens on Etherscan-like sites. | Namaskar | macOS, Windows | [store](https://www.raycast.com/Namaskar/blockchain-explorer-search) |
+| [Blockchain Explorer Search](https://github.com/raycast/extensions/tree/main/extensions/blockchain-explorer-search) | 685 | Search open links for address, transaction, block, token, and ens on Etherscan-like sites. | Namaskar | macOS, Windows | [store](https://www.raycast.com/Namaskar/blockchain-explorer-search) |
 | [ENS Name Lookup](https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup) | 589 | Lookup ENS name or address | Yukai | macOS | [store](https://www.raycast.com/Yukai/ens-name-lookup) |
 | [Solana Explorer](https://github.com/raycast/extensions/tree/main/extensions/solana-explorer) | 241 | Look up transactions and accounts on the various Solana clusters. | darklong | macOS | [store](https://www.raycast.com/darklong/solana-explorer) |
 | [Charged: Starknet Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/charged) | 217 | Shorcuts for common web3 tasks | apoorv | macOS | [store](https://www.raycast.com/apoorv/charged) |

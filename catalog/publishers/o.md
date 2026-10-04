@@ -6,7 +6,7 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [o1y](https://www.raycast.com/o1y) | 1 | 22,397 | **Productivity:** [Battery Health](https://github.com/raycast/extensions/tree/main/extensions/battery-health) |
+| [o1y](https://www.raycast.com/o1y) | 1 | 22,415 | **Productivity:** [Battery Health](https://github.com/raycast/extensions/tree/main/extensions/battery-health) |
 | [obahareth](https://www.raycast.com/obahareth) | 1 | 388 | **Developer Tools:** [Ruby Evaluate](https://github.com/raycast/extensions/tree/main/extensions/ruby-evaluate) |
 | [ofalvai](https://www.raycast.com/ofalvai) | 1 | 474 | **Developer Tools:** [Bitrise](https://github.com/raycast/extensions/tree/main/extensions/bitrise) |
 | [oh-dear](https://www.raycast.com/oh-dear) | 1 | 199 | **Web:** [Oh Dear](https://github.com/raycast/extensions/tree/main/extensions/ohdear) |
@@ -14,18 +14,18 @@
 | [ojowwalker77](https://www.raycast.com/ojowwalker77) | 1 | 926 | **Developer Tools:** [Google Cloud CLI](https://github.com/raycast/extensions/tree/main/extensions/g-cloud) |
 | [OkanBilal](https://www.raycast.com/OkanBilal) | 1 | 157 | **Web:** [Literal](https://github.com/raycast/extensions/tree/main/extensions/literal) |
 | [okgloor](https://www.raycast.com/okgloor) | 1 | 138 | **Other:** [Steam Player Counts](https://github.com/raycast/extensions/tree/main/extensions/steam-player-counts) |
-| [okooo5km](https://www.raycast.com/okooo5km) | 1 | 4,008 | **Applications:** [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) |
+| [okooo5km](https://www.raycast.com/okooo5km) | 1 | 4,010 | **Applications:** [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) |
 | [oktay](https://www.raycast.com/oktay) | 1 | 1,650 | **Developer Tools:** [kubectx](https://github.com/raycast/extensions/tree/main/extensions/kubectx) |
-| [okwasniewski](https://www.raycast.com/okwasniewski) | 1 | 1,350 | **Developer Tools:** [MiniSim](https://github.com/raycast/extensions/tree/main/extensions/minisim) |
+| [okwasniewski](https://www.raycast.com/okwasniewski) | 1 | 1,351 | **Developer Tools:** [MiniSim](https://github.com/raycast/extensions/tree/main/extensions/minisim) |
 | [olafhartong](https://www.raycast.com/olafhartong) | 1 | 24 | **Developer Tools:** [Kusto Reference](https://github.com/raycast/extensions/tree/main/extensions/kusto-reference) |
-| [olavgjerde](https://www.raycast.com/olavgjerde) | 1 | 311 | **System:** [LookSee - A MAC, OUI, IAB Lookup](https://github.com/raycast/extensions/tree/main/extensions/looksee) |
+| [olavgjerde](https://www.raycast.com/olavgjerde) | 1 | 312 | **System:** [LookSee - A MAC, OUI, IAB Lookup](https://github.com/raycast/extensions/tree/main/extensions/looksee) |
 | [oleksandr_oliynyk](https://www.raycast.com/oleksandr_oliynyk) | 1 | 111 | **Web:** [Lingorep - Translate, Repeat, Memorize](https://github.com/raycast/extensions/tree/main/extensions/lingo-rep-raycast) |
 | [oliverde8](https://www.raycast.com/oliverde8) | 1 | 455 | **Productivity:** [Excel Formula Beautifier](https://github.com/raycast/extensions/tree/main/extensions/excel-formula-beautifier) |
-| [oliverjanssen](https://www.raycast.com/oliverjanssen) | 1 | 1,006 | **Productivity:** [Morning Coffee](https://github.com/raycast/extensions/tree/main/extensions/morning-coffee) |
+| [oliverjanssen](https://www.raycast.com/oliverjanssen) | 1 | 1,007 | **Productivity:** [Morning Coffee](https://github.com/raycast/extensions/tree/main/extensions/morning-coffee) |
 | [olivier_bossel](https://www.raycast.com/olivier_bossel) | 1 | 8 | **Productivity:** [Spacetime Tracking](https://github.com/raycast/extensions/tree/main/extensions/spacetime-tracking) |
 | [Olli0103](https://www.raycast.com/Olli0103) | 4 | 204 | **Web:** [Caschys Blog](https://github.com/raycast/extensions/tree/main/extensions/caschys-blog)<br>**Applications:** [Fronius Inverter](https://github.com/raycast/extensions/tree/main/extensions/fronius-inverter)<br>**Communication:** [Tinkerer Club](https://github.com/raycast/extensions/tree/main/extensions/tinkerer-club)<br>**Productivity:** [Jev](https://github.com/raycast/extensions/tree/main/extensions/jev) |
 | [omarshahine](https://www.raycast.com/omarshahine) | 1 | 112 | **Applications:** [PurpleAir](https://github.com/raycast/extensions/tree/main/extensions/purpleair) |
-| [omBratteng](https://www.raycast.com/omBratteng) | 1 | 1,612 | **Developer Tools:** [Passphrase Generator](https://github.com/raycast/extensions/tree/main/extensions/passphrase-generator) |
+| [omBratteng](https://www.raycast.com/omBratteng) | 1 | 1,613 | **Developer Tools:** [Passphrase Generator](https://github.com/raycast/extensions/tree/main/extensions/passphrase-generator) |
 | [omennia](https://www.raycast.com/omennia) | 1 | 25 | **Uncategorized:** [Search OEIS](https://github.com/raycast/extensions/tree/main/extensions/search-oeis) |
 | [omer_aydemir](https://www.raycast.com/omer_aydemir) | 1 | 36 | **Productivity:** [Folder Scope](https://github.com/raycast/extensions/tree/main/extensions/folder-scope) |
 | [omorest](https://www.raycast.com/omorest) | 1 | 244 | **Documentation:** [Code Smells Search](https://github.com/raycast/extensions/tree/main/extensions/code-smells) |
@@ -44,11 +44,11 @@
 | [osama_aamer](https://www.raycast.com/osama_aamer) | 1 | 374 | **Communication:** [Speed Dial](https://github.com/raycast/extensions/tree/main/extensions/speed-dial) |
 | [oslen](https://www.raycast.com/Oslen) | 1 | 45 | **Developer Tools:** [GitHub Pull Requests](https://github.com/raycast/extensions/tree/main/extensions/gh-pr-tracker) |
 | [Osprey](https://www.raycast.com/Osprey) | 5 | 589 | **News:** [Polymarket](https://github.com/raycast/extensions/tree/main/extensions/polymarket)<br>**Finance:** [Kalshi](https://github.com/raycast/extensions/tree/main/extensions/kalshi), [Base Stats](https://github.com/raycast/extensions/tree/main/extensions/base-stats), [Rollup.wtf](https://github.com/raycast/extensions/tree/main/extensions/rollup-wtf)<br>**Data:** [Aranet CO2 Monitor](https://github.com/raycast/extensions/tree/main/extensions/aranet-co2-monitor) |
-| [osteele](https://www.raycast.com/osteele) | 1 | 549 | **Uncategorized:** [Obsidian Link Opener](https://github.com/raycast/extensions/tree/main/extensions/obsidian-link-opener) |
+| [osteele](https://www.raycast.com/osteele) | 1 | 550 | **Uncategorized:** [Obsidian Link Opener](https://github.com/raycast/extensions/tree/main/extensions/obsidian-link-opener) |
 | [otter](https://www.raycast.com/otter) | 1 | 12 | **Finance:** [Mollie](https://github.com/raycast/extensions/tree/main/extensions/mollie-for-raycast) |
-| [ourongxing](https://www.raycast.com/ourongxing) | 1 | 872 | **Applications:** [MarginNote](https://github.com/raycast/extensions/tree/main/extensions/marginnote) |
+| [ourongxing](https://www.raycast.com/ourongxing) | 1 | 875 | **Applications:** [MarginNote](https://github.com/raycast/extensions/tree/main/extensions/marginnote) |
 | [owanesh](https://www.raycast.com/owanesh) | 1 | 85 | **Developer Tools:** [Shodan](https://github.com/raycast/extensions/tree/main/extensions/shodan) |
 | [oward](https://www.raycast.com/oward) | 1 | 20 | **Productivity:** [English Irregular Verbs](https://github.com/raycast/extensions/tree/main/extensions/english-irregular-verbs) |
 | [owen_wang](https://www.raycast.com/owen_wang) | 1 | 49 | **Productivity:** [WeRead Sync](https://github.com/raycast/extensions/tree/main/extensions/weread-sync) |
-| [owendavidprice](https://www.raycast.com/owendavidprice) | 1 | 1 | **Productivity:** [Baalda](https://github.com/raycast/extensions/tree/main/extensions/baalda) |
-| [ozencb](https://www.raycast.com/ozencb) | 1 | 4,510 | **Productivity:** [Obsidian Tasks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-tasks) |
+| [owendavidprice](https://www.raycast.com/owendavidprice) | 1 | 2 | **Productivity:** [Baalda](https://github.com/raycast/extensions/tree/main/extensions/baalda) |
+| [ozencb](https://www.raycast.com/ozencb) | 1 | 4,512 | **Productivity:** [Obsidian Tasks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-tasks) |
