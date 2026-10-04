@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-04 — upstream `16ad09a0bd`
+
+**Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
+
 ## 2026-10-04 — upstream `cf867ca176`
 
 **Updated (1):** [Petal - Offline Voice to Text](https://github.com/raycast/extensions/tree/main/extensions/petal)
