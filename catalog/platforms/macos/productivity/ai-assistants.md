@@ -2,7 +2,7 @@
 
 **AI & Assistants** · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-141 of 1524 extensions · [← macOS · Productivity](./README.md)
+142 of 1524 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -22,6 +22,7 @@
 | [OpenAI Translator](https://github.com/raycast/extensions/tree/main/extensions/openai-translator) | 10,363 | Translation based on Multiple LLMs. | douo | macOS | [store](https://www.raycast.com/douo/openai-translator) |
 | [Model Context Protocol](https://github.com/raycast/extensions/tree/main/extensions/mcp) | 8,920 | Interact with the Model Context Protocol (MCP) in Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/mcp) |
 | [Whisper Dictation](https://github.com/raycast/extensions/tree/main/extensions/whisper-dictation) | 5,593 | A powerful dictation tool that uses Whisper for speech-to-text transcription, with AI-powered refinement options. | finjo | macOS | [store](https://www.raycast.com/finjo/whisper-dictation) |
+| [Readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) | 5,520 | Search and browse your Readwise library, and ask AI about your saved highlights and notes. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/readwise) |
 | [Code Execution](https://github.com/raycast/extensions/tree/main/extensions/code-execution) | 5,018 | Give Raycast AI the ability to run Python, Bash, and AppleScript | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/code) |
 | [Memory](https://github.com/raycast/extensions/tree/main/extensions/memory) | 4,404 | Knowledge Graph Memory for Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/memory) |
 | [Claude Code Launcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-launcher) | 4,135 | Quickly open Claude Code in any directory with your preferred terminal. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/claude-code-launcher) |
@@ -139,7 +140,7 @@
 | [Linkinize](https://github.com/raycast/extensions/tree/main/extensions/linkinize) | 8 | AI Bookmark Manager For Teams | linkinize (org) | macOS | [store](https://www.raycast.com/linkinize/linkinize) |
 | [Ultrahuman Insights](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman-insights) | 7 | Smart insights, AI tools, and trend charts for your Ultrahuman Ring AIR. | aryan_rustagi | macOS, Windows | [store](https://www.raycast.com/aryan_rustagi/ultrahuman-insights) |
 | [Executor](https://github.com/raycast/extensions/tree/main/extensions/executor) | 6 | Run connected tools, automate with Raycast AI, and manage your Executor workspaces | jerichosequitin | macOS | [store](https://www.raycast.com/jerichosequitin/executor) |
-| [GLM Models](https://github.com/raycast/extensions/tree/main/extensions/glm-models) | 5 | Use Z.ai / BigModel GLM models inside Raycast AI Chat, Quick AI and AI Commands | paulgit | macOS | [store](https://www.raycast.com/paulgit/glm-models) |
+| [GLM Models](https://github.com/raycast/extensions/tree/main/extensions/glm-models) | 6 | Use Z.ai / BigModel GLM models inside Raycast AI Chat, Quick AI and AI Commands | paulgit | macOS | [store](https://www.raycast.com/paulgit/glm-models) |
 | [Tinkerer Club](https://github.com/raycast/extensions/tree/main/extensions/tinkerer-club) | 5 | Browse and participate in Tinkerer Club from Raycast, with confirmable AI tools. | Olli0103 | macOS | [store](https://www.raycast.com/Olli0103/tinkerer-club) |
 | [Arandu](https://github.com/raycast/extensions/tree/main/extensions/arandu) | 4 | Manage your day in Arandu — today's plan, agenda, habits, tasks, reminders, and your assistant. | luiz_vi | macOS | [store](https://www.raycast.com/luiz_vi/arandu) |
 | [Osaurus](https://github.com/raycast/extensions/tree/main/extensions/osaurus) | 4 | Use local Osaurus models in Raycast AI, ask them directly, manage them, and search chat history | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/osaurus) |

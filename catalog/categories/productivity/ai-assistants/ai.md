@@ -1,8 +1,8 @@
 # AI ✦
 
-110 extensions · [← AI & Assistants](./README.md)
+111 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Model ✦](#model) (14) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (5) · [Openai ✦](#openai) (7) · [Prompts ✦](#prompts) (4) · [Tasks ✦](#tasks) (4) · [Capture ✦](#capture) (4) · [General](#general) (49)
+[Powered ✦](#powered) (16) · [Model ✦](#model) (14) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (6) · [Openai ✦](#openai) (7) · [Prompts ✦](#prompts) (4) · [Tasks ✦](#tasks) (4) · [Capture ✦](#capture) (4) · [General](#general) (49)
 
 *✦ auto-discovered topic group*
 
@@ -43,7 +43,7 @@
 | [ToneClone](https://github.com/raycast/extensions/tree/main/extensions/toneclone) | 96 | Write with AI without sounding like AI. Write with AI using your unique voice and style with a model trained on your writing. To get started, you'll need a Ton… | jfox | macOS | [store](https://www.raycast.com/jfox/toneclone) |
 | [OpenCode](https://github.com/raycast/extensions/tree/main/extensions/opencode) | 48 | Use models from your OpenCode Console workspace in Raycast AI | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/opencode) |
 | [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai) | 37 | Muse AI (Meta Model API) within Raycast — use Muse Spark in AI Chat, Quick AI and AI Commands | alhassanaraouf | Windows, macOS | [store](https://www.raycast.com/alhassanaraouf/muse-ai) |
-| [GLM Models](https://github.com/raycast/extensions/tree/main/extensions/glm-models) | 5 | Use Z.ai / BigModel GLM models inside Raycast AI Chat, Quick AI and AI Commands | paulgit | macOS | [store](https://www.raycast.com/paulgit/glm-models) |
+| [GLM Models](https://github.com/raycast/extensions/tree/main/extensions/glm-models) | 6 | Use Z.ai / BigModel GLM models inside Raycast AI Chat, Quick AI and AI Commands | paulgit | macOS | [store](https://www.raycast.com/paulgit/glm-models) |
 | [Osaurus](https://github.com/raycast/extensions/tree/main/extensions/osaurus) | 4 | Use local Osaurus models in Raycast AI, ask them directly, manage them, and search chat history | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/osaurus) |
 
 ## Chat ✦
@@ -63,6 +63,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 11,322 | Manage Google Tasks from Raycast, and ask Raycast AI about them. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
+| [Readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) | 5,520 | Search and browse your Readwise library, and ask AI about your saved highlights and notes. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/readwise) |
 | [Kagi FastGPT](https://github.com/raycast/extensions/tree/main/extensions/kagi-fastgpt) | 2,164 | Ask questions to Kagi's FastGPT AI engine. | http.james | macOS | [store](https://www.raycast.com/http.james/kagi-fastgpt) |
 | [Ask Dust](https://github.com/raycast/extensions/tree/main/extensions/dust-tt) | 895 | Query dust.tt AI agents | albandum | macOS | [store](https://www.raycast.com/albandum/dust-tt) |
 | [Port.io](https://github.com/raycast/extensions/tree/main/extensions/port) | 33 | Access Port.io dashboards, run self-service actions, and ask Port AI questions | etay_alony | macOS | [store](https://www.raycast.com/etay_alony/port) |

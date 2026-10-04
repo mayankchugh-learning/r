@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "93a03618835b0c0b7553dcbce34a293d138b9796",
-  "generatedAt": "2026-10-04T22:50:21.230Z",
-  "downloadsRefreshedAt": "2026-10-04T22:50:20.599Z",
+  "commit": "6bafdbd71c9cc7dc1ce28fa55b6286d1e72c9e22",
+  "generatedAt": "2026-10-04T22:52:21.906Z",
+  "downloadsRefreshedAt": "2026-10-04T22:52:21.400Z",
   "count": 3369,
   "extensions": [
     {
@@ -10337,7 +10337,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 611656
+      "downloads": 611659
     },
     {
       "dir": "color-shades",
@@ -22738,7 +22738,7 @@
       "store": "https://www.raycast.com/paulgit/glm-models",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/glm-models",
       "treeSha": "77f83fed96e41e092dbbc2c7783cb76db11664f0",
-      "downloads": 5
+      "downloads": 6
     },
     {
       "dir": "global-media-key",
@@ -29643,7 +29643,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 771139
+      "downloads": 771141
     },
     {
       "dir": "kimai",
@@ -50290,10 +50290,10 @@
       "dir": "readwise",
       "name": "readwise",
       "title": "Readwise",
-      "description": "Search and browse your Readwise Library.",
+      "description": "Search and browse your Readwise library, and ask AI about your saved highlights and notes.",
       "author": "natterstefan",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Productivity"
       ],
@@ -50303,7 +50303,7 @@
       ],
       "store": "https://www.raycast.com/natterstefan/readwise",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/readwise",
-      "treeSha": "1181333aafc0a1e0bc0f8b2303c218e986d7e7b0",
+      "treeSha": "b2ecff0eff9ca0e8213f5ac1f2182a7121314365",
       "downloads": 5520
     },
     {

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-04 — upstream `6bafdbd71c`
+
+**Updated (1):** [Readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise)
+
 ## 2026-10-04 — upstream `93a0361883`
 
 **Updated (1):** [GLM Models](https://github.com/raycast/extensions/tree/main/extensions/glm-models)
