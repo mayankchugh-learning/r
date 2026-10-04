@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "73f988030aea4cad39c772a6c93d0b95af1c4dd4",
-  "generatedAt": "2026-10-04T03:38:28.233Z",
-  "downloadsRefreshedAt": "2026-10-04T03:38:27.210Z",
+  "commit": "cf867ca176ba16a5dc60d8ecf5dadbc84ec9e362",
+  "generatedAt": "2026-10-04T03:39:34.394Z",
+  "downloadsRefreshedAt": "2026-10-04T03:39:34.018Z",
   "count": 3369,
   "extensions": [
     {
@@ -43860,7 +43860,7 @@
       ],
       "store": "https://www.raycast.com/Aayush9029/petal",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/petal",
-      "treeSha": "b2b2dade6be66d4ac52cc823417a550754ce9217",
+      "treeSha": "ab822bfc4a113a8334831978997b394e2c976a1f",
       "downloads": 55
     },
     {

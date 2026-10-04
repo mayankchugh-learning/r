@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-04 — upstream `cf867ca176`
+
+**Updated (1):** [Petal - Offline Voice to Text](https://github.com/raycast/extensions/tree/main/extensions/petal)
+
 ## 2026-10-04 — upstream `73f988030a`
 
 **Updated (1):** [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz)
