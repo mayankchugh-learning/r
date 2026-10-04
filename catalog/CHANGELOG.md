@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-04 — upstream `93a0361883`
+
+**Updated (1):** [GLM Models](https://github.com/raycast/extensions/tree/main/extensions/glm-models)
+
 ## 2026-10-04 — upstream `35e0ba8ea4`
 
 **Updated (1):** [RAM Prices](https://github.com/raycast/extensions/tree/main/extensions/ram-prices)
