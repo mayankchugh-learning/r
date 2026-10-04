@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "16ad09a0bdb5e61fdeff2ea85b38ee20dee45b98",
-  "generatedAt": "2026-10-04T03:40:38.179Z",
-  "downloadsRefreshedAt": "2026-10-04T03:40:37.409Z",
+  "commit": "15c829915bb09bf8b2a4d41d1aaa44f77b631191",
+  "generatedAt": "2026-10-04T03:42:24.452Z",
+  "downloadsRefreshedAt": "2026-10-04T03:42:24.026Z",
   "count": 3369,
   "extensions": [
     {
@@ -36249,7 +36249,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "ff986968059c13fc28874795c0ec8bea41b11a19",
-      "downloads": 42914
+      "downloads": 42931
     },
     {
       "dir": "models-dev",
@@ -46195,7 +46195,7 @@
       ],
       "store": "https://www.raycast.com/snaka/privmask",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/privmask",
-      "treeSha": "28a44c97e6376f74591d02337611579e9ffce9cb",
+      "treeSha": "7546f0001272165b20f8ef2ba58f6d9de205472f",
       "downloads": 2
     },
     {
