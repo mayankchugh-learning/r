@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-04 — upstream `697b0f442e`
+
+**Updated (1):** [GitLab](https://github.com/raycast/extensions/tree/main/extensions/gitlab)
+
 ## 2026-10-04 — upstream `2843d5b404`
 
 **Updated (1):** [Shortcuts Search](https://github.com/raycast/extensions/tree/main/extensions/shortcuts-search)
