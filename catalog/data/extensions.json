@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4b0e21bc5cff645f6fac21b4388d5883e10b9b91",
-  "generatedAt": "2026-10-04T22:34:44.723Z",
-  "downloadsRefreshedAt": "2026-10-04T22:34:44.324Z",
+  "commit": "35e0ba8ea411d08d90155acdeda19a9c07c6a590",
+  "generatedAt": "2026-10-04T22:36:20.729Z",
+  "downloadsRefreshedAt": "2026-10-04T22:36:20.044Z",
   "count": 3369,
   "extensions": [
     {
@@ -10337,7 +10337,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 611649
+      "downloads": 611651
     },
     {
       "dir": "color-shades",
@@ -23132,7 +23132,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 567746
+      "downloads": 567747
     },
     {
       "dir": "google-chrome-profiles",
@@ -48446,7 +48446,7 @@
       ],
       "store": "https://www.raycast.com/alexi.build/ram-prices",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ram-prices",
-      "treeSha": "a49a2463ca0b0a89a08f0b522bcf0729e6d39bd1",
+      "treeSha": "ae2cbaa36972e793b71a79f2d230a9a0a629b74b",
       "downloads": 119
     },
     {

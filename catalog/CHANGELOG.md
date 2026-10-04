@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-04 — upstream `35e0ba8ea4`
+
+**Updated (1):** [RAM Prices](https://github.com/raycast/extensions/tree/main/extensions/ram-prices)
+
 ## 2026-10-04 — upstream `4b0e21bc5c`
 
 **Updated (1):** [Fox Hop](https://github.com/raycast/extensions/tree/main/extensions/foxhop)
