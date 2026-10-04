@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 115,344 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
-| [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) | 60,626 | Access Google Drive files | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/google-workspace) |
-| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 7,182 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
+| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 115,411 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
+| [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) | 60,664 | Access Google Drive files | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/google-workspace) |
+| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 7,184 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
 | [Fabric](https://github.com/raycast/extensions/tree/main/extensions/fabric) | 2,257 | Quickly search and create in Fabric's intelligent workspace. | fbrc (org) | macOS, Windows | [store](https://www.raycast.com/fbrc/fabric) |
 | [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,897 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
 | [Window Walker](https://github.com/raycast/extensions/tree/main/extensions/window-walker) | 831 | Quickly switch between open windows. Search by app name or window title, minimize, close, or bring any window to the front. | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/window-walker) |
@@ -19,6 +19,6 @@
 | [Figma Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/figma-shortcuts) | 49 | Search and copy Figma keyboard shortcuts for macOS and Windows | arturdz | macOS, Windows | [store](https://www.raycast.com/arturdz/figma-shortcuts) |
 | [Shell Apps](https://github.com/raycast/extensions/tree/main/extensions/shell-apps) | 25 | Create and launch your own shell command shortcuts as apps on Windows | Kxrbx | Windows | [store](https://www.raycast.com/kxrbx/shell-apps) |
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 16 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
-| [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router) | 12 | Route search queries and URLs to any installed browser and profile on Windows. | raghavg02 | Windows | [store](https://www.raycast.com/raghavg02/browser-router) |
+| [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router) | 13 | Route search queries and URLs to any installed browser and profile on Windows. | raghavg02 | Windows | [store](https://www.raycast.com/raghavg02/browser-router) |
 | [Mach Triage](https://github.com/raycast/extensions/tree/main/extensions/mach-triage) | 3 | Triage Jira, Linear, and GitHub tickets without leaving Raycast. Search, check your Today board, change status, add comments, and log work — all routed through… | MikeWhob | macOS, Windows | [store](https://www.raycast.com/mikewhob/mach-triage) |
 | [Figa](https://github.com/raycast/extensions/tree/main/extensions/figa) | 2 | Access your Figa workspace from Raycast. | figa | macOS, Windows | [store](https://www.raycast.com/figa/figa) |

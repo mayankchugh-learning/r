@@ -1,6 +1,6 @@
 # 0xdhrv
 
-16 extensions · 1,897 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
+16 extensions · 1,900 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
 
 ## Productivity (3)
 
@@ -33,9 +33,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Chiikawa Characters](https://github.com/raycast/extensions/tree/main/extensions/chiikawa-character) | 37 | Search and browse Chiikawa characters offline | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/chiikawa-character) |
-| [Word Research](https://github.com/raycast/extensions/tree/main/extensions/word-research) | 28 | Research words and discover whether they have been searched before on wordresearch.xyz | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/word-research) |
-| [Number Research](https://github.com/raycast/extensions/tree/main/extensions/number-research) | 22 | Research numbers and discover if they have been searched before on numberresearch.xyz | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/number-research) |
+| [Chiikawa Characters](https://github.com/raycast/extensions/tree/main/extensions/chiikawa-character) | 38 | Search and browse Chiikawa characters offline | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/chiikawa-character) |
+| [Word Research](https://github.com/raycast/extensions/tree/main/extensions/word-research) | 29 | Research words and discover whether they have been searched before on wordresearch.xyz | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/word-research) |
+| [Number Research](https://github.com/raycast/extensions/tree/main/extensions/number-research) | 23 | Research numbers and discover if they have been searched before on numberresearch.xyz | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/number-research) |
 
 ## Web (1)
 
