@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "15c829915bb09bf8b2a4d41d1aaa44f77b631191",
-  "generatedAt": "2026-10-04T03:42:24.452Z",
-  "downloadsRefreshedAt": "2026-10-04T03:42:24.026Z",
+  "commit": "d284e7d08a2269258fb77ece92168a0cb05544ed",
+  "generatedAt": "2026-10-04T03:45:35.765Z",
+  "downloadsRefreshedAt": "2026-10-04T03:45:34.875Z",
   "count": 3369,
   "extensions": [
     {
@@ -23132,7 +23132,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 567330
+      "downloads": 567331
     },
     {
       "dir": "google-chrome-profiles",
@@ -36249,7 +36249,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "ff986968059c13fc28874795c0ec8bea41b11a19",
-      "downloads": 42931
+      "downloads": 42914
     },
     {
       "dir": "models-dev",
@@ -36745,7 +36745,7 @@
       ],
       "store": "https://www.raycast.com/minhaaj_rehman/moon-mansions",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/moon-mansions",
-      "treeSha": "7a70e57c75946db821a4bbecadef0456dbad751e",
+      "treeSha": "767f601a94b74e4da192af003a0d2be7145bfc87",
       "downloads": 3
     },
     {
@@ -52770,7 +52770,7 @@
       ],
       "store": "https://www.raycast.com/drew_levinson/schwab-portfolio",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/schwab-portfolio",
-      "treeSha": "c73da268bc5523da575f3a192f080bd1c935810c",
+      "treeSha": "2f33ee34730d7f081ef586fc2c117d291c9152ea",
       "downloads": 10
     },
     {

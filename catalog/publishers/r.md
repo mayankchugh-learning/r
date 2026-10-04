@@ -31,7 +31,7 @@
 | [ravi_s](https://www.raycast.com/ravi_s) | 1 | 12 | **Data:** [EdgeStore](https://github.com/raycast/extensions/tree/main/extensions/edgestore-raycast) |
 | [ray_tan](https://www.raycast.com/ray_tan) | 1 | 35 | **Developer Tools:** [Auth0 Management](https://github.com/raycast/extensions/tree/main/extensions/auth0-management) |
 | [ray.dhruv](https://www.raycast.com/ray.dhruv) | 1 | 6 | **Design Tools:** [Museum](https://github.com/raycast/extensions/tree/main/extensions/try-museum) |
-| [raycast](./id/raycast.md) | 11 | 902,566 | [see all 11 →](./id/raycast.md) |
+| [raycast](./id/raycast.md) | 11 | 902,549 | [see all 11 →](./id/raycast.md) |
 | [raycast_0ukl](https://www.raycast.com/raycast_0ukl) | 1 | 9 | **Developer Tools:** [Aqua Registry Search](https://github.com/raycast/extensions/tree/main/extensions/aqua-registry-search) |
 | [Raynold](https://www.raycast.com/Raynold) | 1 | 9 | **Productivity:** [PlanWell](https://github.com/raycast/extensions/tree/main/extensions/planwell) |
 | [raz_gaon](https://www.raycast.com/raz_gaon) | 1 | 1,148 | **Productivity:** [Notion Researcher](https://github.com/raycast/extensions/tree/main/extensions/notion_researcher) |

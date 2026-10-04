@@ -25,7 +25,7 @@
 | 15 | [litomore](./id/litomore.md) | 13 | 14,381 |
 | 16 | [j3lte](./id/j3lte.md) | 13 | 11,232 |
 | 17 | [kud](./id/kud.md) | 13 | 7,289 |
-| 18 | [raycast](./id/raycast.md) | 11 | 902,566 |
+| 18 | [raycast](./id/raycast.md) | 11 | 902,549 |
 | 19 | [Rob](./id/rob.md) | 11 | 12,347 |
 | 20 | [Yukai](./id/yukai.md) | 11 | 10,472 |
 | 21 | [xilopaint](./id/xilopaint.md) | 10 | 23,146 |
@@ -408,7 +408,7 @@
 | 398 | [frdmn](https://www.raycast.com/frdmn) | 2 | 1 |
 | 399 | github-next | 2 | — |
 | 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 770,434 |
-| 401 | [Codely](https://www.raycast.com/Codely) | 1 | 567,330 |
+| 401 | [Codely](https://www.raycast.com/Codely) | 1 | 567,331 |
 | 402 | [linear](https://www.raycast.com/linear) | 1 | 400,207 |
 | 403 | [mommertf](https://www.raycast.com/mommertf) | 1 | 333,065 |
 | 404 | [nhojb](https://www.raycast.com/nhojb) | 1 | 291,862 |
