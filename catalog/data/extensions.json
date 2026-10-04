@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "97f2b1aadec7437d898fe4948245a8b924883995",
-  "generatedAt": "2026-10-04T05:13:33.680Z",
-  "downloadsRefreshedAt": "2026-10-04T05:13:32.586Z",
+  "commit": "2843d5b404306d6652964b5749be852ef9431bb5",
+  "generatedAt": "2026-10-04T05:14:33.217Z",
+  "downloadsRefreshedAt": "2026-10-04T05:14:32.060Z",
   "count": 3369,
   "extensions": [
     {
@@ -6230,7 +6230,7 @@
       "store": "https://www.raycast.com/nhojb/brew",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/brew",
       "treeSha": "e18dd5653692c7ca5a6efaa566cc75d1ef8e3a3f",
-      "downloads": 292064
+      "downloads": 292076
     },
     {
       "dir": "brew-services",
@@ -54913,11 +54913,12 @@
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/solomkinmv/shortcuts-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/shortcuts-search",
-      "treeSha": "1bb2ac16593de772e16970d75a3ee24c73ae2f57",
+      "treeSha": "13e7330b8d003ec4307924d3163f3a97e2192249",
       "downloads": 7849
     },
     {

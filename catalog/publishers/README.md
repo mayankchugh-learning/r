@@ -18,7 +18,7 @@
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 400,363 |
 | 9 | [vimtor](./id/vimtor.md) | 16 | 336,917 |
 | 10 | [mommertf](https://www.raycast.com/mommertf) | 1 | 333,172 |
-| 11 | [nhojb](https://www.raycast.com/nhojb) | 1 | 292,064 |
+| 11 | [nhojb](https://www.raycast.com/nhojb) | 1 | 292,076 |
 | 12 | [koinzhang](./id/koinzhang.md) | 50 | 289,367 |
 | 13 | [notion](https://www.raycast.com/notion) | 1 | 278,743 |
 | 14 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 265,331 |

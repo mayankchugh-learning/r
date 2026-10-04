@@ -411,7 +411,7 @@
 | 401 | [Codely](https://www.raycast.com/Codely) | 1 | 567,350 |
 | 402 | [linear](https://www.raycast.com/linear) | 1 | 400,363 |
 | 403 | [mommertf](https://www.raycast.com/mommertf) | 1 | 333,172 |
-| 404 | [nhojb](https://www.raycast.com/nhojb) | 1 | 292,064 |
+| 404 | [nhojb](https://www.raycast.com/nhojb) | 1 | 292,076 |
 | 405 | [notion](https://www.raycast.com/notion) | 1 | 278,743 |
 | 406 | [khasbilegt](https://www.raycast.com/khasbilegt) | 1 | 250,135 |
 | 407 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 122,371 |

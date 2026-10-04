@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Shortcuts Search](https://github.com/raycast/extensions/tree/main/extensions/shortcuts-search) | 7,849 | List, search and run shortcuts for different applications | solomkinmv | macOS | [store](https://www.raycast.com/solomkinmv/shortcuts-search) |
+| [Shortcuts Search](https://github.com/raycast/extensions/tree/main/extensions/shortcuts-search) | 7,849 | List, search and run shortcuts for different applications | solomkinmv | macOS, Windows | [store](https://www.raycast.com/solomkinmv/shortcuts-search) |
 | [Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences) | 6,345 | Configure, save, and run sequences of keyboard shortcuts | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences) |
 | [Shortcut](https://github.com/raycast/extensions/tree/main/extensions/shortcut) | 1,677 | Raycast extension for Shortcut | Yukai | macOS | [store](https://www.raycast.com/Yukai/shortcut) |
 | [Screen Sharing Recents](https://github.com/raycast/extensions/tree/main/extensions/screen-sharing-recents) | 1,484 | Adds shortcuts to recent screen sharing locations | bix | macOS | [store](https://www.raycast.com/bix/screen-sharing-recents) |
