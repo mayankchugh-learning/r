@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "31962494b926e88084532ca67e00b026db128667",
-  "generatedAt": "2026-10-05T06:08:30.549Z",
-  "downloadsRefreshedAt": "2026-10-05T06:08:29.862Z",
+  "commit": "3048c09ba5dd2976b28ed74f9500c8e601a9113e",
+  "generatedAt": "2026-10-05T06:10:21.463Z",
+  "downloadsRefreshedAt": "2026-10-05T06:10:21.170Z",
   "count": 3372,
   "extensions": [
     {
@@ -10358,7 +10358,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 611871
+      "downloads": 611872
     },
     {
       "dir": "color-shades",
@@ -29664,7 +29664,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 771403
+      "downloads": 771406
     },
     {
       "dir": "kimai",
@@ -70198,7 +70198,7 @@
       "description": "Search and open recent projects from Zed",
       "author": "ewgenius",
       "owner": null,
-      "contributors": 11,
+      "contributors": 12,
       "categories": [
         "Developer Tools"
       ],
@@ -70209,7 +70209,7 @@
       ],
       "store": "https://www.raycast.com/ewgenius/zed-recent-projects",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects",
-      "treeSha": "c543a6ac9f130d8daa875bbc2e0e31c6fcda7bb4",
+      "treeSha": "b305b348d01fe1845595f5f1d802d8c559f167ce",
       "downloads": 16699
     },
     {
