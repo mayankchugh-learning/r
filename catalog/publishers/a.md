@@ -43,7 +43,7 @@
 | [adrian-schnell](https://www.raycast.com/adrian-schnell) | 4 | 1,366 | **Productivity:** [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simplelogin)<br>**Finance:** [DefiScan.live](https://github.com/raycast/extensions/tree/main/extensions/defiscan), [Defichain Dobby](https://github.com/raycast/extensions/tree/main/extensions/defichain-dobby)<br>**Fun:** [Defichain Lottery](https://github.com/raycast/extensions/tree/main/extensions/defichain-lottery) |
 | [adrianbonpin](https://www.raycast.com/adrianbonpin) | 1 | 11 | **Productivity:** [Next Up](https://github.com/raycast/extensions/tree/main/extensions/next-up) |
 | [adrianmarten](https://www.raycast.com/adrianmarten) | 1 | 28 | **Developer Tools:** [Supabase Cron Monitor](https://github.com/raycast/extensions/tree/main/extensions/supabase-cron-monitor) |
-| [aelew](https://www.raycast.com/aelew) | 1 | 7,140 | **Applications:** [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) |
+| [aelew](https://www.raycast.com/aelew) | 1 | 7,142 | **Applications:** [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) |
 | [aerobless](https://www.raycast.com/aerobless) | 1 | 363 | **Productivity:** [Static Marks - Bookmark Search](https://github.com/raycast/extensions/tree/main/extensions/static-marks-bookmarks) |
 | [aesign](https://www.raycast.com/aesign) | 2 | 1,111 | **Design Tools:** [Sketch](https://github.com/raycast/extensions/tree/main/extensions/sketch)<br>**Data:** [BMW](https://github.com/raycast/extensions/tree/main/extensions/bmw) |
 | [afaan_mushtaq](https://www.raycast.com/afaan_mushtaq) | 1 | 14 | **Applications:** [Windows Screenshot](https://github.com/raycast/extensions/tree/main/extensions/windows-screenshot) |

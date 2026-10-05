@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `49cdb04cf9`
+
+**Added (1):** [Rake](https://github.com/raycast/extensions/tree/main/extensions/rake)
+
 ## 2026-10-05 — upstream `2e04ce5a8e`
 
 **Updated (1):** [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt)

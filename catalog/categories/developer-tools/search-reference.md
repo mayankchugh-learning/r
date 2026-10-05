@@ -1,8 +1,8 @@
 # Search & Reference
 
-119 extensions · [← Developer Tools](./README.md)
+120 extensions · [← Developer Tools](./README.md)
 
-[Documentation ✦](#documentation) (36) · [Docs ✦](#docs) (5) · [Bookmarks ✦](#bookmarks) (5) · [Cheatsheets ✦](#cheatsheets) (5) · [Recent ✦](#recent) (5) · [Directory ✦](#directory) (4) · [Sessions ✦](#sessions) (4) · [General](#general) (55)
+[Documentation ✦](#documentation) (36) · [Docs ✦](#docs) (5) · [Bookmarks ✦](#bookmarks) (5) · [Cheatsheets ✦](#cheatsheets) (5) · [Directory ✦](#directory) (5) · [Recent ✦](#recent) (5) · [Sessions ✦](#sessions) (4) · [General](#general) (55)
 
 *✦ auto-discovered topic group*
 
@@ -77,6 +77,16 @@
 | [Big-O](https://github.com/raycast/extensions/tree/main/extensions/big-o) | 155 | A cheatsheet for Big-O notation | shayneo | macOS | [store](https://www.raycast.com/shayneo/big-o) |
 | [Strftime Cheatsheet](https://github.com/raycast/extensions/tree/main/extensions/strftime-cheatsheet) | 132 | Search strftime codes, meanings and examples | antonengelhardt | macOS | [store](https://www.raycast.com/antonengelhardt/strftime-cheatsheet) |
 
+## Directory ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Disk Usage](https://github.com/raycast/extensions/tree/main/extensions/disk-usage) | 1,215 | Analyze disk space usage and identify large files and folders in your home directory | easymikey | macOS | [store](https://www.raycast.com/easymikey/disk-usage) |
+| [WordPress Plugins](https://github.com/raycast/extensions/tree/main/extensions/wordpress-plugins) | 677 | Search and download plugins from the WordPress Plugin Directory. | edmundcwm | macOS | [store](https://www.raycast.com/edmundcwm/wordpress-plugins) |
+| [Open in Trae](https://github.com/raycast/extensions/tree/main/extensions/open-in-trae) | 284 | Open current Finder directory, selected folder or file in Trae. | haroldao | macOS | [store](https://www.raycast.com/haroldao/open-in-trae) |
+| [APIs Guru Search](https://github.com/raycast/extensions/tree/main/extensions/apis-guru-search) | 121 | Search APIs Guru, the largest public directory of APIs. | zebapy | macOS, Windows | [store](https://www.raycast.com/zebapy/apis-guru-search) |
+| [Rake](https://github.com/raycast/extensions/tree/main/extensions/rake) | 0 | Search and run Rake tasks from a configurable directory, with support for task arguments. | kdmsnr | macOS | [store](https://www.raycast.com/kdmsnr/rake) |
+
 ## Recent ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
@@ -86,15 +96,6 @@
 | [Kiro](https://github.com/raycast/extensions/tree/main/extensions/kiro) | 571 | Control Kiro directly from Raycast - Search and open recent projects, handle extensions and commands. | jyothish-ram | macOS | [store](https://www.raycast.com/jyothish-ram/kiro) |
 | [Envoyer](https://github.com/raycast/extensions/tree/main/extensions/envoyer) | 171 | Search for envoyer projects, start new deploys and view recent deployments | thijsdewitt | macOS | [store](https://www.raycast.com/thijsdewitt/envoyer) |
 | [IBM Bob](https://github.com/raycast/extensions/tree/main/extensions/ibm-bob-recent-projects) | 8 | Control IBM Bob directly from Raycast - Search and open recent projects, handle extensions and commands. | fbuetler | macOS | [store](https://www.raycast.com/fbuetler/ibm-bob-recent-projects) |
-
-## Directory ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Disk Usage](https://github.com/raycast/extensions/tree/main/extensions/disk-usage) | 1,215 | Analyze disk space usage and identify large files and folders in your home directory | easymikey | macOS | [store](https://www.raycast.com/easymikey/disk-usage) |
-| [WordPress Plugins](https://github.com/raycast/extensions/tree/main/extensions/wordpress-plugins) | 677 | Search and download plugins from the WordPress Plugin Directory. | edmundcwm | macOS | [store](https://www.raycast.com/edmundcwm/wordpress-plugins) |
-| [Open in Trae](https://github.com/raycast/extensions/tree/main/extensions/open-in-trae) | 284 | Open current Finder directory, selected folder or file in Trae. | haroldao | macOS | [store](https://www.raycast.com/haroldao/open-in-trae) |
-| [APIs Guru Search](https://github.com/raycast/extensions/tree/main/extensions/apis-guru-search) | 121 | Search APIs Guru, the largest public directory of APIs. | zebapy | macOS, Windows | [store](https://www.raycast.com/zebapy/apis-guru-search) |
 
 ## Sessions ✦
 

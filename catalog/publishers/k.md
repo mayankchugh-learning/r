@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · **K** · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-86 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+87 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -33,6 +33,7 @@
 | [kciarnie](https://www.raycast.com/kciarnie) | 1 | 638 | **Fun:** [NFL](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) |
 | [Kcih4518](https://www.raycast.com/Kcih4518) | 1 | 363 | **Documentation:** [Search Ansible Documentation](https://github.com/raycast/extensions/tree/main/extensions/ansible-documentation) |
 | [kcole93](https://www.raycast.com/kcole93) | 2 | 101 | **Other:** [NYC Train Tracker - Realtime Train Departures](https://github.com/raycast/extensions/tree/main/extensions/nyc-train-tracker), [Check Citi Bike Availability](https://github.com/raycast/extensions/tree/main/extensions/check-citi-bike-availability) |
+| [kdmsnr](https://www.raycast.com/kdmsnr) | 1 | 0 | **Developer Tools:** [Rake](https://github.com/raycast/extensions/tree/main/extensions/rake) |
 | [keepersecurity](https://www.raycast.com/keepersecurity) | 1 | 451 | **Security:** [Keeper Security](https://github.com/raycast/extensions/tree/main/extensions/keeper-security) |
 | [keito4](https://www.raycast.com/keito4) | 6 | 9,653 | **Developer Tools:** [Skills](https://github.com/raycast/extensions/tree/main/extensions/skills), [Supabase](https://github.com/raycast/extensions/tree/main/extensions/supabase), [DevContainer Features](https://github.com/raycast/extensions/tree/main/extensions/devcontainer-features)<br>**Productivity:** [Spark Mail](https://github.com/raycast/extensions/tree/main/extensions/spark-mail), [Tldv Meetings](https://github.com/raycast/extensions/tree/main/extensions/tldv), [OneCal Unified Calendar](https://github.com/raycast/extensions/tree/main/extensions/onecal-unified-calendar) |
 | [kelant](https://www.raycast.com/Kelant) | 1 | 11 | **Developer Tools:** [QuickForce - Salesforce Toolkit](https://github.com/raycast/extensions/tree/main/extensions/quickforce-salesforce-toolkit) |
