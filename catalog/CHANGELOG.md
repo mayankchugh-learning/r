@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `0f29748a6d`
+
+**Added (1):** [Claude Exit IP](https://github.com/raycast/extensions/tree/main/extensions/claude-exit-ip)
+
 ## 2026-10-05 — upstream `2fce862b03`
 
 **Added (1):** [Ghq Plus](https://github.com/raycast/extensions/tree/main/extensions/ghq-plus)

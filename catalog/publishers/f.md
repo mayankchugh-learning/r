@@ -52,7 +52,7 @@
 | [fka](https://www.raycast.com/fka) | 1 | 768 | **Productivity:** [Prompts.chat](https://github.com/raycast/extensions/tree/main/extensions/prompts-chat) |
 | [FL0R1AN](https://www.raycast.com/FL0R1AN) | 1 | 11 | **Productivity:** [Punch Clock](https://github.com/raycast/extensions/tree/main/extensions/punch-clock) |
 | [flaming-codes](https://www.raycast.com/flaming-codes) | 1 | 72 | **Developer Tools:** [CRAN/E Search](https://github.com/raycast/extensions/tree/main/extensions/cran-e-search) |
-| [flan](https://www.raycast.com/flan) | 1 | 0 | **Developer Tools:** [Ghq Plus](https://github.com/raycast/extensions/tree/main/extensions/ghq-plus) |
+| [flan](https://www.raycast.com/flan) | 1 | 2 | **Developer Tools:** [Ghq Plus](https://github.com/raycast/extensions/tree/main/extensions/ghq-plus) |
 | [flaticols](https://www.raycast.com/flaticols) | 1 | 81 | **Other:** [Netherlands Railways Train Search](https://github.com/raycast/extensions/tree/main/extensions/ns-nl-search) |
 | [Flatroy](https://www.raycast.com/Flatroy) | 1 | 878 | **Applications:** [HideMail - Email Relay Service](https://github.com/raycast/extensions/tree/main/extensions/hide-mail) |
 | [flavien.bonvin](https://www.raycast.com/flavien.bonvin) | 1 | 719 | **Data:** [Proton Version](https://github.com/raycast/extensions/tree/main/extensions/proton-version) |

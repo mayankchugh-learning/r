@@ -127,7 +127,7 @@
 | [AndrewUsher](https://www.raycast.com/AndrewUsher) | 1 | 578 | **Documentation:** [Playwright Documentation](https://github.com/raycast/extensions/tree/main/extensions/playwright-docs) |
 | [andrey_tolstikov](https://www.raycast.com/andrey_tolstikov) | 1 | 0 | **Finance:** [MOEX Bonds](https://github.com/raycast/extensions/tree/main/extensions/moex-bonds) |
 | [andworksGmbH](https://www.raycast.com/andworksGmbH) | 1 | 10 | **Productivity:** [FAVORO](https://github.com/raycast/extensions/tree/main/extensions/favoro) |
-| [andy](https://www.raycast.com/andy) | 1 | 7 | **Media:** [ImgBed Uploader](https://github.com/raycast/extensions/tree/main/extensions/imgbed-uploader) |
+| [andy](https://www.raycast.com/andy) | 1 | 6 | **Media:** [ImgBed Uploader](https://github.com/raycast/extensions/tree/main/extensions/imgbed-uploader) |
 | [andyli_lfs898](https://www.raycast.com/andyli_lfs898) | 1 | 3 | **Applications:** [BetterShot](https://github.com/raycast/extensions/tree/main/extensions/bettershot) |
 | [anfalas](https://www.raycast.com/anfalas) | 1 | 2,204 | **Developer Tools:** [Open in Sublime Text](https://github.com/raycast/extensions/tree/main/extensions/open-in-sublime-text) |
 | [AngryBeaver](https://www.raycast.com/AngryBeaver) | 1 | 29 | **Productivity:** [VocaBuilder](https://github.com/raycast/extensions/tree/main/extensions/vocabuilder) |

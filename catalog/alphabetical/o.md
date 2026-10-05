@@ -84,7 +84,7 @@
 | [Open in Shopify Admin](https://github.com/raycast/extensions/tree/main/extensions/open-in-shopify-admin) | 144 | Open the current store link on your browser in Shopify admin | approxhuman | macOS | [store](https://www.raycast.com/approxhuman/open-in-shopify-admin) |
 | [OpenHue](https://github.com/raycast/extensions/tree/main/extensions/openhue) | 137 | Control your Philips Hue lightning system from Raycast | thibauult | macOS, Windows | [store](https://www.raycast.com/thibauult/openhue) |
 | [Orshot](https://github.com/raycast/extensions/tree/main/extensions/orshot) | 135 | Generate Website and Tweet Screenshots | rishi | macOS, Windows | [store](https://www.raycast.com/rishi/orshot) |
-| [OctoPrint](https://github.com/raycast/extensions/tree/main/extensions/octoprint) | 124 | Control your OctoPrint printer from Raycast | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/octoprint) |
+| [OctoPrint](https://github.com/raycast/extensions/tree/main/extensions/octoprint) | 123 | Control your OctoPrint printer from Raycast | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/octoprint) |
 | [Oracle Cloud](https://github.com/raycast/extensions/tree/main/extensions/oci) | 119 | Manage Oracle Cloud Infrastructure | xmok | macOS | [store](https://www.raycast.com/xmok/oci) |
 | [OpsLevel](https://github.com/raycast/extensions/tree/main/extensions/opslevel) | 108 | Search OpsLevel services | DuckyC | macOS | [store](https://www.raycast.com/DuckyC/opslevel) |
 | [Olympic Games](https://github.com/raycast/extensions/tree/main/extensions/olympic-games) | 104 | Paris 2024 Olympic Medal Table | elonwoo | macOS | [store](https://www.raycast.com/elonwoo/olympic-games) |

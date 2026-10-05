@@ -64,9 +64,9 @@
 | [Ugly Face](https://github.com/raycast/extensions/tree/main/extensions/ugly-face) | 131 | Generate ugly face | Lemon | macOS | [store](https://www.raycast.com/Lemon/ugly-face) |
 | [BMW](https://github.com/raycast/extensions/tree/main/extensions/bmw) | 127 | Control and view your BMW | aesign | macOS | [store](https://www.raycast.com/aesign/bmw) |
 | [Holopin](https://github.com/raycast/extensions/tree/main/extensions/holopin) | 126 | Show Holopin stickers and board | timoransky | macOS | [store](https://www.raycast.com/timoransky/holopin) |
-| [OctoPrint](https://github.com/raycast/extensions/tree/main/extensions/octoprint) | 124 | Control your OctoPrint printer from Raycast | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/octoprint) |
 | [Hevy](https://github.com/raycast/extensions/tree/main/extensions/hevy) | 123 | Your Hevy workout data at your fingertips via Raycast | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/hevy) |
 | [Leitner Box](https://github.com/raycast/extensions/tree/main/extensions/leitnerbox) | 123 | This is a simple extension that use the concept of a learning process called leitner box | gzyannick | macOS, Windows | [store](https://www.raycast.com/gzyannick/leitnerbox) |
+| [OctoPrint](https://github.com/raycast/extensions/tree/main/extensions/octoprint) | 123 | Control your OctoPrint printer from Raycast | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/octoprint) |
 | [Raycaster](https://github.com/raycast/extensions/tree/main/extensions/raycaster) | 121 | Send casts to Farcaster from Raycast | stevedylandev | macOS | [store](https://www.raycast.com/stevedylandev/raycaster) |
 | [Rabbit Hole](https://github.com/raycast/extensions/tree/main/extensions/rabbit-hole) | 119 | Discover and manage information your Rabbit r1 has saved in your rabbit hole journal. | Rob | macOS | [store](https://www.raycast.com/Rob/rabbit-hole) |
 | [HIIT](https://github.com/raycast/extensions/tree/main/extensions/hiit) | 117 | High Intensity Interval Training directly from Raycast | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/hiit) |

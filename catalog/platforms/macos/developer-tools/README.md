@@ -1,6 +1,6 @@
 # macOS · Developer Tools
 
-1146 extensions · [← macOS](../README.md)
+1147 extensions · [← macOS](../README.md)
 
 ## Code & Collaboration
 
@@ -25,7 +25,7 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & LLM Tools](./ai-llm-tools.md) | 138 |
+| [AI & LLM Tools](./ai-llm-tools.md) | 139 |
 | [Web & Frontend](./web-frontend.md) | 66 |
 | [Mobile & App Development](./mobile-app-development.md) | 30 |
 | [Web3 & Blockchain](./web3-blockchain.md) | 17 |

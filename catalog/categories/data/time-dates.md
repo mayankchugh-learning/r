@@ -33,4 +33,4 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [World Clock](https://github.com/raycast/extensions/tree/main/extensions/world-clock) | 9,187 | Query the current time of a region, ip or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/world-clock) |
-| [Playback Duration Calculator](https://github.com/raycast/extensions/tree/main/extensions/playback-duration-calculator) | 137 | Find out how long your video or audio will take to finish based on your playback speed. | nathanwijaya | macOS | [store](https://www.raycast.com/nathanwijaya/playback-duration-calculator) |
+| [Playback Duration Calculator](https://github.com/raycast/extensions/tree/main/extensions/playback-duration-calculator) | 136 | Find out how long your video or audio will take to finish based on your playback speed. | nathanwijaya | macOS | [store](https://www.raycast.com/nathanwijaya/playback-duration-calculator) |

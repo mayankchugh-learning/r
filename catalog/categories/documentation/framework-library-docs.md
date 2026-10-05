@@ -20,7 +20,7 @@
 | [Shadcn/Svelte](https://github.com/raycast/extensions/tree/main/extensions/shadcn-svelte) | 251 | Browses shadcn/svelte documentation, components, and commands. | selemondev | macOS | [store](https://www.raycast.com/selemondev/shadcn-svelte) |
 | [Shadcn/Vue](https://github.com/raycast/extensions/tree/main/extensions/shadcn-vue) | 211 | Browses shadcn/vue documentation, components, and commands. | selemondev | macOS | [store](https://www.raycast.com/selemondev/shadcn-vue) |
 | [Base UI Components](https://github.com/raycast/extensions/tree/main/extensions/base-ui-docs) | 68 | Browse Base UI component documentation | lucasmotta | macOS | [store](https://www.raycast.com/lucasmotta/base-ui-docs) |
-| [Vuetify Docs](https://github.com/raycast/extensions/tree/main/extensions/vuetify-docs) | 59 | Search all Vuetify components and open the official documentation directly from Raycast. | jeffnawroth | macOS | [store](https://www.raycast.com/jeffnawroth/vuetify-docs) |
+| [Vuetify Docs](https://github.com/raycast/extensions/tree/main/extensions/vuetify-docs) | 58 | Search all Vuetify components and open the official documentation directly from Raycast. | jeffnawroth | macOS | [store](https://www.raycast.com/jeffnawroth/vuetify-docs) |
 | [Django Docs](https://github.com/raycast/extensions/tree/main/extensions/django-docs) | 49 | Navigate and search through Django documentation | JensAstrup | macOS, Windows | [store](https://www.raycast.com/JensAstrup/django-docs) |
 
 ## Docs ✦
