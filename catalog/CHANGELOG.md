@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `0a0163e80a`
+
+**Updated (1):** [Fathom](https://github.com/raycast/extensions/tree/main/extensions/fathom)
+
 ## 2026-10-05 — upstream `4cf8ae0ff9`
 
 **Updated (1):** [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device)
