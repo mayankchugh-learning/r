@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ee0e41ec7142cdec090d5bd672645a37abe5fb38",
-  "generatedAt": "2026-10-05T05:00:23.523Z",
-  "downloadsRefreshedAt": "2026-10-05T05:00:23.118Z",
+  "commit": "446d2f0cd9067fffd053bd2ca768defe009d8db2",
+  "generatedAt": "2026-10-05T05:08:38.479Z",
+  "downloadsRefreshedAt": "2026-10-05T05:08:38.170Z",
   "count": 3369,
   "extensions": [
     {
@@ -10337,7 +10337,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 611825
+      "downloads": 611832
     },
     {
       "dir": "color-shades",
@@ -16762,7 +16762,7 @@
       ],
       "store": "https://www.raycast.com/chrismessina/ejection-seat",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ejection-seat",
-      "treeSha": "3961e5e57d7de28dda062cdaa5d7e907a9c87c6f",
+      "treeSha": "25df9aeca8161c12a1eef8ab26261542425dd7a0",
       "downloads": 28
     },
     {
@@ -23132,7 +23132,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 567894
+      "downloads": 567901
     },
     {
       "dir": "google-chrome-profiles",
@@ -29643,7 +29643,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 771355
+      "downloads": 771364
     },
     {
       "dir": "kimai",
