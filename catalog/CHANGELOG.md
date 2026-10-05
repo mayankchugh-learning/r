@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `cd6ddad2dc`
+
+**Updated (1):** [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz)
+
 ## 2026-10-05 — upstream `67f5b94d6e`
 
 **Updated (1):** [oMLX](https://github.com/raycast/extensions/tree/main/extensions/omlx)

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "67f5b94d6ee6bd26329ba73be439fb69bc4a4f84",
-  "generatedAt": "2026-10-05T17:39:43.363Z",
-  "downloadsRefreshedAt": "2026-10-05T17:39:42.084Z",
+  "commit": "cd6ddad2dc89bd4b7d6d7b0c3b52ba9ce414a0fd",
+  "generatedAt": "2026-10-05T17:40:23.005Z",
+  "downloadsRefreshedAt": "2026-10-05T17:40:22.594Z",
   "count": 3377,
   "extensions": [
     {
@@ -10400,7 +10400,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 612584
+      "downloads": 612586
     },
     {
       "dir": "color-shades",
@@ -29726,7 +29726,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 772206
+      "downloads": 772208
     },
     {
       "dir": "kimai",
@@ -47360,7 +47360,7 @@
       ],
       "store": "https://www.raycast.com/kud/qobuz",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/qobuz",
-      "treeSha": "58dc4177c06ffabcdbe23a925a4a42fa7b5b00e4",
+      "treeSha": "e30eeb585fc1429db1bc0beb1a3913410936bdde",
       "downloads": 63
     },
     {
