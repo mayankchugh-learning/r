@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 169,624 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,818 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,908 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,295,215 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,295,219 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 459,153 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,850 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,416 |
@@ -145,7 +145,7 @@
 | 135 | [mike182uk](https://www.raycast.com/mike182uk) | 3 | 1,399 |
 | 136 | [gutenye](https://www.raycast.com/gutenye) | 3 | 1,396 |
 | 137 | [bensomething](https://www.raycast.com/bensomething) | 3 | 1,316 |
-| 138 | [NormC](https://www.raycast.com/NormC) | 3 | 1,058 |
+| 138 | [NormC](https://www.raycast.com/NormC) | 3 | 1,059 |
 | 139 | [kumamaki](https://www.raycast.com/kumamaki) | 3 | 904 |
 | 140 | [asifk](https://www.raycast.com/asifk) | 3 | 881 |
 | 141 | [yannglt](https://www.raycast.com/yannglt) | 3 | 866 |
@@ -407,8 +407,8 @@
 | 397 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 15 |
 | 398 | [frdmn](https://www.raycast.com/frdmn) | 2 | 1 |
 | 399 | github-next | 2 | — |
-| 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 772,299 |
-| 401 | [Codely](https://www.raycast.com/Codely) | 1 | 568,457 |
+| 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 772,301 |
+| 401 | [Codely](https://www.raycast.com/Codely) | 1 | 568,459 |
 | 402 | [linear](https://www.raycast.com/linear) | 1 | 400,996 |
 | 403 | [mommertf](https://www.raycast.com/mommertf) | 1 | 333,794 |
 | 404 | [nhojb](https://www.raycast.com/nhojb) | 1 | 292,852 |
@@ -500,7 +500,7 @@
 | 490 | [Jordan-Ellis](https://www.raycast.com/Jordan-Ellis) | 1 | 7,091 |
 | 491 | [steffenble](https://www.raycast.com/steffenble) | 1 | 7,089 |
 | 492 | [anysphere](https://www.raycast.com/anysphere) | 1 | 7,069 |
-| 493 | [dru89](https://www.raycast.com/dru89) | 1 | 7,023 |
+| 493 | [dru89](https://www.raycast.com/dru89) | 1 | 7,026 |
 | 494 | [cjdenio](https://www.raycast.com/cjdenio) | 1 | 6,967 |
 | 495 | [anton-suprun](https://www.raycast.com/anton-suprun) | 1 | 6,814 |
 | 496 | [ChrisChinchilla](https://www.raycast.com/ChrisChinchilla) | 1 | 6,810 |

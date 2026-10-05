@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,295,215 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,295,219 |
 | 2 | [raycast](./id/raycast.md) | 11 | 905,141 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 772,299 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 568,457 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 772,301 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 568,459 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 496,692 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 492,902 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 459,153 |
@@ -230,7 +230,7 @@
 | 220 | [pascal_burkhard](https://www.raycast.com/pascal_burkhard) | 3 | 7,076 |
 | 221 | [anysphere](https://www.raycast.com/anysphere) | 1 | 7,069 |
 | 222 | [lin](https://www.raycast.com/lin) | 3 | 7,030 |
-| 223 | [dru89](https://www.raycast.com/dru89) | 1 | 7,023 |
+| 223 | [dru89](https://www.raycast.com/dru89) | 1 | 7,026 |
 | 224 | [cjdenio](https://www.raycast.com/cjdenio) | 1 | 6,967 |
 | 225 | [HerbertLu](https://www.raycast.com/HerbertLu) | 4 | 6,857 |
 | 226 | [anton-suprun](https://www.raycast.com/anton-suprun) | 1 | 6,814 |
@@ -674,7 +674,7 @@
 | 664 | [demartini](https://www.raycast.com/demartini) | 1 | 1,072 |
 | 665 | [Fared](https://www.raycast.com/Fared) | 1 | 1,064 |
 | 666 | [felix_wortmann](https://www.raycast.com/felix_wortmann) | 2 | 1,060 |
-| 667 | [NormC](https://www.raycast.com/NormC) | 3 | 1,058 |
+| 667 | [NormC](https://www.raycast.com/NormC) | 3 | 1,059 |
 | 668 | [strongeron](https://www.raycast.com/strongeron) | 1 | 1,058 |
 | 669 | [zcsabbagh](https://www.raycast.com/zcsabbagh) | 1 | 1,057 |
 | 670 | [SevicheCC](https://www.raycast.com/SevicheCC) | 4 | 1,050 |

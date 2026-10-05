@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4eee870d6c4ac365808bead10ed86a80b572599b",
-  "generatedAt": "2026-10-05T19:12:46.045Z",
-  "downloadsRefreshedAt": "2026-10-05T19:12:45.622Z",
+  "commit": "2eb47102ed17578447a9bdbf41558abbab866279",
+  "generatedAt": "2026-10-05T19:16:48.324Z",
+  "downloadsRefreshedAt": "2026-10-05T19:16:47.519Z",
   "count": 3377,
   "extensions": [
     {
@@ -10400,7 +10400,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 612661
+      "downloads": 612665
     },
     {
       "dir": "color-shades",
@@ -23215,7 +23215,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 568457
+      "downloads": 568459
     },
     {
       "dir": "google-chrome-profiles",
@@ -24009,7 +24009,7 @@
       "description": "Find articles of information about a given topic from Grokipedia.",
       "author": "Visual-Studio-Coder",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Web",
         "News",
@@ -24025,7 +24025,7 @@
       ],
       "store": "https://www.raycast.com/Visual-Studio-Coder/grokipedia",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/grokipedia",
-      "treeSha": "1731e2aa975d48432cdcbc0d551fb24954dbf366",
+      "treeSha": "4706ba2101ec9d8b262530f2b165e8e20d54dd67",
       "downloads": 883
     },
     {
@@ -29726,7 +29726,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 772299
+      "downloads": 772301
     },
     {
       "dir": "kimai",
@@ -40236,7 +40236,7 @@
       "store": "https://www.raycast.com/dru89/obsidian-bookmarks",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks",
       "treeSha": "1201a5f3ba4367a01dcc7a877174466b423e7ade",
-      "downloads": 7023
+      "downloads": 7026
     },
     {
       "dir": "obsidian-link-opener",
@@ -46724,7 +46724,7 @@
       "store": "https://www.raycast.com/NormC/proton-mail",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/proton-mail",
       "treeSha": "395855af450f09b8d44abd7c5150ab3ee7cf88c3",
-      "downloads": 955
+      "downloads": 956
     },
     {
       "dir": "proton-pass",

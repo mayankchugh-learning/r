@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `2eb47102ed`
+
+**Updated (1):** [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia)
+
 ## 2026-10-05 — upstream `4eee870d6c`
 
 **Updated (1):** [Proton Mail](https://github.com/raycast/extensions/tree/main/extensions/proton-mail)
