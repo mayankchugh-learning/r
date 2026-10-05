@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `aff43f377c`
+
+**Updated (1):** [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper)
+
 ## 2026-10-05 — upstream `de662b2e05`
 
 **Updated (1):** [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands)
