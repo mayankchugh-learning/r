@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · **O** · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-118 extensions · [← catalog index](../README.md)
+119 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -124,3 +124,4 @@
 | [Orc Pictures](https://github.com/raycast/extensions/tree/main/extensions/orc-pictures) | 6 | Search orc reaction GIFs and copy the GIF file to the clipboard for X. | orcdev | macOS, Windows | [store](https://www.raycast.com/orcdev/orc-pictures) |
 | [Orca](https://github.com/raycast/extensions/tree/main/extensions/orca) | 6 | Unofficial extension for the Orca agent orchestrator: see which agents are waiting for input and start new ones | dmitry_s | macOS | [store](https://www.raycast.com/dmitry_s/orca) |
 | [Osaurus](https://github.com/raycast/extensions/tree/main/extensions/osaurus) | 4 | Use local Osaurus models in Raycast AI, ask them directly, manage them, and search chat history | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/osaurus) |
+| [oMLX](https://github.com/raycast/extensions/tree/main/extensions/omlx) | — | Use locally running oMLX models as AI providers in Raycast | 60400 | macOS | — |

@@ -2,7 +2,7 @@
 
 **AI & LLM Tools** · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-136 of 1142 extensions · [← macOS · Developer Tools](./README.md)
+137 of 1143 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -142,3 +142,4 @@
 | [Codex Dictation](https://github.com/raycast/extensions/tree/main/extensions/codex-dictation) | 2 | Browse, search, and copy Codex dictation history | ertem_biyik | Windows, macOS | [store](https://www.raycast.com/ertem_biyik/codex-dictation) |
 | [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) | 2 | Shorten links with U2L AI. Create short links from an argument, selection, or clipboard, search your links, and check click stats. | u2l | macOS, Windows | [store](https://www.raycast.com/u2l/u2l) |
 | [Copilot Workspace](https://github.com/raycast/extensions/tree/main/extensions/copilot-workspace) | — | Take an idea from anywhere and turn it into code with Copilot Workspace | github-next (org) | macOS | — |
+| [oMLX](https://github.com/raycast/extensions/tree/main/extensions/omlx) | — | Use locally running oMLX models as AI providers in Raycast | 60400 | macOS | — |

@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c0ff39a0abbf4ab3cbf46b4dbb44dc9ed8544d7b",
-  "generatedAt": "2026-10-05T05:51:22.724Z",
-  "downloadsRefreshedAt": "2026-10-05T05:51:22.014Z",
-  "count": 3369,
+  "commit": "30d2b9033423c38f33571c193bf6b924ef2c5001",
+  "generatedAt": "2026-10-05T06:01:34.581Z",
+  "downloadsRefreshedAt": "2026-10-05T06:01:33.984Z",
+  "count": 3370,
   "extensions": [
     {
       "dir": "0x0",
@@ -10337,7 +10337,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 611862
+      "downloads": 611868
     },
     {
       "dir": "color-shades",
@@ -23132,7 +23132,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 567920
+      "downloads": 567924
     },
     {
       "dir": "google-chrome-profiles",
@@ -29643,7 +29643,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 771390
+      "downloads": 771396
     },
     {
       "dir": "kimai",
@@ -40611,6 +40611,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/omg-lol",
       "treeSha": "cdb911b76e5cf45fcedf1c37d602396592dbde25",
       "downloads": 229
+    },
+    {
+      "dir": "omlx",
+      "name": "omlx",
+      "title": "oMLX",
+      "description": "Use locally running oMLX models as AI providers in Raycast",
+      "author": "60400",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/omlx",
+      "treeSha": "3f34d28ceff0c54eb7c9fe4902b7741af08a08c6",
+      "downloads": null
     },
     {
       "dir": "omni-cast",

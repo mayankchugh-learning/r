@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `30d2b90334`
+
+**Added (1):** [oMLX](https://github.com/raycast/extensions/tree/main/extensions/omlx)
+
 ## 2026-10-05 — upstream `c0ff39a0ab`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)

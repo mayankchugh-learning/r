@@ -1,10 +1,10 @@
 # AI ✦
 
-82 extensions · [← AI & LLM Tools](../README.md)
+83 extensions · [← AI & LLM Tools](../README.md)
 
 | Topic | Extensions |
 | --- | --- |
-| [Model ✦](./model.md) | 18 |
+| [Model ✦](./model.md) | 19 |
 | [Agent ✦](./agent.md) | 13 |
 | [Code ✦](./code.md) | 8 |
 | [AI Powered ✦](./ai-powered.md) | 7 |

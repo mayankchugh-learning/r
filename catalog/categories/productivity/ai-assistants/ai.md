@@ -1,8 +1,8 @@
 # AI ✦
 
-111 extensions · [← AI & Assistants](./README.md)
+112 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Model ✦](#model) (14) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (6) · [Openai ✦](#openai) (7) · [Prompts ✦](#prompts) (4) · [Tasks ✦](#tasks) (4) · [Capture ✦](#capture) (4) · [General](#general) (49)
+[Powered ✦](#powered) (16) · [Models ✦](#models) (15) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (6) · [Openai ✦](#openai) (7) · [Prompts ✦](#prompts) (4) · [Tasks ✦](#tasks) (4) · [Capture ✦](#capture) (4) · [General](#general) (49)
 
 *✦ auto-discovered topic group*
 
@@ -27,7 +27,7 @@
 | [CalTask](https://github.com/raycast/extensions/tree/main/extensions/caltask) | 35 | Track tasks with timer, manage calendar events, AI-powered search, and time reporting | dennis_cheng | macOS | [store](https://www.raycast.com/dennis_cheng/caltask) |
 | [Job Dojo](https://github.com/raycast/extensions/tree/main/extensions/job-dojo) | 34 | AI-powered interview assistant - ask questions, generate recruiter messages, and create LinkedIn connection templates | jbharwood | macOS | [store](https://www.raycast.com/jbharwood/job-dojo) |
 
-## Model ✦
+## Models ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -45,6 +45,7 @@
 | [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai) | 39 | Muse AI (Meta Model API) within Raycast — use Muse Spark in AI Chat, Quick AI and AI Commands | alhassanaraouf | Windows, macOS | [store](https://www.raycast.com/alhassanaraouf/muse-ai) |
 | [GLM Models](https://github.com/raycast/extensions/tree/main/extensions/glm-models) | 8 | Use Z.ai / BigModel GLM models inside Raycast AI Chat, Quick AI and AI Commands | paulgit | macOS | [store](https://www.raycast.com/paulgit/glm-models) |
 | [Osaurus](https://github.com/raycast/extensions/tree/main/extensions/osaurus) | 4 | Use local Osaurus models in Raycast AI, ask them directly, manage them, and search chat history | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/osaurus) |
+| [oMLX](https://github.com/raycast/extensions/tree/main/extensions/omlx) | — | Use locally running oMLX models as AI providers in Raycast | 60400 | macOS | — |
 
 ## Chat ✦
 
