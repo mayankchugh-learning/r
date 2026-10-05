@@ -12,7 +12,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 96,437 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
 | [TickTick](https://github.com/raycast/extensions/tree/main/extensions/ticktick) | 24,843 | Check and search tasks in TickTick via Raycast | appest | macOS | [store](https://www.raycast.com/appest/ticktick) |
-| [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 10,507 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
+| [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 10,512 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
 | [ClickUp - Tasks & Docs Explorer](https://github.com/raycast/extensions/tree/main/extensions/clickup) | 9,352 | Browse ClickUp tasks and docs from Raycast | aparandeh | macOS | [store](https://www.raycast.com/aparandeh/manage-clickup-tasks) |
 | [Height](https://github.com/raycast/extensions/tree/main/extensions/height) | 895 | Search, create and manage tasks and lists in Height directly from Raycast. | teziovsky | macOS | [store](https://www.raycast.com/teziovsky/height) |
 | [Lunatask](https://github.com/raycast/extensions/tree/main/extensions/lunatask) | 810 | Unofficial extension for Lunatask. Create tasks from Raycast. | posthardcode | macOS, Windows | [store](https://www.raycast.com/posthardcode/lunatask) |

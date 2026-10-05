@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "784d1f190059399401f368683d73035187f2543a",
-  "generatedAt": "2026-10-05T08:01:32.813Z",
-  "downloadsRefreshedAt": "2026-10-05T08:01:32.396Z",
+  "commit": "10011025b0ca1a39a75046f40cbb4181c0531683",
+  "generatedAt": "2026-10-05T08:03:35.982Z",
+  "downloadsRefreshedAt": "2026-10-05T08:03:34.848Z",
   "count": 3374,
   "extensions": [
     {
@@ -3127,7 +3127,7 @@
       "store": "https://www.raycast.com/raycast/asana",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/asana",
       "treeSha": "e2ec6f2c9594d5f64abd2ed349eb3bc80ac2e024",
-      "downloads": 10507
+      "downloads": 10512
     },
     {
       "dir": "ascii-art-wallpaper",
@@ -10378,7 +10378,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 611986
+      "downloads": 611988
     },
     {
       "dir": "color-shades",
@@ -20291,10 +20291,10 @@
       "dir": "font-converter",
       "name": "font-converter",
       "title": "Font Converter",
-      "description": "Convert fonts to TTF, WOFF, WOFF2, and EOT formats directly from Raycast",
+      "description": "Convert TTF, OTF, WOFF, WOFF2, and EOT fonts to TTF, WOFF, WOFF2, and EOT on macOS and Windows",
       "author": "meshal",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Developer Tools",
         "Design Tools"
@@ -20306,7 +20306,7 @@
       ],
       "store": "https://www.raycast.com/meshal/font-converter",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/font-converter",
-      "treeSha": "bcd2ef9f0f73456cb52de86693f41cc3accbaafe",
+      "treeSha": "a8cdc14cf549594ff9ae938fa67c2309885df9a8",
       "downloads": 213
     },
     {
@@ -23173,7 +23173,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 568012
+      "downloads": 568014
     },
     {
       "dir": "google-chrome-profiles",
@@ -29684,7 +29684,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 771535
+      "downloads": 771537
     },
     {
       "dir": "kimai",
@@ -46704,7 +46704,7 @@
       "store": "https://www.raycast.com/izyuumi/proton-pass",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/proton-pass",
       "treeSha": "ed47a3378aeee11cd2f52950e30bce18f54ed390",
-      "downloads": 1922
+      "downloads": 1924
     },
     {
       "dir": "proton-version",

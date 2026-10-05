@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `10011025b0`
+
+**Updated (1):** [Font Converter](https://github.com/raycast/extensions/tree/main/extensions/font-converter)
+
 ## 2026-10-05 — upstream `784d1f1900`
 
 **Updated (1):** [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass)

@@ -2,7 +2,7 @@
 
 102 extensions · [← Developer Tools](./README.md)
 
-[Code ✦](#code) (29) · [Clipboard ✦](#clipboard) (12) · [Format ✦](#format) (10) · [Markdown ✦](#markdown) (8) · [Json ✦](#json) (7) · [Between ✦](#between) (6) · [General](#general) (30)
+[Code ✦](#code) (29) · [Clipboard ✦](#clipboard) (12) · [Markdown ✦](#markdown) (8) · [Format ✦](#format) (9) · [Json ✦](#json) (7) · [Between ✦](#between) (6) · [General](#general) (31)
 
 *✦ auto-discovered topic group*
 
@@ -57,21 +57,6 @@
 | [Tflink Tmpfile](https://github.com/raycast/extensions/tree/main/extensions/tflink-tmpfile) | 25 | Upload clipboard text or files to tmpfile.link anonymously and get a shareable link. | tflink-tmpfile | macOS | [store](https://www.raycast.com/tflink-tmpfile/tflink-tmpfile) |
 | [DevT Pro Tools](https://github.com/raycast/extensions/tree/main/extensions/devt-pro-tools) | 1 | Search, pin, and launch tools in DevT Pro, a paid developer toolbox app for macOS and Windows that is sold separately. Tools that accept input open pre-filled… | devtpro | macOS, Windows | [store](https://www.raycast.com/devtpro/devt-pro-tools) |
 
-## Format ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Format JSON](https://github.com/raycast/extensions/tree/main/extensions/json-format) | 100,504 | Formats a JSON file with a selected indentation. If the JSON is stringified, it will be parsed before formatting. | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/json-format) |
-| [Date Format Converter](https://github.com/raycast/extensions/tree/main/extensions/datetime-format-converter) | 9,372 | Convert timestamps and datetime strings into various formats. | yangxy | macOS | [store](https://www.raycast.com/yangxy/date-format-converter) |
-| [Date Converter](https://github.com/raycast/extensions/tree/main/extensions/date-converter) | 6,440 | Convert a variety of date formats | asportnoy | macOS | [store](https://www.raycast.com/asportnoy/date-converter) |
-| [Array This](https://github.com/raycast/extensions/tree/main/extensions/array-this) | 636 | Format list of items into an array. | matheus_de_paula_domingos | macOS | [store](https://www.raycast.com/matheus_de_paula_domingos/array-this) |
-| [String Formatter](https://github.com/raycast/extensions/tree/main/extensions/string-formatter) | 231 | Format strings with custom separators and decorators | fireice009 | macOS, Windows | [store](https://www.raycast.com/fireice009/string-formatter) |
-| [Font Converter](https://github.com/raycast/extensions/tree/main/extensions/font-converter) | 213 | Convert fonts to TTF, WOFF, WOFF2, and EOT formats directly from Raycast | meshal | macOS, Windows | [store](https://www.raycast.com/meshal/font-converter) |
-| [GROQ Tools](https://github.com/raycast/extensions/tree/main/extensions/groq-tools) | 191 | Format GROQ queries and parse Sanity query URLs. | juice49 | macOS | [store](https://www.raycast.com/juice49/groq-tools) |
-| [JSON to TOON Converter](https://github.com/raycast/extensions/tree/main/extensions/json-to-toon-converter) | 163 | Convert JSON data into TOON format instantly. | meshal | macOS, Windows | [store](https://www.raycast.com/meshal/json-to-toon-converter) |
-| [Cocoa Core Data Timestamp Converter](https://github.com/raycast/extensions/tree/main/extensions/cocoa-core-data-timestamp-converter) | 32 | Cocoa Core Data Date Utils. Convert Cocoa Core Data Dates into Human Readable Format or Epoch. | 3llomi | macOS | [store](https://www.raycast.com/3llomi/cocoa-core-data-timestamp-converter) |
-| [Decimal 2 Time](https://github.com/raycast/extensions/tree/main/extensions/decimal-2-time) | 28 | Converts between decimal time and HH:MM:SS format | rhuk | macOS | [store](https://www.raycast.com/rhuk/decimal-2-time) |
-
 ## Markdown ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
@@ -84,6 +69,20 @@
 | [Paper](https://github.com/raycast/extensions/tree/main/extensions/paper) | 568 | Create and organize your ideas, work, etc., in Markdown files by category. | luctst | macOS | [store](https://www.raycast.com/luctst/paper) |
 | [RICE Score](https://github.com/raycast/extensions/tree/main/extensions/ricescore) | 176 | Calculate RICE Score and output value or markdown table | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/ricescore) |
 | [Defuddle](https://github.com/raycast/extensions/tree/main/extensions/defuddle) | 70 | Extract readable web pages to Markdown with Defuddle | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/defuddle) |
+
+## Format ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Format JSON](https://github.com/raycast/extensions/tree/main/extensions/json-format) | 100,504 | Formats a JSON file with a selected indentation. If the JSON is stringified, it will be parsed before formatting. | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/json-format) |
+| [Date Format Converter](https://github.com/raycast/extensions/tree/main/extensions/datetime-format-converter) | 9,372 | Convert timestamps and datetime strings into various formats. | yangxy | macOS | [store](https://www.raycast.com/yangxy/date-format-converter) |
+| [Date Converter](https://github.com/raycast/extensions/tree/main/extensions/date-converter) | 6,440 | Convert a variety of date formats | asportnoy | macOS | [store](https://www.raycast.com/asportnoy/date-converter) |
+| [Array This](https://github.com/raycast/extensions/tree/main/extensions/array-this) | 636 | Format list of items into an array. | matheus_de_paula_domingos | macOS | [store](https://www.raycast.com/matheus_de_paula_domingos/array-this) |
+| [String Formatter](https://github.com/raycast/extensions/tree/main/extensions/string-formatter) | 231 | Format strings with custom separators and decorators | fireice009 | macOS, Windows | [store](https://www.raycast.com/fireice009/string-formatter) |
+| [GROQ Tools](https://github.com/raycast/extensions/tree/main/extensions/groq-tools) | 191 | Format GROQ queries and parse Sanity query URLs. | juice49 | macOS | [store](https://www.raycast.com/juice49/groq-tools) |
+| [JSON to TOON Converter](https://github.com/raycast/extensions/tree/main/extensions/json-to-toon-converter) | 163 | Convert JSON data into TOON format instantly. | meshal | macOS, Windows | [store](https://www.raycast.com/meshal/json-to-toon-converter) |
+| [Cocoa Core Data Timestamp Converter](https://github.com/raycast/extensions/tree/main/extensions/cocoa-core-data-timestamp-converter) | 32 | Cocoa Core Data Date Utils. Convert Cocoa Core Data Dates into Human Readable Format or Epoch. | 3llomi | macOS | [store](https://www.raycast.com/3llomi/cocoa-core-data-timestamp-converter) |
+| [Decimal 2 Time](https://github.com/raycast/extensions/tree/main/extensions/decimal-2-time) | 28 | Converts between decimal time and HH:MM:SS format | rhuk | macOS | [store](https://www.raycast.com/rhuk/decimal-2-time) |
 
 ## Json ✦
 
@@ -135,6 +134,7 @@
 | [Escape RegExp Characters](https://github.com/raycast/extensions/tree/main/extensions/escape-regexp-characters) | 237 | Escape RegExp special characters. | HerbertLu | macOS | [store](https://www.raycast.com/HerbertLu/escape-regexp-characters) |
 | [Esse Actions](https://github.com/raycast/extensions/tree/main/extensions/esse-actions) | 228 | Uses the Esse app, which must already be installed, to perform operations on the passed text | bert | macOS | [store](https://www.raycast.com/bert/esse-actions) |
 | [massCode](https://github.com/raycast/extensions/tree/main/extensions/masscode) | 223 | Fetch snippets from massCode v4 app | antonreshetov | macOS | [store](https://www.raycast.com/antonreshetov/masscode) |
+| [Font Converter](https://github.com/raycast/extensions/tree/main/extensions/font-converter) | 213 | Convert TTF, OTF, WOFF, WOFF2, and EOT fonts to TTF, WOFF, WOFF2, and EOT on macOS and Windows | meshal | macOS, Windows | [store](https://www.raycast.com/meshal/font-converter) |
 | [Aleph Tools](https://github.com/raycast/extensions/tree/main/extensions/aleph) | 201 | A set of text tools to work with Hebrew text in Raycast. | d7mtg | macOS | [store](https://www.raycast.com/d7mtg/aleph) |
 | [Japanese Lorem Ipsum Generator](https://github.com/raycast/extensions/tree/main/extensions/lipsum) | 140 | Generate Japanese / English dummy text | seita1996 | macOS | [store](https://www.raycast.com/seita1996/lipsum) |
 | [Tiktoken](https://github.com/raycast/extensions/tree/main/extensions/tiktoken) | 126 | do tiktoken encode and decode | Envl | macOS | [store](https://www.raycast.com/Envl/tiktoken) |
