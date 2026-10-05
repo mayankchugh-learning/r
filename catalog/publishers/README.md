@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,293,940 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,293,958 |
 | 2 | [raycast](./id/raycast.md) | 11 | 904,207 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 771,636 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 568,074 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 771,664 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 568,088 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 496,197 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 492,408 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 458,707 |
@@ -475,7 +475,7 @@
 | 465 | [mutewinter](https://www.raycast.com/mutewinter) | 2 | 1,938 |
 | 466 | [carterm](https://www.raycast.com/carterm) | 1 | 1,938 |
 | 467 | [frugoman](https://www.raycast.com/frugoman) | 1 | 1,934 |
-| 468 | [izyuumi](https://www.raycast.com/izyuumi) | 1 | 1,924 |
+| 468 | [izyuumi](https://www.raycast.com/izyuumi) | 1 | 1,925 |
 | 469 | [jwickers](https://www.raycast.com/jwickers) | 2 | 1,910 |
 | 470 | [MuhaddiMu](https://www.raycast.com/MuhaddiMu) | 2 | 1,908 |
 | 471 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,905 |
