@@ -1,6 +1,6 @@
 # Publishers
 
-2263 publishers · [← catalog index](../README.md)
+2264 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,9 +8,9 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,293,724 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,293,725 |
 | 2 | [raycast](./id/raycast.md) | 11 | 904,200 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 771,396 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 771,398 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 567,924 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 496,197 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 492,408 |
@@ -2257,17 +2257,18 @@
 | 2247 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2248 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 1 |
 | 2249 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 1 |
-| 2250 | [adif_sgaid](https://www.raycast.com/adif_sgaid) | 1 | 0 |
-| 2251 | [andrey_tolstikov](https://www.raycast.com/andrey_tolstikov) | 1 | 0 |
-| 2252 | [ariel_conti](https://www.raycast.com/ariel_conti) | 1 | 0 |
-| 2253 | [chefski](https://www.raycast.com/chefski) | 1 | 0 |
-| 2254 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2255 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2256 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2257 | [Marcelismus](https://www.raycast.com/Marcelismus) | 1 | 0 |
-| 2258 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2259 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2260 | github-next | 2 | — |
-| 2261 | 60400 | 1 | — |
-| 2262 | eugenio | 1 | — |
-| 2263 | multi | 1 | — |
+| 2250 | [60400](https://www.raycast.com/60400) | 1 | 0 |
+| 2251 | [adif_sgaid](https://www.raycast.com/adif_sgaid) | 1 | 0 |
+| 2252 | [andrey_tolstikov](https://www.raycast.com/andrey_tolstikov) | 1 | 0 |
+| 2253 | [ariel_conti](https://www.raycast.com/ariel_conti) | 1 | 0 |
+| 2254 | [chefski](https://www.raycast.com/chefski) | 1 | 0 |
+| 2255 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
+| 2256 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2257 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2258 | [Marcelismus](https://www.raycast.com/Marcelismus) | 1 | 0 |
+| 2259 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2260 | [sbd530](https://www.raycast.com/sbd530) | 1 | 0 |
+| 2261 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2262 | github-next | 2 | — |
+| 2263 | eugenio | 1 | — |
+| 2264 | multi | 1 | — |

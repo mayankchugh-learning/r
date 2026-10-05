@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · **P** · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-222 extensions · [← catalog index](../README.md)
+223 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -227,4 +227,5 @@
 | [Phaseo](https://github.com/raycast/extensions/tree/main/extensions/phaseo) | 3 | Explore Phaseo's AI model catalogue from Raycast | danielbutler1 | macOS, Windows | [store](https://www.raycast.com/danielbutler1/phaseo) |
 | [Postproxy](https://github.com/raycast/extensions/tree/main/extensions/postproxy) | 2 | Publish posts, manage comments, and answer DMs across your social profiles with Postproxy. | dmitrysereda | macOS | [store](https://www.raycast.com/dmitrysereda/postproxy) |
 | [Prismical](https://github.com/raycast/extensions/tree/main/extensions/prismical) | 2 | Search, preview, and capture notes in your Prismical Cloud workspace. | nch | macOS | [store](https://www.raycast.com/nch/prismical) |
+| [Page Scanner](https://github.com/raycast/extensions/tree/main/extensions/page-scanner) | 0 | Capture the tab in front as a vector PDF, through the Page Scanner Chrome extension. | sbd530 | macOS | [store](https://www.raycast.com/sbd530/page-scanner) |
 | [phpIPAM](https://github.com/raycast/extensions/tree/main/extensions/phpipam) | 0 | Search and browse your phpIPAM instance: addresses, subnets, sections, VLANs and VRFs. | frdmn | macOS | [store](https://www.raycast.com/frdmn/phpipam) |

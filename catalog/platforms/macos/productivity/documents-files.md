@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · **Documents & Files** · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-139 of 1525 extensions · [← macOS · Productivity](./README.md)
+140 of 1526 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -145,3 +145,4 @@
 | [Hack Club CDN](https://github.com/raycast/extensions/tree/main/extensions/hack-club-cdn) | 2 | Upload files to the Hack Club CDN and manage your uploads from Raycast. Requires a Hack Club account (cdn.hackclub.com) and an API token. | garyhtou | macOS | [store](https://www.raycast.com/garyhtou/hack-club-cdn) |
 | [Markdown Documents](https://github.com/raycast/extensions/tree/main/extensions/markdown-docs) | 1 | Manage and search markdown cheatsheets and documents | craigharman | macOS | [store](https://www.raycast.com/craigharman/markdown-docs) |
 | [Fenn Search](https://github.com/raycast/extensions/tree/main/extensions/fenn-search) | 0 | Search text in videos, spoken words in audio, and content inside Sketch files and documents with Fenn. | thoddnn | macOS | [store](https://www.raycast.com/thoddnn/fenn-search) |
+| [Page Scanner](https://github.com/raycast/extensions/tree/main/extensions/page-scanner) | 0 | Capture the tab in front as a vector PDF, through the Page Scanner Chrome extension. | sbd530 | macOS | [store](https://www.raycast.com/sbd530/page-scanner) |

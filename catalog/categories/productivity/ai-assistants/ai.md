@@ -45,7 +45,7 @@
 | [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai) | 39 | Muse AI (Meta Model API) within Raycast — use Muse Spark in AI Chat, Quick AI and AI Commands | alhassanaraouf | Windows, macOS | [store](https://www.raycast.com/alhassanaraouf/muse-ai) |
 | [GLM Models](https://github.com/raycast/extensions/tree/main/extensions/glm-models) | 8 | Use Z.ai / BigModel GLM models inside Raycast AI Chat, Quick AI and AI Commands | paulgit | macOS | [store](https://www.raycast.com/paulgit/glm-models) |
 | [Osaurus](https://github.com/raycast/extensions/tree/main/extensions/osaurus) | 4 | Use local Osaurus models in Raycast AI, ask them directly, manage them, and search chat history | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/osaurus) |
-| [oMLX](https://github.com/raycast/extensions/tree/main/extensions/omlx) | — | Use locally running oMLX models as AI providers in Raycast | 60400 | macOS | — |
+| [oMLX](https://github.com/raycast/extensions/tree/main/extensions/omlx) | 0 | Use locally running oMLX models as AI providers in Raycast | 60400 | macOS | [store](https://www.raycast.com/60400/omlx) |
 
 ## Chat ✦
 

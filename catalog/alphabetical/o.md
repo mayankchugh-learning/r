@@ -124,4 +124,4 @@
 | [Orc Pictures](https://github.com/raycast/extensions/tree/main/extensions/orc-pictures) | 6 | Search orc reaction GIFs and copy the GIF file to the clipboard for X. | orcdev | macOS, Windows | [store](https://www.raycast.com/orcdev/orc-pictures) |
 | [Orca](https://github.com/raycast/extensions/tree/main/extensions/orca) | 6 | Unofficial extension for the Orca agent orchestrator: see which agents are waiting for input and start new ones | dmitry_s | macOS | [store](https://www.raycast.com/dmitry_s/orca) |
 | [Osaurus](https://github.com/raycast/extensions/tree/main/extensions/osaurus) | 4 | Use local Osaurus models in Raycast AI, ask them directly, manage them, and search chat history | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/osaurus) |
-| [oMLX](https://github.com/raycast/extensions/tree/main/extensions/omlx) | — | Use locally running oMLX models as AI providers in Raycast | 60400 | macOS | — |
+| [oMLX](https://github.com/raycast/extensions/tree/main/extensions/omlx) | 0 | Use locally running oMLX models as AI providers in Raycast | 60400 | macOS | [store](https://www.raycast.com/60400/omlx) |

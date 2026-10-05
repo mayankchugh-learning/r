@@ -2,7 +2,7 @@
 
 [AI Services](./ai-services.md) · [Social & Communities](./social-communities.md) · [Search Engines](./search-engines.md) · [Bookmarks & Read Later](./bookmarks-read-later.md) · [URL & Domain Tools](./url-domain-tools.md) · **Browsers & Tabs** · [Crypto & Markets](./crypto-markets.md) · [Screenshots & Capture](./screenshots-capture.md) · [Monitoring & SEO](./monitoring-seo.md) · [Downloads & Torrents](./downloads-torrents.md) · [Web Apps & Services](./web-apps-services.md) · [General](./general.md)
 
-9 of 477 extensions · [← macOS · Web](./README.md)
+10 of 478 extensions · [← macOS · Web](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -15,3 +15,4 @@
 | [VivaPB](https://github.com/raycast/extensions/tree/main/extensions/vivapb) | 82 | Browse the web in privacy with the Vivaldi Browser. | Codrkoaz | macOS | [store](https://www.raycast.com/Codrkoaz/vivapb) |
 | [Shopinfo.app](https://github.com/raycast/extensions/tree/main/extensions/shopinfo-app) | 41 | Identify Shopify themes from your current browser tab using shopinfo.app's database | trpage_dev | macOS | [store](https://www.raycast.com/trpage_dev/shopinfo-app) |
 | [Clipfile](https://github.com/raycast/extensions/tree/main/extensions/read-this-later) | 34 | Browse and read your saved articles, and save the current browser tab. | shearm | macOS | [store](https://www.raycast.com/shearm/read-this-later) |
+| [Page Scanner](https://github.com/raycast/extensions/tree/main/extensions/page-scanner) | 0 | Capture the tab in front as a vector PDF, through the Page Scanner Chrome extension. | sbd530 | macOS | [store](https://www.raycast.com/sbd530/page-scanner) |

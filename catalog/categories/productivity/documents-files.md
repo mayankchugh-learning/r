@@ -1,8 +1,8 @@
 # Documents & Files
 
-139 extensions · [← Productivity](./README.md)
+140 extensions · [← Productivity](./README.md)
 
-[Folder ✦](#folder) (33) · [Documents ✦](#documents) (19) · [Finder ✦](#finder) (8) · [Upload ✦](#upload) (13) · [Download ✦](#download) (10) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Local ✦](#local) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (35)
+[Folder ✦](#folder) (33) · [Documents ✦](#documents) (19) · [Finder ✦](#finder) (8) · [Upload ✦](#upload) (13) · [Download ✦](#download) (10) · [PDF ✦](#pdf) (8) · [Markdown ✦](#markdown) (6) · [Local ✦](#local) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (35)
 
 *✦ auto-discovered topic group*
 
@@ -125,6 +125,7 @@
 | [Office2PDF](https://github.com/raycast/extensions/tree/main/extensions/office2pdf) | 1,310 | Raycast extension to convert office files to pdf using CloudConvert api | ARui | macOS | [store](https://www.raycast.com/ARui/office2pdf) |
 | [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | 195 | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
 | [Easy Invoice](https://github.com/raycast/extensions/tree/main/extensions/easy-invoice) | 27 | Create and manage professional PDF invoices in seconds. Track clients, export records, and get paid faster. | davidosull | macOS | [store](https://www.raycast.com/davidosull/easy-invoice) |
+| [Page Scanner](https://github.com/raycast/extensions/tree/main/extensions/page-scanner) | 0 | Capture the tab in front as a vector PDF, through the Page Scanner Chrome extension. | sbd530 | macOS | [store](https://www.raycast.com/sbd530/page-scanner) |
 
 ## Markdown ✦
 

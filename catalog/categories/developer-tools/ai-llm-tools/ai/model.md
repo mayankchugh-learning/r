@@ -24,4 +24,4 @@
 | [GLM Models](https://github.com/raycast/extensions/tree/main/extensions/glm-models) | 8 | Use Z.ai / BigModel GLM models inside Raycast AI Chat, Quick AI and AI Commands | paulgit | macOS | [store](https://www.raycast.com/paulgit/glm-models) |
 | [Osaurus](https://github.com/raycast/extensions/tree/main/extensions/osaurus) | 4 | Use local Osaurus models in Raycast AI, ask them directly, manage them, and search chat history | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/osaurus) |
 | [Phaseo](https://github.com/raycast/extensions/tree/main/extensions/phaseo) | 3 | Explore Phaseo's AI model catalogue from Raycast | danielbutler1 | macOS, Windows | [store](https://www.raycast.com/danielbutler1/phaseo) |
-| [oMLX](https://github.com/raycast/extensions/tree/main/extensions/omlx) | — | Use locally running oMLX models as AI providers in Raycast | 60400 | macOS | — |
+| [oMLX](https://github.com/raycast/extensions/tree/main/extensions/omlx) | 0 | Use locally running oMLX models as AI providers in Raycast | 60400 | macOS | [store](https://www.raycast.com/60400/omlx) |
