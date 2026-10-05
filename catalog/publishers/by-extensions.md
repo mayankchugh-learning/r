@@ -407,7 +407,7 @@
 | 397 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 15 |
 | 398 | [frdmn](https://www.raycast.com/frdmn) | 2 | 1 |
 | 399 | github-next | 2 | — |
-| 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 772,298 |
+| 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 772,299 |
 | 401 | [Codely](https://www.raycast.com/Codely) | 1 | 568,457 |
 | 402 | [linear](https://www.raycast.com/linear) | 1 | 400,996 |
 | 403 | [mommertf](https://www.raycast.com/mommertf) | 1 | 333,794 |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `4eee870d6c`
+
+**Updated (1):** [Proton Mail](https://github.com/raycast/extensions/tree/main/extensions/proton-mail)
+
 ## 2026-10-05 — upstream `a45504f76c`
 
 **Updated (1):** [Obsidian Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks)

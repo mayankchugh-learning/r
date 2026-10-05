@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a45504f76c2e298eb7d00551dbfbf120d3f02fc8",
-  "generatedAt": "2026-10-05T19:11:17.449Z",
-  "downloadsRefreshedAt": "2026-10-05T19:11:17.132Z",
+  "commit": "4eee870d6c4ac365808bead10ed86a80b572599b",
+  "generatedAt": "2026-10-05T19:12:46.045Z",
+  "downloadsRefreshedAt": "2026-10-05T19:12:45.622Z",
   "count": 3377,
   "extensions": [
     {
@@ -29726,7 +29726,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 772298
+      "downloads": 772299
     },
     {
       "dir": "kimai",
@@ -46723,7 +46723,7 @@
       ],
       "store": "https://www.raycast.com/NormC/proton-mail",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/proton-mail",
-      "treeSha": "6de7c5dd3b0865c1dbbd053a8d11de90dd2d08b3",
+      "treeSha": "395855af450f09b8d44abd7c5150ab3ee7cf88c3",
       "downloads": 955
     },
     {
