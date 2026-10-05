@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "97129a9b343a760f96fe0908b1d8fe9094df9f1e",
-  "generatedAt": "2026-10-05T11:49:33.732Z",
-  "downloadsRefreshedAt": "2026-10-05T11:49:32.358Z",
+  "commit": "eee00cf9fff80ea4018360d695832013b369948e",
+  "generatedAt": "2026-10-05T12:02:37.971Z",
+  "downloadsRefreshedAt": "2026-10-05T12:02:37.568Z",
   "count": 3375,
   "extensions": [
     {
@@ -10378,7 +10378,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 612218
+      "downloads": 612235
     },
     {
       "dir": "color-shades",
@@ -17943,7 +17943,7 @@
       ],
       "store": "https://www.raycast.com/oliverde8/excel-formula-beautifier",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/excel-formula-beautifier",
-      "treeSha": "94442793236ca43e7c720480afca4cfaea2b1f9d",
+      "treeSha": "c5737009d10b8d1eb34ad91b444f3a66de9a6faa",
       "downloads": 458
     },
     {
@@ -23173,7 +23173,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 568153
+      "downloads": 568167
     },
     {
       "dir": "google-chrome-profiles",
@@ -29684,7 +29684,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 771779
+      "downloads": 771800
     },
     {
       "dir": "kimai",
@@ -36310,7 +36310,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "3d5c28bf4c3d9b5120c56b825bde3241b7f3d1db",
-      "downloads": 43004
+      "downloads": 43007
     },
     {
       "dir": "models-dev",
