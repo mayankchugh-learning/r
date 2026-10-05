@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `784d1f1900`
+
+**Updated (1):** [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass)
+
 ## 2026-10-05 — upstream `4f0c1fbe45`
 
 **Updated (1):** [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana)
