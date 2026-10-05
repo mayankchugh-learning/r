@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [CircleCI Workflows](https://github.com/raycast/extensions/tree/main/extensions/circle-ci) | 1,004 | This extension shows a list of your latest CircleCI workflows. It requires a CircleCI API token which you can get on https://app.circleci.com/settings/user/tok… | qeude | macOS | [store](https://www.raycast.com/qeude/circle-ci) |
+| [CircleCI Workflows](https://github.com/raycast/extensions/tree/main/extensions/circle-ci) | 1,005 | This extension shows a list of your latest CircleCI workflows. It requires a CircleCI API token which you can get on https://app.circleci.com/settings/user/tok… | qeude | macOS | [store](https://www.raycast.com/qeude/circle-ci) |
 | [Ethereum Utils — EVM Development](https://github.com/raycast/extensions/tree/main/extensions/ethereum-utils) | 739 | Collection of utils for Ethereum and EVM-compatible chain development | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/ethereum-utils) |
 | [Blockchain Explorer Search](https://github.com/raycast/extensions/tree/main/extensions/blockchain-explorer-search) | 686 | Search open links for address, transaction, block, token, and ens on Etherscan-like sites. | Namaskar | macOS, Windows | [store](https://www.raycast.com/Namaskar/blockchain-explorer-search) |
 | [ENS Name Lookup](https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup) | 589 | Lookup ENS name or address | Yukai | macOS | [store](https://www.raycast.com/Yukai/ens-name-lookup) |

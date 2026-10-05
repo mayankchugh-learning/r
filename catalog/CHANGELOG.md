@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `c341ab3038`
+
+**Updated (1):** [Korean Add Calendar](https://github.com/raycast/extensions/tree/main/extensions/korean-add-calendar)
+
 ## 2026-10-04 — upstream `6bafdbd71c`
 
 **Updated (1):** [Readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise)
