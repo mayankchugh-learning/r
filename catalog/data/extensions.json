@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "10011025b0ca1a39a75046f40cbb4181c0531683",
-  "generatedAt": "2026-10-05T08:03:35.982Z",
-  "downloadsRefreshedAt": "2026-10-05T08:03:34.848Z",
+  "commit": "469b1fb14fe6d9d0c19096cb192559b1c2ba9b37",
+  "generatedAt": "2026-10-05T09:22:36.731Z",
+  "downloadsRefreshedAt": "2026-10-05T09:22:36.241Z",
   "count": 3374,
   "extensions": [
     {
@@ -10378,7 +10378,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 611988
+      "downloads": 612080
     },
     {
       "dir": "color-shades",
@@ -23173,7 +23173,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 568014
+      "downloads": 568071
     },
     {
       "dir": "google-chrome-profiles",
@@ -29684,7 +29684,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 771537
+      "downloads": 771630
     },
     {
       "dir": "kimai",
@@ -35024,7 +35024,7 @@
       "store": "https://www.raycast.com/mguellsegarra/menu-bar-icon-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/menu-bar-icon-search",
       "treeSha": "3f042af14a275a446ff52015f1232791513bfafa",
-      "downloads": 0
+      "downloads": 1
     },
     {
       "dir": "menubar-calendar",
@@ -35879,7 +35879,7 @@
       "dir": "mint-mac-care",
       "name": "mint-mac-care",
       "title": "Mint",
-      "description": "See what fills your Mac, get space back without deleting anything, clean, organize folders, free memory and uninstall apps through Mint",
+      "description": "Clean up your Mac with Mint: see what fills the disk, get space back without deleting anything, clear caches, organize folders, free memory and uninstall apps",
       "author": "dzg-studio",
       "owner": null,
       "contributors": 0,
@@ -35893,7 +35893,7 @@
       ],
       "store": "https://www.raycast.com/dzg-studio/mint-mac-care",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care",
-      "treeSha": "1c93777479f0acdc3a890bd77382ce697ab3cce5",
+      "treeSha": "60c452c7acaa59a6fc9e791334c9564344f3f8c5",
       "downloads": 16
     },
     {

@@ -108,7 +108,7 @@
 | [meslva](https://www.raycast.com/meslva) | 1 | 4 | **Productivity:** [cl1p.net](https://github.com/raycast/extensions/tree/main/extensions/cl1p) |
 | [metakirby5](https://www.raycast.com/metakirby5) | 1 | 69 | **Developer Tools:** [DOTween Eases](https://github.com/raycast/extensions/tree/main/extensions/dotween-eases) |
 | [metrovoc](https://www.raycast.com/metrovoc) | 2 | 192 | **Productivity:** [VoiceInk](https://github.com/raycast/extensions/tree/main/extensions/voiceink)<br>**Applications:** [BOOX Companion](https://github.com/raycast/extensions/tree/main/extensions/boox-companion) |
-| [mguellsegarra](https://www.raycast.com/mguellsegarra) | 1 | 0 | **System:** [Menu Bar Icon Search](https://github.com/raycast/extensions/tree/main/extensions/menu-bar-icon-search) |
+| [mguellsegarra](https://www.raycast.com/mguellsegarra) | 1 | 1 | **System:** [Menu Bar Icon Search](https://github.com/raycast/extensions/tree/main/extensions/menu-bar-icon-search) |
 | [mguyard](https://www.raycast.com/mguyard) | 1 | 215 | **Data:** [Manage Firebase Firestore Collections](https://github.com/raycast/extensions/tree/main/extensions/firebase-import-export) |
 | [mi7chal](https://www.raycast.com/mi7chal) | 1 | 187 | **Developer Tools:** [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) |
 | [mibrahimdev](https://www.raycast.com/mibrahimdev) | 2 | 1,475 | **Developer Tools:** [Android](https://github.com/raycast/extensions/tree/main/extensions/android)<br>**News:** [Android Weekly](https://github.com/raycast/extensions/tree/main/extensions/android-weekly) |

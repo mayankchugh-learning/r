@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 771,537 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 771,630 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 3,094 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | 1,364 | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Kill MCP Servers](https://github.com/raycast/extensions/tree/main/extensions/kill-mcp) | 312 | View and manage MCP (Model Context Protocol) servers running on your Mac. See RAM usage and kill processes. | baptiste-jn | macOS | [store](https://www.raycast.com/baptiste-jn/kill-mcp) |
@@ -24,7 +24,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 120,597 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
 | [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 454 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
-| [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care) | 16 | See what fills your Mac, get space back without deleting anything, clean, organize folders, free memory and uninstall apps through Mint | dzg-studio | macOS | [store](https://www.raycast.com/dzg-studio/mint-mac-care) |
+| [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care) | 16 | Clean up your Mac with Mint: see what fills the disk, get space back without deleting anything, clear caches, organize folders, free memory and uninstall apps | dzg-studio | macOS | [store](https://www.raycast.com/dzg-studio/mint-mac-care) |
 | [Raccoon](https://github.com/raycast/extensions/tree/main/extensions/raccoon) | — | macOS companion toolkit: disk, memory, ports, battery, network and a security audit, powered by the rcc CLI. | eugenio | macOS | — |
 
 ## Window ✦
@@ -69,4 +69,4 @@
 | [App Freezer](https://github.com/raycast/extensions/tree/main/extensions/appfreezer) | 40 | Pause and resume macOS applications through the App Freezer native agent. | changxu_song | macOS | [store](https://www.raycast.com/changxu_song/appfreezer) |
 | [Storage Benchmark](https://github.com/raycast/extensions/tree/main/extensions/storage-benchmark) | 9 | Benchmark sequential read and write performance for local storage | ricoloic | macOS | [store](https://www.raycast.com/ricoloic/storage-benchmark) |
 | [Hotel Manager](https://github.com/raycast/extensions/tree/main/extensions/hotel-manager) | 6 | Manage Hotel apps | yicone | macOS | [store](https://www.raycast.com/yicone/hotel-manager) |
-| [Menu Bar Icon Search](https://github.com/raycast/extensions/tree/main/extensions/menu-bar-icon-search) | 0 | Search and open menu bar app icons, including hidden icons. | mguellsegarra | macOS | [store](https://www.raycast.com/mguellsegarra/menu-bar-icon-search) |
+| [Menu Bar Icon Search](https://github.com/raycast/extensions/tree/main/extensions/menu-bar-icon-search) | 1 | Search and open menu bar app icons, including hidden icons. | mguellsegarra | macOS | [store](https://www.raycast.com/mguellsegarra/menu-bar-icon-search) |

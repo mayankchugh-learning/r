@@ -65,7 +65,7 @@
 | [Pangu for Raycast](https://github.com/raycast/extensions/tree/main/extensions/pangu-for-raycast) | 120 | Add spaces between Chinese and English, number or symbols. | avengerbevis | macOS | [store](https://www.raycast.com/avengerbevis/pangu-for-raycast) |
 | [Storyblok](https://github.com/raycast/extensions/tree/main/extensions/storyblok) | 77 | Query your Storyblok spaces, stories, assets, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/storyblok) |
 | [Phi](https://github.com/raycast/extensions/tree/main/extensions/phi) | 21 | Search and control live Phi Spaces and tabs. | phibrowser | macOS | [store](https://www.raycast.com/phibrowser/phi) |
-| [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care) | 16 | See what fills your Mac, get space back without deleting anything, clean, organize folders, free memory and uninstall apps through Mint | dzg-studio | macOS | [store](https://www.raycast.com/dzg-studio/mint-mac-care) |
+| [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care) | 16 | Clean up your Mac with Mint: see what fills the disk, get space back without deleting anything, clear caches, organize folders, free memory and uninstall apps | dzg-studio | macOS | [store](https://www.raycast.com/dzg-studio/mint-mac-care) |
 | [Spacetime Tracking](https://github.com/raycast/extensions/tree/main/extensions/spacetime-tracking) | 8 | Track how much time you spend in each macOS space, with inactivity detection and CSV export. | olivier_bossel | macOS | [store](https://www.raycast.com/olivier_bossel/spacetime-tracking) |
 
 ## General
