@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 169,470 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,801 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,905 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,293,663 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,293,675 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 458,707 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,834 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,408 |
@@ -72,7 +72,7 @@
 | 62 | [Osprey](https://www.raycast.com/Osprey) | 5 | 589 |
 | 63 | [FariaF22](https://www.raycast.com/FariaF22) | 5 | 419 |
 | 64 | [mblode](https://www.raycast.com/mblode) | 4 | 205,236 |
-| 65 | [lucaschultz](https://www.raycast.com/lucaschultz) | 4 | 69,293 |
+| 65 | [lucaschultz](https://www.raycast.com/lucaschultz) | 4 | 69,294 |
 | 66 | [yug2005](https://www.raycast.com/yug2005) | 4 | 52,974 |
 | 67 | [degouville](https://www.raycast.com/degouville) | 4 | 48,064 |
 | 68 | [kawamataryo](https://www.raycast.com/kawamataryo) | 4 | 46,917 |
@@ -407,8 +407,8 @@
 | 397 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 398 | [frdmn](https://www.raycast.com/frdmn) | 2 | 1 |
 | 399 | github-next | 2 | — |
-| 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 771,332 |
-| 401 | [Codely](https://www.raycast.com/Codely) | 1 | 567,882 |
+| 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 771,348 |
+| 401 | [Codely](https://www.raycast.com/Codely) | 1 | 567,890 |
 | 402 | [linear](https://www.raycast.com/linear) | 1 | 400,704 |
 | 403 | [mommertf](https://www.raycast.com/mommertf) | 1 | 333,455 |
 | 404 | [nhojb](https://www.raycast.com/nhojb) | 1 | 292,493 |
@@ -419,7 +419,7 @@
 | 409 | [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 115,481 |
 | 410 | [doist](https://www.raycast.com/doist) | 1 | 96,437 |
 | 411 | [ike-gg](https://www.raycast.com/ike-gg) | 1 | 78,806 |
-| 412 | [benvp](https://www.raycast.com/benvp) | 1 | 76,182 |
+| 412 | [benvp](https://www.raycast.com/benvp) | 1 | 76,188 |
 | 413 | [jomifepe](https://www.raycast.com/jomifepe) | 1 | 66,188 |
 | 414 | [simicvm](https://www.raycast.com/simicvm) | 1 | 61,760 |
 | 415 | [VladCuciureanu](https://www.raycast.com/VladCuciureanu) | 1 | 58,890 |
