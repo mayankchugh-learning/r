@@ -41,7 +41,7 @@
 | [jebraat](https://www.raycast.com/jebraat) | 1 | 1,600 | **Developer Tools:** [Shell Buddy](https://github.com/raycast/extensions/tree/main/extensions/shell-buddy) |
 | [jeejeeguan](https://www.raycast.com/jeejeeguan) | 1 | 412 | **Developer Tools:** [OpenRouter Models Finder](https://github.com/raycast/extensions/tree/main/extensions/openrouter-models-finder) |
 | [JeffersonDing](https://www.raycast.com/JeffersonDing) | 2 | 5,095 | **Developer Tools:** [LateX Math Symbols](https://github.com/raycast/extensions/tree/main/extensions/latex-math-symbols), [Typst Math Symbols](https://github.com/raycast/extensions/tree/main/extensions/typst-symbols) |
-| [jeffnawroth](https://www.raycast.com/jeffnawroth) | 3 | 185 | **Documentation:** [Vue Router Docs](https://github.com/raycast/extensions/tree/main/extensions/vue-router-docs), [Pinia Docs](https://github.com/raycast/extensions/tree/main/extensions/pinia-docs), [Vuetify Docs](https://github.com/raycast/extensions/tree/main/extensions/vuetify-docs) |
+| [jeffnawroth](https://www.raycast.com/jeffnawroth) | 3 | 186 | **Documentation:** [Vue Router Docs](https://github.com/raycast/extensions/tree/main/extensions/vue-router-docs), [Pinia Docs](https://github.com/raycast/extensions/tree/main/extensions/pinia-docs), [Vuetify Docs](https://github.com/raycast/extensions/tree/main/extensions/vuetify-docs) |
 | [jeffreyvanhees](https://www.raycast.com/jeffreyvanhees) | 1 | 77 | **Data:** [Dutch License Plate Search](https://github.com/raycast/extensions/tree/main/extensions/rdw-kentekencheck) |
 | [JensAstrup](https://www.raycast.com/JensAstrup) | 1 | 49 | **Documentation:** [Django Docs](https://github.com/raycast/extensions/tree/main/extensions/django-docs) |
 | [jergensturdley](https://www.raycast.com/jergensturdley) | 1 | 75 | **Uncategorized:** [RG AdGuard Links](https://github.com/raycast/extensions/tree/main/extensions/rg-adguard-links) |
@@ -102,7 +102,7 @@
 | [joseph_emmanuel](https://www.raycast.com/joseph_emmanuel) | 1 | 7 | **System:** [iPF OS](https://github.com/raycast/extensions/tree/main/extensions/ipf-os) |
 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 118,415 | **Media:** [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search), [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) |
 | [josha1len](https://www.raycast.com/josha1len) | 1 | 647 | **Applications:** [WHOOP](https://github.com/raycast/extensions/tree/main/extensions/whoop) |
-| [joshandromidas](https://www.raycast.com/joshandromidas) | 1 | 178 | **Media:** [Tautulli](https://github.com/raycast/extensions/tree/main/extensions/tautulli) |
+| [joshandromidas](https://www.raycast.com/joshandromidas) | 1 | 179 | **Media:** [Tautulli](https://github.com/raycast/extensions/tree/main/extensions/tautulli) |
 | [joshdales](https://www.raycast.com/joshdales) | 1 | 373 | **Developer Tools:** [Quick Git](https://github.com/raycast/extensions/tree/main/extensions/quick-git) |
 | [joshfarrant](https://www.raycast.com/joshfarrant) | 2 | 1,342 | **Fun:** [Chess.com](https://github.com/raycast/extensions/tree/main/extensions/chess-com)<br>**Productivity:** [Clip Swap](https://github.com/raycast/extensions/tree/main/extensions/clip-swap) |
 | [Joshlucpoll](https://www.raycast.com/Joshlucpoll) | 1 | 3,013 | **Applications:** [TempMail](https://github.com/raycast/extensions/tree/main/extensions/tempmail) |

@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a359e481e0ebf83143d38a3646ecfa1db2483e30",
-  "generatedAt": "2026-10-05T13:09:51.501Z",
-  "downloadsRefreshedAt": "2026-10-05T13:09:50.816Z",
-  "count": 3375,
+  "commit": "2fce862b036c8de1b6e382abb2b7e9f2325aca41",
+  "generatedAt": "2026-10-05T13:11:44.086Z",
+  "downloadsRefreshedAt": "2026-10-05T13:11:43.531Z",
+  "count": 3376,
   "extensions": [
     {
       "dir": "0x0",
@@ -4918,7 +4918,7 @@
       "store": "https://www.raycast.com/TheCommieAxolotl/betterdiscord-store",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/betterdiscord-search",
       "treeSha": "052deb5683421354d421758a6dfc2c09ab528958",
-      "downloads": 574
+      "downloads": 575
     },
     {
       "dir": "betterdisplay",
@@ -10379,7 +10379,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 612318
+      "downloads": 612320
     },
     {
       "dir": "color-shades",
@@ -18213,7 +18213,7 @@
       "store": "https://www.raycast.com/mega_bananas/fake-swedish-personal-number",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/fake-swedish-personal-number",
       "treeSha": "544810dc731bee4ddcb87b04460635ff527d7781",
-      "downloads": 77
+      "downloads": 78
     },
     {
       "dir": "fake-typing-effect",
@@ -19388,7 +19388,7 @@
       "store": "https://www.raycast.com/eljn/finnish-business-lookup",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/finnish-business-lookup",
       "treeSha": "da60986b10355a39722e1003375d671194dc828e",
-      "downloads": 5
+      "downloads": 6
     },
     {
       "dir": "finnish-dictionary",
@@ -21814,6 +21814,26 @@
       "downloads": 554
     },
     {
+      "dir": "ghq-plus",
+      "name": "ghq-plus",
+      "title": "Ghq Plus",
+      "description": "List and clone repositories managed by ghq.",
+      "author": "flan",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/flan/ghq-plus",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/ghq-plus",
+      "treeSha": "b132dc3df642fa3a7ce59d188933958aa225d3ff",
+      "downloads": 0
+    },
+    {
       "dir": "gif-maker",
       "name": "gif-maker",
       "title": "GIF Maker",
@@ -23174,7 +23194,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 568220
+      "downloads": 568223
     },
     {
       "dir": "google-chrome-profiles",
@@ -24735,7 +24755,7 @@
       "store": "https://www.raycast.com/mendel_g/hebrew-date-zmanim",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/hebrew-date-zmanim",
       "treeSha": "20a71975f9e4d412bb591a37592d87866ae4204e",
-      "downloads": 64
+      "downloads": 65
     },
     {
       "dir": "heed",
@@ -24778,7 +24798,7 @@
       "store": "https://www.raycast.com/THEN00P/heidisql-sessions",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions",
       "treeSha": "ecb09e2da40db0081b2ef9695b9ebf9470fb9cad",
-      "downloads": 3
+      "downloads": 4
     },
     {
       "dir": "height",
@@ -26801,7 +26821,7 @@
       "store": "https://www.raycast.com/andy/imgbed-uploader",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/imgbed-uploader",
       "treeSha": "2d7dfabcf4fbeb01abf41662abaf4f96b7dd9663",
-      "downloads": 6
+      "downloads": 7
     },
     {
       "dir": "imgur",
@@ -29685,7 +29705,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 771886
+      "downloads": 771887
     },
     {
       "dir": "kimai",
@@ -40297,7 +40317,7 @@
       "store": "https://www.raycast.com/mSarheed/octoprint",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/octoprint",
       "treeSha": "1e670eeba847e91db0fe2a890ceb4cf5a1fb038a",
-      "downloads": 123
+      "downloads": 124
     },
     {
       "dir": "octopus-energy",
@@ -45049,7 +45069,7 @@
       "store": "https://www.raycast.com/nathanwijaya/playback-duration-calculator",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/playback-duration-calculator",
       "treeSha": "76d89c5050c8d385d69d68c55a3480276ff2f425",
-      "downloads": 136
+      "downloads": 137
     },
     {
       "dir": "playnite-launcher",
@@ -49896,7 +49916,7 @@
       "store": "https://www.raycast.com/massimiliano_pasquini/raycast-zabbix",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-zabbix",
       "treeSha": "d41fe6df059b86dd0ee80c2938c05ee84916288b",
-      "downloads": 5
+      "downloads": 6
     },
     {
       "dir": "raycast-zoxide",
@@ -60179,7 +60199,7 @@
       "store": "https://www.raycast.com/joshandromidas/tautulli",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tautulli",
       "treeSha": "f9692a7e3bc28bcd5b394e1a353c892a68dc8d2b",
-      "downloads": 178
+      "downloads": 179
     },
     {
       "dir": "tc-no-generator",
@@ -66873,7 +66893,7 @@
       "store": "https://www.raycast.com/jeffnawroth/vuetify-docs",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/vuetify-docs",
       "treeSha": "fbaaa743832a7ff0ce7d3684063bd35d40ee489d",
-      "downloads": 58
+      "downloads": 59
     },
     {
       "dir": "vueuse-functions",

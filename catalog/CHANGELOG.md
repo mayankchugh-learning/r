@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `2fce862b03`
+
+**Added (1):** [Ghq Plus](https://github.com/raycast/extensions/tree/main/extensions/ghq-plus)
+
 ## 2026-10-05 — upstream `a359e481e0`
 
 **Updated (1):** [Aktar](https://github.com/raycast/extensions/tree/main/extensions/aktar)

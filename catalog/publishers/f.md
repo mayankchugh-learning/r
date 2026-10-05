@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · **F** · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-83 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+84 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -52,6 +52,7 @@
 | [fka](https://www.raycast.com/fka) | 1 | 768 | **Productivity:** [Prompts.chat](https://github.com/raycast/extensions/tree/main/extensions/prompts-chat) |
 | [FL0R1AN](https://www.raycast.com/FL0R1AN) | 1 | 11 | **Productivity:** [Punch Clock](https://github.com/raycast/extensions/tree/main/extensions/punch-clock) |
 | [flaming-codes](https://www.raycast.com/flaming-codes) | 1 | 72 | **Developer Tools:** [CRAN/E Search](https://github.com/raycast/extensions/tree/main/extensions/cran-e-search) |
+| [flan](https://www.raycast.com/flan) | 1 | 0 | **Developer Tools:** [Ghq Plus](https://github.com/raycast/extensions/tree/main/extensions/ghq-plus) |
 | [flaticols](https://www.raycast.com/flaticols) | 1 | 81 | **Other:** [Netherlands Railways Train Search](https://github.com/raycast/extensions/tree/main/extensions/ns-nl-search) |
 | [Flatroy](https://www.raycast.com/Flatroy) | 1 | 878 | **Applications:** [HideMail - Email Relay Service](https://github.com/raycast/extensions/tree/main/extensions/hide-mail) |
 | [flavien.bonvin](https://www.raycast.com/flavien.bonvin) | 1 | 719 | **Data:** [Proton Version](https://github.com/raycast/extensions/tree/main/extensions/proton-version) |
