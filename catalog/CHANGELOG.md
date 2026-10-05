@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `14630de189`
+
+**Updated (1):** [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands)
+
 ## 2026-10-05 — upstream `446d2f0cd9`
 
 **Updated (1):** [Ejection Seat](https://github.com/raycast/extensions/tree/main/extensions/ejection-seat)
