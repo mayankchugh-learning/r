@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f26958ebfefa67fc2bcf1917346bdf21440392fc",
-  "generatedAt": "2026-10-05T11:47:49.089Z",
-  "downloadsRefreshedAt": "2026-10-05T11:47:48.168Z",
+  "commit": "97129a9b343a760f96fe0908b1d8fe9094df9f1e",
+  "generatedAt": "2026-10-05T11:49:33.732Z",
+  "downloadsRefreshedAt": "2026-10-05T11:49:32.358Z",
   "count": 3375,
   "extensions": [
     {
@@ -10378,7 +10378,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 612216
+      "downloads": 612218
     },
     {
       "dir": "color-shades",
@@ -23173,7 +23173,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 568152
+      "downloads": 568153
     },
     {
       "dir": "google-chrome-profiles",
@@ -29684,7 +29684,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 771775
+      "downloads": 771779
     },
     {
       "dir": "kimai",
@@ -36309,7 +36309,7 @@
       ],
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
-      "treeSha": "5dff405f159ead4b23d1fba950315ff0e528084a",
+      "treeSha": "3d5c28bf4c3d9b5120c56b825bde3241b7f3d1db",
       "downloads": 43004
     },
     {
@@ -55902,7 +55902,7 @@
       "store": "https://www.raycast.com/mommertf/slack",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slack",
       "treeSha": "a58b1d3a7094d514236dccdeb166a689898b1872",
-      "downloads": 333455
+      "downloads": 333655
     },
     {
       "dir": "slack-status",
