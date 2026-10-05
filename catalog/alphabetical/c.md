@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 612,609 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 612,661 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 259,904 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 150,895 | Prevent the sleep function on your computer | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/coffee) |
 | [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 120,214 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
@@ -295,7 +295,7 @@
 | [Codex Dictation](https://github.com/raycast/extensions/tree/main/extensions/codex-dictation) | 2 | Browse, search, and copy Codex dictation history | ertem_biyik | Windows, macOS | [store](https://www.raycast.com/ertem_biyik/codex-dictation) |
 | [Calliday](https://github.com/raycast/extensions/tree/main/extensions/calliday) | 1 | Companion for Calliday, the automatic time tracker for macOS. Requires the Calliday app. | yaanisy | macOS | [store](https://www.raycast.com/yaanisy/calliday) |
 | [CeyPay](https://github.com/raycast/extensions/tree/main/extensions/ceypay) | 1 | Search CeyPay documentation and API reference — accept crypto payments, settle in Sri Lankan Rupees. | kasuncfdo | macOS | [store](https://www.raycast.com/kasuncfdo/ceypay) |
-| [Claude Exit IP](https://github.com/raycast/extensions/tree/main/extensions/claude-exit-ip) | 1 | Show the exit IP address and location claude.ai sees you connecting from | marcuslannister | macOS | [store](https://www.raycast.com/marcuslannister/claude-exit-ip) |
 | [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) | 1 | Search CoCart API documentation quickly, copy URLs, or open them in your browser. | cocart_headless | macOS, Windows | [store](https://www.raycast.com/cocart_headless/cocart-docs) |
 | [CueNow](https://github.com/raycast/extensions/tree/main/extensions/cuenow) | 1 | Search, create and manage your CueNow sticky notes without leaving Raycast. | sworup_ku | macOS | [store](https://www.raycast.com/sworup_ku/cuenow) |
+| [Claude Exit IP](https://github.com/raycast/extensions/tree/main/extensions/claude-exit-ip) | 0 | Show the exit IP address and location claude.ai sees you connecting from | marcuslannister | macOS | [store](https://www.raycast.com/marcuslannister/claude-exit-ip) |
 | [Copilot Workspace](https://github.com/raycast/extensions/tree/main/extensions/copilot-workspace) | — | Take an idea from anywhere and turn it into code with Copilot Workspace | github-next (org) | macOS | — |

@@ -68,7 +68,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 23,486 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
+| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 23,489 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
 | [IMDb Search](https://github.com/raycast/extensions/tree/main/extensions/imdb) | 14,936 | Easily open your favorite film or TV series on IMDb. | ryan | macOS, Windows | [store](https://www.raycast.com/ryan/imdb) |
 | [Art Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/another-boring-piece) | 371 | Another boring piece. Daily. | yevgen_glukhov | macOS, Windows | [store](https://www.raycast.com/yevgen_glukhov/another-boring-piece) |
 | [Cover Art Search](https://github.com/raycast/extensions/tree/main/extensions/cover-art-search) | 36 | Search IMDb for movie, TV, anime, and game cover art, copy it, or send it straight to Capacities | louay.md | macOS, Windows | [store](https://www.raycast.com/louay.md/cover-art-search) |

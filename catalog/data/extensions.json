@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "aff43f377c7c8373ceaa78b1e5b55f392a70eb09",
-  "generatedAt": "2026-10-05T18:07:35.143Z",
-  "downloadsRefreshedAt": "2026-10-05T18:07:34.153Z",
+  "commit": "a45504f76c2e298eb7d00551dbfbf120d3f02fc8",
+  "generatedAt": "2026-10-05T19:11:17.449Z",
+  "downloadsRefreshedAt": "2026-10-05T19:11:17.132Z",
   "count": 3377,
   "extensions": [
     {
@@ -8729,7 +8729,7 @@
       "store": "https://www.raycast.com/marcuslannister/claude-exit-ip",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/claude-exit-ip",
       "treeSha": "781c7ecced7d161d69af5ed01370819523cf4164",
-      "downloads": 1
+      "downloads": 0
     },
     {
       "dir": "claude-session-bookmarks",
@@ -10400,7 +10400,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 612609
+      "downloads": 612661
     },
     {
       "dir": "color-shades",
@@ -23215,7 +23215,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 568418
+      "downloads": 568457
     },
     {
       "dir": "google-chrome-profiles",
@@ -29726,7 +29726,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 772230
+      "downloads": 772298
     },
     {
       "dir": "kimai",
@@ -40223,7 +40223,7 @@
       "description": "Manage your bookmarked links with Obsidian. Save, search, and access your bookmarks. Supports Safari, Arc and other Chromium-based browsers",
       "author": "dru89",
       "owner": null,
-      "contributors": 3,
+      "contributors": 4,
       "categories": [
         "Productivity",
         "Applications",
@@ -40235,7 +40235,7 @@
       ],
       "store": "https://www.raycast.com/dru89/obsidian-bookmarks",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks",
-      "treeSha": "5abc55f48575be9efd7ff7e8d17452b5522548db",
+      "treeSha": "1201a5f3ba4367a01dcc7a877174466b423e7ade",
       "downloads": 7023
     },
     {
@@ -49851,7 +49851,7 @@
       "store": "https://www.raycast.com/koinzhang/raycast-wallpaper",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper",
       "treeSha": "508e75a9959221388b371b07cf71f8598270de61",
-      "downloads": 23486
+      "downloads": 23489
     },
     {
       "dir": "raycast-wca",
