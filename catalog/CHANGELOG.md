@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `776eb9bb97`
+
+**Added (1):** [Menu Bar Icon Search](https://github.com/raycast/extensions/tree/main/extensions/menu-bar-icon-search)
+
 ## 2026-10-05 — upstream `3fba4cad6f`
 
 **Updated (1):** [Proton Mail](https://github.com/raycast/extensions/tree/main/extensions/proton-mail)

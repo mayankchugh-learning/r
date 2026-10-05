@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3fba4cad6f66cdec536e6f23271fedbfb4aff018",
-  "generatedAt": "2026-10-05T07:29:45.233Z",
-  "downloadsRefreshedAt": "2026-10-05T07:29:44.589Z",
-  "count": 3373,
+  "commit": "776eb9bb97af5f4002898d81e8e1944889cbab91",
+  "generatedAt": "2026-10-05T07:42:46.921Z",
+  "downloadsRefreshedAt": "2026-10-05T07:42:46.590Z",
+  "count": 3374,
   "extensions": [
     {
       "dir": "0x0",
@@ -10378,7 +10378,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 611947
+      "downloads": 611964
     },
     {
       "dir": "color-shades",
@@ -23173,7 +23173,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 567981
+      "downloads": 567992
     },
     {
       "dir": "google-chrome-profiles",
@@ -29684,7 +29684,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 771489
+      "downloads": 771503
     },
     {
       "dir": "kimai",
@@ -35005,6 +35005,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/memradar",
       "treeSha": "a02da9bb54b2a481c7cbf27e69ffa00843b04f35",
       "downloads": 8
+    },
+    {
+      "dir": "menu-bar-icon-search",
+      "name": "menu-bar-icon-search",
+      "title": "Menu Bar Icon Search",
+      "description": "Search and open menu bar app icons, including hidden icons.",
+      "author": "mguellsegarra",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "System"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/menu-bar-icon-search",
+      "treeSha": "3f042af14a275a446ff52015f1232791513bfafa",
+      "downloads": null
     },
     {
       "dir": "menubar-calendar",
