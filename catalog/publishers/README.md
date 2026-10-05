@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,293,725 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,293,727 |
 | 2 | [raycast](./id/raycast.md) | 11 | 904,200 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 771,398 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 567,924 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 771,403 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 567,928 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 496,197 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 492,408 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 458,707 |
@@ -918,7 +918,7 @@
 | 908 | [xiaoluoboding](https://www.raycast.com/xiaoluoboding) | 1 | 516 |
 | 909 | [guelug](https://www.raycast.com/guelug) | 1 | 510 |
 | 910 | [libaro](https://www.raycast.com/libaro) | 1 | 507 |
-| 911 | [aic](https://www.raycast.com/aic) | 3 | 506 |
+| 911 | [aic](https://www.raycast.com/aic) | 4 | 506 |
 | 912 | [gustavofior](https://www.raycast.com/gustavofior) | 1 | 506 |
 | 913 | [MBearo](https://www.raycast.com/MBearo) | 1 | 506 |
 | 914 | [bgiovand](https://www.raycast.com/bgiovand) | 1 | 503 |

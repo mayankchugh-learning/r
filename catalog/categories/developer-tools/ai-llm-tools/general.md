@@ -1,6 +1,6 @@
 # General
 
-12 extensions · [← AI & LLM Tools](./README.md)
+9 extensions · [← AI & LLM Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -11,8 +11,5 @@
 | [Alt-Text Generator](https://github.com/raycast/extensions/tree/main/extensions/alt-text-generator) | 706 | This extension makes it easy to generate descriptive alt-text for images. Simply provide an image URL, and the extension will make a call to the openai api to… | jack_casica | macOS | [store](https://www.raycast.com/jack_casica/alt-text-generator) |
 | [Gemini CLI](https://github.com/raycast/extensions/tree/main/extensions/gemini-cli) | 358 | Gemini CLI lists all the gemini cli sessions, stats and more | SandeepBaskaran | macOS | [store](https://www.raycast.com/SandeepBaskaran/gemini-cli) |
 | [QMD](https://github.com/raycast/extensions/tree/main/extensions/qmd) | 286 | Search your markdown files with QMD (Query Markup Documents) - fast BM25 keyword search, semantic vector search, and hybrid search with LLM reranking | karelvuong | macOS | [store](https://www.raycast.com/karelvuong/qmd) |
-| [Zoo - Ask AIs with Your Prompt Library](https://github.com/raycast/extensions/tree/main/extensions/zoo) | 265 | Interact with AIs with your own Github Gist prompt library with ease | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/zoo) |
 | [Integrations.sh](https://github.com/raycast/extensions/tree/main/extensions/integrations-sh) | 146 | Search integrations.sh for MCP, OpenAPI, GraphQL, and CLI integration surfaces, and inspect setup and credentials per domain. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/integrations-sh) |
-| [Markprompt](https://github.com/raycast/extensions/tree/main/extensions/markprompt) | 103 | Prompt your Markprompt project from Raycast | markprompt (org) | macOS | [store](https://www.raycast.com/markprompt/markprompt) |
 | [JSON to GCF Converter](https://github.com/raycast/extensions/tree/main/extensions/json-to-gcf-converter) | 19 | Convert JSON data into GCF (Graph Compact Format) instantly. 53-71% fewer tokens than JSON, 90.7% LLM comprehension accuracy. | blackwell-systems | macOS, Windows | [store](https://www.raycast.com/blackwell-systems/json-to-gcf-converter) |
-| [URL Designer](https://github.com/raycast/extensions/tree/main/extensions/url-designer) | 14 | Collect URL patterns and copy them as an implementation prompt. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/url-designer) |

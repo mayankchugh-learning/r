@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `31962494b9`
+
+**Added (1):** [Charter - Chart and Diagram Catalog](https://github.com/raycast/extensions/tree/main/extensions/charter)
+
 ## 2026-10-05 — upstream `045cf1740f`
 
 **Added (1):** [Page Scanner](https://github.com/raycast/extensions/tree/main/extensions/page-scanner)

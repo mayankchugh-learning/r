@@ -2,7 +2,7 @@
 
 [Language References](./language-references.md) · [Framework & Library Docs](./framework-library-docs.md) · **Cheatsheets & Snippets** · [Developer References](./developer-references.md) · [Wikis & Knowledge Bases](./wikis-knowledge-bases.md) · [Communities & Blogs](./communities-blogs.md) · [Dictionaries & Language](./dictionaries-language.md) · [General](./general.md)
 
-23 of 215 extensions · [← macOS · Documentation](./README.md)
+24 of 216 extensions · [← macOS · Documentation](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,4 @@
 | [NSIS Reference](https://github.com/raycast/extensions/tree/main/extensions/nsis-reference) | 11 | Search NSIS references | idleberg | macOS | [store](https://www.raycast.com/idleberg/nsis-reference) |
 | [CeyPay](https://github.com/raycast/extensions/tree/main/extensions/ceypay) | 1 | Search CeyPay documentation and API reference — accept crypto payments, settle in Sri Lankan Rupees. | kasuncfdo | macOS | [store](https://www.raycast.com/kasuncfdo/ceypay) |
 | [Markdown Documents](https://github.com/raycast/extensions/tree/main/extensions/markdown-docs) | 1 | Manage and search markdown cheatsheets and documents | craigharman | macOS | [store](https://www.raycast.com/craigharman/markdown-docs) |
+| [Charter - Chart and Diagram Catalog](https://github.com/raycast/extensions/tree/main/extensions/charter) | 0 | Browse chart and diagram types with Mermaid, shadcn and ECharts examples, docs and prompt snippets | aic | macOS | [store](https://www.raycast.com/aic/charter) |

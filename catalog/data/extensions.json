@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "045cf1740fbc434ea37f640def3fff9394aa2c0d",
-  "generatedAt": "2026-10-05T06:04:23.492Z",
-  "downloadsRefreshedAt": "2026-10-05T06:04:23.074Z",
-  "count": 3371,
+  "commit": "31962494b926e88084532ca67e00b026db128667",
+  "generatedAt": "2026-10-05T06:08:30.549Z",
+  "downloadsRefreshedAt": "2026-10-05T06:08:29.862Z",
+  "count": 3372,
   "extensions": [
     {
       "dir": "0x0",
@@ -7683,6 +7683,27 @@
       "downloads": 711
     },
     {
+      "dir": "charter",
+      "name": "charter",
+      "title": "Charter - Chart and Diagram Catalog",
+      "description": "Browse chart and diagram types with Mermaid, shadcn and ECharts examples, docs and prompt snippets",
+      "author": "aic",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools",
+        "Documentation"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/aic/charter",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/charter",
+      "treeSha": "b67f1f5f8fa995988f2229522fa783f5422cffe3",
+      "downloads": 0
+    },
+    {
       "dir": "chartmogul",
       "name": "chartmogul",
       "title": "ChartMogul",
@@ -10337,7 +10358,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 611869
+      "downloads": 611871
     },
     {
       "dir": "color-shades",
@@ -23132,7 +23153,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 567924
+      "downloads": 567928
     },
     {
       "dir": "google-chrome-profiles",
@@ -29643,7 +29664,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 771398
+      "downloads": 771403
     },
     {
       "dir": "kimai",

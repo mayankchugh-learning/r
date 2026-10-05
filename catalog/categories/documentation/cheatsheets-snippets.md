@@ -1,8 +1,8 @@
 # Cheatsheets & Snippets
 
-23 extensions · [← Documentation](./README.md)
+24 extensions · [← Documentation](./README.md)
 
-[Reference ✦](#reference) (8) · [Cheatsheets ✦](#cheatsheets) (5) · [General](#general) (10)
+[Reference ✦](#reference) (8) · [Cheatsheets ✦](#cheatsheets) (5) · [General](#general) (11)
 
 *✦ auto-discovered topic group*
 
@@ -43,3 +43,4 @@
 | [Backstage](https://github.com/raycast/extensions/tree/main/extensions/backstage) | 159 | Shortcuts for Backstage | yukukotani | macOS | [store](https://www.raycast.com/yukukotani/backstage) |
 | [AT Protocol Utilities](https://github.com/raycast/extensions/tree/main/extensions/atproto-utilities) | 50 | Utility commands for atproto development. | ftrstk | macOS | [store](https://www.raycast.com/ftrstk/atproto-utilities) |
 | [Valkey Commands Search](https://github.com/raycast/extensions/tree/main/extensions/valkey-commands-search) | 42 | Searches Valkey commands. | poiuj | macOS | [store](https://www.raycast.com/poiuj/valkey-commands-search) |
+| [Charter - Chart and Diagram Catalog](https://github.com/raycast/extensions/tree/main/extensions/charter) | 0 | Browse chart and diagram types with Mermaid, shadcn and ECharts examples, docs and prompt snippets | aic | macOS | [store](https://www.raycast.com/aic/charter) |
