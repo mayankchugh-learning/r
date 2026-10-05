@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 771,503 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 771,533 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 120,597 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
 | [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 51,221 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
 | [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) | 36,389 | Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller | dziad | macOS | [store](https://www.raycast.com/dziad/appcleaner) |
@@ -45,5 +45,5 @@
 | [Storage Benchmark](https://github.com/raycast/extensions/tree/main/extensions/storage-benchmark) | 9 | Benchmark sequential read and write performance for local storage | ricoloic | macOS | [store](https://www.raycast.com/ricoloic/storage-benchmark) |
 | [Hotel Manager](https://github.com/raycast/extensions/tree/main/extensions/hotel-manager) | 6 | Manage Hotel apps | yicone | macOS | [store](https://www.raycast.com/yicone/hotel-manager) |
 | [Battery Drain](https://github.com/raycast/extensions/tree/main/extensions/battery-drain) | 0 | Find out why your MacBook battery drained: how many watts it draws, runaway processes, what keeps it from sleeping and how to stop it, and why charging stopped. | muratfe | macOS | [store](https://www.raycast.com/muratfe/battery-drain) |
-| [Menu Bar Icon Search](https://github.com/raycast/extensions/tree/main/extensions/menu-bar-icon-search) | — | Search and open menu bar app icons, including hidden icons. | mguellsegarra | macOS | — |
+| [Menu Bar Icon Search](https://github.com/raycast/extensions/tree/main/extensions/menu-bar-icon-search) | 0 | Search and open menu bar app icons, including hidden icons. | mguellsegarra | macOS | [store](https://www.raycast.com/mguellsegarra/menu-bar-icon-search) |
 | [Raccoon](https://github.com/raycast/extensions/tree/main/extensions/raccoon) | — | macOS companion toolkit: disk, memory, ports, battery, network and a security audit, powered by the rcc CLI. | eugenio | macOS | — |

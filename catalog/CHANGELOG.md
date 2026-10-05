@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `4f0c1fbe45`
+
+**Updated (1):** [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana)
+
 ## 2026-10-05 — upstream `6f238cbe87`
 
 **Updated (1):** [Hacker News Top Stories](https://github.com/raycast/extensions/tree/main/extensions/hacker-news-top-stories)
