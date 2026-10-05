@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "12930bc0af140e25ef17659afcb620e217f4e076",
-  "generatedAt": "2026-10-05T09:47:37.739Z",
-  "downloadsRefreshedAt": "2026-10-05T09:47:37.417Z",
+  "commit": "2e04ce5a8e89102c4f1d752e1dccf75843c6ba4d",
+  "generatedAt": "2026-10-05T09:54:23.187Z",
+  "downloadsRefreshedAt": "2026-10-05T09:54:22.511Z",
   "count": 3374,
   "extensions": [
     {
@@ -9549,7 +9549,7 @@
       "description": "Download videos and audio from popular social media platforms with ease.",
       "author": "aelew",
       "owner": null,
-      "contributors": 2,
+      "contributors": 3,
       "categories": [
         "Applications",
         "Data",
@@ -9563,7 +9563,7 @@
       ],
       "store": "https://www.raycast.com/aelew/cobalt",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/cobalt",
-      "treeSha": "f6f9e55a066cb9e5611a38d97c64eebdc9fd6f40",
+      "treeSha": "867b8c2e2371ec29b8f9df151e60afc59245c65f",
       "downloads": 7140
     },
     {
@@ -10378,7 +10378,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 612102
+      "downloads": 612105
     },
     {
       "dir": "color-shades",
@@ -29684,7 +29684,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 771664
+      "downloads": 771667
     },
     {
       "dir": "kimai",
