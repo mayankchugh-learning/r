@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "776eb9bb97af5f4002898d81e8e1944889cbab91",
-  "generatedAt": "2026-10-05T07:42:46.921Z",
-  "downloadsRefreshedAt": "2026-10-05T07:42:46.590Z",
+  "commit": "6f238cbe8729ed51f0b45f5f96232cc306a83221",
+  "generatedAt": "2026-10-05T07:43:37.650Z",
+  "downloadsRefreshedAt": "2026-10-05T07:43:37.078Z",
   "count": 3374,
   "extensions": [
     {
@@ -24318,7 +24318,7 @@
       ],
       "store": "https://www.raycast.com/KevinBatdorf/hacker-news-top-stories",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/hacker-news-top-stories",
-      "treeSha": "ce224b4c13065634c5fef5dcd8be8fde232ae0d8",
+      "treeSha": "1cf35598d1d29e6043f58909758cdf2adc5fbb0e",
       "downloads": 259
     },
     {

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `6f238cbe87`
+
+**Updated (1):** [Hacker News Top Stories](https://github.com/raycast/extensions/tree/main/extensions/hacker-news-top-stories)
+
 ## 2026-10-05 — upstream `776eb9bb97`
 
 **Added (1):** [Menu Bar Icon Search](https://github.com/raycast/extensions/tree/main/extensions/menu-bar-icon-search)
