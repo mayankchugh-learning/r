@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `3fba4cad6f`
+
+**Updated (1):** [Proton Mail](https://github.com/raycast/extensions/tree/main/extensions/proton-mail)
+
 ## 2026-10-05 — upstream `37bdec0ad6`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,293,743 |
-| 2 | [raycast](./id/raycast.md) | 11 | 904,200 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 771,424 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 567,942 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,293,803 |
+| 2 | [raycast](./id/raycast.md) | 11 | 904,202 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 771,489 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 567,981 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 496,197 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 492,408 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 458,707 |
@@ -2267,9 +2267,9 @@
 | 2257 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
 | 2258 | [Marcelismus](https://www.raycast.com/Marcelismus) | 1 | 0 |
 | 2259 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2260 | [sbd530](https://www.raycast.com/sbd530) | 1 | 0 |
-| 2261 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2262 | github-next | 2 | — |
-| 2263 | eugenio | 1 | — |
-| 2264 | multi | 1 | — |
-| 2265 | muratfe | 1 | — |
+| 2260 | [muratfe](https://www.raycast.com/muratfe) | 1 | 0 |
+| 2261 | [sbd530](https://www.raycast.com/sbd530) | 1 | 0 |
+| 2262 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2263 | github-next | 2 | — |
+| 2264 | eugenio | 1 | — |
+| 2265 | multi | 1 | — |

@@ -10,13 +10,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 771,424 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 771,489 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 3,094 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | 1,364 | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Kill MCP Servers](https://github.com/raycast/extensions/tree/main/extensions/kill-mcp) | 312 | View and manage MCP (Model Context Protocol) servers running on your Mac. See RAM usage and kill processes. | baptiste-jn | macOS | [store](https://www.raycast.com/baptiste-jn/kill-mcp) |
 | [Ejection Seat](https://github.com/raycast/extensions/tree/main/extensions/ejection-seat) | 28 | Find the processes and files that may be preventing a disk from ejecting. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/ejection-seat) |
 | [Portreaper](https://github.com/raycast/extensions/tree/main/extensions/portreaper) | 22 | Find and kill orphaned dev-server processes — the same classification engine as the Portreaper desktop app. | fhf1121 | macOS | [store](https://www.raycast.com/fhf1121/portreaper) |
-| [Battery Drain](https://github.com/raycast/extensions/tree/main/extensions/battery-drain) | — | Find out why your MacBook battery drained: how many watts it draws, runaway processes, what keeps it from sleeping and how to stop it, and why charging stopped. | muratfe | macOS | — |
+| [Battery Drain](https://github.com/raycast/extensions/tree/main/extensions/battery-drain) | 0 | Find out why your MacBook battery drained: how many watts it draws, runaway processes, what keeps it from sleeping and how to stop it, and why charging stopped. | muratfe | macOS | [store](https://www.raycast.com/muratfe/battery-drain) |
 
 ## Memory ✦
 

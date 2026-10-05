@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "37bdec0ad6413ac3674cab9f8c81b21a6f8241aa",
-  "generatedAt": "2026-10-05T06:27:37.395Z",
-  "downloadsRefreshedAt": "2026-10-05T06:27:36.693Z",
+  "commit": "3fba4cad6f66cdec536e6f23271fedbfb4aff018",
+  "generatedAt": "2026-10-05T07:29:45.233Z",
+  "downloadsRefreshedAt": "2026-10-05T07:29:44.589Z",
   "count": 3373,
   "extensions": [
     {
@@ -4291,10 +4291,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/muratfe/battery-drain",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/battery-drain",
       "treeSha": "08232a8b6b4a7af9bfe4bc91ee89f01f2c572da0",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "battery-health",
@@ -10378,7 +10378,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 611887
+      "downloads": 611947
     },
     {
       "dir": "color-shades",
@@ -23173,7 +23173,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 567942
+      "downloads": 567981
     },
     {
       "dir": "google-chrome-profiles",
@@ -29684,7 +29684,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 771424
+      "downloads": 771489
     },
     {
       "dir": "kimai",
@@ -36290,7 +36290,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "8a013e8dd3a0f242439e4e534b402ac428245f27",
-      "downloads": 42991
+      "downloads": 42993
     },
     {
       "dir": "models-dev",
@@ -46649,7 +46649,7 @@
       "description": "View and manage your Proton Mail inbox via Proton Mail Bridge",
       "author": "NormC",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "System",
         "Communication"
@@ -46661,7 +46661,7 @@
       ],
       "store": "https://www.raycast.com/NormC/proton-mail",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/proton-mail",
-      "treeSha": "52c79300b87030e1149a09cdd297ca5b5c639530",
+      "treeSha": "6de7c5dd3b0865c1dbbd053a8d11de90dd2d08b3",
       "downloads": 955
     },
     {
