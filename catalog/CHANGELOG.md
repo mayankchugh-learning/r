@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `1e65df0903`
+
+**Added (1):** [Battery Drain](https://github.com/raycast/extensions/tree/main/extensions/battery-drain)
+
 ## 2026-10-05 — upstream `3048c09ba5`
 
 **Updated (1):** [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects)

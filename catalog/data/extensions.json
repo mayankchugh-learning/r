@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3048c09ba5dd2976b28ed74f9500c8e601a9113e",
-  "generatedAt": "2026-10-05T06:10:21.463Z",
-  "downloadsRefreshedAt": "2026-10-05T06:10:21.170Z",
-  "count": 3372,
+  "commit": "1e65df090349acc3d7757bbdec7356ed7332ea9f",
+  "generatedAt": "2026-10-05T06:17:32.686Z",
+  "downloadsRefreshedAt": "2026-10-05T06:17:31.956Z",
+  "count": 3373,
   "extensions": [
     {
       "dir": "0x0",
@@ -4275,6 +4275,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bash-commands",
       "treeSha": "6950316e2d158d8d4bd89eae92157ec56a6944bc",
       "downloads": 151
+    },
+    {
+      "dir": "battery-drain",
+      "name": "battery-drain",
+      "title": "Battery Drain",
+      "description": "Find out why your MacBook battery drained: how many watts it draws, runaway processes, what keeps it from sleeping and how to stop it, and why charging stopped.",
+      "author": "muratfe",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "System"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/battery-drain",
+      "treeSha": "08232a8b6b4a7af9bfe4bc91ee89f01f2c572da0",
+      "downloads": null
     },
     {
       "dir": "battery-health",
@@ -10358,7 +10378,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 611872
+      "downloads": 611878
     },
     {
       "dir": "color-shades",
@@ -23153,7 +23173,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 567928
+      "downloads": 567934
     },
     {
       "dir": "google-chrome-profiles",
@@ -29664,7 +29684,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 771406
+      "downloads": 771413
     },
     {
       "dir": "kimai",

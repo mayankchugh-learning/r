@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-181 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+182 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -178,6 +178,7 @@
 | [muhammadrizo](https://www.raycast.com/muhammadrizo) | 6 | 1,177 | **Fun:** [KnowYourMeme](https://github.com/raycast/extensions/tree/main/extensions/knowyourmeme)<br>**System:** [Windows Default Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/windows-default-wallpapers), [Windhawk](https://github.com/raycast/extensions/tree/main/extensions/windhawk)<br>**Media:** [Series Rating Graphs](https://github.com/raycast/extensions/tree/main/extensions/series-rating-graphs), [Flameshot](https://github.com/raycast/extensions/tree/main/extensions/flameshot), [Media Switcher](https://github.com/raycast/extensions/tree/main/extensions/media-switcher) |
 | [muhammetakay](https://www.raycast.com/muhammetakay) | 1 | 10,810 | **Web:** [YouTube Search](https://github.com/raycast/extensions/tree/main/extensions/youtube-search) |
 | multi | 1 | — | **Applications:** [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) |
+| muratfe | 1 | — | **System:** [Battery Drain](https://github.com/raycast/extensions/tree/main/extensions/battery-drain) |
 | [musienkoyuriy](https://www.raycast.com/musienkoyuriy) | 1 | 2,630 | **Productivity:** [Regular Expressions Search](https://github.com/raycast/extensions/tree/main/extensions/search-regexp) |
 | [mutedeck](https://www.raycast.com/mutedeck) | 1 | 232 | **Applications:** [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck) |
 | [mutewinter](https://www.raycast.com/mutewinter) | 2 | 1,938 | **Developer Tools:** [OpenRouter Model Search](https://github.com/raycast/extensions/tree/main/extensions/openrouter-model-search), [CometAPI](https://github.com/raycast/extensions/tree/main/extensions/cometapi) |

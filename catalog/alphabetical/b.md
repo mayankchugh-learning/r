@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · **B** · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-137 extensions · [← catalog index](../README.md)
+138 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -143,3 +143,4 @@
 | [Bookface](https://github.com/raycast/extensions/tree/main/extensions/bookface) | 3 | Search Bookface and chat with the YC Agent from Raycast. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/bookface) |
 | [Baalda](https://github.com/raycast/extensions/tree/main/extensions/baalda) | 2 | Manage your Baalda second brain from Raycast with note capture, search, folders, and AI tools. | owendavidprice | macOS, Windows | [store](https://www.raycast.com/owendavidprice/baalda) |
 | [Bible Q&A](https://github.com/raycast/extensions/tree/main/extensions/gamaliel) | 2 | Ask a biblical question. Gamaliel reads the relevant passages first, then answers with scripture links. | cirne | macOS, Windows | [store](https://www.raycast.com/cirne/gamaliel) |
+| [Battery Drain](https://github.com/raycast/extensions/tree/main/extensions/battery-drain) | — | Find out why your MacBook battery drained: how many watts it draws, runaway processes, what keeps it from sleeping and how to stop it, and why charging stopped. | muratfe | macOS | — |
