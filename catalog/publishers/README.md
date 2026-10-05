@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,293,734 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,293,743 |
 | 2 | [raycast](./id/raycast.md) | 11 | 904,200 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 771,413 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 567,934 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 771,424 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 567,942 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 496,197 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 492,408 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 458,707 |
@@ -131,7 +131,7 @@
 | 121 | [ilian](https://www.raycast.com/ilian) | 3 | 17,627 |
 | 122 | [tailscale](https://www.raycast.com/tailscale) | 1 | 17,213 |
 | 123 | [jarry_chung](https://www.raycast.com/jarry_chung) | 1 | 17,192 |
-| 124 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 17,176 |
+| 124 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 17,179 |
 | 125 | [limonkufu](https://www.raycast.com/limonkufu) | 1 | 17,158 |
 | 126 | [SvenTiigi](https://www.raycast.com/SvenTiigi) | 1 | 16,915 |
 | 127 | [kom](https://www.raycast.com/kom) | 1 | 16,843 |
