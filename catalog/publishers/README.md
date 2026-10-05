@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,293,936 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,293,940 |
 | 2 | [raycast](./id/raycast.md) | 11 | 904,207 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 771,630 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 568,071 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 771,636 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 568,074 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 496,197 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 492,408 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 458,707 |
@@ -272,7 +272,7 @@
 | 262 | [textnav](https://www.raycast.com/textnav) | 1 | 5,047 |
 | 263 | [lachero](https://www.raycast.com/lachero) | 4 | 4,958 |
 | 264 | [emanguy](https://www.raycast.com/emanguy) | 1 | 4,956 |
-| 265 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,903 |
+| 265 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,905 |
 | 266 | [EinLinuus](https://www.raycast.com/EinLinuus) | 1 | 4,895 |
 | 267 | [kaanrkaraman](https://www.raycast.com/kaanrkaraman) | 1 | 4,838 |
 | 268 | [Coun1er](https://www.raycast.com/Coun1er) | 1 | 4,806 |

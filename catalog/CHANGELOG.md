@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `1297f48f40`
+
+**Updated (1):** [Aktar](https://github.com/raycast/extensions/tree/main/extensions/aktar)
+
 ## 2026-10-05 — upstream `ea64cf681a`
 
 **Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)
