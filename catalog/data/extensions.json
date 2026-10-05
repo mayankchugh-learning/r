@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "469b1fb14fe6d9d0c19096cb192559b1c2ba9b37",
-  "generatedAt": "2026-10-05T09:22:36.731Z",
-  "downloadsRefreshedAt": "2026-10-05T09:22:36.241Z",
+  "commit": "ea64cf681a64227a0b9617b66887da5a93f7b02f",
+  "generatedAt": "2026-10-05T09:23:26.293Z",
+  "downloadsRefreshedAt": "2026-10-05T09:23:25.875Z",
   "count": 3374,
   "extensions": [
     {
@@ -743,7 +743,7 @@
       "dir": "agent-usage",
       "name": "agent-usage",
       "title": "Agent Usage",
-      "description": "Monitor AI coding agent usage across AIHubMix, Amp, Antigravity, Claude, ClinePass, Codex, Copilot, Cursor, DeepSeek, Droid, Gemini, Grok, Kimi, MiniMax, MinimaxCN, OpenCode Go, OpenRouter, Synthetic and z.ai",
+      "description": "Monitor AI coding agent usage across AIHubMix, Amp, Antigravity, Claude, ClinePass, Codex, Copilot, Cursor, DeepSeek, Droid, Gemini, Grok, Kimi, MiniMax, MinimaxCN, OpenCode Go, OpenRouter, Raycast, Synthetic and z.ai",
       "author": "thuggyduck",
       "owner": null,
       "contributors": 9,
@@ -757,7 +757,7 @@
       ],
       "store": "https://www.raycast.com/thuggyduck/agent-usage",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/agent-usage",
-      "treeSha": "ed0baeecccd7445f7a19ef399be3eba77e65977f",
+      "treeSha": "8fcbc6951da41b2849610c0347deb5f55bd85dd8",
       "downloads": 3844
     },
     {

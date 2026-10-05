@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `ea64cf681a`
+
+**Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)
+
 ## 2026-10-05 — upstream `469b1fb14f`
 
 **Updated (1):** [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care)
