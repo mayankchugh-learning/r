@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Explorer](https://github.com/raycast/extensions/tree/main/extensions/raycast-explorer) | 47,469 | Explore snippets, prompts, and custom themes from within Raycast. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/raycast-explorer) |
-| [Drafts](https://github.com/raycast/extensions/tree/main/extensions/drafts) | 8,170 | integrate Raycast with Drafts app | FlohGro | macOS | [store](https://www.raycast.com/FlohGro/drafts) |
-| [BetterTouchTool](https://github.com/raycast/extensions/tree/main/extensions/bettertouchtool) | 4,139 | Run BTT actions from Raycast | dnnsmnstrr | macOS | [store](https://www.raycast.com/dnnsmnstrr/bettertouchtool) |
+| [Raycast Explorer](https://github.com/raycast/extensions/tree/main/extensions/raycast-explorer) | 47,514 | Explore snippets, prompts, and custom themes from within Raycast. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/raycast-explorer) |
+| [Drafts](https://github.com/raycast/extensions/tree/main/extensions/drafts) | 8,174 | integrate Raycast with Drafts app | FlohGro | macOS | [store](https://www.raycast.com/FlohGro/drafts) |
+| [BetterTouchTool](https://github.com/raycast/extensions/tree/main/extensions/bettertouchtool) | 4,141 | Run BTT actions from Raycast | dnnsmnstrr | macOS | [store](https://www.raycast.com/dnnsmnstrr/bettertouchtool) |
 | [Proxyman](https://github.com/raycast/extensions/tree/main/extensions/proxyman) | 2,129 | Navigate and perform common actions in Proxyman faster | noah_tran | macOS | [store](https://www.raycast.com/noah_tran/proxyman) |
 | [Espanso](https://github.com/raycast/extensions/tree/main/extensions/espanso) | 1,628 | The Raycast version of Espanso Search Bar | kud | macOS | [store](https://www.raycast.com/kud/espanso) |
 | [Hetzner](https://github.com/raycast/extensions/tree/main/extensions/hetzner) | 530 | Provides different actions via the Hetzner API | alex-w0 | macOS, Windows | [store](https://www.raycast.com/alex-w0/hetzner) |
