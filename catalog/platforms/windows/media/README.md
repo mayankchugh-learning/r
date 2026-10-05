@@ -1,8 +1,8 @@
 # Windows · Media
 
-94 extensions · [← Windows](../README.md)
+95 extensions · [← Windows](../README.md)
 
-[Music & Audio](#music-audio) (17) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (18) · [Wallpapers & Art](#wallpapers-art) (6) · [Books & Papers](#books-papers) (4) · [AI Generation](#ai-generation) (2) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (32)
+[Music & Audio](#music-audio) (17) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (18) · [Wallpapers & Art](#wallpapers-art) (6) · [Books & Papers](#books-papers) (4) · [AI Generation](#ai-generation) (2) · [Conversion, Upload & Download](#conversion-upload-download) (5) · [General](#general) (32)
 
 ## Listen & Watch
 
@@ -106,6 +106,7 @@
 | [QRCP](https://github.com/raycast/extensions/tree/main/extensions/qrcp) | 481 | Transfer files over Wi-Fi from/to your computer to/from your mobile device by scanning a QR code without leaving Raycast. | yohann84l | macOS, Windows | [store](https://www.raycast.com/yohann84l/qrcp) |
 | [Radarr](https://github.com/raycast/extensions/tree/main/extensions/radarr) | 448 | Manage your Radarr movie collection with powerful search, monitoring, and download management capabilities | xjo_nd | macOS, Windows | [store](https://www.raycast.com/xjo_nd/radarr) |
 | [0x0](https://github.com/raycast/extensions/tree/main/extensions/0x0) | 245 | Upload files to https://0x0.st. | pseudobun | macOS, Windows | [store](https://www.raycast.com/pseudobun/0x0) |
+| [Aktar](https://github.com/raycast/extensions/tree/main/extensions/aktar) | 2 | Upload files to your own S3, R2, B2 or MinIO storage, search your upload history, browse your buckets, and control watched folders with the Aktar app for Mac o… | merttopuz | macOS, Windows | [store](https://www.raycast.com/merttopuz/aktar) |
 
 ### General
 

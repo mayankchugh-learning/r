@@ -2,7 +2,7 @@
 
 395 extensions · [← all categories](../README.md)
 
-macOS: 382 · Windows: 94
+macOS: 382 · Windows: 95
 
 ## Work & Knowledge Apps
 

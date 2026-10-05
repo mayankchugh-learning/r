@@ -17,7 +17,7 @@
 | --- | --- |
 | [AI & Assistants](./ai-assistants.md) | 143 |
 | [Writing & Text Tools](./writing-text-tools.md) | 74 |
-| [Documents & Files](./documents-files.md) | 140 |
+| [Documents & Files](./documents-files.md) | 139 |
 | [Email](./email.md) | 24 |
 
 ## Workflow & Speed
@@ -26,7 +26,7 @@
 | --- | --- |
 | [Automation & Workflows](./automation-workflows.md) | 29 |
 | [Clipboard & Text Expansion](./clipboard-text-expansion.md) | 75 |
-| [Window & Workspace Management](./window-workspace-management.md) | 51 |
+| [Window & Workspace Management](./window-workspace-management.md) | 52 |
 | [Search & Bookmarks](./search-bookmarks.md) | 225 |
 
 ## Learn & Collaborate

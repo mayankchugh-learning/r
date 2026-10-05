@@ -2,7 +2,7 @@
 
 12 extensions · [← Applications](./README.md)
 
-[Bar ✦](#bar) (6) · [Window ✦](#window) (4) · [General](#general) (2)
+[Bar ✦](#bar) (5) · [Windows ✦](#windows) (5) · [General](#general) (2)
 
 *✦ auto-discovered topic group*
 
@@ -15,9 +15,8 @@
 | [Pomo](https://github.com/raycast/extensions/tree/main/extensions/pomo) | 231 | Control Pomo, a minimal Pomodoro timer for your macOS menu bar | claud | macOS | [store](https://www.raycast.com/claud/pomo) |
 | [Beehiiv](https://github.com/raycast/extensions/tree/main/extensions/beehiiv) | 67 | Integrate beehiiv with Raycast, allowing you to search for posts, check statistics, show subscribers count in the menu bar, and more. | damian_zachwieja | macOS | [store](https://www.raycast.com/damian_zachwieja/beehiiv) |
 | [Google Find Hub](https://github.com/raycast/extensions/tree/main/extensions/google-find-hub) | 18 | Open Google Find Hub from Raycast or the macOS menu bar for quick access to locating, ringing, securing, or erasing Android devices. | jonah_tweed | macOS | [store](https://www.raycast.com/jonah_tweed/google-find-hub) |
-| [Aktar](https://github.com/raycast/extensions/tree/main/extensions/aktar) | 2 | Upload files to your own S3, R2, B2 or MinIO storage, search your upload history, browse your buckets, and control watched folders with the Aktar menu bar app. | merttopuz | macOS | [store](https://www.raycast.com/merttopuz/aktar) |
 
-## Window ✦
+## Windows ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -25,6 +24,7 @@
 | [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 7,191 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
 | [Auto Quit App](https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app) | 4,908 | Automatically quit the application after all windows are closed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/auto-quit-app) |
 | [Window Sizer](https://github.com/raycast/extensions/tree/main/extensions/window-sizer) | 2,147 | Resize the focused window to pixel-perfect presets. | the3ash | macOS | [store](https://www.raycast.com/the3ash/window-sizer) |
+| [Aktar](https://github.com/raycast/extensions/tree/main/extensions/aktar) | 2 | Upload files to your own S3, R2, B2 or MinIO storage, search your upload history, browse your buckets, and control watched folders with the Aktar app for Mac o… | merttopuz | macOS, Windows | [store](https://www.raycast.com/merttopuz/aktar) |
 
 ## General
 

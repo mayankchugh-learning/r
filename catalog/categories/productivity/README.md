@@ -2,7 +2,7 @@
 
 1545 extensions · [← all categories](../README.md)
 
-macOS: 1526 · Windows: 396
+macOS: 1526 · Windows: 397
 
 ## Organize & Plan
 
@@ -19,7 +19,7 @@ macOS: 1526 · Windows: 396
 | --- | --- |
 | [AI & Assistants](./ai-assistants/README.md) | 144 |
 | [Writing & Text Tools](./writing-text-tools.md) | 74 |
-| [Documents & Files](./documents-files.md) | 140 |
+| [Documents & Files](./documents-files.md) | 139 |
 | [Email](./email.md) | 24 |
 
 ## Workflow & Speed
@@ -28,7 +28,7 @@ macOS: 1526 · Windows: 396
 | --- | --- |
 | [Automation & Workflows](./automation-workflows.md) | 29 |
 | [Clipboard & Text Expansion](./clipboard-text-expansion.md) | 76 |
-| [Window & Workspace Management](./window-workspace-management.md) | 60 |
+| [Window & Workspace Management](./window-workspace-management.md) | 61 |
 | [Search & Bookmarks](./search-bookmarks/README.md) | 227 |
 
 ## Learn & Collaborate

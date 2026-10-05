@@ -1,8 +1,8 @@
 # Window & Workspace Management
 
-60 extensions · [← Productivity](./README.md)
+61 extensions · [← Productivity](./README.md)
 
-[Windows ✦](#windows) (28) · [Desktop ✦](#desktop) (10) · [Spaces ✦](#spaces) (9) · [General](#general) (13)
+[Windows ✦](#windows) (29) · [Desktop ✦](#desktop) (10) · [Spaces ✦](#spaces) (9) · [General](#general) (13)
 
 *✦ auto-discovered topic group*
 
@@ -37,6 +37,7 @@
 | [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router) | 13 | Route search queries and URLs to any installed browser and profile on Windows. | raghavg02 | Windows | [store](https://www.raycast.com/raghavg02/browser-router) |
 | [Sowiks: Screenshot & Recording](https://github.com/raycast/extensions/tree/main/extensions/sowiks) | 11 | Take screenshots and screen recordings with Sowiks — area, window, fullscreen and scrolling capture, OCR text, video and GIF recording, annotation and cloud sh… | Holiney | macOS | [store](https://www.raycast.com/Holiney/sowiks) |
 | [Heed](https://github.com/raycast/extensions/tree/main/extensions/heed) | 7 | Move keyboard focus between windows and turn focus follows mouse on and off: Hyprland's movefocus and follow_mouse for macOS. | rbstp | macOS | [store](https://www.raycast.com/rbstp/heed) |
+| [Aktar](https://github.com/raycast/extensions/tree/main/extensions/aktar) | 2 | Upload files to your own S3, R2, B2 or MinIO storage, search your upload history, browse your buckets, and control watched folders with the Aktar app for Mac o… | merttopuz | macOS, Windows | [store](https://www.raycast.com/merttopuz/aktar) |
 | [Mise Window Sets](https://github.com/raycast/extensions/tree/main/extensions/mise-window-sets) | 2 | Apply saved Mise window Sets from Raycast. | carlosaguado04 | macOS | [store](https://www.raycast.com/carlosaguado04/mise-window-sets) |
 
 ## Desktop ✦
