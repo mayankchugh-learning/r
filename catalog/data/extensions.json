@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b85091b5945f11c499437dc4e04495b8b8f85bf9",
-  "generatedAt": "2026-10-05T05:28:25.725Z",
-  "downloadsRefreshedAt": "2026-10-05T05:28:24.441Z",
+  "commit": "89775a533adf081ff504c24e05d9ffa20a730650",
+  "generatedAt": "2026-10-05T05:30:19.410Z",
+  "downloadsRefreshedAt": "2026-10-05T05:30:18.991Z",
   "count": 3369,
   "extensions": [
     {
@@ -10337,7 +10337,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 611843
+      "downloads": 611844
     },
     {
       "dir": "color-shades",
@@ -23132,7 +23132,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 567910
+      "downloads": 567911
     },
     {
       "dir": "google-chrome-profiles",
@@ -35067,7 +35067,7 @@
       ],
       "store": "https://www.raycast.com/atkinsmatt101/mercury",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mercury",
-      "treeSha": "2dad419b76f6767e4ee4b2b2c03adef494ac9ed2",
+      "treeSha": "ac7eb2c786617c4b1277ff77c9ea3cdff748ef66",
       "downloads": 289
     },
     {

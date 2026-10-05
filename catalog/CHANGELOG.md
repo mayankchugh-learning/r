@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-05 — upstream `89775a533a`
+
+**Updated (1):** [Mercury](https://github.com/raycast/extensions/tree/main/extensions/mercury)
+
 ## 2026-10-05 — upstream `b85091b594`
 
 **Updated (1):** [Fetch](https://github.com/raycast/extensions/tree/main/extensions/fetch)
