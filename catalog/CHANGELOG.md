@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-06 — upstream `0f3603cdc7`
+
+**Updated (1):** [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands)
+
 ## 2026-10-06 — upstream `6a49a6bb82`
 
 **Added (1):** [Ollama Translate](https://github.com/raycast/extensions/tree/main/extensions/ollama-translate)

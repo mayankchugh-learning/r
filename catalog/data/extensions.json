@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6a49a6bb82cfe5e1bb7a86e3c1e8c26e9fee5178",
-  "generatedAt": "2026-10-06T08:58:23.222Z",
-  "downloadsRefreshedAt": "2026-10-06T08:58:22.933Z",
+  "commit": "0f3603cdc780af1938e59ea227ef38c0ad46a9df",
+  "generatedAt": "2026-10-06T14:54:30.015Z",
+  "downloadsRefreshedAt": "2026-10-06T14:54:29.156Z",
   "count": 3379,
   "extensions": [
     {
@@ -10400,7 +10400,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 613148
+      "downloads": 613483
     },
     {
       "dir": "color-shades",
@@ -23215,7 +23215,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 568878
+      "downloads": 569094
     },
     {
       "dir": "google-chrome-profiles",
@@ -29726,7 +29726,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 772899
+      "downloads": 773295
     },
     {
       "dir": "kimai",
@@ -31872,7 +31872,7 @@
       ],
       "store": "https://www.raycast.com/kud/link-commands",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/link-commands",
-      "treeSha": "60e00cb3410b7e99d9e28f9d9703558016edfba6",
+      "treeSha": "3511ca97644fa551d9896f7c419ea2523acc5156",
       "downloads": 33
     },
     {
@@ -63721,7 +63721,7 @@
       "store": "https://www.raycast.com/Bykush/tweek",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tweek",
       "treeSha": "36d1faa77e3382765749a533fb585251aa020283",
-      "downloads": 1
+      "downloads": 0
     },
     {
       "dir": "twenty",
