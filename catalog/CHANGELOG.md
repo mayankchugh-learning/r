@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-06 — upstream `3c91951fa8`
+
+**Updated (1):** [WeChat DevTool](https://github.com/raycast/extensions/tree/main/extensions/wechat-devtool)
+
 ## 2026-10-06 — upstream `115f9e5cc8`
 
 **Updated (1):** [DNS Quick Change](https://github.com/raycast/extensions/tree/main/extensions/dns-quick-change)

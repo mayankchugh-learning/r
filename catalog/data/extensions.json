@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "115f9e5cc84d0b51163431c5afeb1f7ef8933c8d",
-  "generatedAt": "2026-10-06T07:55:21.131Z",
-  "downloadsRefreshedAt": "2026-10-06T07:55:20.548Z",
+  "commit": "3c91951fa839193424ad30f1a2a6eb84282836e5",
+  "generatedAt": "2026-10-06T07:57:21.374Z",
+  "downloadsRefreshedAt": "2026-10-06T07:57:20.750Z",
   "count": 3378,
   "extensions": [
     {
@@ -10400,7 +10400,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 613102
+      "downloads": 613103
     },
     {
       "dir": "color-shades",
@@ -23215,7 +23215,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 568842
+      "downloads": 568844
     },
     {
       "dir": "google-chrome-profiles",
@@ -29726,7 +29726,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 772832
+      "downloads": 772833
     },
     {
       "dir": "kimai",
@@ -67514,7 +67514,7 @@
       "dir": "wechat-devtool",
       "name": "wechat-devtool",
       "title": "WeChat DevTool",
-      "description": "Quickly open WeChat mini program project via official CLI.",
+      "description": "Quickly open WeChat mini program project via official CLI",
       "author": "tofrankie",
       "owner": null,
       "contributors": 0,
@@ -67528,7 +67528,7 @@
       ],
       "store": "https://www.raycast.com/tofrankie/wechat-devtool",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/wechat-devtool",
-      "treeSha": "1b49b7fbada0b53131f183254da21f749084adc3",
+      "treeSha": "2e9a880a753722b0d67bae21c3daa470f9788832",
       "downloads": 43
     },
     {
