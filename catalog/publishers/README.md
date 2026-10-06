@@ -1,6 +1,6 @@
 # Publishers
 
-2270 publishers · [← catalog index](../README.md)
+2271 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,296,186 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,296,208 |
 | 2 | [raycast](./id/raycast.md) | 11 | 905,882 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 772,868 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 568,864 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 772,899 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 568,878 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 497,033 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 493,243 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 459,512 |
@@ -2274,7 +2274,8 @@
 | 2264 | [Marcelismus](https://www.raycast.com/Marcelismus) | 1 | 0 |
 | 2265 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
 | 2266 | [sbd530](https://www.raycast.com/sbd530) | 1 | 0 |
-| 2267 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2268 | github-next | 2 | — |
-| 2269 | eugenio | 1 | — |
-| 2270 | multi | 1 | — |
+| 2267 | [scorpion7slayer](https://www.raycast.com/scorpion7slayer) | 1 | 0 |
+| 2268 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2269 | github-next | 2 | — |
+| 2270 | eugenio | 1 | — |
+| 2271 | multi | 1 | — |

@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · **O** · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-119 extensions · [← catalog index](../README.md)
+120 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -125,3 +125,4 @@
 | [Orc Pictures](https://github.com/raycast/extensions/tree/main/extensions/orc-pictures) | 6 | Search orc reaction GIFs and copy the GIF file to the clipboard for X. | orcdev | macOS, Windows | [store](https://www.raycast.com/orcdev/orc-pictures) |
 | [Osaurus](https://github.com/raycast/extensions/tree/main/extensions/osaurus) | 6 | Use local Osaurus models in Raycast AI, ask them directly, manage them, and search chat history | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/osaurus) |
 | [oMLX](https://github.com/raycast/extensions/tree/main/extensions/omlx) | 4 | Use locally running oMLX models as AI providers in Raycast | 60400 | macOS | [store](https://www.raycast.com/60400/omlx) |
+| [Ollama Translate](https://github.com/raycast/extensions/tree/main/extensions/ollama-translate) | 0 | Translate text privately with local Ollama models while preserving meaning and tone | scorpion7slayer | macOS | [store](https://www.raycast.com/scorpion7slayer/ollama-translate) |

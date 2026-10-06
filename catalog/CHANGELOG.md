@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-06 — upstream `6a49a6bb82`
+
+**Added (1):** [Ollama Translate](https://github.com/raycast/extensions/tree/main/extensions/ollama-translate)
+
 ## 2026-10-06 — upstream `75205bd3d6`
 
 **Updated (1):** [OneNote](https://github.com/raycast/extensions/tree/main/extensions/onenote)

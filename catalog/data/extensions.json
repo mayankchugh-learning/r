@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "75205bd3d69da8588da7d1935534cea411955cfa",
-  "generatedAt": "2026-10-06T08:26:29.430Z",
-  "downloadsRefreshedAt": "2026-10-06T08:26:28.977Z",
-  "count": 3378,
+  "commit": "6a49a6bb82cfe5e1bb7a86e3c1e8c26e9fee5178",
+  "generatedAt": "2026-10-06T08:58:23.222Z",
+  "downloadsRefreshedAt": "2026-10-06T08:58:22.933Z",
+  "count": 3379,
   "extensions": [
     {
       "dir": "0x0",
@@ -10400,7 +10400,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 613126
+      "downloads": 613148
     },
     {
       "dir": "color-shades",
@@ -23215,7 +23215,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 568864
+      "downloads": 568878
     },
     {
       "dir": "google-chrome-profiles",
@@ -29726,7 +29726,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 772868
+      "downloads": 772899
     },
     {
       "dir": "kimai",
@@ -40671,6 +40671,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ollama-mind-map-generator",
       "treeSha": "ee800c568e33fe147281f190842b1161e8c32d87",
       "downloads": 1092
+    },
+    {
+      "dir": "ollama-translate",
+      "name": "ollama-translate",
+      "title": "Ollama Translate",
+      "description": "Translate text privately with local Ollama models while preserving meaning and tone",
+      "author": "scorpion7slayer",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/scorpion7slayer/ollama-translate",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/ollama-translate",
+      "treeSha": "c260a86dfbb0c54e8e8b26d94c2014621b96bbeb",
+      "downloads": 0
     },
     {
       "dir": "olympic-games",

@@ -1,6 +1,6 @@
 # General
 
-12 extensions · [← AI & Assistants](./README.md)
+13 extensions · [← AI & Assistants](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -16,3 +16,4 @@
 | [SendAI](https://github.com/raycast/extensions/tree/main/extensions/send-ai) | 175 | Your shortcut to everything Solana. At your command bar. | sendai (org) | macOS | [store](https://www.raycast.com/sendai/send-ai) |
 | [Azure Speech TTS](https://github.com/raycast/extensions/tree/main/extensions/azure-tts-raycast-extension) | 169 | Convert selected text to speech using Azure Speech Services with customizable voices and languages | liualexiang | macOS, Windows | [store](https://www.raycast.com/liualexiang/azure-tts-raycast) |
 | [Arandu](https://github.com/raycast/extensions/tree/main/extensions/arandu) | 4 | Manage your day in Arandu — today's plan, agenda, habits, tasks, reminders, and your assistant. | luiz_vi | macOS | [store](https://www.raycast.com/luiz_vi/arandu) |
+| [Ollama Translate](https://github.com/raycast/extensions/tree/main/extensions/ollama-translate) | 0 | Translate text privately with local Ollama models while preserving meaning and tone | scorpion7slayer | macOS | [store](https://www.raycast.com/scorpion7slayer/ollama-translate) |
