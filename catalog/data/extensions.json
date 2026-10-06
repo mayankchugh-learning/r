@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "97ec655f25ba122746b8e81fa622ec8782c50b2e",
-  "generatedAt": "2026-10-06T06:22:40.301Z",
-  "downloadsRefreshedAt": "2026-10-06T06:22:39.843Z",
+  "commit": "aa54a07f3c7feb6608c925bf4387bc43b418827a",
+  "generatedAt": "2026-10-06T07:01:44.075Z",
+  "downloadsRefreshedAt": "2026-10-06T07:01:43.507Z",
   "count": 3377,
   "extensions": [
     {
@@ -10400,7 +10400,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 613030
+      "downloads": 613065
     },
     {
       "dir": "color-shades",
@@ -23215,7 +23215,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 568774
+      "downloads": 568800
     },
     {
       "dir": "google-chrome-profiles",
@@ -29726,7 +29726,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 772721
+      "downloads": 772762
     },
     {
       "dir": "kimai",
@@ -45372,7 +45372,7 @@
       "description": "Explore the world of Pokémon with stunning visuals and detailed information in Raycast.",
       "author": "anhthang",
       "owner": null,
-      "contributors": 3,
+      "contributors": 2,
       "categories": [
         "Data",
         "Other",
@@ -45385,7 +45385,7 @@
       ],
       "store": "https://www.raycast.com/anhthang/pokedex",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/pokedex",
-      "treeSha": "fda7a180e38470e55b0865892ccb6490acf552fe",
+      "treeSha": "7e85aa75db2d3ad4f25f4d030e6e03b1502a1062",
       "downloads": 3185
     },
     {
