@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-06 — upstream `97ec655f25`
+
+**Updated (1):** [Hacker News Top Stories](https://github.com/raycast/extensions/tree/main/extensions/hacker-news-top-stories)
+
 ## 2026-10-06 — upstream `79d096c134`
 
 **Updated (1):** [Atlassian (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/atlassian-data-center)
