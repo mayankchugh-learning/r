@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-06 — upstream `1a80c7f8eb`
+
+**Added (1):** [Tweek Task Manager](https://github.com/raycast/extensions/tree/main/extensions/tweek)
+
 ## 2026-10-06 — upstream `aa54a07f3c`
 
 **Updated (1):** [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex)

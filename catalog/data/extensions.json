@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "aa54a07f3c7feb6608c925bf4387bc43b418827a",
-  "generatedAt": "2026-10-06T07:01:44.075Z",
-  "downloadsRefreshedAt": "2026-10-06T07:01:43.507Z",
-  "count": 3377,
+  "commit": "1a80c7f8ebe4f1e96d96dcfabea9e7ffdaa43f0b",
+  "generatedAt": "2026-10-06T07:53:39.638Z",
+  "downloadsRefreshedAt": "2026-10-06T07:53:35.466Z",
+  "count": 3378,
   "extensions": [
     {
       "dir": "0x0",
@@ -10400,7 +10400,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 613065
+      "downloads": 613102
     },
     {
       "dir": "color-shades",
@@ -23215,7 +23215,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 568800
+      "downloads": 568842
     },
     {
       "dir": "google-chrome-profiles",
@@ -29726,7 +29726,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 772762
+      "downloads": 772832
     },
     {
       "dir": "kimai",
@@ -63682,6 +63682,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch",
       "treeSha": "8a2cb1fa3080b737949920089b82d8232882cacb",
       "downloads": 4663
+    },
+    {
+      "dir": "tweek",
+      "name": "tweek",
+      "title": "Tweek Task Manager",
+      "description": "Manage your Tweek calendars, tasks, someday lists, and recurring todos directly from Raycast and Raycast AI (@tweek).",
+      "author": "Bykush",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/tweek",
+      "treeSha": "36d1faa77e3382765749a533fb585251aa020283",
+      "downloads": null
     },
     {
       "dir": "twenty",

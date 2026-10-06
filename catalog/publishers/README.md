@@ -1,6 +1,6 @@
 # Publishers
 
-2269 publishers · [← catalog index](../README.md)
+2270 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,296,125 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,296,162 |
 | 2 | [raycast](./id/raycast.md) | 11 | 905,882 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 772,762 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 568,800 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 772,832 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 568,842 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 497,033 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 493,243 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 459,512 |
@@ -2275,5 +2275,6 @@
 | 2265 | [sbd530](https://www.raycast.com/sbd530) | 1 | 0 |
 | 2266 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
 | 2267 | github-next | 2 | — |
-| 2268 | eugenio | 1 | — |
-| 2269 | multi | 1 | — |
+| 2268 | Bykush | 1 | — |
+| 2269 | eugenio | 1 | — |
+| 2270 | multi | 1 | — |

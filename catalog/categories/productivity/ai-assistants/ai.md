@@ -1,8 +1,8 @@
 # AI ✦
 
-112 extensions · [← AI & Assistants](./README.md)
+113 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Models ✦](#models) (15) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (6) · [Openai ✦](#openai) (7) · [Prompts ✦](#prompts) (4) · [Tasks ✦](#tasks) (4) · [Capture ✦](#capture) (4) · [General](#general) (49)
+[Powered ✦](#powered) (16) · [Models ✦](#models) (15) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (6) · [Openai ✦](#openai) (7) · [Tasks ✦](#tasks) (5) · [Prompts ✦](#prompts) (4) · [Capture ✦](#capture) (4) · [General](#general) (49)
 
 *✦ auto-discovered topic group*
 
@@ -82,15 +82,6 @@
 | [Voice-to-Text for Windows](https://github.com/raycast/extensions/tree/main/extensions/voice-to-text-windows) | 87 | Record speech from your microphone, transcribe it with OpenAI Whisper, and clean it up with AI | rennesis | Windows | [store](https://www.raycast.com/rennesis/voice-to-text-windows) |
 | [AI Voice Studio](https://github.com/raycast/extensions/tree/main/extensions/ai-voice-studio) | 53 | Read and generate speech from Raycast with Alibaba Cloud Qwen-TTS, Xiaomi MiMo, and OpenAI voices, speed control, and focused provider defaults. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/ai-voice-studio) |
 
-## Prompts ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Prompt Stash](https://github.com/raycast/extensions/tree/main/extensions/prompt-stash) | 4,021 | Efficiently manage and organize your AI prompts. Save, tag, and favorite your most effective prompts for quick access across any LLM or chatbot. | renzo | macOS | [store](https://www.raycast.com/renzo/prompt-stash) |
-| [Prompt Builder](https://github.com/raycast/extensions/tree/main/extensions/prompt-builder) | 3,119 | Prompt Builder helps you craft clear, consistent AI prompts through a simple form. Define roles, tone, audience, and constraints to get better results faster.… | koala1206 | macOS, Windows | [store](https://www.raycast.com/koala1206/prompt-builder) |
-| [Shell Buddy](https://github.com/raycast/extensions/tree/main/extensions/shell-buddy) | 1,603 | Converts natural language prompts to shell commands with AI | jebraat | macOS | [store](https://www.raycast.com/jebraat/shell-buddy) |
-| [PromptNote](https://github.com/raycast/extensions/tree/main/extensions/promptnote) | 177 | Manage your AI prompts with versioning and cloud sync | dimpurr | macOS | [store](https://www.raycast.com/dimpurr/promptnote) |
-
 ## Tasks ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
@@ -99,6 +90,16 @@
 | [Coze](https://github.com/raycast/extensions/tree/main/extensions/coze) | 226 | Coze is an AI assistant that can help you with various tasks, including writing, translation, and coding. This extension allows you to use Coze directly in Ray… | chyroc | macOS | [store](https://www.raycast.com/chyroc/coze) |
 | [Manus](https://github.com/raycast/extensions/tree/main/extensions/manus) | 196 | Search and manage Manus AI tasks | KthKuang | macOS, Windows | [store](https://www.raycast.com/KthKuang/manus) |
 | [awork](https://github.com/raycast/extensions/tree/main/extensions/awork) | 109 | Search projects and tasks, create and edit tasks, log time, and start new awork AI threads. | hypercode (org) | macOS, Windows | [store](https://www.raycast.com/hypercode/awork) |
+| [Tweek Task Manager](https://github.com/raycast/extensions/tree/main/extensions/tweek) | — | Manage your Tweek calendars, tasks, someday lists, and recurring todos directly from Raycast and Raycast AI (@tweek). | Bykush | macOS | — |
+
+## Prompts ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Prompt Stash](https://github.com/raycast/extensions/tree/main/extensions/prompt-stash) | 4,021 | Efficiently manage and organize your AI prompts. Save, tag, and favorite your most effective prompts for quick access across any LLM or chatbot. | renzo | macOS | [store](https://www.raycast.com/renzo/prompt-stash) |
+| [Prompt Builder](https://github.com/raycast/extensions/tree/main/extensions/prompt-builder) | 3,119 | Prompt Builder helps you craft clear, consistent AI prompts through a simple form. Define roles, tone, audience, and constraints to get better results faster.… | koala1206 | macOS, Windows | [store](https://www.raycast.com/koala1206/prompt-builder) |
+| [Shell Buddy](https://github.com/raycast/extensions/tree/main/extensions/shell-buddy) | 1,603 | Converts natural language prompts to shell commands with AI | jebraat | macOS | [store](https://www.raycast.com/jebraat/shell-buddy) |
+| [PromptNote](https://github.com/raycast/extensions/tree/main/extensions/promptnote) | 177 | Manage your AI prompts with versioning and cloud sync | dimpurr | macOS | [store](https://www.raycast.com/dimpurr/promptnote) |
 
 ## Capture ✦
 
