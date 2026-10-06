@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-06 — upstream `75205bd3d6`
+
+**Updated (1):** [OneNote](https://github.com/raycast/extensions/tree/main/extensions/onenote)
+
 ## 2026-10-06 — upstream `3c91951fa8`
 
 **Updated (1):** [WeChat DevTool](https://github.com/raycast/extensions/tree/main/extensions/wechat-devtool)

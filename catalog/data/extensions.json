@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3c91951fa839193424ad30f1a2a6eb84282836e5",
-  "generatedAt": "2026-10-06T07:57:21.374Z",
-  "downloadsRefreshedAt": "2026-10-06T07:57:20.750Z",
+  "commit": "75205bd3d69da8588da7d1935534cea411955cfa",
+  "generatedAt": "2026-10-06T08:26:29.430Z",
+  "downloadsRefreshedAt": "2026-10-06T08:26:28.977Z",
   "count": 3378,
   "extensions": [
     {
@@ -10400,7 +10400,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 613103
+      "downloads": 613126
     },
     {
       "dir": "color-shades",
@@ -23215,7 +23215,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 568844
+      "downloads": 568864
     },
     {
       "dir": "google-chrome-profiles",
@@ -29726,7 +29726,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 772833
+      "downloads": 772868
     },
     {
       "dir": "kimai",
@@ -40994,7 +40994,7 @@
       "description": "Search Microsoft OneNote notes",
       "author": "alewandowski",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Productivity"
       ],
@@ -41004,7 +41004,7 @@
       ],
       "store": "https://www.raycast.com/alewandowski/onenote",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/onenote",
-      "treeSha": "c86770cf25a780feaa4fa5a116bdd37590d6ed84",
+      "treeSha": "20ba84f361ddcb20d6c7bd00e571b32d7ea3dc17",
       "downloads": 4304
     },
     {
@@ -63701,7 +63701,7 @@
       "store": "https://www.raycast.com/Bykush/tweek",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tweek",
       "treeSha": "36d1faa77e3382765749a533fb585251aa020283",
-      "downloads": 0
+      "downloads": 1
     },
     {
       "dir": "twenty",

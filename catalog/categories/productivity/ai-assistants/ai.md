@@ -90,7 +90,7 @@
 | [Coze](https://github.com/raycast/extensions/tree/main/extensions/coze) | 226 | Coze is an AI assistant that can help you with various tasks, including writing, translation, and coding. This extension allows you to use Coze directly in Ray… | chyroc | macOS | [store](https://www.raycast.com/chyroc/coze) |
 | [Manus](https://github.com/raycast/extensions/tree/main/extensions/manus) | 196 | Search and manage Manus AI tasks | KthKuang | macOS, Windows | [store](https://www.raycast.com/KthKuang/manus) |
 | [awork](https://github.com/raycast/extensions/tree/main/extensions/awork) | 109 | Search projects and tasks, create and edit tasks, log time, and start new awork AI threads. | hypercode (org) | macOS, Windows | [store](https://www.raycast.com/hypercode/awork) |
-| [Tweek Task Manager](https://github.com/raycast/extensions/tree/main/extensions/tweek) | 0 | Manage your Tweek calendars, tasks, someday lists, and recurring todos directly from Raycast and Raycast AI (@tweek). | Bykush | macOS | [store](https://www.raycast.com/Bykush/tweek) |
+| [Tweek Task Manager](https://github.com/raycast/extensions/tree/main/extensions/tweek) | 1 | Manage your Tweek calendars, tasks, someday lists, and recurring todos directly from Raycast and Raycast AI (@tweek). | Bykush | macOS | [store](https://www.raycast.com/Bykush/tweek) |
 
 ## Prompts ✦
 
