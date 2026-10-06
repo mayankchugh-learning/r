@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 151,086 | Prevent the sleep function on your computer | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/coffee) |
-| [Amphetamine](https://github.com/raycast/extensions/tree/main/extensions/amphetamine) | 33,070 | Control Amphetamine sleep sessions from Raycast | gstvds | macOS | [store](https://www.raycast.com/gstvds/amphetamine) |
-| [Sleep Timer](https://github.com/raycast/extensions/tree/main/extensions/sleep-timer) | 2,886 | Sending your macbook into sleeping mode after the timer runs out, directly in Raycast, with no external dependencies. | dtmzr | macOS | [store](https://www.raycast.com/dtmzr/sleep-timer) |
+| [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 151,330 | Prevent the sleep function on your computer | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/coffee) |
+| [Amphetamine](https://github.com/raycast/extensions/tree/main/extensions/amphetamine) | 33,108 | Control Amphetamine sleep sessions from Raycast | gstvds | macOS | [store](https://www.raycast.com/gstvds/amphetamine) |
+| [Sleep Timer](https://github.com/raycast/extensions/tree/main/extensions/sleep-timer) | 2,890 | Sending your macbook into sleeping mode after the timer runs out, directly in Raycast, with no external dependencies. | dtmzr | macOS | [store](https://www.raycast.com/dtmzr/sleep-timer) |
 | [Power Management](https://github.com/raycast/extensions/tree/main/extensions/power-management) | 2,709 | Change Power Management Settings of the system | sasivarnan | macOS | [store](https://www.raycast.com/sasivarnan/power-management) |
-| [Doorstopper](https://github.com/raycast/extensions/tree/main/extensions/doorstopper) | 1,659 | Prevent your MacBook from going to sleep when you close the lid | roele | macOS | [store](https://www.raycast.com/roele/doorstopper) |
-| [Uptime](https://github.com/raycast/extensions/tree/main/extensions/uptime) | 1,491 | Show how long ago your mac was turned on | iaroslav_naiden | macOS | [store](https://www.raycast.com/iaroslav_naiden/uptime) |
+| [Doorstopper](https://github.com/raycast/extensions/tree/main/extensions/doorstopper) | 1,666 | Prevent your MacBook from going to sleep when you close the lid | roele | macOS | [store](https://www.raycast.com/roele/doorstopper) |
+| [Uptime](https://github.com/raycast/extensions/tree/main/extensions/uptime) | 1,493 | Show how long ago your mac was turned on | iaroslav_naiden | macOS | [store](https://www.raycast.com/iaroslav_naiden/uptime) |
 | [Uptime Kuma](https://github.com/raycast/extensions/tree/main/extensions/uptime-kuma) | 765 | View all your Uptime Kuma monitors and their status | MarlburroW | macOS | [store](https://www.raycast.com/MarlburroW/uptime-kuma) |
 | [MonitorMate](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) | 339 | MonitorMate is a simple monitoring tool that helps you keep track of your resources uptime and downtime. It allows you to add resources to monitor and check th… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/monitor-mate) |
 | [Shutdown Timer](https://github.com/raycast/extensions/tree/main/extensions/shutdown-timer) | 324 | Schedule shutdowns and restarts on a timer | whosmadeer | macOS | [store](https://www.raycast.com/whosmadeer/shutdown-timer) |

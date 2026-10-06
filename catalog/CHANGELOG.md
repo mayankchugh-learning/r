@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-06 — upstream `e211fcd83b`
+
+**Updated (1):** [Chinese Converter](https://github.com/raycast/extensions/tree/main/extensions/chinese-converter)
+
 ## 2026-10-06 — upstream `ae35192e07`
 
 **Updated (1):** [Bartender](https://github.com/raycast/extensions/tree/main/extensions/bartender)
