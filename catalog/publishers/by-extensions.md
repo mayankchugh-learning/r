@@ -407,8 +407,8 @@
 | 397 | [TwoMental](https://www.raycast.com/twomental) | 2 | 17 |
 | 398 | [frdmn](https://www.raycast.com/frdmn) | 2 | 1 |
 | 399 | github-next | 2 | — |
-| 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 773,669 |
-| 401 | [Codely](https://www.raycast.com/Codely) | 1 | 569,350 |
+| 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 773,670 |
+| 401 | [Codely](https://www.raycast.com/Codely) | 1 | 569,352 |
 | 402 | [linear](https://www.raycast.com/linear) | 1 | 401,516 |
 | 403 | [mommertf](https://www.raycast.com/mommertf) | 1 | 334,397 |
 | 404 | [nhojb](https://www.raycast.com/nhojb) | 1 | 293,410 |
