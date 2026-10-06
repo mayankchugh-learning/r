@@ -10,24 +10,24 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [shadcn/ui](https://github.com/raycast/extensions/tree/main/extensions/shadcn-ui) | 4,756 | Browse shadcn/ui documentation, components and examples | luisFilipePT | macOS, Windows | [store](https://www.raycast.com/luisFilipePT/shadcn-ui) |
-| [Next.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/nextjs-docs) | 3,067 | Efficiently search Next.js documentation | PrasadChinwal | Windows, macOS | [store](https://www.raycast.com/PrasadChinwal/nextjs-docs) |
+| [shadcn/ui](https://github.com/raycast/extensions/tree/main/extensions/shadcn-ui) | 4,757 | Browse shadcn/ui documentation, components and examples | luisFilipePT | macOS, Windows | [store](https://www.raycast.com/luisFilipePT/shadcn-ui) |
+| [Next.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/nextjs-docs) | 3,069 | Efficiently search Next.js documentation | PrasadChinwal | Windows, macOS | [store](https://www.raycast.com/PrasadChinwal/nextjs-docs) |
 | [Searching Vue.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/vuejs-documentation) | 2,231 | Search VueJS documentation (v3) | DavidPascaud | macOS | [store](https://www.raycast.com/DavidPascaud/vuejs-documentation) |
-| [Laravel Livewire](https://github.com/raycast/extensions/tree/main/extensions/laravel-livewire) | 1,467 | Quickly search through Laravel Livewire documentation and open it in the browser | tafhyseni | macOS | [store](https://www.raycast.com/tafhyseni/laravel-livewire) |
+| [Laravel Livewire](https://github.com/raycast/extensions/tree/main/extensions/laravel-livewire) | 1,469 | Quickly search through Laravel Livewire documentation and open it in the browser | tafhyseni | macOS | [store](https://www.raycast.com/tafhyseni/laravel-livewire) |
 | [Flutter Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/flutter-documentation-search) | 1,111 | Search in Flutter documentation | MattisBrizard | macOS | [store](https://www.raycast.com/MattisBrizard/flutter-documentation-search) |
 | [Chakra UI Documentation](https://github.com/raycast/extensions/tree/main/extensions/chakra-ui-docs) | 718 | Provide quick links to the Chakra UI component documentation. | pgvr | macOS | [store](https://www.raycast.com/pgvr/chakra-ui-docs) |
 | [Supernova](https://github.com/raycast/extensions/tree/main/extensions/supernova) | 658 | Access your design system and everything that comes with it - Tokens, Assets, Components, even your entire documentation site. Use what you find directly in yo… | JiriTrecak | macOS | [store](https://www.raycast.com/JiriTrecak/supernova) |
 | [Shadcn/Svelte](https://github.com/raycast/extensions/tree/main/extensions/shadcn-svelte) | 251 | Browses shadcn/svelte documentation, components, and commands. | selemondev | macOS | [store](https://www.raycast.com/selemondev/shadcn-svelte) |
 | [Shadcn/Vue](https://github.com/raycast/extensions/tree/main/extensions/shadcn-vue) | 211 | Browses shadcn/vue documentation, components, and commands. | selemondev | macOS | [store](https://www.raycast.com/selemondev/shadcn-vue) |
 | [Base UI Components](https://github.com/raycast/extensions/tree/main/extensions/base-ui-docs) | 68 | Browse Base UI component documentation | lucasmotta | macOS | [store](https://www.raycast.com/lucasmotta/base-ui-docs) |
-| [Vuetify Docs](https://github.com/raycast/extensions/tree/main/extensions/vuetify-docs) | 59 | Search all Vuetify components and open the official documentation directly from Raycast. | jeffnawroth | macOS | [store](https://www.raycast.com/jeffnawroth/vuetify-docs) |
+| [Vuetify Docs](https://github.com/raycast/extensions/tree/main/extensions/vuetify-docs) | 60 | Search all Vuetify components and open the official documentation directly from Raycast. | jeffnawroth | macOS | [store](https://www.raycast.com/jeffnawroth/vuetify-docs) |
 | [Django Docs](https://github.com/raycast/extensions/tree/main/extensions/django-docs) | 49 | Navigate and search through Django documentation | JensAstrup | macOS, Windows | [store](https://www.raycast.com/JensAstrup/django-docs) |
 
 ## Docs ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Laravel Docs](https://github.com/raycast/extensions/tree/main/extensions/laravel-docs) | 6,374 | This extension allows you to search through the Laravel docs directly from Raycast. | indykoning | macOS, Windows | [store](https://www.raycast.com/indykoning/laravel-docs) |
+| [Laravel Docs](https://github.com/raycast/extensions/tree/main/extensions/laravel-docs) | 6,380 | This extension allows you to search through the Laravel docs directly from Raycast. | indykoning | macOS, Windows | [store](https://www.raycast.com/indykoning/laravel-docs) |
 | [GitLab Docs](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs) | 773 | Raycast extension to search GitLab Docs, Handbook & Pajamas Design System. | saschaeggi | macOS | [store](https://www.raycast.com/saschaeggi/gitlab-docs) |
 | [Search Svelte Docs](https://github.com/raycast/extensions/tree/main/extensions/svelte-docs) | 680 | Search the svelte docs directly in Raycast | paolo_ricciuti | macOS, Windows | [store](https://www.raycast.com/paolo_ricciuti/svelte-docs) |
 | [Laravel Nova](https://github.com/raycast/extensions/tree/main/extensions/laravel-nova) | 388 | Laravel Nova Docs | plank-dev | macOS | [store](https://www.raycast.com/plank-dev/laravel-nova) |
@@ -37,12 +37,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 80,392 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
+| [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 80,439 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
 | [Laravel Artisan](https://github.com/raycast/extensions/tree/main/extensions/laravel-artisan) | 1,131 | View and search Laravel Artisan commands. | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/laravel-artisan) |
-| [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 1,083 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
+| [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 1,084 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
 | [React Native Directory](https://github.com/raycast/extensions/tree/main/extensions/react-native-directory) | 362 | A searchable and filterable directory of React Native libraries. | shubh_porwal | macOS | [store](https://www.raycast.com/shubh_porwal/react-native-directory) |
 | [Primer](https://github.com/raycast/extensions/tree/main/extensions/primer) | 212 | Search and navigate GitHub's Primer Design System | cole | macOS | [store](https://www.raycast.com/cole/primer) |
 | [Braid Design System](https://github.com/raycast/extensions/tree/main/extensions/braid) | 210 | Search and use Braid Components and Iconography from Raycast | felixhabib | macOS | [store](https://www.raycast.com/felixhabib/braid) |
-| [daisyUI Colors & Components](https://github.com/raycast/extensions/tree/main/extensions/daisyui) | 196 | Access the daisyUI reference material from Raycast. All references are from the v5 beta! | joeynotjoe_2 | macOS | [store](https://www.raycast.com/joeynotjoe_2/daisyui) |
-| [Open Props](https://github.com/raycast/extensions/tree/main/extensions/open-props) | 20 | Search and copy CSS custom properties from the Open Props design system. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/open-props) |
+| [daisyUI Colors & Components](https://github.com/raycast/extensions/tree/main/extensions/daisyui) | 197 | Access the daisyUI reference material from Raycast. All references are from the v5 beta! | joeynotjoe_2 | macOS | [store](https://www.raycast.com/joeynotjoe_2/daisyui) |
+| [Open Props](https://github.com/raycast/extensions/tree/main/extensions/open-props) | 21 | Search and copy CSS custom properties from the Open Props design system. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/open-props) |
 | [UI Component Search](https://github.com/raycast/extensions/tree/main/extensions/ui-component-search) | 19 | Search and browse components across shadcn/ui, PrimeNG, Angular Material, spartan/ui, Taiga UI, Mantine, React Spectrum, and Chakra UI | tomer_meirov | Windows, macOS | [store](https://www.raycast.com/tomer_meirov/ui-component-search) |

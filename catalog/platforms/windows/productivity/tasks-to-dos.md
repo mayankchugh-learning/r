@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 96,523 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
-| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 19,179 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
-| [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 10,522 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
+| [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 96,582 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
+| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 19,186 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
+| [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 10,531 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
 | [Lunatask](https://github.com/raycast/extensions/tree/main/extensions/lunatask) | 812 | Unofficial extension for Lunatask. Create tasks from Raycast. | posthardcode | macOS, Windows | [store](https://www.raycast.com/posthardcode/lunatask) |
 | [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) | 132 | Manage your Manus tasks | wong2 | macOS, Windows | [store](https://www.raycast.com/wong2/manus-manager) |
 | [Super Productivity](https://github.com/raycast/extensions/tree/main/extensions/super-productivity) | 124 | Manage Super Productivity tasks, projects, tags, and time tracking from Raycast. | pvnkmnk | macOS, Windows | [store](https://www.raycast.com/pvnkmnk/super-productivity) |
@@ -18,7 +18,7 @@
 | [SingularityApp](https://github.com/raycast/extensions/tree/main/extensions/singularityapp) | 40 | Check your SingularityApp tasks and add new ones quickly | alikhil | macOS, Windows | [store](https://www.raycast.com/alikhil/singularityapp) |
 | [Habitica ToDos](https://github.com/raycast/extensions/tree/main/extensions/habitica-todos) | 33 | Unofficial extension to view and create ToDo's for Habitica | Sacrachan | Windows, macOS | [store](https://www.raycast.com/Sacrachan/habitica-todos) |
 | [Dida365](https://github.com/raycast/extensions/tree/main/extensions/dida365) | 22 | Control Dida365 tasks from Raycast on Windows. | ctacta621 | macOS, Windows | [store](https://www.raycast.com/ctacta621/dida365) |
-| [Habitify](https://github.com/raycast/extensions/tree/main/extensions/habitify-raycast) | 21 | Manage Habitify habits from Raycast. | razz13 | macOS, Windows | [store](https://www.raycast.com/razz13/habitify-raycast) |
+| [Habitify](https://github.com/raycast/extensions/tree/main/extensions/habitify-raycast) | 22 | Manage Habitify habits from Raycast. | razz13 | macOS, Windows | [store](https://www.raycast.com/razz13/habitify-raycast) |
 | [Teamwork](https://github.com/raycast/extensions/tree/main/extensions/teamwork) | 13 | Search Teamwork tasks and control your Teamwork timer from Raycast | defaced | macOS, Windows | [store](https://www.raycast.com/defaced/teamwork) |
 | [Arca](https://github.com/raycast/extensions/tree/main/extensions/arca) | 11 | Task management where simplicity meets capability | ghadeer | macOS, Windows | [store](https://www.raycast.com/ghadeer/arca) |
 | [Fibery Quick Capture](https://github.com/raycast/extensions/tree/main/extensions/fibery-quick-capture) | 6 | Quickly capture tasks in any Fibery database | janjezek | macOS, Windows | [store](https://www.raycast.com/janjezek/fibery-quick-capture) |

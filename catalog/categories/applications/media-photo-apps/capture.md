@@ -10,11 +10,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 120,214 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
-| [Shottr](https://github.com/raycast/extensions/tree/main/extensions/shottr) | 13,915 | Capture and record your screen using shottr! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/shottr) |
+| [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 120,310 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
+| [Shottr](https://github.com/raycast/extensions/tree/main/extensions/shottr) | 13,935 | Capture and record your screen using shottr! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/shottr) |
 | [Snapzy](https://github.com/raycast/extensions/tree/main/extensions/snapzy) | 214 | Capture screenshots, record your screen, and manage captures with Snapzy. | chkzz | macOS | [store](https://www.raycast.com/chkzz/snapzy) |
 | [Better Screenshoot](https://github.com/raycast/extensions/tree/main/extensions/better-screenshoot) | 40 | Capture your screen with a built-in editor from Raycast. | sriverogalan | macOS | [store](https://www.raycast.com/sriverogalan/better-screenshoot) |
-| [Windows Screenshot](https://github.com/raycast/extensions/tree/main/extensions/windows-screenshot) | 15 | Capture full screen, selected region, or active window on Windows. | afaan_mushtaq | Windows | [store](https://www.raycast.com/afaan_mushtaq/windows-screenshot) |
+| [Windows Screenshot](https://github.com/raycast/extensions/tree/main/extensions/windows-screenshot) | 16 | Capture full screen, selected region, or active window on Windows. | afaan_mushtaq | Windows | [store](https://www.raycast.com/afaan_mushtaq/windows-screenshot) |
 | [BOOX Companion](https://github.com/raycast/extensions/tree/main/extensions/boox-companion) | 7 | Browse, transfer files, and capture the screen of BOOX devices over your local network | metrovoc | macOS | [store](https://www.raycast.com/metrovoc/boox-companion) |
 
 ## Screenshots ✦

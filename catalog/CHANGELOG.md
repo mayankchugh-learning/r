@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-06 — upstream `76a8b42f65`
+
+**Updated (1):** [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode)
+
 ## 2026-10-05 — upstream `2eb47102ed`
 
 **Updated (1):** [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia)

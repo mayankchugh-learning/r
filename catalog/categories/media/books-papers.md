@@ -10,9 +10,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 5,073 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
-| [Sublime](https://github.com/raycast/extensions/tree/main/extensions/sublime) | 1,196 | Search, discover, and add cards to your library. | sublime (org) | macOS | [store](https://www.raycast.com/sublime/sublime) |
-| [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 996 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/sonarr) |
+| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 5,078 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
+| [Sublime](https://github.com/raycast/extensions/tree/main/extensions/sublime) | 1,198 | Search, discover, and add cards to your library. | sublime (org) | macOS | [store](https://www.raycast.com/sublime/sublime) |
+| [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 998 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/sonarr) |
 | [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 379 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
 | [CC0-LIB - Browse CC0 Content](https://github.com/raycast/extensions/tree/main/extensions/cc0-lib) | 33 | Browse library of CC0 content | 0xN1 | macOS | [store](https://www.raycast.com/0xN1/cc0-lib) |
 | [Swinsian Player](https://github.com/raycast/extensions/tree/main/extensions/swinsian-player) | 11 | Control Swinsian from Raycast. Play, pause, skip tracks, set ratings, search your library, and see what's playing in your menu bar. | deathrashed | macOS | [store](https://www.raycast.com/deathrashed/swinsian-player) |
@@ -31,7 +31,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 4,236 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
+| [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 4,238 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
 | [Goodreads](https://github.com/raycast/extensions/tree/main/extensions/goodreads) | 2,171 | Search Goodreads books, authors and more | puneeth | macOS, Windows | [store](https://www.raycast.com/puneeth/goodreads) |
 | [ArXiv Search](https://github.com/raycast/extensions/tree/main/extensions/arxiv) | 1,867 | Search arXiv papers, access multiple formats (PDF, TeX, HTML), and export citations in various academic styles. | koayon | macOS | [store](https://www.raycast.com/koayon/arxiv) |
 | [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,492 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
