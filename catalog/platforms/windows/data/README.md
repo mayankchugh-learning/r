@@ -1,8 +1,8 @@
 # Windows · Data
 
-97 extensions · [← Windows](../README.md)
+98 extensions · [← Windows](../README.md)
 
-[Converters & Encoders](#converters-encoders) (8) · [Generators](#generators) (5) · [Calculators & Math](#calculators-math) (1) · [Time & Dates](#time-dates) (5) · [Crypto & Blockchain Data](#crypto-blockchain-data) (2) · [Web & Network Intelligence](#web-network-intelligence) (9) · [Games & Esports Data](#games-esports-data) (6) · [Health, Nature & Science](#health-nature-science) (2) · [Business & Databases](#business-databases) (2) · [Trackers & Monitors](#trackers-monitors) (5) · [Text Processing](#text-processing) (4) · [Weather & Environment](#weather-environment) (1) · [Files & Archives](#files-archives) (7) · [APIs & Scraping](#apis-scraping) (2) · [Lookups & References](#lookups-references) (12) · [General](#general) (26)
+[Converters & Encoders](#converters-encoders) (8) · [Generators](#generators) (5) · [Calculators & Math](#calculators-math) (1) · [Time & Dates](#time-dates) (5) · [Crypto & Blockchain Data](#crypto-blockchain-data) (2) · [Web & Network Intelligence](#web-network-intelligence) (10) · [Games & Esports Data](#games-esports-data) (6) · [Health, Nature & Science](#health-nature-science) (2) · [Business & Databases](#business-databases) (2) · [Trackers & Monitors](#trackers-monitors) (5) · [Text Processing](#text-processing) (4) · [Weather & Environment](#weather-environment) (1) · [Files & Archives](#files-archives) (7) · [APIs & Scraping](#apis-scraping) (2) · [Lookups & References](#lookups-references) (12) · [General](#general) (26)
 
 ## Transform & Generate
 
@@ -143,6 +143,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 21,376 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
 | [Instant Domain Search](https://github.com/raycast/extensions/tree/main/extensions/instant-domain-search) | 992 | Find domains, check availability, search popular extensions, and buy premium domains. | instantdomainsearch | macOS, Windows | [store](https://www.raycast.com/instantdomainsearch/instant-domain-search) |
+| [HideMail - Email Relay Service](https://github.com/raycast/extensions/tree/main/extensions/hide-mail) | 881 | Hide Your Real Email Address and Protect Your Identity and Privacy. Create a different identity for each website to hide your real e-mail address. Never receiv… | Flatroy | macOS, Windows | [store](https://www.raycast.com/Flatroy/hide-mail) |
 | [ipapi.is](https://github.com/raycast/extensions/tree/main/extensions/ipapi-is) | 558 | Lookup IP or ASN via ipapi.is | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/ipapi-is) |
 | [Digger](https://github.com/raycast/extensions/tree/main/extensions/digger) | 284 | Like dig but for the web. Comprehensive website intelligence and metadata extraction. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/digger) |
 | [HTTP Observatory](https://github.com/raycast/extensions/tree/main/extensions/http-observatory) | 111 | Run a HTTP Observatory scan on your domain, provided by MDN | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/http-observatory) |

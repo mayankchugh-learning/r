@@ -2,12 +2,13 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · **Email** · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-8 of 378 extensions · [← Cross-platform · Productivity](./README.md)
+9 of 379 extensions · [← Cross-platform · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Hide My Email](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail) | 4,582 | Quick and easy way to view and manage your Hide My Email addresses. | svenhofman | macOS, Windows | [store](https://www.raycast.com/svenhofman/hidemyemail) |
 | [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) | 1,082 | View your latest email verficiation codes. | chroxify | macOS, Windows | [store](https://www.raycast.com/chroxify/otp-inbox) |
+| [HideMail - Email Relay Service](https://github.com/raycast/extensions/tree/main/extensions/hide-mail) | 881 | Hide Your Real Email Address and Protect Your Identity and Privacy. Create a different identity for each website to hide your real e-mail address. Never receiv… | Flatroy | macOS, Windows | [store](https://www.raycast.com/Flatroy/hide-mail) |
 | [Workflowy Inbox](https://github.com/raycast/extensions/tree/main/extensions/workflowy-inbox) | 730 | Quickly add items to your Workflowy inbox. (This is an independent extension and is not created by Workflowy.) | cameron_pak | macOS, Windows | [store](https://www.raycast.com/cameron_pak/workflowy-inbox) |
 | [Addy](https://github.com/raycast/extensions/tree/main/extensions/anonaddy) | 652 | Easily generate and manage your Addy email aliases directly from your keyboard. | http.james | macOS, Windows | [store](https://www.raycast.com/http.james/anonaddy) |
 | [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) | 194 | Create and manage email aliases with SimpleLogin to protect your inbox from spam and trackers | ciko | macOS, Windows | [store](https://www.raycast.com/ciko/simple-login) |

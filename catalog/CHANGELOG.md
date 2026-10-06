@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-06 — upstream `be35145b22`
+
+**Updated (1):** [HideMail - Email Relay Service](https://github.com/raycast/extensions/tree/main/extensions/hide-mail)
+
 ## 2026-10-06 — upstream `e211fcd83b`
 
 **Updated (1):** [Chinese Converter](https://github.com/raycast/extensions/tree/main/extensions/chinese-converter)

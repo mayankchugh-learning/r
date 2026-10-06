@@ -1,8 +1,8 @@
 # Cross-platform · Applications
 
-82 extensions · [← Cross-platform](../README.md)
+83 extensions · [← Cross-platform](../README.md)
 
-[AI & Chat Apps](#ai-chat-apps) (6) · [Notes, PKM & Study Apps](#notes-pkm-study-apps) (7) · [Productivity & Task Apps](#productivity-task-apps) (5) · [Music & Audio Apps](#music-audio-apps) (2) · [Media & Photo Apps](#media-photo-apps) (9) · [Automation & Input Apps](#automation-input-apps) (2) · [Network & Connection Apps](#network-connection-apps) (2) · [Analytics & Stats Apps](#analytics-stats-apps) (3) · [Developer Apps](#developer-apps) (1) · [Window Managers & Utilities](#window-managers-utilities) (1) · [Apple & Built-in Apps](#apple-built-in-apps) (2) · [Files, Sync & Upload](#files-sync-upload) (3) · [Faith & Lifestyle Apps](#faith-lifestyle-apps) (1) · [Launchers & App Control](#launchers-app-control) (5) · [General](#general) (33)
+[AI & Chat Apps](#ai-chat-apps) (6) · [Notes, PKM & Study Apps](#notes-pkm-study-apps) (7) · [Productivity & Task Apps](#productivity-task-apps) (5) · [Music & Audio Apps](#music-audio-apps) (2) · [Media & Photo Apps](#media-photo-apps) (9) · [Automation & Input Apps](#automation-input-apps) (2) · [Network & Connection Apps](#network-connection-apps) (2) · [Analytics & Stats Apps](#analytics-stats-apps) (3) · [Developer Apps](#developer-apps) (1) · [Window Managers & Utilities](#window-managers-utilities) (1) · [Apple & Built-in Apps](#apple-built-in-apps) (2) · [Files, Sync & Upload](#files-sync-upload) (3) · [Faith & Lifestyle Apps](#faith-lifestyle-apps) (1) · [Launchers & App Control](#launchers-app-control) (5) · [General](#general) (34)
 
 ## Work & Knowledge Apps
 
@@ -149,6 +149,7 @@
 | [Fotmob](https://github.com/raycast/extensions/tree/main/extensions/fotmob) | 1,772 | Football match schedule, result, table | iamlas | macOS, Windows | [store](https://www.raycast.com/iamlas/fotmob) |
 | [Supernotes](https://github.com/raycast/extensions/tree/main/extensions/supernotes) | 1,762 | Interact with the Supernotes platform in Raycast. | supernotes (org) | macOS, Windows | [store](https://www.raycast.com/supernotes/supernotes) |
 | [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,309 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
+| [HideMail - Email Relay Service](https://github.com/raycast/extensions/tree/main/extensions/hide-mail) | 881 | Hide Your Real Email Address and Protect Your Identity and Privacy. Create a different identity for each website to hide your real e-mail address. Never receiv… | Flatroy | macOS, Windows | [store](https://www.raycast.com/Flatroy/hide-mail) |
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 727 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
 | [IP Info](https://github.com/raycast/extensions/tree/main/extensions/ipinfo) | 712 | An extension to use ipinfo.io's API to get information about IP addresses | narghev | macOS, Windows | [store](https://www.raycast.com/narghev/ipinfo) |
 | [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd) | 681 | HackMD Raycast extension | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/hackmd) |

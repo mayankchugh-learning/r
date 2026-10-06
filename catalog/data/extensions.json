@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e211fcd83b325d22878618bad070c079ffd1f840",
-  "generatedAt": "2026-10-06T19:05:46.444Z",
-  "downloadsRefreshedAt": "2026-10-06T19:05:45.908Z",
+  "commit": "be35145b226b121bd7b2a4bb51cf0a990d57a821",
+  "generatedAt": "2026-10-06T23:28:45.428Z",
+  "downloadsRefreshedAt": "2026-10-06T23:28:44.786Z",
   "count": 3379,
   "extensions": [
     {
@@ -10400,7 +10400,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 613674
+      "downloads": 613820
     },
     {
       "dir": "color-shades",
@@ -23215,7 +23215,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 569242
+      "downloads": 569344
     },
     {
       "dir": "google-chrome-profiles",
@@ -25324,11 +25324,12 @@
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/Flatroy/hide-mail",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/hide-mail",
-      "treeSha": "8ba34d5e7009c31c84464f4f1fdf1654ef2ca66d",
+      "treeSha": "09363de6df144f1d8249e0e4e2ee63b76a3caf76",
       "downloads": 881
     },
     {
@@ -29726,7 +29727,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 773504
+      "downloads": 773664
     },
     {
       "dir": "kimai",

@@ -1,8 +1,8 @@
 # Cross-platform · Communication
 
-57 extensions · [← Cross-platform](../README.md)
+58 extensions · [← Cross-platform](../README.md)
 
-[Messaging & Chat](#messaging-chat) (13) · [Video Calls & Meetings](#video-calls-meetings) (2) · [Email](#email) (15) · [Social & Fediverse](#social-fediverse) (3) · [Customer Support & CRM](#customer-support-crm) (1) · [Contacts & People](#contacts-people) (3) · [Language & Dictionaries](#language-dictionaries) (1) · [Links & Sharing](#links-sharing) (3) · [General](#general) (16)
+[Messaging & Chat](#messaging-chat) (13) · [Video Calls & Meetings](#video-calls-meetings) (2) · [Email](#email) (16) · [Social & Fediverse](#social-fediverse) (3) · [Customer Support & CRM](#customer-support-crm) (1) · [Contacts & People](#contacts-people) (3) · [Language & Dictionaries](#language-dictionaries) (1) · [Links & Sharing](#links-sharing) (3) · [General](#general) (16)
 
 ## Conversations
 
@@ -40,6 +40,7 @@
 | [TempMail](https://github.com/raycast/extensions/tree/main/extensions/tempmail) | 3,024 | Temporary email mailbox using the mail.gw API | Joshlucpoll | macOS, Windows | [store](https://www.raycast.com/Joshlucpoll/tempmail) |
 | [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | 1,299 | Manage email, contacts, domains, and developer resources with Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |
 | [Proton Mail](https://github.com/raycast/extensions/tree/main/extensions/proton-mail) | 958 | View and manage your Proton Mail inbox via Proton Mail Bridge | NormC | macOS, Windows | [store](https://www.raycast.com/NormC/proton-mail) |
+| [HideMail - Email Relay Service](https://github.com/raycast/extensions/tree/main/extensions/hide-mail) | 881 | Hide Your Real Email Address and Protect Your Identity and Privacy. Create a different identity for each website to hide your real e-mail address. Never receiv… | Flatroy | macOS, Windows | [store](https://www.raycast.com/Flatroy/hide-mail) |
 | [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 323 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
 | [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) | 194 | Create and manage email aliases with SimpleLogin to protect your inbox from spam and trackers | ciko | macOS, Windows | [store](https://www.raycast.com/ciko/simple-login) |
 | [Spark Mail](https://github.com/raycast/extensions/tree/main/extensions/spark-mail) | 112 | Search, browse, read, and compose Spark email from Raycast via the Spark CLI. | keito4 | macOS, Windows | [store](https://www.raycast.com/keito4/spark-mail) |

@@ -1,8 +1,8 @@
 # Windows · Web
 
-149 extensions · [← Windows](../README.md)
+150 extensions · [← Windows](../README.md)
 
-[AI Services](#ai-services) (18) · [Social & Communities](#social-communities) (8) · [Search Engines](#search-engines) (50) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (22) · [Browsers & Tabs](#browsers-tabs) (2) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (5) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (33)
+[AI Services](#ai-services) (18) · [Social & Communities](#social-communities) (8) · [Search Engines](#search-engines) (50) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (22) · [Browsers & Tabs](#browsers-tabs) (2) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (5) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (5) · [General](#general) (33)
 
 ## Browse & Search
 
@@ -134,6 +134,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [HideMail - Email Relay Service](https://github.com/raycast/extensions/tree/main/extensions/hide-mail) | 881 | Hide Your Real Email Address and Protect Your Identity and Privacy. Create a different identity for each website to hide your real e-mail address. Never receiv… | Flatroy | macOS, Windows | [store](https://www.raycast.com/Flatroy/hide-mail) |
 | [BambooHR](https://github.com/raycast/extensions/tree/main/extensions/bamboohr) | 256 | Get employee information from Bamboo HR. See who is out today, look up employee details, and manage your PTO from Raycast. | Rob | Windows, macOS | [store](https://www.raycast.com/Rob/bamboohr) |
 | [Downdetector](https://github.com/raycast/extensions/tree/main/extensions/downdetector) | 85 | Instantly check if any service is down, see 24h report charts, and report problems — powered by Downdetector. | camille_maurel | macOS, Windows | [store](https://www.raycast.com/camille_maurel/downdetector) |
 | [AzTU LMS](https://github.com/raycast/extensions/tree/main/extensions/aztu-lms) | 12 | Quickly access and manage your AzTU LMS account. | yusifaliyevpro | macOS, Windows | [store](https://www.raycast.com/yusifaliyevpro/aztu-lms) |
