@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1a80c7f8ebe4f1e96d96dcfabea9e7ffdaa43f0b",
-  "generatedAt": "2026-10-06T07:53:39.638Z",
-  "downloadsRefreshedAt": "2026-10-06T07:53:35.466Z",
+  "commit": "115f9e5cc84d0b51163431c5afeb1f7ef8933c8d",
+  "generatedAt": "2026-10-06T07:55:21.131Z",
+  "downloadsRefreshedAt": "2026-10-06T07:55:20.548Z",
   "count": 3378,
   "extensions": [
     {
@@ -15215,7 +15215,7 @@
       ],
       "store": "https://www.raycast.com/natew/dns-quick-change",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dns-quick-change",
-      "treeSha": "1bce324c0bf8e508662652b678f4889fd441b035",
+      "treeSha": "2268cce0e82d53e5be89016ba029505a466ac56f",
       "downloads": 34
     },
     {
@@ -63698,10 +63698,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/Bykush/tweek",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tweek",
       "treeSha": "36d1faa77e3382765749a533fb585251aa020283",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "twenty",

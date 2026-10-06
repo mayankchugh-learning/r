@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-06 — upstream `115f9e5cc8`
+
+**Updated (1):** [DNS Quick Change](https://github.com/raycast/extensions/tree/main/extensions/dns-quick-change)
+
 ## 2026-10-06 — upstream `1a80c7f8eb`
 
 **Added (1):** [Tweek Task Manager](https://github.com/raycast/extensions/tree/main/extensions/tweek)
