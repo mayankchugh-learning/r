@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b353ee2bd06f952fbad087e702a8be94252d099d",
-  "generatedAt": "2026-10-06T04:08:39.941Z",
-  "downloadsRefreshedAt": "2026-10-06T04:08:39.085Z",
+  "commit": "79d096c13421e4826f827569e42e374f8cc2e06e",
+  "generatedAt": "2026-10-06T06:19:33.626Z",
+  "downloadsRefreshedAt": "2026-10-06T06:19:33.232Z",
   "count": 3377,
   "extensions": [
     {
@@ -3323,14 +3323,14 @@
     {
       "dir": "atlassian-data-center",
       "name": "atlassian-data-center",
-      "title": "Atlassian Data Center (Self-Hosted)",
+      "title": "Atlassian (Self-Hosted)",
       "description": "Search and manage Confluence contents and Jira issues",
       "author": "tofrankie",
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Productivity",
-        "Developer Tools"
+        "Developer Tools",
+        "Productivity"
       ],
       "manifestCategorized": true,
       "platforms": [
@@ -3339,7 +3339,7 @@
       ],
       "store": "https://www.raycast.com/tofrankie/atlassian-data-center",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/atlassian-data-center",
-      "treeSha": "cfa59639f3f547ffaeb94e3d0e09c8bdb151845d",
+      "treeSha": "b655d241a949630f8cc0c6ff3ff19d7daa74fe7c",
       "downloads": 404
     },
     {
@@ -10400,7 +10400,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 612946
+      "downloads": 613029
     },
     {
       "dir": "color-shades",
@@ -23215,7 +23215,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 568708
+      "downloads": 568773
     },
     {
       "dir": "google-chrome-profiles",
@@ -29726,7 +29726,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 772632
+      "downloads": 772719
     },
     {
       "dir": "kimai",
@@ -36352,7 +36352,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "947c3697039fc517d755d880eff6ca02c6718d6a",
-      "downloads": 43055
+      "downloads": 43057
     },
     {
       "dir": "models-dev",
