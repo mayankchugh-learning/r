@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "0f3603cdc780af1938e59ea227ef38c0ad46a9df",
-  "generatedAt": "2026-10-06T14:54:30.015Z",
-  "downloadsRefreshedAt": "2026-10-06T14:54:29.156Z",
+  "commit": "ae35192e070c1bdbfdc7970111c460d24119ce75",
+  "generatedAt": "2026-10-06T14:56:25.398Z",
+  "downloadsRefreshedAt": "2026-10-06T14:56:24.834Z",
   "count": 3379,
   "extensions": [
     {
@@ -4165,7 +4165,7 @@
       ],
       "store": "https://www.raycast.com/kmusick/bartender",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bartender",
-      "treeSha": "44d0f276bc337791da9a7896669850a587a3a22d",
+      "treeSha": "8a402d6be2af6bb6e5966f89e993dbc8fd8bca36",
       "downloads": 4538
     },
     {
@@ -10400,7 +10400,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 613483
+      "downloads": 613484
     },
     {
       "dir": "color-shades",
@@ -29726,7 +29726,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 773295
+      "downloads": 773296
     },
     {
       "dir": "kimai",
