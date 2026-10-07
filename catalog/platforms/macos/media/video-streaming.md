@@ -2,7 +2,7 @@
 
 [Music & Audio](./music-audio.md) · **Video & Streaming** · [Images & Photos](./images-photos.md) · [Wallpapers & Art](./wallpapers-art.md) · [Books & Papers](./books-papers.md) · [AI Generation](./ai-generation.md) · [Conversion, Upload & Download](./conversion-upload-download.md) · [General](./general.md)
 
-24 of 293 extensions · [← macOS · Media](./README.md)
+25 of 294 extensions · [← macOS · Media](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,4 @@
 | [xQc](https://github.com/raycast/extensions/tree/main/extensions/xqc) | 30 | Search and Explore Vods for twitch.tv/xqc | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/xqc) |
 | [Magic Ingest](https://github.com/raycast/extensions/tree/main/extensions/magic-ingest) | 26 | Fast, background photo & video ingest from memory cards with date filtering, SHA-256 verification, and Photo Mechanic integration | dustintchambers | macOS | [store](https://www.raycast.com/dustintchambers/magic-ingest) |
 | [WiiM Remote](https://github.com/raycast/extensions/tree/main/extensions/wiim-remote) | 17 | Control your WiiM device | roele | macOS, Windows | [store](https://www.raycast.com/roele/wiim-remote) |
+| [Upload-Post](https://github.com/raycast/extensions/tree/main/extensions/upload-post) | — | Publish and schedule videos, photos and text posts to TikTok, Instagram, YouTube, LinkedIn, X and more social networks with Upload-Post | juan_carlos_cavero_gracia | macOS, Windows | — |

@@ -1,8 +1,8 @@
 # Windows · Media
 
-95 extensions · [← Windows](../README.md)
+96 extensions · [← Windows](../README.md)
 
-[Music & Audio](#music-audio) (17) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (18) · [Wallpapers & Art](#wallpapers-art) (6) · [Books & Papers](#books-papers) (4) · [AI Generation](#ai-generation) (2) · [Conversion, Upload & Download](#conversion-upload-download) (5) · [General](#general) (32)
+[Music & Audio](#music-audio) (17) · [Video & Streaming](#video-streaming) (12) · [Images & Photos](#images-photos) (18) · [Wallpapers & Art](#wallpapers-art) (6) · [Books & Papers](#books-papers) (4) · [AI Generation](#ai-generation) (2) · [Conversion, Upload & Download](#conversion-upload-download) (5) · [General](#general) (32)
 
 ## Listen & Watch
 
@@ -43,6 +43,7 @@
 | [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | 200 | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
 | [Tails](https://github.com/raycast/extensions/tree/main/extensions/tails) | 157 | Download media from YouTube, Instagram, and more | iambtshft | macOS, Windows | [store](https://www.raycast.com/iambtshft/tails) |
 | [WiiM Remote](https://github.com/raycast/extensions/tree/main/extensions/wiim-remote) | 17 | Control your WiiM device | roele | macOS, Windows | [store](https://www.raycast.com/roele/wiim-remote) |
+| [Upload-Post](https://github.com/raycast/extensions/tree/main/extensions/upload-post) | — | Publish and schedule videos, photos and text posts to TikTok, Instagram, YouTube, LinkedIn, X and more social networks with Upload-Post | juan_carlos_cavero_gracia | macOS, Windows | — |
 
 ## Look & Read
 

@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e536850189548ea9698f04b3fcbb3b42c04f97ec",
-  "generatedAt": "2026-10-07T12:35:38.054Z",
-  "downloadsRefreshedAt": "2026-10-07T12:35:37.130Z",
-  "count": 3384,
+  "commit": "4fd465722474eee515865934ff0f2c9f3acff746",
+  "generatedAt": "2026-10-07T12:45:26.583Z",
+  "downloadsRefreshedAt": "2026-10-07T12:45:25.905Z",
+  "count": 3385,
   "extensions": [
     {
       "dir": "0x0",
@@ -10421,7 +10421,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 614357
+      "downloads": 614369
     },
     {
       "dir": "color-shades",
@@ -23236,7 +23236,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 569757
+      "downloads": 569763
     },
     {
       "dir": "google-chrome-profiles",
@@ -29769,7 +29769,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 774275
+      "downloads": 774288
     },
     {
       "dir": "kimai",
@@ -32613,7 +32613,7 @@
       "store": "https://www.raycast.com/futantan/logseq",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/logseq",
       "treeSha": "1ed37a6bb0a5e7303fabab562675398ccee0fec1",
-      "downloads": 8215
+      "downloads": 8220
     },
     {
       "dir": "logsnag",
@@ -65077,6 +65077,29 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/uplabs",
       "treeSha": "afc4df48e6a51681298ecdc596848e9719bf411d",
       "downloads": 71
+    },
+    {
+      "dir": "upload-post",
+      "name": "upload-post",
+      "title": "Upload-Post",
+      "description": "Publish and schedule videos, photos and text posts to TikTok, Instagram, YouTube, LinkedIn, X and more social networks with Upload-Post",
+      "author": "juan_carlos_cavero_gracia",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Media",
+        "Communication"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/upload-post",
+      "treeSha": "65ccf02081d948b0b40be5d17faf0b69653ebe45",
+      "downloads": null
     },
     {
       "dir": "uploaderx",

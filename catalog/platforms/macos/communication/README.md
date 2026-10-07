@@ -1,8 +1,8 @@
 # macOS · Communication
 
-163 extensions · [← macOS](../README.md)
+164 extensions · [← macOS](../README.md)
 
-[Messaging & Chat](#messaging-chat) (31) · [Video Calls & Meetings](#video-calls-meetings) (15) · [Email](#email) (24) · [Social & Fediverse](#social-fediverse) (12) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (5) · [Language & Dictionaries](#language-dictionaries) (5) · [Links & Sharing](#links-sharing) (7) · [General](#general) (58)
+[Messaging & Chat](#messaging-chat) (32) · [Video Calls & Meetings](#video-calls-meetings) (15) · [Email](#email) (24) · [Social & Fediverse](#social-fediverse) (12) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (5) · [Language & Dictionaries](#language-dictionaries) (5) · [Links & Sharing](#links-sharing) (7) · [General](#general) (58)
 
 ## Conversations
 
@@ -41,6 +41,7 @@
 | [Status Nerd](https://github.com/raycast/extensions/tree/main/extensions/status-nerd) | 15 | Set a funny status on Slack, GitLab and GitHub at once — pick services, roll a random one, or generate with AI. | jan_werner | macOS, Windows | [store](https://www.raycast.com/jan_werner/status-nerd) |
 | [Notify Africa](https://github.com/raycast/extensions/tree/main/extensions/notify-africa-bulk-sms) | 4 | Send personalized bulk SMS with Notify Africa from Raycast. | john_ndelembi | macOS | [store](https://www.raycast.com/john_ndelembi/notify-africa-bulk-sms) |
 | [Asyntai AI Chatbot](https://github.com/raycast/extensions/tree/main/extensions/asyntai) | 1 | Read your website chats, leads and support tickets, and ask your own AI chatbot a question, without opening the browser. | asyntai | macOS, Windows | [store](https://www.raycast.com/Asyntai/asyntai) |
+| [Upload-Post](https://github.com/raycast/extensions/tree/main/extensions/upload-post) | — | Publish and schedule videos, photos and text posts to TikTok, Instagram, YouTube, LinkedIn, X and more social networks with Upload-Post | juan_carlos_cavero_gracia | macOS, Windows | — |
 
 ### Video Calls & Meetings
 

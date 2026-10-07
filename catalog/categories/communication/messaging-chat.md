@@ -1,8 +1,8 @@
 # Messaging & Chat
 
-31 extensions · [← Communication](./README.md)
+32 extensions · [← Communication](./README.md)
 
-[Chats ✦](#chats) (13) · [Messages ✦](#messages) (6) · [Slack ✦](#slack) (4) · [General](#general) (8)
+[Chats ✦](#chats) (13) · [Messages ✦](#messages) (6) · [Slack ✦](#slack) (4) · [General](#general) (9)
 
 *✦ auto-discovered topic group*
 
@@ -56,3 +56,4 @@
 | [Text Enhance](https://github.com/raycast/extensions/tree/main/extensions/text-enhance) | 216 | Enhance drafts with Raycast AI or your own API key, copy results, and refine with follow-up corrections. | max13021302 | macOS | [store](https://www.raycast.com/max13021302/text-enhance) |
 | [Cangjie Dictionary](https://github.com/raycast/extensions/tree/main/extensions/cangjie) | 40 | Fast Chinese characters lookup for Cangjie and Sucheng codes. Supports instant search from selected text and provides both English letters and Chinese radicals. | jimmyclchu | macOS | [store](https://www.raycast.com/jimmyclchu/cangjie) |
 | [Notify Africa](https://github.com/raycast/extensions/tree/main/extensions/notify-africa-bulk-sms) | 4 | Send personalized bulk SMS with Notify Africa from Raycast. | john_ndelembi | macOS | [store](https://www.raycast.com/john_ndelembi/notify-africa-bulk-sms) |
+| [Upload-Post](https://github.com/raycast/extensions/tree/main/extensions/upload-post) | — | Publish and schedule videos, photos and text posts to TikTok, Instagram, YouTube, LinkedIn, X and more social networks with Upload-Post | juan_carlos_cavero_gracia | macOS, Windows | — |

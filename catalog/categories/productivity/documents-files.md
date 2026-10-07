@@ -1,8 +1,8 @@
 # Documents & Files
 
-139 extensions · [← Productivity](./README.md)
+140 extensions · [← Productivity](./README.md)
 
-[Folder ✦](#folder) (32) · [Documents ✦](#documents) (19) · [Finder ✦](#finder) (8) · [Download ✦](#download) (12) · [Upload ✦](#upload) (11) · [PDF ✦](#pdf) (8) · [Markdown ✦](#markdown) (6) · [Local ✦](#local) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (35)
+[Folder ✦](#folder) (32) · [Documents ✦](#documents) (19) · [Finder ✦](#finder) (8) · [Upload ✦](#upload) (14) · [Download ✦](#download) (10) · [PDF ✦](#pdf) (8) · [Markdown ✦](#markdown) (6) · [Local ✦](#local) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (35)
 
 *✦ auto-discovered topic group*
 
@@ -80,6 +80,25 @@
 | [Open Laravel Herd Site](https://github.com/raycast/extensions/tree/main/extensions/open-laravel-herd-site) | 360 | Lists all your Laravel Herd sites and allows you to open them in Visual Studio Code, Finder or your browser. | medienbaecker | macOS | [store](https://www.raycast.com/medienbaecker/open-laravel-herd-site) |
 | [Swift Salamander](https://github.com/raycast/extensions/tree/main/extensions/swift-salamander) | 16 | Open paths, Finder selections, and saved workspaces in Swift Salamander. | c0desurfer | macOS | [store](https://www.raycast.com/c0desurfer/swift-salamander) |
 
+## Upload ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [mymind](https://github.com/raycast/extensions/tree/main/extensions/mymind) | 1,614 | Search, save, upload, and organize your mymind library with the official API | mymind (org) | macOS, Windows | [store](https://www.raycast.com/mymind/mymind) |
+| [Dropshare](https://github.com/raycast/extensions/tree/main/extensions/dropshare) | 816 | Create screen captures and upload files with Dropshare | tjosten | macOS | [store](https://www.raycast.com/tjosten/dropshare) |
+| [SM.MS](https://github.com/raycast/extensions/tree/main/extensions/sm-ms) | 246 | SM.MS image hosting service to upload and share images. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/sm-ms) |
+| [Streamshare Uploader](https://github.com/raycast/extensions/tree/main/extensions/to-streamshare) | 198 | Upload files to streamshare | PandaDEV | macOS | [store](https://www.raycast.com/PandaDEV/streamshare-uploader) |
+| [Transfer.sh Uploader](https://github.com/raycast/extensions/tree/main/extensions/transfer-sh_upload) | 159 | Upload a file directly to a transfer.sh instance | PandaDEV | macOS | [store](https://www.raycast.com/PandaDEV/transfer-sh_upload) |
+| [UploaderX](https://github.com/raycast/extensions/tree/main/extensions/uploaderx) | 122 | UploaderX lets you instantly upload files to your favorite cloud storage providers—directly from Raycast. Supports S3-compatible storage (AWS S3, Cloudflare R2… | scisaif | macOS | [store](https://www.raycast.com/scisaif/uploaderx) |
+| [File Provider Progress](https://github.com/raycast/extensions/tree/main/extensions/file-provider-progress) | 82 | Show macOS File Provider upload, download, indexing, and health status. | finite | macOS | [store](https://www.raycast.com/finite/file-provider-progress) |
+| [VPS Explorer](https://github.com/raycast/extensions/tree/main/extensions/vps-explorer) | 74 | Browse, upload, download, and manage files on your VPS via Raycast! | Abdullah-Dev115 | macOS | [store](https://www.raycast.com/Abdullah-Dev115/vps-explorer) |
+| [Zipline](https://github.com/raycast/extensions/tree/main/extensions/zipline) | 63 | Manage your Zipline uploads - browse, upload, and share files | treyg | macOS | [store](https://www.raycast.com/treyg/zipline) |
+| [S.EE](https://github.com/raycast/extensions/tree/main/extensions/sdotee) | 16 | Create short URLs, share text, and upload files with S.EE | missuo | macOS | [store](https://www.raycast.com/missuo/sdotee) |
+| [Fakecrime Upload](https://github.com/raycast/extensions/tree/main/extensions/fakecrime-upload) | 15 | Upload an image to the Fakecrime server and get a short URL in return. | berkaydigital | macOS | [store](https://www.raycast.com/berkaydigital/fakecrime-upload) |
+| [EdgeStore](https://github.com/raycast/extensions/tree/main/extensions/edgestore-raycast) | 12 | Upload files and manage your EdgeStore account. | ravi_s | macOS, Windows | [store](https://www.raycast.com/ravi_s/edgestore-raycast) |
+| [Hack Club CDN](https://github.com/raycast/extensions/tree/main/extensions/hack-club-cdn) | 2 | Upload files to the Hack Club CDN and manage your uploads from Raycast. Requires a Hack Club account (cdn.hackclub.com) and an API token. | garyhtou | macOS | [store](https://www.raycast.com/garyhtou/hack-club-cdn) |
+| [Upload-Post](https://github.com/raycast/extensions/tree/main/extensions/upload-post) | — | Publish and schedule videos, photos and text posts to TikTok, Instagram, YouTube, LinkedIn, X and more social networks with Upload-Post | juan_carlos_cavero_gracia | macOS, Windows | — |
+
 ## Download ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
@@ -93,25 +112,7 @@
 | [WordPress Plugins](https://github.com/raycast/extensions/tree/main/extensions/wordpress-plugins) | 680 | Search and download plugins from the WordPress Plugin Directory. | edmundcwm | macOS | [store](https://www.raycast.com/edmundcwm/wordpress-plugins) |
 | [Tails](https://github.com/raycast/extensions/tree/main/extensions/tails) | 157 | Download media from YouTube, Instagram, and more | iambtshft | macOS, Windows | [store](https://www.raycast.com/iambtshft/tails) |
 | [Z-Library](https://github.com/raycast/extensions/tree/main/extensions/zlib-search) | 140 | Search Z-Library and download books, powered by the zlib CLI. | materialcritic | macOS, Windows | [store](https://www.raycast.com/materialcritic/zlib-search) |
-| [File Provider Progress](https://github.com/raycast/extensions/tree/main/extensions/file-provider-progress) | 82 | Show macOS File Provider upload, download, indexing, and health status. | finite | macOS | [store](https://www.raycast.com/finite/file-provider-progress) |
-| [VPS Explorer](https://github.com/raycast/extensions/tree/main/extensions/vps-explorer) | 74 | Browse, upload, download, and manage files on your VPS via Raycast! | Abdullah-Dev115 | macOS | [store](https://www.raycast.com/Abdullah-Dev115/vps-explorer) |
 | [Podcast Downloader](https://github.com/raycast/extensions/tree/main/extensions/podcast-downloader) | 29 | Find podcast episodes, copy their audio URLs, and download them. | volkmar_eich | macOS, Windows | [store](https://www.raycast.com/volkmar_eich/podcast-downloader) |
-
-## Upload ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [mymind](https://github.com/raycast/extensions/tree/main/extensions/mymind) | 1,614 | Search, save, upload, and organize your mymind library with the official API | mymind (org) | macOS, Windows | [store](https://www.raycast.com/mymind/mymind) |
-| [Dropshare](https://github.com/raycast/extensions/tree/main/extensions/dropshare) | 816 | Create screen captures and upload files with Dropshare | tjosten | macOS | [store](https://www.raycast.com/tjosten/dropshare) |
-| [SM.MS](https://github.com/raycast/extensions/tree/main/extensions/sm-ms) | 246 | SM.MS image hosting service to upload and share images. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/sm-ms) |
-| [Streamshare Uploader](https://github.com/raycast/extensions/tree/main/extensions/to-streamshare) | 198 | Upload files to streamshare | PandaDEV | macOS | [store](https://www.raycast.com/PandaDEV/streamshare-uploader) |
-| [Transfer.sh Uploader](https://github.com/raycast/extensions/tree/main/extensions/transfer-sh_upload) | 159 | Upload a file directly to a transfer.sh instance | PandaDEV | macOS | [store](https://www.raycast.com/PandaDEV/transfer-sh_upload) |
-| [UploaderX](https://github.com/raycast/extensions/tree/main/extensions/uploaderx) | 122 | UploaderX lets you instantly upload files to your favorite cloud storage providers—directly from Raycast. Supports S3-compatible storage (AWS S3, Cloudflare R2… | scisaif | macOS | [store](https://www.raycast.com/scisaif/uploaderx) |
-| [Zipline](https://github.com/raycast/extensions/tree/main/extensions/zipline) | 63 | Manage your Zipline uploads - browse, upload, and share files | treyg | macOS | [store](https://www.raycast.com/treyg/zipline) |
-| [S.EE](https://github.com/raycast/extensions/tree/main/extensions/sdotee) | 16 | Create short URLs, share text, and upload files with S.EE | missuo | macOS | [store](https://www.raycast.com/missuo/sdotee) |
-| [Fakecrime Upload](https://github.com/raycast/extensions/tree/main/extensions/fakecrime-upload) | 15 | Upload an image to the Fakecrime server and get a short URL in return. | berkaydigital | macOS | [store](https://www.raycast.com/berkaydigital/fakecrime-upload) |
-| [EdgeStore](https://github.com/raycast/extensions/tree/main/extensions/edgestore-raycast) | 12 | Upload files and manage your EdgeStore account. | ravi_s | macOS, Windows | [store](https://www.raycast.com/ravi_s/edgestore-raycast) |
-| [Hack Club CDN](https://github.com/raycast/extensions/tree/main/extensions/hack-club-cdn) | 2 | Upload files to the Hack Club CDN and manage your uploads from Raycast. Requires a Hack Club account (cdn.hackclub.com) and an API token. | garyhtou | macOS | [store](https://www.raycast.com/garyhtou/hack-club-cdn) |
 
 ## PDF ✦
 

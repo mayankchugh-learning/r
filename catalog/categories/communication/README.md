@@ -1,14 +1,14 @@
 # Communication
 
-165 extensions · [← all categories](../README.md)
+166 extensions · [← all categories](../README.md)
 
-macOS: 163 · Windows: 60
+macOS: 164 · Windows: 61
 
 ## Conversations
 
 | Topic | Extensions |
 | --- | --- |
-| [Messaging & Chat](./messaging-chat.md) | 31 |
+| [Messaging & Chat](./messaging-chat.md) | 32 |
 | [Video Calls & Meetings](./video-calls-meetings.md) | 15 |
 | [Email](./email.md) | 25 |
 

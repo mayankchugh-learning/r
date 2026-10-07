@@ -88,5 +88,5 @@
 | [fujiyamaorange](https://www.raycast.com/fujiyamaorange) | 1 | 108 | **Productivity:** [Surl](https://github.com/raycast/extensions/tree/main/extensions/surl) |
 | [fuksman](https://www.raycast.com/fuksman) | 2 | 30,382 | **Productivity:** [Quick Calendar](https://github.com/raycast/extensions/tree/main/extensions/calendar)<br>**News:** [RSS Reader](https://github.com/raycast/extensions/tree/main/extensions/rss-reader) |
 | [furkansimsir](https://www.raycast.com/furkansimsir) | 1 | 22 | **Productivity:** [Capture - Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/capture-quick-notes) |
-| [futantan](https://www.raycast.com/futantan) | 2 | 9,102 | **Productivity:** [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq)<br>**Web:** [Bitcoin Price](https://github.com/raycast/extensions/tree/main/extensions/bitcoin-price) |
+| [futantan](https://www.raycast.com/futantan) | 2 | 9,107 | **Productivity:** [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq)<br>**Web:** [Bitcoin Price](https://github.com/raycast/extensions/tree/main/extensions/bitcoin-price) |
 | [Futos](https://www.raycast.com/Futos) | 1 | 16 | **Productivity:** [BSR Entsorgung](https://github.com/raycast/extensions/tree/main/extensions/bsr-entsorgung) |

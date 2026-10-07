@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-07 — upstream `4fd4657224`
+
+**Added (1):** [Upload-Post](https://github.com/raycast/extensions/tree/main/extensions/upload-post)
+
 ## 2026-10-07 — upstream `e536850189`
 
 **Updated (2):** [FreeAgent](https://github.com/raycast/extensions/tree/main/extensions/freeagent), [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq)

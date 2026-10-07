@@ -1,6 +1,6 @@
 # Publishers
 
-2276 publishers · [← catalog index](../README.md)
+2277 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,298,474 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,298,486 |
 | 2 | [raycast](./id/raycast.md) | 11 | 907,359 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 774,275 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 569,757 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 774,288 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 569,763 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 497,756 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 494,005 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 460,252 |
@@ -200,7 +200,7 @@
 | 190 | [Sn0wye](https://www.raycast.com/Sn0wye) | 1 | 9,131 |
 | 191 | [blessanm86](https://www.raycast.com/blessanm86) | 1 | 9,125 |
 | 192 | [tiancheng92](https://www.raycast.com/tiancheng92) | 2 | 9,113 |
-| 193 | [futantan](https://www.raycast.com/futantan) | 2 | 9,102 |
+| 193 | [futantan](https://www.raycast.com/futantan) | 2 | 9,107 |
 | 194 | [gbarba](https://www.raycast.com/gbarba) | 3 | 9,015 |
 | 195 | [renfei_song](https://www.raycast.com/renfei_song) | 1 | 8,967 |
 | 196 | [slavarazum](https://www.raycast.com/slavarazum) | 1 | 8,950 |
@@ -2283,4 +2283,5 @@
 | 2273 | [villem](https://www.raycast.com/villem) | 1 | 0 |
 | 2274 | github-next | 2 | — |
 | 2275 | eugenio | 1 | — |
-| 2276 | multi | 1 | — |
+| 2276 | juan_carlos_cavero_gracia | 1 | — |
+| 2277 | multi | 1 | — |
