@@ -2,6 +2,12 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-07 — upstream `6dbdc8c708`
+
+**Added (1):** [Hora Calendar](https://github.com/raycast/extensions/tree/main/extensions/hora-calendar)
+
+**Updated (1):** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear)
+
 ## 2026-10-07 — upstream `c40d58e582`
 
 **Updated (1):** [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs)

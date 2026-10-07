@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c40d58e582ec92d641b158c3e7a3b6dc015dd1dc",
-  "generatedAt": "2026-10-07T13:28:30.391Z",
-  "downloadsRefreshedAt": "2026-10-07T13:28:29.822Z",
-  "count": 3387,
+  "commit": "6dbdc8c7083ba21411963605bad6933b1756db36",
+  "generatedAt": "2026-10-07T13:58:55.996Z",
+  "downloadsRefreshedAt": "2026-10-07T13:58:55.555Z",
+  "count": 3388,
   "extensions": [
     {
       "dir": "0x0",
@@ -10442,7 +10442,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 614411
+      "downloads": 614441
     },
     {
       "dir": "color-shades",
@@ -11814,7 +11814,7 @@
       "store": "https://www.raycast.com/sfkmk/craftdocs",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/craftdocs",
       "treeSha": "b12e974586bac5a86f6546c9fd1c079c8bd87172",
-      "downloads": 14912
+      "downloads": 14919
     },
     {
       "dir": "cran-e-search",
@@ -23597,7 +23597,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 496932
+      "downloads": 496952
     },
     {
       "dir": "google-trends",
@@ -25663,6 +25663,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/hop",
       "treeSha": "7c3ad055fdab8a5ee33aa702f8420c2672415f12",
       "downloads": 160
+    },
+    {
+      "dir": "hora-calendar",
+      "name": "hora-calendar",
+      "title": "Hora Calendar",
+      "description": "The official hora Calendar extension. Create events and tasks in plain language and join your next meeting, without leaving Raycast.",
+      "author": "szamski",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Applications"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/hora-calendar",
+      "treeSha": "d66d20fcf98bd5346fd8aa5d8328f2006a2a0d74",
+      "downloads": null
     },
     {
       "dir": "horoscope",
@@ -29790,7 +29811,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 774339
+      "downloads": 774376
     },
     {
       "dir": "kimai",
@@ -31832,7 +31853,7 @@
       ],
       "store": "https://www.raycast.com/linear/linear",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linear",
-      "treeSha": "6b312590533e0a812b44b665bfce259a900b57ad",
+      "treeSha": "5cef56336ab244c495c94f28926278ecf2ce1014",
       "downloads": 401715
     },
     {

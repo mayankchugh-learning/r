@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 614,411 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 614,441 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 260,364 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 151,499 | Prevent the sleep function on your computer | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/coffee) |
 | [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 120,483 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
@@ -19,7 +19,7 @@
 | [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path) | 23,073 | Copy the path of the open folder, selected file or the URL of the current browser tab. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/copy-path) |
 | [Currency Exchange](https://github.com/raycast/extensions/tree/main/extensions/currency-exchange) | 20,005 | Simple Currency Exchange with a selectable rate provider (ExchangeRate-API or UniRateAPI) | xeric | Windows, macOS | [store](https://www.raycast.com/xeric/currency-exchange) |
 | [Confluence](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) | 15,369 | Quickly navigate, create and search Confluence through Raycast. | tbrown | macOS, Windows | [store](https://www.raycast.com/tbrown/confluence) |
-| [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs) | 14,912 | Search Blocks, browse and add to Daily Notes, and manage Spaces in Craft. Includes AI tools to search and write to Craft. | sfkmk | macOS | [store](https://www.raycast.com/sfkmk/craftdocs) |
+| [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs) | 14,919 | Search Blocks, browse and add to Daily Notes, and manage Spaces in Craft. Includes AI tools to search and write to Craft. | sfkmk | macOS | [store](https://www.raycast.com/sfkmk/craftdocs) |
 | [Claude Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage) | 14,078 | Monitor Claude Code usage with real-time tracking | nyatinte | macOS | [store](https://www.raycast.com/nyatinte/ccusage) |
 | [ChatGPT Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-quick-actions) | 13,585 | Performs one-shot actions with ChatGPT | alanzchen | macOS | [store](https://www.raycast.com/alanzchen/chatgpt-quick-actions) |
 | [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) | 13,241 | Can I Use provides up-to-date browser support for front-end web technologies on desktop and mobile web browsers. | thomaslombart | macOS, Windows | [store](https://www.raycast.com/thomaslombart/can-i-use) |

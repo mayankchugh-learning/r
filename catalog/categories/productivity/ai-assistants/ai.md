@@ -106,7 +106,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs) | 14,912 | Search Blocks, browse and add to Daily Notes, and manage Spaces in Craft. Includes AI tools to search and write to Craft. | sfkmk | macOS | [store](https://www.raycast.com/sfkmk/craftdocs) |
+| [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs) | 14,919 | Search Blocks, browse and add to Daily Notes, and manage Spaces in Craft. Includes AI tools to search and write to Craft. | sfkmk | macOS | [store](https://www.raycast.com/sfkmk/craftdocs) |
 | [Remo](https://github.com/raycast/extensions/tree/main/extensions/remo-notes) | 29 | Remo is a simple, fast AI note-taking app. Capture ideas instantly, stay organized, and use AI to turn notes into action — on web and Raycast. | alfredmouelle | macOS | [store](https://www.raycast.com/alfredmouelle/remo-notes) |
 | [GetNote](https://github.com/raycast/extensions/tree/main/extensions/get-note) | 22 | Search, save, and manage GetNote notes with Raycast AI | fangbaiyu | macOS | [store](https://www.raycast.com/fangbaiyu/get-note) |
 | [Plaud](https://github.com/raycast/extensions/tree/main/extensions/plaud) | 20 | Browse your Plaud AI recorder notes and copy links to them | patricklenz | macOS | [store](https://www.raycast.com/patricklenz/plaud) |

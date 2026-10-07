@@ -1,6 +1,6 @@
 # Publishers
 
-2279 publishers · [← catalog index](../README.md)
+2280 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,11 +8,11 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,298,528 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,298,558 |
 | 2 | [raycast](./id/raycast.md) | 11 | 907,383 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 774,339 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 774,376 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 569,442 |
-| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,080 |
+| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,100 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 494,005 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 460,252 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 401,715 |
@@ -145,7 +145,7 @@
 | 135 | [louishuyng](https://www.raycast.com/louishuyng) | 4 | 15,261 |
 | 136 | [fernando_barrios](https://www.raycast.com/fernando_barrios) | 3 | 15,086 |
 | 137 | [ryan](https://www.raycast.com/ryan) | 1 | 14,974 |
-| 138 | [sfkmk](https://www.raycast.com/sfkmk) | 1 | 14,912 |
+| 138 | [sfkmk](https://www.raycast.com/sfkmk) | 1 | 14,919 |
 | 139 | [KartikKumarSahoo](https://www.raycast.com/KartikKumarSahoo) | 1 | 14,521 |
 | 140 | [litomore](./id/litomore.md) | 13 | 14,456 |
 | 141 | [vercel](https://www.raycast.com/vercel) | 2 | 14,330 |
@@ -2287,3 +2287,4 @@
 | 2277 | github-next | 2 | — |
 | 2278 | eugenio | 1 | — |
 | 2279 | multi | 1 | — |
+| 2280 | szamski | 1 | — |

@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · **Tasks & To-Dos** · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-50 of 1534 extensions · [← macOS · Productivity](./README.md)
+51 of 1535 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -56,3 +56,4 @@
 | [Dondori](https://github.com/raycast/extensions/tree/main/extensions/dondori) | 5 | Control Dondori: today's tasks, quick add, timers, and window shortcuts. | ruslan-korneev | macOS | [store](https://www.raycast.com/ruslan-korneev/dondori) |
 | [Hule](https://github.com/raycast/extensions/tree/main/extensions/hule) | 2 | Create, find and update Hule tasks without leaving your keyboard. | tony_hule | macOS | [store](https://www.raycast.com/tony_hule/hule) |
 | [Kofa](https://github.com/raycast/extensions/tree/main/extensions/kofa) | 2 | Quickly capture tasks into Kofa, the minimalist todo and day planner. | petar_yovkov | macOS, Windows | [store](https://www.raycast.com/petar_yovkov/kofa) |
+| [Hora Calendar](https://github.com/raycast/extensions/tree/main/extensions/hora-calendar) | — | The official hora Calendar extension. Create events and tasks in plain language and join your next meeting, without leaving Raycast. | szamski | macOS | — |
