@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "77eb2064fed947ef74e7cf56bc592c7b05e3c35d",
-  "generatedAt": "2026-10-07T08:58:39.459Z",
-  "downloadsRefreshedAt": "2026-10-07T08:58:38.814Z",
+  "commit": "6f7a41962c72e24b3a4e2d840a983d35078173ff",
+  "generatedAt": "2026-10-07T09:03:34.618Z",
+  "downloadsRefreshedAt": "2026-10-07T09:03:33.948Z",
   "count": 3379,
   "extensions": [
     {
@@ -10400,7 +10400,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 614172
+      "downloads": 614177
     },
     {
       "dir": "color-shades",
@@ -23215,7 +23215,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 569614
+      "downloads": 569621
     },
     {
       "dir": "google-chrome-profiles",
@@ -29727,7 +29727,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 774063
+      "downloads": 774067
     },
     {
       "dir": "kimai",
@@ -33453,7 +33453,7 @@
       "store": "https://www.raycast.com/yug2005/mail",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mail",
       "treeSha": "1104df8e0a4c1406522ceef8337432f0540b4ce9",
-      "downloads": 46587
+      "downloads": 46595
     },
     {
       "dir": "mail-to-self",
@@ -34337,7 +34337,7 @@
       "dir": "masscode",
       "name": "masscode",
       "title": "massCode",
-      "description": "Fetch snippets from massCode v4 app",
+      "description": "Fetch snippets from massCode app",
       "author": "antonreshetov",
       "owner": null,
       "contributors": 0,
@@ -34351,7 +34351,7 @@
       ],
       "store": "https://www.raycast.com/antonreshetov/masscode",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/masscode",
-      "treeSha": "859b2ff201d0b0a8dbfc9ca44eb704b6817b1b3c",
+      "treeSha": "23b9b7fd45450bd41f98c9017ae42e7dc9bc50e0",
       "downloads": 224
     },
     {

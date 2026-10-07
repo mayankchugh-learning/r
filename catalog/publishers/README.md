@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,298,289 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,298,294 |
 | 2 | [raycast](./id/raycast.md) | 11 | 907,359 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 774,063 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 569,614 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 774,067 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 569,621 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 497,756 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 494,005 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 460,252 |
@@ -58,7 +58,7 @@
 | 48 | [VladCuciureanu](https://www.raycast.com/VladCuciureanu) | 1 | 59,124 |
 | 49 | [ratoru](https://www.raycast.com/ratoru) | 2 | 55,378 |
 | 50 | [garrett](https://www.raycast.com/garrett) | 2 | 53,594 |
-| 51 | [yug2005](https://www.raycast.com/yug2005) | 4 | 53,137 |
+| 51 | [yug2005](https://www.raycast.com/yug2005) | 4 | 53,145 |
 | 52 | [priithaamer](https://www.raycast.com/priithaamer) | 1 | 53,028 |
 | 53 | [gdsmith](https://www.raycast.com/gdsmith) | 2 | 52,232 |
 | 54 | [MarkusLanger](https://www.raycast.com/MarkusLanger) | 1 | 51,874 |

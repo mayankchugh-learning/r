@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-07 — upstream `6f7a41962c`
+
+**Updated (1):** [massCode](https://github.com/raycast/extensions/tree/main/extensions/masscode)
+
 ## 2026-10-07 — upstream `77eb2064fe`
 
 **Updated (1):** [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail)

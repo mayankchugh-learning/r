@@ -16,7 +16,7 @@
 | [Toothpick](https://github.com/raycast/extensions/tree/main/extensions/toothpick) | 59,124 | Manage Bluetooth connections in Raycast. | VladCuciureanu | macOS, Windows | [store](https://www.raycast.com/VladCuciureanu/toothpick) |
 | [Change Case](https://github.com/raycast/extensions/tree/main/extensions/change-case) | 54,970 | Transform a string between camelCase, snake_case, CONSTANT_CASE, and more | erics118 | macOS, Windows | [store](https://www.raycast.com/erics118/change-case) |
 | [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 51,404 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
-| [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 46,587 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
+| [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 46,595 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
 | [Spotify Controls](https://github.com/raycast/extensions/tree/main/extensions/spotify-controls) | 45,904 | Control the Spotify app for macOS with your keyboard. | thomas | macOS | [store](https://www.raycast.com/thomas/spotify-controls) |
 | [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 44,593 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
 | [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 43,813 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
@@ -286,7 +286,7 @@
 | [Kafka](https://github.com/raycast/extensions/tree/main/extensions/kafka) | 232 | Kafka extension for Raycast | fonimus | macOS | [store](https://www.raycast.com/fonimus/kafka) |
 | [Novu](https://github.com/raycast/extensions/tree/main/extensions/novu) | 229 | List all the useful sites, trigger notification, and more | djabarovgeorge | macOS | [store](https://www.raycast.com/djabarovgeorge/novu) |
 | [ImprovMX](https://github.com/raycast/extensions/tree/main/extensions/improvmx) | 225 | Interact with ImprovMX with the help of Raycast | ImprovMX | macOS | [store](https://www.raycast.com/ImprovMX/improvmx) |
-| [massCode](https://github.com/raycast/extensions/tree/main/extensions/masscode) | 224 | Fetch snippets from massCode v4 app | antonreshetov | macOS | [store](https://www.raycast.com/antonreshetov/masscode) |
+| [massCode](https://github.com/raycast/extensions/tree/main/extensions/masscode) | 224 | Fetch snippets from massCode app | antonreshetov | macOS | [store](https://www.raycast.com/antonreshetov/masscode) |
 | [Twingate](https://github.com/raycast/extensions/tree/main/extensions/twingate) | 224 | Access your Twingate resources directly from Raycast | guy_scher | macOS | [store](https://www.raycast.com/guy_scher/twingate) |
 | [Bark](https://github.com/raycast/extensions/tree/main/extensions/bark) | 220 | Send messages to Bark via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bark) |
 | [Silent Mode](https://github.com/raycast/extensions/tree/main/extensions/silent-mode) | 219 | Mute notifications without turning on DND, Just like on iPhone! | matan | macOS | [store](https://www.raycast.com/matan/silent-mode) |
