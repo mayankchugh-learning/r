@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c44dfc19fcd13dc217973b0afeb3e667e5d3e5b3",
-  "generatedAt": "2026-10-07T12:33:10.790Z",
-  "downloadsRefreshedAt": "2026-10-07T12:33:10.354Z",
+  "commit": "e536850189548ea9698f04b3fcbb3b42c04f97ec",
+  "generatedAt": "2026-10-07T12:35:38.054Z",
+  "downloadsRefreshedAt": "2026-10-07T12:35:37.130Z",
   "count": 3384,
   "extensions": [
     {
@@ -10421,7 +10421,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 614356
+      "downloads": 614357
     },
     {
       "dir": "color-shades",
@@ -20741,7 +20741,7 @@
       "description": "Interact with FreeAgent",
       "author": "SteveEdson",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Finance",
         "Productivity"
@@ -20753,7 +20753,7 @@
       ],
       "store": "https://www.raycast.com/SteveEdson/freeagent",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/freeagent",
-      "treeSha": "688ccb09db5dff9c4a7b03c953dc04ff7e1f852b",
+      "treeSha": "39ff74b9d6eee4ed52c44d4e66c18728fe7398d0",
       "downloads": 61
     },
     {
@@ -29769,7 +29769,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 774274
+      "downloads": 774275
     },
     {
       "dir": "kimai",
@@ -32612,7 +32612,7 @@
       ],
       "store": "https://www.raycast.com/futantan/logseq",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/logseq",
-      "treeSha": "1bc7b4a8adc872d5c39173216f56060d4e5751c9",
+      "treeSha": "1ed37a6bb0a5e7303fabab562675398ccee0fec1",
       "downloads": 8215
     },
     {
