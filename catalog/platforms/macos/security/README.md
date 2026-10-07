@@ -46,7 +46,7 @@
 | [Vaulted — Secure Secret Sharing](https://github.com/raycast/extensions/tree/main/extensions/vaulted) | 19 | Zero-knowledge encrypted, self-destructing secret links from your launcher. | maxim_novak | macOS | [store](https://www.raycast.com/maxim_novak/vaulted) |
 | [RPass](https://github.com/raycast/extensions/tree/main/extensions/rpass) | 15 | Search, edit, generate, and sync your pass-compatible passwords from Raycast. | rxtsel | Windows, macOS | [store](https://www.raycast.com/rxtsel/rpass) |
 | [DinoPass](https://github.com/raycast/extensions/tree/main/extensions/dinopass) | 11 | Generate passwords from dinopass.com | campo | macOS, Windows | [store](https://www.raycast.com/campo/dinopass) |
-| [LinkPilot](https://github.com/raycast/extensions/tree/main/extensions/linkpilot) | — | Share a password or API key as a link that opens once, and shorten URLs, without leaving Raycast | tetracorellc | macOS, Windows | — |
+| [LinkPilot](https://github.com/raycast/extensions/tree/main/extensions/linkpilot) | 0 | Share a password or API key as a link that opens once, and shorten URLs, without leaving Raycast | tetracorellc | macOS, Windows | [store](https://www.raycast.com/tetracorellc/linkpilot) |
 
 ### 2FA & Authentication
 

@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b3b89df7579d1d9bad7e355f160e1feeda6cfac2",
-  "generatedAt": "2026-10-07T09:23:34.456Z",
-  "downloadsRefreshedAt": "2026-10-07T09:23:34.091Z",
-  "count": 3381,
+  "commit": "cdfbdc7a55dcdc5d20cb8fd605c37481844daa8f",
+  "generatedAt": "2026-10-07T12:11:40.508Z",
+  "downloadsRefreshedAt": "2026-10-07T12:11:39.604Z",
+  "count": 3382,
   "extensions": [
     {
       "dir": "0x0",
@@ -10400,7 +10400,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 614196
+      "downloads": 614338
     },
     {
       "dir": "color-shades",
@@ -23215,7 +23215,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 569637
+      "downloads": 569749
     },
     {
       "dir": "google-chrome-profiles",
@@ -29727,7 +29727,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 774093
+      "downloads": 774255
     },
     {
       "dir": "kimai",
@@ -31997,10 +31997,10 @@
         "macOS",
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/tetracorellc/linkpilot",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linkpilot",
       "treeSha": "6b3d8f251b2e66e7e6dfee0a4ef2ef652d417829",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "links-folder",
@@ -40340,6 +40340,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/oci",
       "treeSha": "964cfdd66c4204c03dfadc3787354cd2248a10af",
       "downloads": 119
+    },
+    {
+      "dir": "octarine",
+      "name": "octarine",
+      "title": "Octarine",
+      "description": "Search your Octarine workspaces from Raycast",
+      "author": "aerz",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/octarine",
+      "treeSha": "87d28bb279687693f9f8adda7bc2027aa28ea158",
+      "downloads": null
     },
     {
       "dir": "octoprint",

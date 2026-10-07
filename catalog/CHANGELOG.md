@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-07 — upstream `cdfbdc7a55`
+
+**Added (1):** [Octarine](https://github.com/raycast/extensions/tree/main/extensions/octarine)
+
 ## 2026-10-07 — upstream `b3b89df757`
 
 **Added (1):** [LinkPilot](https://github.com/raycast/extensions/tree/main/extensions/linkpilot)

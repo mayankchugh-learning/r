@@ -30,7 +30,7 @@
 | [2FAS Authenticator](https://github.com/raycast/extensions/tree/main/extensions/2fas-authenticator) | 54 | Search and copy TOTP codes from 2FAS exports with an encrypted local vault | Lock | macOS, Windows | [store](https://www.raycast.com/Lock/2fas-authenticator) |
 | [RPass](https://github.com/raycast/extensions/tree/main/extensions/rpass) | 15 | Search, edit, generate, and sync your pass-compatible passwords from Raycast. | rxtsel | Windows, macOS | [store](https://www.raycast.com/rxtsel/rpass) |
 | [DinoPass](https://github.com/raycast/extensions/tree/main/extensions/dinopass) | 11 | Generate passwords from dinopass.com | campo | macOS, Windows | [store](https://www.raycast.com/campo/dinopass) |
-| [LinkPilot](https://github.com/raycast/extensions/tree/main/extensions/linkpilot) | — | Share a password or API key as a link that opens once, and shorten URLs, without leaving Raycast | tetracorellc | macOS, Windows | — |
+| [LinkPilot](https://github.com/raycast/extensions/tree/main/extensions/linkpilot) | 0 | Share a password or API key as a link that opens once, and shorten URLs, without leaving Raycast | tetracorellc | macOS, Windows | [store](https://www.raycast.com/tetracorellc/linkpilot) |
 
 ### 2FA & Authentication
 

@@ -32,7 +32,7 @@
 | [Password.link](https://github.com/raycast/extensions/tree/main/extensions/password-link) | 97 | Create and manage encrypted one-time secrets with client-side encryption using password.link | taylor_drayson | macOS | [store](https://www.raycast.com/taylor_drayson/password-link) |
 | [RPass](https://github.com/raycast/extensions/tree/main/extensions/rpass) | 15 | Search, edit, generate, and sync your pass-compatible passwords from Raycast. | rxtsel | Windows, macOS | [store](https://www.raycast.com/rxtsel/rpass) |
 | [DinoPass](https://github.com/raycast/extensions/tree/main/extensions/dinopass) | 11 | Generate passwords from dinopass.com | campo | macOS, Windows | [store](https://www.raycast.com/campo/dinopass) |
-| [LinkPilot](https://github.com/raycast/extensions/tree/main/extensions/linkpilot) | — | Share a password or API key as a link that opens once, and shorten URLs, without leaving Raycast | tetracorellc | macOS, Windows | — |
+| [LinkPilot](https://github.com/raycast/extensions/tree/main/extensions/linkpilot) | 0 | Share a password or API key as a link that opens once, and shorten URLs, without leaving Raycast | tetracorellc | macOS, Windows | [store](https://www.raycast.com/tetracorellc/linkpilot) |
 
 ## Secrets ✦
 

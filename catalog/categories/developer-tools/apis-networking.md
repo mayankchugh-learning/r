@@ -33,7 +33,7 @@
 | [DAWA - Danish Address Web API](https://github.com/raycast/extensions/tree/main/extensions/dawa) | 23 | Get information about addresses in Denmark by searching through the Danish Address Web API with the adgangsadresseid as value. | SimonJ | macOS | [store](https://www.raycast.com/SimonJ/denmarks-address-web-api) |
 | [Effect Docs](https://github.com/raycast/extensions/tree/main/extensions/effect-docs) | 16 | Search Effect-TS documentation and API reference from Raycast | rvaccone | macOS | [store](https://www.raycast.com/rvaccone/effect-docs) |
 | [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) | 1 | Search CoCart API documentation quickly, copy URLs, or open them in your browser. | cocart_headless | macOS, Windows | [store](https://www.raycast.com/cocart_headless/cocart-docs) |
-| [LinkPilot](https://github.com/raycast/extensions/tree/main/extensions/linkpilot) | — | Share a password or API key as a link that opens once, and shorten URLs, without leaving Raycast | tetracorellc | macOS, Windows | — |
+| [LinkPilot](https://github.com/raycast/extensions/tree/main/extensions/linkpilot) | 0 | Share a password or API key as a link that opens once, and shorten URLs, without leaving Raycast | tetracorellc | macOS, Windows | [store](https://www.raycast.com/tetracorellc/linkpilot) |
 
 ## Network ✦
 
