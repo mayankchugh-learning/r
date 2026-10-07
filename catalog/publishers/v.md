@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · **V** · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-44 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+45 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -20,6 +20,7 @@
 | [ViGeng](https://www.raycast.com/ViGeng) | 9 | 19,491 | **Productivity:** [Deepseek Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/deepseeker), [Emojify](https://github.com/raycast/extensions/tree/main/extensions/emojify)<br>**Applications:** [Bob - Control Bob Translate](https://github.com/raycast/extensions/tree/main/extensions/bob), [Awesome Mac](https://github.com/raycast/extensions/tree/main/extensions/awesome-mac), [Pumble](https://github.com/raycast/extensions/tree/main/extensions/pumble)<br>**Developer Tools:** [GitHub Profile](https://github.com/raycast/extensions/tree/main/extensions/github-profile), [Zoo - Ask AIs with Your Prompt Library](https://github.com/raycast/extensions/tree/main/extensions/zoo)<br>**Uncategorized:** [Save Link](https://github.com/raycast/extensions/tree/main/extensions/save-link)<br>**Web:** [CCF Conference](https://github.com/raycast/extensions/tree/main/extensions/ccfddl) |
 | [vigosan](https://www.raycast.com/vigosan) | 2 | 651 | **Media:** [Discogs Database Search](https://github.com/raycast/extensions/tree/main/extensions/discogs)<br>**Data:** [Minion Ipsum](https://github.com/raycast/extensions/tree/main/extensions/minion-ipsum) |
 | [vikas-bansal](https://www.raycast.com/vikas-bansal) | 1 | 593 | **Developer Tools:** [Windsurf Extension](https://github.com/raycast/extensions/tree/main/extensions/windsurf) |
+| [villem](https://www.raycast.com/villem) | 1 | 0 | **Productivity:** [ASCII Kit](https://github.com/raycast/extensions/tree/main/extensions/ascii-kit) |
 | [vimtor](./id/vimtor.md) | 16 | 338,395 | [see all 16 →](./id/vimtor.md) |
 | [vincent_perrot](https://www.raycast.com/vincent_perrot) | 1 | 7 | **Finance:** [XPF to EUR Converter](https://github.com/raycast/extensions/tree/main/extensions/xpf-converter) |
 | [vinch](https://www.raycast.com/vinch) | 1 | 278 | **Web:** [Ethereum Gas Tracker](https://github.com/raycast/extensions/tree/main/extensions/ethereum-gas-tracker) |

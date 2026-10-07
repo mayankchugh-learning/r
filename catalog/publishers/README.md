@@ -1,6 +1,6 @@
 # Publishers
 
-2275 publishers · [← catalog index](../README.md)
+2276 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,298,460 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,298,473 |
 | 2 | [raycast](./id/raycast.md) | 11 | 907,359 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 774,258 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 569,751 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 774,274 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 569,757 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 497,756 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 494,005 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 460,252 |
@@ -2280,6 +2280,7 @@
 | 2270 | [sbd530](https://www.raycast.com/sbd530) | 1 | 0 |
 | 2271 | [tetracorellc](https://www.raycast.com/tetracorellc) | 1 | 0 |
 | 2272 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2273 | github-next | 2 | — |
-| 2274 | eugenio | 1 | — |
-| 2275 | multi | 1 | — |
+| 2273 | [villem](https://www.raycast.com/villem) | 1 | 0 |
+| 2274 | github-next | 2 | — |
+| 2275 | eugenio | 1 | — |
+| 2276 | multi | 1 | — |

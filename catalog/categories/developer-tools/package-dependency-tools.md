@@ -1,8 +1,8 @@
 # Package & Dependency Tools
 
-39 extensions · [← Developer Tools](./README.md)
+40 extensions · [← Developer Tools](./README.md)
 
-[Packages ✦](#packages) (24) · [Library ✦](#library) (7) · [General](#general) (8)
+[Packages ✦](#packages) (24) · [Library ✦](#library) (7) · [General](#general) (9)
 
 *✦ auto-discovered topic group*
 
@@ -59,3 +59,4 @@
 | [Gradle Plugins](https://github.com/raycast/extensions/tree/main/extensions/gradle-plugins) | 166 | Search for gradle plugins | alex-w0 | macOS | [store](https://www.raycast.com/alex-w0/gradle-plugins) |
 | [cdnjs](https://github.com/raycast/extensions/tree/main/extensions/cdnjs) | 45 | Search libraries on cdnjs | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cdnjs) |
 | [DevContainer Features](https://github.com/raycast/extensions/tree/main/extensions/devcontainer-features) | 44 | Search and browse devcontainer features from the official registry | keito4 | macOS | [store](https://www.raycast.com/keito4/devcontainer-features) |
+| [ASCII Kit](https://github.com/raycast/extensions/tree/main/extensions/ascii-kit) | 0 | Box-drawing glyphs, diagram templates and a live-preview composer for text diagrams in PRs, Slack and docs. | villem | macOS | [store](https://www.raycast.com/villem/ascii-kit) |

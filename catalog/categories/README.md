@@ -6,7 +6,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Productivity](./productivity/README.md) | 1549 |
+| [Productivity](./productivity/README.md) | 1550 |
 | [Applications](./applications/README.md) | 395 |
 | [Communication](./communication/README.md) | 165 |
 
@@ -14,7 +14,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Developer Tools](./developer-tools/README.md) | 1162 |
+| [Developer Tools](./developer-tools/README.md) | 1163 |
 | [Data](./data/README.md) | 278 |
 | [Documentation](./documentation/README.md) | 216 |
 | [Security](./security/README.md) | 90 |

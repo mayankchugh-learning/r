@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1698a46f4f71dd84c4ac3db67c2d9d1ba17cf27d",
-  "generatedAt": "2026-10-07T12:14:42.785Z",
-  "downloadsRefreshedAt": "2026-10-07T12:14:41.758Z",
-  "count": 3383,
+  "commit": "c44dfc19fcd13dc217973b0afeb3e667e5d3e5b3",
+  "generatedAt": "2026-10-07T12:33:10.790Z",
+  "downloadsRefreshedAt": "2026-10-07T12:33:10.354Z",
+  "count": 3384,
   "extensions": [
     {
       "dir": "0x0",
@@ -3150,6 +3150,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ascii-art-wallpaper",
       "treeSha": "7f604b773e679212f4b9879b0bc243a47810f07e",
       "downloads": 197
+    },
+    {
+      "dir": "ascii-kit",
+      "name": "ascii-kit",
+      "title": "ASCII Kit",
+      "description": "Box-drawing glyphs, diagram templates and a live-preview composer for text diagrams in PRs, Slack and docs.",
+      "author": "villem",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/villem/ascii-kit",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/ascii-kit",
+      "treeSha": "6451455b315bd4038f86cf12be82fbb29c29c7cd",
+      "downloads": 0
     },
     {
       "dir": "asciimath-to-latex-converter",
@@ -10400,7 +10421,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 614343
+      "downloads": 614356
     },
     {
       "dir": "color-shades",
@@ -23215,7 +23236,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 569751
+      "downloads": 569757
     },
     {
       "dir": "google-chrome-profiles",
@@ -29748,7 +29769,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 774258
+      "downloads": 774274
     },
     {
       "dir": "kimai",

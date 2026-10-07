@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-166 extensions · [← catalog index](../README.md)
+167 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -172,3 +172,4 @@
 | [AudioCast Control](https://github.com/raycast/extensions/tree/main/extensions/audiocast-control) | 2 | Control your AudioCast device using Raycast | RomiC | macOS, Windows | [store](https://www.raycast.com/RomiC/audiocast-control) |
 | [Asyntai AI Chatbot](https://github.com/raycast/extensions/tree/main/extensions/asyntai) | 1 | Read your website chats, leads and support tickets, and ask your own AI chatbot a question, without opening the browser. | asyntai | macOS, Windows | [store](https://www.raycast.com/Asyntai/asyntai) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
+| [ASCII Kit](https://github.com/raycast/extensions/tree/main/extensions/ascii-kit) | 0 | Box-drawing glyphs, diagram templates and a live-preview composer for text diagrams in PRs, Slack and docs. | villem | macOS | [store](https://www.raycast.com/villem/ascii-kit) |

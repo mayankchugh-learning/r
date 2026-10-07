@@ -1,8 +1,8 @@
 # Writing & Text Tools
 
-74 extensions · [← Productivity](./README.md)
+75 extensions · [← Productivity](./README.md)
 
-[Markdown ✦](#markdown) (15) · [Dictionary ✦](#dictionary) (11) · [Language ✦](#language) (6) · [Character ✦](#character) (4) · [Quote ✦](#quote) (4) · [General](#general) (34)
+[Markdown ✦](#markdown) (15) · [Dictionary ✦](#dictionary) (11) · [Language ✦](#language) (6) · [Character ✦](#character) (4) · [Quote ✦](#quote) (4) · [General](#general) (35)
 
 *✦ auto-discovered topic group*
 
@@ -109,3 +109,4 @@
 | [Privacy Mask](https://github.com/raycast/extensions/tree/main/extensions/privmask) | 5 | Find personal information in text and mask it before you share it, entirely on your Mac — Japanese names, addresses and My Numbers included. | snaka | macOS | [store](https://www.raycast.com/snaka/privmask) |
 | [cl1p.net](https://github.com/raycast/extensions/tree/main/extensions/cl1p) | 4 | Save text to cl1p.net and copy the resulting URL | meslva | macOS, Windows | [store](https://www.raycast.com/meslva/cl1p) |
 | [VN Textify](https://github.com/raycast/extensions/tree/main/extensions/vn-textify) | 4 | Transform Vietnam's Telex text to Vietnamese text | locnguyen1842 | macOS, Windows | [store](https://www.raycast.com/locnguyen1842/vn-textify) |
+| [ASCII Kit](https://github.com/raycast/extensions/tree/main/extensions/ascii-kit) | 0 | Box-drawing glyphs, diagram templates and a live-preview composer for text diagrams in PRs, Slack and docs. | villem | macOS | [store](https://www.raycast.com/villem/ascii-kit) |

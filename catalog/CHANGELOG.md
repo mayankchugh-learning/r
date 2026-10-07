@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-07 — upstream `c44dfc19fc`
+
+**Added (1):** [ASCII Kit](https://github.com/raycast/extensions/tree/main/extensions/ascii-kit)
+
 ## 2026-10-07 — upstream `1698a46f4f`
 
 **Added (1):** [Hostbeam](https://github.com/raycast/extensions/tree/main/extensions/hostbeam)
