@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "757628fa521e25a63991f4c074da4aacdc03c198",
-  "generatedAt": "2026-10-07T13:16:43.777Z",
-  "downloadsRefreshedAt": "2026-10-07T13:16:43.091Z",
+  "commit": "87abda6229dc7f75a074aa8531a90056425de247",
+  "generatedAt": "2026-10-07T13:18:49.196Z",
+  "downloadsRefreshedAt": "2026-10-07T13:18:48.638Z",
   "count": 3385,
   "extensions": [
     {
@@ -10421,7 +10421,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 614395
+      "downloads": 614397
     },
     {
       "dir": "color-shades",
@@ -29769,7 +29769,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 774323
+      "downloads": 774324
     },
     {
       "dir": "kimai",
@@ -36417,7 +36417,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "886519c041ed316270d2652d152ce816c1117fa0",
-      "downloads": 43146
+      "downloads": 43147
     },
     {
       "dir": "models-dev",
@@ -37165,7 +37165,7 @@
       ],
       "store": "https://www.raycast.com/natew/mozilla-vpn",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mozilla-vpn",
-      "treeSha": "1bda1c26b4b5c9ac8abea34390faf587ffd9592b",
+      "treeSha": "414712d77fab6a3c8cb3c2d9c9099c7515e52cb8",
       "downloads": 164
     },
     {
