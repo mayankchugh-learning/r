@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "5767311af9b77f6ee897ddad5e78a1bc871c47ed",
-  "generatedAt": "2026-10-07T13:23:26.500Z",
-  "downloadsRefreshedAt": "2026-10-07T13:23:25.623Z",
-  "count": 3386,
+  "commit": "2d3ee5fa2abc475ecc24c064d6b58aa6c0eb40b8",
+  "generatedAt": "2026-10-07T13:26:22.356Z",
+  "downloadsRefreshedAt": "2026-10-07T13:26:22.019Z",
+  "count": 3387,
   "extensions": [
     {
       "dir": "0x0",
@@ -1658,10 +1658,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/nhkhang/amp-runner-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/amp-runner-manager",
       "treeSha": "4c5f2725ee17b1558f02b3389a88759a54ff381d",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "amphetamine",
@@ -10442,7 +10442,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 614404
+      "downloads": 614410
     },
     {
       "dir": "color-shades",
@@ -23597,7 +23597,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 496928
+      "downloads": 496931
     },
     {
       "dir": "google-trends",
@@ -29790,7 +29790,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 774331
+      "downloads": 774337
     },
     {
       "dir": "kimai",
@@ -31832,7 +31832,7 @@
       ],
       "store": "https://www.raycast.com/linear/linear",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linear",
-      "treeSha": "d00db9a628e0259bb0f20e1719009a2ce6c643a4",
+      "treeSha": "6b312590533e0a812b44b665bfce259a900b57ad",
       "downloads": 401715
     },
     {
@@ -59651,6 +59651,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sync-folders",
       "treeSha": "6fb07e422e67ab232592cb4e2119f2e3b97552a0",
       "downloads": 874
+    },
+    {
+      "dir": "synci",
+      "name": "synci",
+      "title": "Synci",
+      "description": "Search transactions, check balances and holdings, monitor connections, and ask Raycast AI about your finances with Synci.",
+      "author": "tonning",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Finance",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/synci",
+      "treeSha": "e34b5d6513fb4269f759d8498ef5e4364f92e7ea",
+      "downloads": null
     },
     {
       "dir": "synology-download-station",

@@ -1,6 +1,6 @@
 # Personal Finance & Budgeting
 
-20 extensions · [← Finance](./README.md)
+21 extensions · [← Finance](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,4 @@
 | [Cobalt Finance](https://github.com/raycast/extensions/tree/main/extensions/cobalt-finance) | 5 | Access your Cobalt finances from Raycast. | sriket_komali | macOS | [store](https://www.raycast.com/sriket_komali/cobalt-finance) |
 | [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) | 5 | Add expense and income to your Toshl account | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/quick-toshl) |
 | [Wlthy](https://github.com/raycast/extensions/tree/main/extensions/wlthy) | 3 | See your net worth, day and month change, and allocation from your wlthy wealth account — read-only, without leaving your keyboard. | alirbaba | macOS, Windows | [store](https://www.raycast.com/alirbaba/wlthy) |
+| [Synci](https://github.com/raycast/extensions/tree/main/extensions/synci) | — | Search transactions, check balances and holdings, monitor connections, and ask Raycast AI about your finances with Synci. | tonning | macOS, Windows | — |

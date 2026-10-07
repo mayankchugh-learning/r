@@ -1,8 +1,8 @@
 # AI ✦
 
-113 extensions · [← AI & Assistants](./README.md)
+114 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Models ✦](#models) (15) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (6) · [Openai ✦](#openai) (7) · [Tasks ✦](#tasks) (5) · [Prompts ✦](#prompts) (4) · [Capture ✦](#capture) (4) · [General](#general) (49)
+[Powered ✦](#powered) (16) · [Models ✦](#models) (15) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (7) · [Openai ✦](#openai) (7) · [Tasks ✦](#tasks) (5) · [Prompts ✦](#prompts) (4) · [Capture ✦](#capture) (4) · [General](#general) (49)
 
 *✦ auto-discovered topic group*
 
@@ -69,6 +69,7 @@
 | [Ask Dust](https://github.com/raycast/extensions/tree/main/extensions/dust-tt) | 898 | Query dust.tt AI agents | albandum | macOS | [store](https://www.raycast.com/albandum/dust-tt) |
 | [Port.io](https://github.com/raycast/extensions/tree/main/extensions/port) | 33 | Access Port.io dashboards, run self-service actions, and ask Port AI questions | etay_alony | macOS | [store](https://www.raycast.com/etay_alony/port) |
 | [SaaSFlow](https://github.com/raycast/extensions/tree/main/extensions/saasflow) | 11 | Track MRR, browse customers and transactions, and ask AI questions about your SaaSFlow data — without leaving Raycast. | saasflow (org) | macOS | [store](https://www.raycast.com/saasflow/saasflow) |
+| [Synci](https://github.com/raycast/extensions/tree/main/extensions/synci) | — | Search transactions, check balances and holdings, monitor connections, and ask Raycast AI about your finances with Synci. | tonning | macOS, Windows | — |
 
 ## Openai ✦
 

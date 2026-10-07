@@ -44,7 +44,7 @@
 | [nextwalkerovo](https://www.raycast.com/nextwalkerovo) | 1 | 92 | **Data:** [Query.Domains](https://github.com/raycast/extensions/tree/main/extensions/query-domains) |
 | [nghia_luong](https://www.raycast.com/nghia_luong) | 1 | 90 | **Productivity:** [ShiftPlus](https://github.com/raycast/extensions/tree/main/extensions/shiftplus) |
 | [ngoquocdat](https://www.raycast.com/ngoquocdat) | 1 | 114 | **Developer Tools:** [TablePro](https://github.com/raycast/extensions/tree/main/extensions/tablepro) |
-| nhkhang | 1 | — | **Developer Tools:** [Local Amp Runners](https://github.com/raycast/extensions/tree/main/extensions/amp-runner-manager) |
+| [nhkhang](https://www.raycast.com/nhkhang) | 1 | 0 | **Developer Tools:** [Local Amp Runners](https://github.com/raycast/extensions/tree/main/extensions/amp-runner-manager) |
 | [nhojb](https://www.raycast.com/nhojb) | 1 | 293,617 | **Developer Tools:** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) |
 | [niall-maloney](https://www.raycast.com/niall-maloney) | 1 | 4,028 | **Developer Tools:** [Cron Description](https://github.com/raycast/extensions/tree/main/extensions/cron-description) |
 | [niallpaterson](https://www.raycast.com/niallpaterson) | 1 | 1,171 | **Productivity:** [Jira Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/jira-time-tracking) |

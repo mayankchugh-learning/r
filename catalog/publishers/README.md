@@ -1,6 +1,6 @@
 # Publishers
 
-2278 publishers · [← catalog index](../README.md)
+2279 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,11 +8,11 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,298,521 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,298,527 |
 | 2 | [raycast](./id/raycast.md) | 11 | 907,383 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 774,331 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 774,337 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 569,442 |
-| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,076 |
+| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,079 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 494,005 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 460,252 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 401,715 |
@@ -2277,12 +2277,13 @@
 | 2267 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
 | 2268 | [Marcelismus](https://www.raycast.com/Marcelismus) | 1 | 0 |
 | 2269 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2270 | [PunkABeat](https://www.raycast.com/PunkABeat) | 1 | 0 |
-| 2271 | [sbd530](https://www.raycast.com/sbd530) | 1 | 0 |
-| 2272 | [tetracorellc](https://www.raycast.com/tetracorellc) | 1 | 0 |
-| 2273 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2274 | [villem](https://www.raycast.com/villem) | 1 | 0 |
-| 2275 | github-next | 2 | — |
-| 2276 | eugenio | 1 | — |
-| 2277 | multi | 1 | — |
-| 2278 | nhkhang | 1 | — |
+| 2270 | [nhkhang](https://www.raycast.com/nhkhang) | 1 | 0 |
+| 2271 | [PunkABeat](https://www.raycast.com/PunkABeat) | 1 | 0 |
+| 2272 | [sbd530](https://www.raycast.com/sbd530) | 1 | 0 |
+| 2273 | [tetracorellc](https://www.raycast.com/tetracorellc) | 1 | 0 |
+| 2274 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2275 | [villem](https://www.raycast.com/villem) | 1 | 0 |
+| 2276 | github-next | 2 | — |
+| 2277 | eugenio | 1 | — |
+| 2278 | multi | 1 | — |
+| 2279 | tonning | 1 | — |

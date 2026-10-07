@@ -42,7 +42,7 @@
 | [Dated Folder](https://github.com/raycast/extensions/tree/main/extensions/dated-folder) | 23 | Create a folder named after today's date and open it in your terminal | fhf1121 | macOS, Windows | [store](https://www.raycast.com/fhf1121/dated-folder) |
 | [Project Folders](https://github.com/raycast/extensions/tree/main/extensions/project-folders) | 8 | Browse creative project folders and jump to Asana, Google Drive, and Frame.io links. | hugini | macOS | [store](https://www.raycast.com/hugini/project-folders) |
 | [Jev](https://github.com/raycast/extensions/tree/main/extensions/jev) | 6 | Run saved checks, file documents into configured folders, and search browser bookmarks with TypeSafe Jev. | Olli0103 | macOS | [store](https://www.raycast.com/Olli0103/jev) |
-| [Local Amp Runners](https://github.com/raycast/extensions/tree/main/extensions/amp-runner-manager) | — | Manage folders served by local Amp runners | nhkhang | macOS | — |
+| [Local Amp Runners](https://github.com/raycast/extensions/tree/main/extensions/amp-runner-manager) | 0 | Manage folders served by local Amp runners | nhkhang | macOS | [store](https://www.raycast.com/nhkhang/amp-runner-manager) |
 
 ## Documents ✦
 

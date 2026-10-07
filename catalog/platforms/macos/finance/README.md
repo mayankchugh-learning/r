@@ -1,8 +1,8 @@
 # macOS · Finance
 
-157 extensions · [← macOS](../README.md)
+158 extensions · [← macOS](../README.md)
 
-[Crypto & Web3](#crypto-web3) (32) · [Stocks & Trading](#stocks-trading) (18) · [Currency & Exchange](#currency-exchange) (10) · [Business, Billing & Sales](#business-billing-sales) (26) · [Banking & Payments](#banking-payments) (8) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (7) · [Personal Finance & Budgeting](#personal-finance-budgeting) (20) · [General](#general) (34)
+[Crypto & Web3](#crypto-web3) (32) · [Stocks & Trading](#stocks-trading) (18) · [Currency & Exchange](#currency-exchange) (10) · [Business, Billing & Sales](#business-billing-sales) (26) · [Banking & Payments](#banking-payments) (8) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (7) · [Personal Finance & Budgeting](#personal-finance-budgeting) (21) · [General](#general) (34)
 
 ## Markets & Investing
 
@@ -107,6 +107,7 @@
 | [Cobalt Finance](https://github.com/raycast/extensions/tree/main/extensions/cobalt-finance) | 5 | Access your Cobalt finances from Raycast. | sriket_komali | macOS | [store](https://www.raycast.com/sriket_komali/cobalt-finance) |
 | [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) | 5 | Add expense and income to your Toshl account | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/quick-toshl) |
 | [Wlthy](https://github.com/raycast/extensions/tree/main/extensions/wlthy) | 3 | See your net worth, day and month change, and allocation from your wlthy wealth account — read-only, without leaving your keyboard. | alirbaba | macOS, Windows | [store](https://www.raycast.com/alirbaba/wlthy) |
+| [Synci](https://github.com/raycast/extensions/tree/main/extensions/synci) | — | Search transactions, check balances and holdings, monitor connections, and ask Raycast AI about your finances with Synci. | tonning | macOS, Windows | — |
 
 ### Banking & Payments
 

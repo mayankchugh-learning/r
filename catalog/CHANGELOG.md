@@ -2,6 +2,12 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-07 — upstream `2d3ee5fa2a`
+
+**Added (1):** [Synci](https://github.com/raycast/extensions/tree/main/extensions/synci)
+
+**Updated (1):** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear)
+
 ## 2026-10-07 — upstream `5767311af9`
 
 **Added (1):** [Local Amp Runners](https://github.com/raycast/extensions/tree/main/extensions/amp-runner-manager)
