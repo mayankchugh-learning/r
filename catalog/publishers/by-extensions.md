@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 170,016 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,862 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,921 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,298,105 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,298,106 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 460,252 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,893 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,456 |

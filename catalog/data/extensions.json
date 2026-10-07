@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "06c9066161ed41680410117ea1671547691a47c7",
-  "generatedAt": "2026-10-07T05:34:37.540Z",
-  "downloadsRefreshedAt": "2026-10-07T05:34:36.415Z",
+  "commit": "6f46753d6c3cd3c4919cf8aa9d198d4fbf44b1ee",
+  "generatedAt": "2026-10-07T05:36:23.816Z",
+  "downloadsRefreshedAt": "2026-10-07T05:36:23.394Z",
   "count": 3379,
   "extensions": [
     {
@@ -10400,7 +10400,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 613988
+      "downloads": 613989
     },
     {
       "dir": "color-shades",
@@ -63113,7 +63113,7 @@
       ],
       "store": "https://www.raycast.com/thesobercoder/trakt-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/trakt-manager",
-      "treeSha": "c0a3f8c3ef5875b47653d0969c520cae0e27940d",
+      "treeSha": "bfb5b20b20636f38afb8a55bc5cadc15263bae0b",
       "downloads": 834
     },
     {

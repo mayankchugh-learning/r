@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-07 — upstream `6f46753d6c`
+
+**Updated (1):** [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager)
+
 ## 2026-10-07 — upstream `06c9066161`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
