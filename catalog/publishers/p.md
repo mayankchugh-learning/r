@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · **P** · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-91 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+92 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -91,6 +91,7 @@
 | [pryley](https://www.raycast.com/pryley) | 1 | 28 | **Developer Tools:** [Fillerama](https://github.com/raycast/extensions/tree/main/extensions/fillerama) |
 | [pseudobun](https://www.raycast.com/pseudobun) | 1 | 245 | **Applications:** [0x0](https://github.com/raycast/extensions/tree/main/extensions/0x0) |
 | [puneeth](https://www.raycast.com/puneeth) | 1 | 2,177 | **Media:** [Goodreads](https://github.com/raycast/extensions/tree/main/extensions/goodreads) |
+| [PunkABeat](https://www.raycast.com/PunkABeat) | 1 | 0 | **Developer Tools:** [Hostbeam](https://github.com/raycast/extensions/tree/main/extensions/hostbeam) |
 | [pushtodisplay](https://www.raycast.com/pushtodisplay) | 1 | 4 | **Productivity:** [PushToDisplay](https://github.com/raycast/extensions/tree/main/extensions/pushtodisplay) |
 | [putio](https://www.raycast.com/putio) | 1 | 639 | **Applications:** [put.io](https://github.com/raycast/extensions/tree/main/extensions/putio) |
 | [pvnkmnk](https://www.raycast.com/pvnkmnk) | 1 | 127 | **Productivity:** [Super Productivity](https://github.com/raycast/extensions/tree/main/extensions/super-productivity) |

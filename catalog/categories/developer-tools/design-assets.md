@@ -1,8 +1,8 @@
 # Design & Assets
 
-41 extensions · [← Developer Tools](./README.md)
+42 extensions · [← Developer Tools](./README.md)
 
-[Color ✦](#color) (12) · [Icons ✦](#icons) (12) · [Image ✦](#image) (11) · [Svg ✦](#svg) (4) · [General](#general) (2)
+[Color ✦](#color) (12) · [Icons ✦](#icons) (12) · [Image ✦](#image) (11) · [Svg ✦](#svg) (4) · [General](#general) (3)
 
 *✦ auto-discovered topic group*
 
@@ -71,3 +71,4 @@
 | --- | --- | --- | --- | --- | --- |
 | [Carbon Screenshot for Raycast](https://github.com/raycast/extensions/tree/main/extensions/carbon-raycast) | 2,424 | Uses the carbon.now.sh to create beautiful screenshot you can share online or with your team | adelowo | macOS | [store](https://www.raycast.com/adelowo/carbon-code-screenshot-for-raycast) |
 | [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands) | 33 | Quicklinks as real files. Turn any link, folder or search into a Script Command you can version, grep and sync — then browse them grouped by environment, brand… | kud | macOS | [store](https://www.raycast.com/kud/link-commands) |
+| [Hostbeam](https://github.com/raycast/extensions/tree/main/extensions/hostbeam) | 0 | Control the Hostbeam Mac app — beam the screenshot on your clipboard to a remote host and get the paste-ready path back. | PunkABeat | macOS | [store](https://www.raycast.com/PunkABeat/hostbeam) |

@@ -126,4 +126,4 @@
 | [Orc Pictures](https://github.com/raycast/extensions/tree/main/extensions/orc-pictures) | 6 | Search orc reaction GIFs and copy the GIF file to the clipboard for X. | orcdev | macOS, Windows | [store](https://www.raycast.com/orcdev/orc-pictures) |
 | [oMLX](https://github.com/raycast/extensions/tree/main/extensions/omlx) | 5 | Use locally running oMLX models as AI providers in Raycast | 60400 | macOS | [store](https://www.raycast.com/60400/omlx) |
 | [Ollama Translate](https://github.com/raycast/extensions/tree/main/extensions/ollama-translate) | 1 | Translate text privately with local Ollama models while preserving meaning and tone | scorpion7slayer | macOS | [store](https://www.raycast.com/scorpion7slayer/ollama-translate) |
-| [Octarine](https://github.com/raycast/extensions/tree/main/extensions/octarine) | — | Search your Octarine workspaces from Raycast | aerz | macOS | — |
+| [Octarine](https://github.com/raycast/extensions/tree/main/extensions/octarine) | 0 | Search your Octarine workspaces from Raycast | aerz | macOS | [store](https://www.raycast.com/aerz/octarine) |

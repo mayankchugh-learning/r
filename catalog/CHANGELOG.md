@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-07 — upstream `1698a46f4f`
+
+**Added (1):** [Hostbeam](https://github.com/raycast/extensions/tree/main/extensions/hostbeam)
+
 ## 2026-10-07 — upstream `cdfbdc7a55`
 
 **Added (1):** [Octarine](https://github.com/raycast/extensions/tree/main/extensions/octarine)

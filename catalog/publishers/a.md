@@ -45,7 +45,7 @@
 | [adrianmarten](https://www.raycast.com/adrianmarten) | 1 | 28 | **Developer Tools:** [Supabase Cron Monitor](https://github.com/raycast/extensions/tree/main/extensions/supabase-cron-monitor) |
 | [aelew](https://www.raycast.com/aelew) | 1 | 7,157 | **Applications:** [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) |
 | [aerobless](https://www.raycast.com/aerobless) | 1 | 365 | **Productivity:** [Static Marks - Bookmark Search](https://github.com/raycast/extensions/tree/main/extensions/static-marks-bookmarks) |
-| aerz | 1 | — | **Productivity:** [Octarine](https://github.com/raycast/extensions/tree/main/extensions/octarine) |
+| [aerz](https://www.raycast.com/aerz) | 1 | 0 | **Productivity:** [Octarine](https://github.com/raycast/extensions/tree/main/extensions/octarine) |
 | [aesign](https://www.raycast.com/aesign) | 2 | 1,113 | **Design Tools:** [Sketch](https://github.com/raycast/extensions/tree/main/extensions/sketch)<br>**Data:** [BMW](https://github.com/raycast/extensions/tree/main/extensions/bmw) |
 | [afaan_mushtaq](https://www.raycast.com/afaan_mushtaq) | 1 | 19 | **Applications:** [Windows Screenshot](https://github.com/raycast/extensions/tree/main/extensions/windows-screenshot) |
 | [afok](https://www.raycast.com/afok) | 1 | 903 | **Security:** [Password Store](https://github.com/raycast/extensions/tree/main/extensions/password-store) |

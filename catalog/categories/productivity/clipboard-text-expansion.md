@@ -1,6 +1,6 @@
 # Clipboard & Text Expansion
 
-76 extensions · [← Productivity](./README.md)
+77 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -80,3 +80,4 @@
 | [DevT Pro Tools](https://github.com/raycast/extensions/tree/main/extensions/devt-pro-tools) | 4 | Search, pin, and launch tools in DevT Pro, a paid developer toolbox app for macOS and Windows that is sold separately. Tools that accept input open pre-filled… | devtpro | macOS, Windows | [store](https://www.raycast.com/devtpro/devt-pro-tools) |
 | [FlowSpeech TTS](https://github.com/raycast/extensions/tree/main/extensions/flowspeech-tts) | 1 | Turn selected or copied text into natural speech with FlowSpeech | waeckerlinfederowicz66-sketch | macOS | [store](https://www.raycast.com/waeckerlinfederowicz66-sketch/flowspeech-tts) |
 | [Nepali Typing](https://github.com/raycast/extensions/tree/main/extensions/nepali-typing) | 1 | Convert romanized Nepali to Devanagari and paste it anywhere. | viper_x | macOS | [store](https://www.raycast.com/viper_x/nepali-typing) |
+| [Hostbeam](https://github.com/raycast/extensions/tree/main/extensions/hostbeam) | 0 | Control the Hostbeam Mac app — beam the screenshot on your clipboard to a remote host and get the paste-ready path back. | PunkABeat | macOS | [store](https://www.raycast.com/PunkABeat/hostbeam) |
