@@ -120,7 +120,7 @@
 | [jsonbored](https://www.raycast.com/JSONbored) | 1 | 208 | **Developer Tools:** [HeyClaude](https://github.com/raycast/extensions/tree/main/extensions/heyclaude) |
 | [jstnw10](https://www.raycast.com/jstnw10) | 1 | 34 | **Data:** [Solana Nodes](https://github.com/raycast/extensions/tree/main/extensions/nodes) |
 | [jsumnersmith](https://www.raycast.com/jsumnersmith) | 1 | 49 | **Fun:** [Metaphorpsum](https://github.com/raycast/extensions/tree/main/extensions/metaphorpsum) |
-| juan_carlos_cavero_gracia | 1 | — | **Productivity:** [Upload-Post](https://github.com/raycast/extensions/tree/main/extensions/upload-post) |
+| [juan_carlos_cavero_gracia](https://www.raycast.com/juan_carlos_cavero_gracia) | 1 | 0 | **Productivity:** [Upload-Post](https://github.com/raycast/extensions/tree/main/extensions/upload-post) |
 | [jueet](https://www.raycast.com/jueet) | 1 | 17 | **Fun:** [Manga Mexico](https://github.com/raycast/extensions/tree/main/extensions/manga-calendar) |
 | [juhamust](https://www.raycast.com/juhamust) | 2 | 1,304 | **Documentation:** [Pianoman](https://github.com/raycast/extensions/tree/main/extensions/pianoman)<br>**Fun:** [Fluent Outdoors](https://github.com/raycast/extensions/tree/main/extensions/fluent-outdoors) |
 | [juice49](https://www.raycast.com/juice49) | 1 | 192 | **Developer Tools:** [GROQ Tools](https://github.com/raycast/extensions/tree/main/extensions/groq-tools) |

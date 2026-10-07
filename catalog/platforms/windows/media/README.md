@@ -43,7 +43,7 @@
 | [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | 200 | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
 | [Tails](https://github.com/raycast/extensions/tree/main/extensions/tails) | 157 | Download media from YouTube, Instagram, and more | iambtshft | macOS, Windows | [store](https://www.raycast.com/iambtshft/tails) |
 | [WiiM Remote](https://github.com/raycast/extensions/tree/main/extensions/wiim-remote) | 17 | Control your WiiM device | roele | macOS, Windows | [store](https://www.raycast.com/roele/wiim-remote) |
-| [Upload-Post](https://github.com/raycast/extensions/tree/main/extensions/upload-post) | — | Publish and schedule videos, photos and text posts to TikTok, Instagram, YouTube, LinkedIn, X and more social networks with Upload-Post | juan_carlos_cavero_gracia | macOS, Windows | — |
+| [Upload-Post](https://github.com/raycast/extensions/tree/main/extensions/upload-post) | 0 | Publish and schedule videos, photos and text posts to TikTok, Instagram, YouTube, LinkedIn, X and more social networks with Upload-Post | juan_carlos_cavero_gracia | macOS, Windows | [store](https://www.raycast.com/juan_carlos_cavero_gracia/upload-post) |
 
 ## Look & Read
 

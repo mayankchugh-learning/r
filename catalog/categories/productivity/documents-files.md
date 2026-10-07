@@ -97,7 +97,7 @@
 | [Fakecrime Upload](https://github.com/raycast/extensions/tree/main/extensions/fakecrime-upload) | 15 | Upload an image to the Fakecrime server and get a short URL in return. | berkaydigital | macOS | [store](https://www.raycast.com/berkaydigital/fakecrime-upload) |
 | [EdgeStore](https://github.com/raycast/extensions/tree/main/extensions/edgestore-raycast) | 12 | Upload files and manage your EdgeStore account. | ravi_s | macOS, Windows | [store](https://www.raycast.com/ravi_s/edgestore-raycast) |
 | [Hack Club CDN](https://github.com/raycast/extensions/tree/main/extensions/hack-club-cdn) | 2 | Upload files to the Hack Club CDN and manage your uploads from Raycast. Requires a Hack Club account (cdn.hackclub.com) and an API token. | garyhtou | macOS | [store](https://www.raycast.com/garyhtou/hack-club-cdn) |
-| [Upload-Post](https://github.com/raycast/extensions/tree/main/extensions/upload-post) | — | Publish and schedule videos, photos and text posts to TikTok, Instagram, YouTube, LinkedIn, X and more social networks with Upload-Post | juan_carlos_cavero_gracia | macOS, Windows | — |
+| [Upload-Post](https://github.com/raycast/extensions/tree/main/extensions/upload-post) | 0 | Publish and schedule videos, photos and text posts to TikTok, Instagram, YouTube, LinkedIn, X and more social networks with Upload-Post | juan_carlos_cavero_gracia | macOS, Windows | [store](https://www.raycast.com/juan_carlos_cavero_gracia/upload-post) |
 
 ## Download ✦
 
