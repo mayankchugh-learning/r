@@ -1,12 +1,12 @@
 # Rob
 
-11 extensions · 12,429 downloads · [store](https://www.raycast.com/Rob) · [← publishers](../README.md)
+11 extensions · 12,433 downloads · [store](https://www.raycast.com/Rob) · [← publishers](../README.md)
 
 ## Productivity (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 8,152 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 8,154 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
 | [Rabbit Hole](https://github.com/raycast/extensions/tree/main/extensions/rabbit-hole) | 119 | Discover and manage information your Rabbit r1 has saved in your rabbit hole journal. | Rob | macOS | [store](https://www.raycast.com/Rob/rabbit-hole) |
 
 ## Fun (5)
@@ -16,7 +16,7 @@
 | [Dungeons & Dragons](https://github.com/raycast/extensions/tree/main/extensions/dungeons-and-dragons) | 721 | All things DND 5e | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/dungeons-dragons) |
 | [Oura](https://github.com/raycast/extensions/tree/main/extensions/oura) | 570 | Get data from your Oura ring experience to keep track of your readiness, sleep, activity, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/oura) |
 | [Metacritic](https://github.com/raycast/extensions/tree/main/extensions/metacritic) | 415 | Search Metacritic aggregate reviews for movies, video games, and tv shows. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/metacritic) |
-| [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 363 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
+| [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 364 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
 | [Bump Name Match](https://github.com/raycast/extensions/tree/main/extensions/bumpnamematch) | 6 | Discover name meanings, origins, and more - then match your favorite baby names with your partner | Rob | macOS | [store](https://www.raycast.com/Rob/bump-name-match) |
 
 ## Design Tools (2)
@@ -36,4 +36,4 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Storyblok](https://github.com/raycast/extensions/tree/main/extensions/storyblok) | 77 | Query your Storyblok spaces, stories, assets, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/storyblok) |
+| [Storyblok](https://github.com/raycast/extensions/tree/main/extensions/storyblok) | 78 | Query your Storyblok spaces, stories, assets, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/storyblok) |

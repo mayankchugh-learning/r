@@ -4,4 +4,4 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Convert 3D Models](https://github.com/raycast/extensions/tree/main/extensions/convert-3d-models) | 372 | An extension to convert 3D models to different formats. | mrnoisytiger | macOS | [store](https://www.raycast.com/mrnoisytiger/convert-3d-models) |
+| [Convert 3D Models](https://github.com/raycast/extensions/tree/main/extensions/convert-3d-models) | 373 | An extension to convert 3D models to different formats. | mrnoisytiger | macOS | [store](https://www.raycast.com/mrnoisytiger/convert-3d-models) |

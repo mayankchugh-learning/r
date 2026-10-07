@@ -1,8 +1,8 @@
 # Other
 
-186 extensions · [← all categories](../README.md)
+187 extensions · [← all categories](../README.md)
 
-macOS: 184 · Windows: 40
+macOS: 185 · Windows: 40
 
 ## Digital Tools
 
@@ -31,4 +31,4 @@ macOS: 184 · Windows: 40
 | [Communication & Social](./communication-social.md) | 3 |
 | [Language & Translation](./language-translation.md) | 9 |
 
-Plus [General](./general.md) — 68 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 69 extensions that don't fit a topic yet.
