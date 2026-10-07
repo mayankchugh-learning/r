@@ -1,20 +1,20 @@
 # litomore
 
-13 extensions · 14,444 downloads · [store](https://www.raycast.com/litomore) · [← publishers](../README.md)
+13 extensions · 14,456 downloads · [store](https://www.raycast.com/litomore) · [← publishers](../README.md)
 
 ## Design Tools (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) | 4,835 | Browse, Search, and Copy 3400+ popular brand icons from Simple Icons. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/simple-icons) |
+| [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) | 4,839 | Browse, Search, and Copy 3400+ popular brand icons from Simple Icons. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/simple-icons) |
 | [TourBox](https://github.com/raycast/extensions/tree/main/extensions/tourbox) | 69 | Find Your Desired TourBox Preset | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/tourbox) |
 
 ## Communication (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 3,154 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
-| [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 887 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
+| [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 3,158 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
+| [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 888 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
 
 ## Developer Tools (3)
 
@@ -28,7 +28,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ProtonDB](https://github.com/raycast/extensions/tree/main/extensions/protondb) | 668 | Browse game information for Proton, Linux, Steam Deck, and SteamOS. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/protondb) |
+| [ProtonDB](https://github.com/raycast/extensions/tree/main/extensions/protondb) | 669 | Browse game information for Proton, Linux, Steam Deck, and SteamOS. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/protondb) |
 | [United Nations](https://github.com/raycast/extensions/tree/main/extensions/united-nations) | 161 | Peace, dignity and equality on a healthy planet. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/united-nations) |
 | [MapleStory](https://github.com/raycast/extensions/tree/main/extensions/maplestory-gg) | 55 | Look up Global MapleStory characters using Nexon rankings. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/maplestory-gg) |
 
@@ -43,4 +43,4 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 755 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |
+| [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 757 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |

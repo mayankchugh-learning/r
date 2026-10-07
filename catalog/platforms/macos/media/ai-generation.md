@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) | 11,428 | AI generation using OpenAI's GPT-3 and DALL·E AI models | josephschmitt | macOS | [store](https://www.raycast.com/josephschmitt/ai-gen) |
-| [GetSound](https://github.com/raycast/extensions/tree/main/extensions/getsound) | 745 | Get focused with GetSound.AI | getsound-ai (org) | macOS | [store](https://www.raycast.com/getsound-ai/getsound) |
+| [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) | 11,430 | AI generation using OpenAI's GPT-3 and DALL·E AI models | josephschmitt | macOS | [store](https://www.raycast.com/josephschmitt/ai-gen) |
+| [GetSound](https://github.com/raycast/extensions/tree/main/extensions/getsound) | 747 | Get focused with GetSound.AI | getsound-ai (org) | macOS | [store](https://www.raycast.com/getsound-ai/getsound) |
 | [Replicate](https://github.com/raycast/extensions/tree/main/extensions/replicate) | 614 | Run Replicate's AI models from Raycast, and use them in Raycast AI chats. | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/replicate) |
 | [Language Detector](https://github.com/raycast/extensions/tree/main/extensions/language-detector) | 253 | Detect languages through Raycast AI or third-party language detectors. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/language-detector) |
 | [Plaud](https://github.com/raycast/extensions/tree/main/extensions/plaud) | 20 | Browse your Plaud AI recorder notes and copy links to them | patricklenz | macOS | [store](https://www.raycast.com/patricklenz/plaud) |

@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian) | 174,772 | Control Obsidian with Raycast | marcjulian | macOS, Windows | [store](https://www.raycast.com/marcjulian/obsidian) |
-| [Obsidian Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks) | 7,036 | Manage your bookmarked links with Obsidian. Save, search, and access your bookmarks. Supports Safari, Arc and other Chromium-based browsers | dru89 | macOS | [store](https://www.raycast.com/dru89/obsidian-bookmarks) |
-| [Obsidian Tasks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-tasks) | 4,539 | Manage your Obsidian Tasks through Raycast | ozencb | macOS | [store](https://www.raycast.com/ozencb/obsidian-tasks) |
-| [TaskNotes](https://github.com/raycast/extensions/tree/main/extensions/tasknotes) | 100 | Manage TaskNotes tasks in Obsidian from Raycast. | robinradx | macOS | [store](https://www.raycast.com/robinradx/tasknotes) |
+| [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian) | 174,916 | Control Obsidian with Raycast | marcjulian | macOS, Windows | [store](https://www.raycast.com/marcjulian/obsidian) |
+| [Obsidian Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks) | 7,037 | Manage your bookmarked links with Obsidian. Save, search, and access your bookmarks. Supports Safari, Arc and other Chromium-based browsers | dru89 | macOS | [store](https://www.raycast.com/dru89/obsidian-bookmarks) |
+| [Obsidian Tasks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-tasks) | 4,543 | Manage your Obsidian Tasks through Raycast | ozencb | macOS | [store](https://www.raycast.com/ozencb/obsidian-tasks) |
+| [TaskNotes](https://github.com/raycast/extensions/tree/main/extensions/tasknotes) | 101 | Manage TaskNotes tasks in Obsidian from Raycast. | robinradx | macOS | [store](https://www.raycast.com/robinradx/tasknotes) |
