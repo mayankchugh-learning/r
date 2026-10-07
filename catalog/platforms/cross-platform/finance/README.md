@@ -51,7 +51,7 @@
 | [BC Assessment](https://github.com/raycast/extensions/tree/main/extensions/bcassessment) | 5 | Search BC Assessment properties by address. | martins | macOS, Windows | [store](https://www.raycast.com/martins/bcassessment) |
 | [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) | 5 | Add expense and income to your Toshl account | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/quick-toshl) |
 | [Wlthy](https://github.com/raycast/extensions/tree/main/extensions/wlthy) | 3 | See your net worth, day and month change, and allocation from your wlthy wealth account — read-only, without leaving your keyboard. | alirbaba | macOS, Windows | [store](https://www.raycast.com/alirbaba/wlthy) |
-| [Synci](https://github.com/raycast/extensions/tree/main/extensions/synci) | — | Search transactions, check balances and holdings, monitor connections, and ask Raycast AI about your finances with Synci. | tonning | macOS, Windows | — |
+| [Synci](https://github.com/raycast/extensions/tree/main/extensions/synci) | 0 | Search transactions, check balances and holdings, monitor connections, and ask Raycast AI about your finances with Synci. | tonning | macOS, Windows | [store](https://www.raycast.com/tonning/synci) |
 
 ### Banking & Payments
 

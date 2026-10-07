@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2d3ee5fa2abc475ecc24c064d6b58aa6c0eb40b8",
-  "generatedAt": "2026-10-07T13:26:22.356Z",
-  "downloadsRefreshedAt": "2026-10-07T13:26:22.019Z",
+  "commit": "c40d58e582ec92d641b158c3e7a3b6dc015dd1dc",
+  "generatedAt": "2026-10-07T13:28:30.391Z",
+  "downloadsRefreshedAt": "2026-10-07T13:28:29.822Z",
   "count": 3387,
   "extensions": [
     {
@@ -10442,7 +10442,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 614410
+      "downloads": 614411
     },
     {
       "dir": "color-shades",
@@ -11800,10 +11800,10 @@
       "dir": "craftdocs",
       "name": "craftdocs",
       "title": "Craft",
-      "description": "Search Blocks, browse and add to Daily Notes, and manage Spaces in Craft",
+      "description": "Search Blocks, browse and add to Daily Notes, and manage Spaces in Craft. Includes AI tools to search and write to Craft.",
       "author": "sfkmk",
       "owner": null,
-      "contributors": 3,
+      "contributors": 4,
       "categories": [
         "Productivity"
       ],
@@ -11813,7 +11813,7 @@
       ],
       "store": "https://www.raycast.com/sfkmk/craftdocs",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/craftdocs",
-      "treeSha": "b1efcc40ff7407a7dc93a303a74a3aa6921a1001",
+      "treeSha": "b12e974586bac5a86f6546c9fd1c079c8bd87172",
       "downloads": 14912
     },
     {
@@ -23597,7 +23597,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 496931
+      "downloads": 496932
     },
     {
       "dir": "google-trends",
@@ -29790,7 +29790,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 774337
+      "downloads": 774339
     },
     {
       "dir": "kimai",
@@ -59669,10 +59669,10 @@
         "macOS",
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/tonning/synci",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/synci",
       "treeSha": "e34b5d6513fb4269f759d8498ef5e4364f92e7ea",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "synology-download-station",

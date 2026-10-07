@@ -10,14 +10,14 @@ macOS: 1534 · Windows: 400
 | --- | --- |
 | [Tasks & To-Dos](./tasks-to-dos.md) | 50 |
 | [Calendar & Scheduling](./calendar-scheduling.md) | 26 |
-| [Notes & Knowledge](./notes-knowledge/README.md) | 67 |
+| [Notes & Knowledge](./notes-knowledge/README.md) | 66 |
 | [Time Tracking & Focus](./time-tracking-focus.md) | 26 |
 
 ## Write & Create
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & Assistants](./ai-assistants/README.md) | 147 |
+| [AI & Assistants](./ai-assistants/README.md) | 148 |
 | [Writing & Text Tools](./writing-text-tools.md) | 75 |
 | [Documents & Files](./documents-files.md) | 141 |
 | [Email](./email.md) | 24 |

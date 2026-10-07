@@ -1,8 +1,8 @@
 # AI ✦
 
-114 extensions · [← AI & Assistants](./README.md)
+115 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Models ✦](#models) (15) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (7) · [Openai ✦](#openai) (7) · [Tasks ✦](#tasks) (5) · [Prompts ✦](#prompts) (4) · [Capture ✦](#capture) (4) · [General](#general) (49)
+[Powered ✦](#powered) (16) · [Models ✦](#models) (15) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (7) · [Openai ✦](#openai) (7) · [Tasks ✦](#tasks) (5) · [Prompts ✦](#prompts) (4) · [Notes ✦](#notes) (5) · [General](#general) (49)
 
 *✦ auto-discovered topic group*
 
@@ -69,7 +69,7 @@
 | [Ask Dust](https://github.com/raycast/extensions/tree/main/extensions/dust-tt) | 898 | Query dust.tt AI agents | albandum | macOS | [store](https://www.raycast.com/albandum/dust-tt) |
 | [Port.io](https://github.com/raycast/extensions/tree/main/extensions/port) | 33 | Access Port.io dashboards, run self-service actions, and ask Port AI questions | etay_alony | macOS | [store](https://www.raycast.com/etay_alony/port) |
 | [SaaSFlow](https://github.com/raycast/extensions/tree/main/extensions/saasflow) | 11 | Track MRR, browse customers and transactions, and ask AI questions about your SaaSFlow data — without leaving Raycast. | saasflow (org) | macOS | [store](https://www.raycast.com/saasflow/saasflow) |
-| [Synci](https://github.com/raycast/extensions/tree/main/extensions/synci) | — | Search transactions, check balances and holdings, monitor connections, and ask Raycast AI about your finances with Synci. | tonning | macOS, Windows | — |
+| [Synci](https://github.com/raycast/extensions/tree/main/extensions/synci) | 0 | Search transactions, check balances and holdings, monitor connections, and ask Raycast AI about your finances with Synci. | tonning | macOS, Windows | [store](https://www.raycast.com/tonning/synci) |
 
 ## Openai ✦
 
@@ -102,13 +102,14 @@
 | [Shell Buddy](https://github.com/raycast/extensions/tree/main/extensions/shell-buddy) | 1,606 | Converts natural language prompts to shell commands with AI | jebraat | macOS | [store](https://www.raycast.com/jebraat/shell-buddy) |
 | [PromptNote](https://github.com/raycast/extensions/tree/main/extensions/promptnote) | 177 | Manage your AI prompts with versioning and cloud sync | dimpurr | macOS | [store](https://www.raycast.com/dimpurr/promptnote) |
 
-## Capture ✦
+## Notes ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs) | 14,912 | Search Blocks, browse and add to Daily Notes, and manage Spaces in Craft. Includes AI tools to search and write to Craft. | sfkmk | macOS | [store](https://www.raycast.com/sfkmk/craftdocs) |
 | [Remo](https://github.com/raycast/extensions/tree/main/extensions/remo-notes) | 29 | Remo is a simple, fast AI note-taking app. Capture ideas instantly, stay organized, and use AI to turn notes into action — on web and Raycast. | alfredmouelle | macOS | [store](https://www.raycast.com/alfredmouelle/remo-notes) |
-| [SnipperApp](https://github.com/raycast/extensions/tree/main/extensions/snipperapp) | 17 | Search, paste, and capture code snippets from your SnipperApp library and the SnipperApp Hub — with workspaces, favorites, and AI. | teologov | macOS | [store](https://www.raycast.com/teologov/snipperapp) |
-| [Jovida Daily](https://github.com/raycast/extensions/tree/main/extensions/jovida-daily) | 3 | Capture and manage your Jovida Daily todos — and let Raycast AI do it for you. | AidenZ | macOS | [store](https://www.raycast.com/AidenZ/jovida-daily) |
+| [GetNote](https://github.com/raycast/extensions/tree/main/extensions/get-note) | 22 | Search, save, and manage GetNote notes with Raycast AI | fangbaiyu | macOS | [store](https://www.raycast.com/fangbaiyu/get-note) |
+| [Plaud](https://github.com/raycast/extensions/tree/main/extensions/plaud) | 20 | Browse your Plaud AI recorder notes and copy links to them | patricklenz | macOS | [store](https://www.raycast.com/patricklenz/plaud) |
 | [Baalda](https://github.com/raycast/extensions/tree/main/extensions/baalda) | 2 | Manage your Baalda second brain from Raycast with note capture, search, folders, and AI tools. | owendavidprice | macOS, Windows | [store](https://www.raycast.com/owendavidprice/baalda) |
 
 ## General
@@ -152,9 +153,8 @@
 | [Val Town](https://github.com/raycast/extensions/tree/main/extensions/val-town) | 63 | Browse your vals, read their logs and traces, and allow Raycast AI to run the ones you choose | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/val-town) |
 | [Soulver](https://github.com/raycast/extensions/tree/main/extensions/soulver) | 39 | Leverage the Soulver CLI to solve expressions and manage your Soulver sheetbooks using Raycast and Raycast AI. | bitforger | macOS | [store](https://www.raycast.com/bitforger/soulver) |
 | [Design File Finder](https://github.com/raycast/extensions/tree/main/extensions/design-file-finder) | 27 | Search, sort by recency, and launch design project files (.prproj, .psd, .psb, .ai, .aep) across mounted drives. | yusoufu | macOS | [store](https://www.raycast.com/yusoufu/design-file-finder) |
-| [GetNote](https://github.com/raycast/extensions/tree/main/extensions/get-note) | 22 | Search, save, and manage GetNote notes with Raycast AI | fangbaiyu | macOS | [store](https://www.raycast.com/fangbaiyu/get-note) |
-| [Plaud](https://github.com/raycast/extensions/tree/main/extensions/plaud) | 20 | Browse your Plaud AI recorder notes and copy links to them | patricklenz | macOS | [store](https://www.raycast.com/patricklenz/plaud) |
 | [Bangumi](https://github.com/raycast/extensions/tree/main/extensions/bangumi) | 18 | A full-featured Bangumi client for Raycast. Manage collections, track progress, search subjects and characters, view daily schedules. Includes AI tools for Ray… | maxchang3 | Windows, macOS | [store](https://www.raycast.com/maxchang3/bangumi) |
+| [SnipperApp](https://github.com/raycast/extensions/tree/main/extensions/snipperapp) | 17 | Search, paste, and capture code snippets from your SnipperApp library and the SnipperApp Hub — with workspaces, favorites, and AI. | teologov | macOS | [store](https://www.raycast.com/teologov/snipperapp) |
 | [Executor](https://github.com/raycast/extensions/tree/main/extensions/executor) | 13 | Run connected tools, automate with Raycast AI, and manage your Executor workspaces | jerichosequitin | macOS | [store](https://www.raycast.com/jerichosequitin/executor) |
 | [AI to PDF](https://github.com/raycast/extensions/tree/main/extensions/ai-to-pdf) | 11 | Convert Adobe Illustrator (.ai) files to print-ready PDF, with or without bleed, using Illustrator's own PDF export. | guus | macOS | [store](https://www.raycast.com/guus/ai-to-pdf) |
 | [Bhagavad Gita Quotes](https://github.com/raycast/extensions/tree/main/extensions/bhagavad-gita-quotes) | 11 | Read and search Bhagavad Gita quotes (AI features require Raycast AI). | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/bhagavad-gita-quotes) |
@@ -164,3 +164,4 @@
 | [Ultrahuman Insights](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman-insights) | 7 | Smart insights, AI tools, and trend charts for your Ultrahuman Ring AIR. | aryan_rustagi | macOS, Windows | [store](https://www.raycast.com/aryan_rustagi/ultrahuman-insights) |
 | [Tinkerer Club](https://github.com/raycast/extensions/tree/main/extensions/tinkerer-club) | 5 | Browse and participate in Tinkerer Club from Raycast, with confirmable AI tools. | Olli0103 | macOS | [store](https://www.raycast.com/Olli0103/tinkerer-club) |
 | [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) | 4 | Shorten links with U2L AI. Create short links from an argument, selection, or clipboard, search your links, and check click stats. | u2l | macOS, Windows | [store](https://www.raycast.com/u2l/u2l) |
+| [Jovida Daily](https://github.com/raycast/extensions/tree/main/extensions/jovida-daily) | 3 | Capture and manage your Jovida Daily todos — and let Raycast AI do it for you. | AidenZ | macOS | [store](https://www.raycast.com/AidenZ/jovida-daily) |

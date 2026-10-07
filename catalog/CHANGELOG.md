@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-07 — upstream `c40d58e582`
+
+**Updated (1):** [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs)
+
 ## 2026-10-07 — upstream `2d3ee5fa2a`
 
 **Added (1):** [Synci](https://github.com/raycast/extensions/tree/main/extensions/synci)

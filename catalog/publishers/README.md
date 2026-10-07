@@ -8,11 +8,11 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,298,527 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,298,528 |
 | 2 | [raycast](./id/raycast.md) | 11 | 907,383 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 774,337 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 774,339 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 569,442 |
-| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,079 |
+| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,080 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 494,005 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 460,252 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 401,715 |
@@ -2282,8 +2282,8 @@
 | 2272 | [sbd530](https://www.raycast.com/sbd530) | 1 | 0 |
 | 2273 | [tetracorellc](https://www.raycast.com/tetracorellc) | 1 | 0 |
 | 2274 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2275 | [villem](https://www.raycast.com/villem) | 1 | 0 |
-| 2276 | github-next | 2 | — |
-| 2277 | eugenio | 1 | — |
-| 2278 | multi | 1 | — |
-| 2279 | tonning | 1 | — |
+| 2275 | [tonning](https://www.raycast.com/tonning) | 1 | 0 |
+| 2276 | [villem](https://www.raycast.com/villem) | 1 | 0 |
+| 2277 | github-next | 2 | — |
+| 2278 | eugenio | 1 | — |
+| 2279 | multi | 1 | — |

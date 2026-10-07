@@ -8,14 +8,14 @@
 | --- | --- |
 | [Tasks & To-Dos](./tasks-to-dos.md) | 50 |
 | [Calendar & Scheduling](./calendar-scheduling.md) | 26 |
-| [Notes & Knowledge](./notes-knowledge.md) | 67 |
+| [Notes & Knowledge](./notes-knowledge.md) | 66 |
 | [Time Tracking & Focus](./time-tracking-focus.md) | 26 |
 
 ## Write & Create
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & Assistants](./ai-assistants.md) | 146 |
+| [AI & Assistants](./ai-assistants.md) | 147 |
 | [Writing & Text Tools](./writing-text-tools.md) | 75 |
 | [Documents & Files](./documents-files.md) | 141 |
 | [Email](./email.md) | 24 |
