@@ -43,7 +43,7 @@
 | [adrian-schnell](https://www.raycast.com/adrian-schnell) | 4 | 1,370 | **Productivity:** [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simplelogin)<br>**Finance:** [DefiScan.live](https://github.com/raycast/extensions/tree/main/extensions/defiscan), [Defichain Dobby](https://github.com/raycast/extensions/tree/main/extensions/defichain-dobby)<br>**Fun:** [Defichain Lottery](https://github.com/raycast/extensions/tree/main/extensions/defichain-lottery) |
 | [adrianbonpin](https://www.raycast.com/adrianbonpin) | 1 | 11 | **Productivity:** [Next Up](https://github.com/raycast/extensions/tree/main/extensions/next-up) |
 | [adrianmarten](https://www.raycast.com/adrianmarten) | 1 | 28 | **Developer Tools:** [Supabase Cron Monitor](https://github.com/raycast/extensions/tree/main/extensions/supabase-cron-monitor) |
-| advaitthakur | 1 | — | **Other:** [Apex Connect+](https://github.com/raycast/extensions/tree/main/extensions/apexconnect) |
+| [advaitthakur](https://www.raycast.com/advaitthakur) | 1 | 0 | **Other:** [Apex Connect+](https://github.com/raycast/extensions/tree/main/extensions/apexconnect) |
 | [aelew](https://www.raycast.com/aelew) | 1 | 7,162 | **Applications:** [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) |
 | [aerobless](https://www.raycast.com/aerobless) | 1 | 365 | **Productivity:** [Static Marks - Bookmark Search](https://github.com/raycast/extensions/tree/main/extensions/static-marks-bookmarks) |
 | [aerz](https://www.raycast.com/aerz) | 1 | 0 | **Productivity:** [Octarine](https://github.com/raycast/extensions/tree/main/extensions/octarine) |

@@ -1,8 +1,8 @@
 # Tasks & To-Dos
 
-51 extensions · [← Productivity](./README.md)
+52 extensions · [← Productivity](./README.md)
 
-[Tasks ✦](#tasks) (38) · [Reminders ✦](#reminders) (5) · [General](#general) (8)
+[Tasks ✦](#tasks) (39) · [Reminders ✦](#reminders) (5) · [General](#general) (8)
 
 *✦ auto-discovered topic group*
 
@@ -48,6 +48,7 @@
 | [Hule](https://github.com/raycast/extensions/tree/main/extensions/hule) | 2 | Create, find and update Hule tasks without leaving your keyboard. | tony_hule | macOS | [store](https://www.raycast.com/tony_hule/hule) |
 | [Kofa](https://github.com/raycast/extensions/tree/main/extensions/kofa) | 2 | Quickly capture tasks into Kofa, the minimalist todo and day planner. | petar_yovkov | macOS, Windows | [store](https://www.raycast.com/petar_yovkov/kofa) |
 | [Hora Calendar](https://github.com/raycast/extensions/tree/main/extensions/hora-calendar) | 0 | The official hora Calendar extension. Create events and tasks in plain language and join your next meeting, without leaving Raycast. | szamski | macOS | [store](https://www.raycast.com/szamski/hora-calendar) |
+| [Microsoft To Do via ms-todo](https://github.com/raycast/extensions/tree/main/extensions/ms-todo) | 0 | Browse, search, and manage Microsoft To Do tasks through your local ms-todo cache | bhekanik | macOS | [store](https://www.raycast.com/bhekanik/ms-todo) |
 
 ## Reminders ✦
 

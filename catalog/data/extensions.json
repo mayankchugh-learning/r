@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4121ece3ddea0d7826c3a9466bdf0e919215a14e",
-  "generatedAt": "2026-10-07T16:07:56.674Z",
-  "downloadsRefreshedAt": "2026-10-07T16:07:55.935Z",
-  "count": 3389,
+  "commit": "9a0386d3493961ab804234865d760f3c472f9145",
+  "generatedAt": "2026-10-07T16:30:34.954Z",
+  "downloadsRefreshedAt": "2026-10-07T16:30:34.540Z",
+  "count": 3390,
   "extensions": [
     {
       "dir": "0x0",
@@ -2202,10 +2202,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/advaitthakur/apexconnect",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apexconnect",
       "treeSha": "5514e339c9d8869855e73b64d49bcee8592bba78",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "apfel",
@@ -10462,7 +10462,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 614550
+      "downloads": 614565
     },
     {
       "dir": "color-shades",
@@ -23617,7 +23617,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 497024
+      "downloads": 497032
     },
     {
       "dir": "google-trends",
@@ -29831,7 +29831,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 774488
+      "downloads": 774509
     },
     {
       "dir": "kimai",
@@ -37229,6 +37229,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mozilla-vpn",
       "treeSha": "414712d77fab6a3c8cb3c2d9c9099c7515e52cb8",
       "downloads": 164
+    },
+    {
+      "dir": "ms-todo",
+      "name": "ms-todo",
+      "title": "Microsoft To Do via ms-todo",
+      "description": "Browse, search, and manage Microsoft To Do tasks through your local ms-todo cache",
+      "author": "bhekanik",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/bhekanik/ms-todo",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/ms-todo",
+      "treeSha": "332b5fa574ca6d5a0bd5fc121fd66de4203cdc18",
+      "downloads": 0
     },
     {
       "dir": "mui-documentation",

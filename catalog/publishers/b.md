@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · **B** · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-84 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+85 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -44,6 +44,7 @@
 | [bgnfu7re](https://www.raycast.com/bgnfu7re) | 5 | 10,734 | **Productivity:** [DEVONthink](https://github.com/raycast/extensions/tree/main/extensions/devonthink), [Timeular](https://github.com/raycast/extensions/tree/main/extensions/timeular)<br>**Design Tools:** [Flaticon — Search Icons](https://github.com/raycast/extensions/tree/main/extensions/flaticon)<br>**Developer Tools:** [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog)<br>**Finance:** [Recurly](https://github.com/raycast/extensions/tree/main/extensions/recurly) |
 | [bgreenlee](https://www.raycast.com/bgreenlee) | 1 | 3,704 | **Developer Tools:** [Epoch to Timestamp](https://github.com/raycast/extensions/tree/main/extensions/epoch-to-timestamp) |
 | [bhavya_muni](https://www.raycast.com/bhavya_muni) | 1 | 285 | **Developer Tools:** [Google Cloud Run](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-run) |
+| [bhekanik](https://www.raycast.com/bhekanik) | 1 | 0 | **Productivity:** [Microsoft To Do via ms-todo](https://github.com/raycast/extensions/tree/main/extensions/ms-todo) |
 | [biknandy](https://www.raycast.com/biknandy) | 1 | 7,808 | **Productivity:** [Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/quick-notes) |
 | [bilal_k](https://www.raycast.com/bilal_k) | 1 | 12 | **Productivity:** [WishApp](https://github.com/raycast/extensions/tree/main/extensions/wishapp) |
 | [Binary-Bytes](https://www.raycast.com/Binary-Bytes) | 1 | 167 | **Fun:** [Shakespearify](https://github.com/raycast/extensions/tree/main/extensions/shakespearify) |

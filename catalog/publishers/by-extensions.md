@@ -1,6 +1,6 @@
 # Publishers
 
-2281 publishers · [← catalog index](../README.md)
+2282 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 170,163 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,876 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,923 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,299,252 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,299,267 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 460,633 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,918 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,470 |
@@ -99,7 +99,7 @@
 | 89 | [SevicheCC](https://www.raycast.com/SevicheCC) | 4 | 1,056 |
 | 90 | [aic](https://www.raycast.com/aic) | 4 | 518 |
 | 91 | [Olli0103](https://www.raycast.com/Olli0103) | 4 | 206 |
-| 92 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,172 |
+| 92 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,180 |
 | 93 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 494,379 |
 | 94 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 117,404 |
 | 95 | [erics118](https://www.raycast.com/erics118) | 3 | 107,226 |
@@ -407,7 +407,7 @@
 | 397 | [TwoMental](https://www.raycast.com/twomental) | 2 | 17 |
 | 398 | [frdmn](https://www.raycast.com/frdmn) | 2 | 1 |
 | 399 | github-next | 2 | — |
-| 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 774,488 |
+| 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 774,509 |
 | 401 | [Codely](https://www.raycast.com/Codely) | 1 | 569,890 |
 | 402 | [linear](https://www.raycast.com/linear) | 1 | 402,005 |
 | 403 | [mommertf](https://www.raycast.com/mommertf) | 1 | 334,922 |
@@ -2268,24 +2268,25 @@
 | 2258 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2259 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 1 |
 | 2260 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 1 |
-| 2261 | [aerz](https://www.raycast.com/aerz) | 1 | 0 |
-| 2262 | [andrey_tolstikov](https://www.raycast.com/andrey_tolstikov) | 1 | 0 |
-| 2263 | [ariel_conti](https://www.raycast.com/ariel_conti) | 1 | 0 |
-| 2264 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2265 | [derJan](https://www.raycast.com/derJan) | 1 | 0 |
-| 2266 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2267 | [juan_carlos_cavero_gracia](https://www.raycast.com/juan_carlos_cavero_gracia) | 1 | 0 |
-| 2268 | [kdmsnr](https://www.raycast.com/kdmsnr) | 1 | 0 |
-| 2269 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2270 | [Marcelismus](https://www.raycast.com/Marcelismus) | 1 | 0 |
-| 2271 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2272 | [nhkhang](https://www.raycast.com/nhkhang) | 1 | 0 |
-| 2273 | [PunkABeat](https://www.raycast.com/PunkABeat) | 1 | 0 |
-| 2274 | [sbd530](https://www.raycast.com/sbd530) | 1 | 0 |
-| 2275 | [szamski](https://www.raycast.com/szamski) | 1 | 0 |
-| 2276 | [tetracorellc](https://www.raycast.com/tetracorellc) | 1 | 0 |
-| 2277 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2278 | [villem](https://www.raycast.com/villem) | 1 | 0 |
-| 2279 | advaitthakur | 1 | — |
-| 2280 | eugenio | 1 | — |
-| 2281 | multi | 1 | — |
+| 2261 | [advaitthakur](https://www.raycast.com/advaitthakur) | 1 | 0 |
+| 2262 | [aerz](https://www.raycast.com/aerz) | 1 | 0 |
+| 2263 | [andrey_tolstikov](https://www.raycast.com/andrey_tolstikov) | 1 | 0 |
+| 2264 | [ariel_conti](https://www.raycast.com/ariel_conti) | 1 | 0 |
+| 2265 | [bhekanik](https://www.raycast.com/bhekanik) | 1 | 0 |
+| 2266 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
+| 2267 | [derJan](https://www.raycast.com/derJan) | 1 | 0 |
+| 2268 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2269 | [juan_carlos_cavero_gracia](https://www.raycast.com/juan_carlos_cavero_gracia) | 1 | 0 |
+| 2270 | [kdmsnr](https://www.raycast.com/kdmsnr) | 1 | 0 |
+| 2271 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2272 | [Marcelismus](https://www.raycast.com/Marcelismus) | 1 | 0 |
+| 2273 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2274 | [nhkhang](https://www.raycast.com/nhkhang) | 1 | 0 |
+| 2275 | [PunkABeat](https://www.raycast.com/PunkABeat) | 1 | 0 |
+| 2276 | [sbd530](https://www.raycast.com/sbd530) | 1 | 0 |
+| 2277 | [szamski](https://www.raycast.com/szamski) | 1 | 0 |
+| 2278 | [tetracorellc](https://www.raycast.com/tetracorellc) | 1 | 0 |
+| 2279 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2280 | [villem](https://www.raycast.com/villem) | 1 | 0 |
+| 2281 | eugenio | 1 | — |
+| 2282 | multi | 1 | — |
