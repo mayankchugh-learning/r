@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "87abda6229dc7f75a074aa8531a90056425de247",
-  "generatedAt": "2026-10-07T13:18:49.196Z",
-  "downloadsRefreshedAt": "2026-10-07T13:18:48.638Z",
-  "count": 3385,
+  "commit": "5767311af9b77f6ee897ddad5e78a1bc871c47ed",
+  "generatedAt": "2026-10-07T13:23:26.500Z",
+  "downloadsRefreshedAt": "2026-10-07T13:23:25.623Z",
+  "count": 3386,
   "extensions": [
     {
       "dir": "0x0",
@@ -1641,6 +1641,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/amazon-search",
       "treeSha": "a64e7f1c41426d21a6f58bb0493c398e2fa3f552",
       "downloads": 11625
+    },
+    {
+      "dir": "amp-runner-manager",
+      "name": "amp-runner-manager",
+      "title": "Local Amp Runners",
+      "description": "Manage folders served by local Amp runners",
+      "author": "nhkhang",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/amp-runner-manager",
+      "treeSha": "4c5f2725ee17b1558f02b3389a88759a54ff381d",
+      "downloads": null
     },
     {
       "dir": "amphetamine",
@@ -10421,7 +10442,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 614397
+      "downloads": 614404
     },
     {
       "dir": "color-shades",
@@ -23576,7 +23597,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 496925
+      "downloads": 496928
     },
     {
       "dir": "google-trends",
@@ -29769,7 +29790,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 774324
+      "downloads": 774331
     },
     {
       "dir": "kimai",

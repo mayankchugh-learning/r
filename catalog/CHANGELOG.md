@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-07 — upstream `5767311af9`
+
+**Added (1):** [Local Amp Runners](https://github.com/raycast/extensions/tree/main/extensions/amp-runner-manager)
+
 ## 2026-10-07 — upstream `87abda6229`
 
 **Updated (1):** [Mozilla VPN Connect](https://github.com/raycast/extensions/tree/main/extensions/mozilla-vpn)

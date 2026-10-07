@@ -1,8 +1,8 @@
 # Documents & Files
 
-140 extensions · [← Productivity](./README.md)
+141 extensions · [← Productivity](./README.md)
 
-[Folder ✦](#folder) (32) · [Documents ✦](#documents) (19) · [Finder ✦](#finder) (8) · [Upload ✦](#upload) (14) · [Download ✦](#download) (10) · [PDF ✦](#pdf) (8) · [Markdown ✦](#markdown) (6) · [Local ✦](#local) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (35)
+[Folder ✦](#folder) (33) · [Documents ✦](#documents) (19) · [Finder ✦](#finder) (8) · [Upload ✦](#upload) (14) · [Download ✦](#download) (10) · [PDF ✦](#pdf) (8) · [Markdown ✦](#markdown) (6) · [Local ✦](#local) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (35)
 
 *✦ auto-discovered topic group*
 
@@ -42,6 +42,7 @@
 | [Dated Folder](https://github.com/raycast/extensions/tree/main/extensions/dated-folder) | 23 | Create a folder named after today's date and open it in your terminal | fhf1121 | macOS, Windows | [store](https://www.raycast.com/fhf1121/dated-folder) |
 | [Project Folders](https://github.com/raycast/extensions/tree/main/extensions/project-folders) | 8 | Browse creative project folders and jump to Asana, Google Drive, and Frame.io links. | hugini | macOS | [store](https://www.raycast.com/hugini/project-folders) |
 | [Jev](https://github.com/raycast/extensions/tree/main/extensions/jev) | 6 | Run saved checks, file documents into configured folders, and search browser bookmarks with TypeSafe Jev. | Olli0103 | macOS | [store](https://www.raycast.com/Olli0103/jev) |
+| [Local Amp Runners](https://github.com/raycast/extensions/tree/main/extensions/amp-runner-manager) | — | Manage folders served by local Amp runners | nhkhang | macOS | — |
 
 ## Documents ✦
 
