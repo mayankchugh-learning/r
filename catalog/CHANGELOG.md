@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-07 — upstream `eec9950e6e`
+
+**Updated (1):** [Railway Project Search](https://github.com/raycast/extensions/tree/main/extensions/railway)
+
 ## 2026-10-07 — upstream `bb3110ad8f`
 
 **Updated (1):** [Library Genesis](https://github.com/raycast/extensions/tree/main/extensions/library-genesis)
