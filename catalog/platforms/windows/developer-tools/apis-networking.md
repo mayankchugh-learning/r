@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · **APIs & Networking** · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-17 of 338 extensions · [← Windows · Developer Tools](./README.md)
+18 of 339 extensions · [← Windows · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,4 @@
 | [Auth0 Management](https://github.com/raycast/extensions/tree/main/extensions/auth0-management) | 35 | Search and manage Auth0 users across multiple tenants | ray_tan | macOS, Windows | [store](https://www.raycast.com/ray_tan/auth0-management) |
 | [OpenSearch DevTools](https://github.com/raycast/extensions/tree/main/extensions/opensearch) | 30 | Query and manage OpenSearch clusters — API explorer, command presets, and search, keyboard-first. | itggood2420 | macOS, Windows | [store](https://www.raycast.com/itggood2420/opensearch) |
 | [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) | 1 | Search CoCart API documentation quickly, copy URLs, or open them in your browser. | cocart_headless | macOS, Windows | [store](https://www.raycast.com/cocart_headless/cocart-docs) |
+| [LinkPilot](https://github.com/raycast/extensions/tree/main/extensions/linkpilot) | — | Share a password or API key as a link that opens once, and shorten URLs, without leaving Raycast | tetracorellc | macOS, Windows | — |

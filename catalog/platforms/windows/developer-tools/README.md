@@ -1,6 +1,6 @@
 # Windows · Developer Tools
 
-338 extensions · [← Windows](../README.md)
+339 extensions · [← Windows](../README.md)
 
 ## Code & Collaboration
 
@@ -17,7 +17,7 @@
 | --- | --- |
 | [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) | 35 |
 | [Databases](./databases.md) | 4 |
-| [APIs & Networking](./apis-networking.md) | 17 |
+| [APIs & Networking](./apis-networking.md) | 18 |
 | [Monitoring & Logs](./monitoring-logs.md) | 8 |
 
 ## Platforms & Ecosystems

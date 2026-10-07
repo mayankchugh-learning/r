@@ -1,6 +1,6 @@
 # Publishers
 
-2272 publishers · [← catalog index](../README.md)
+2273 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,298,304 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,298,313 |
 | 2 | [raycast](./id/raycast.md) | 11 | 907,359 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 774,081 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 569,630 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 774,093 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 569,637 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 497,756 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 494,005 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 460,252 |
@@ -2269,14 +2269,15 @@
 | 2259 | [andrey_tolstikov](https://www.raycast.com/andrey_tolstikov) | 1 | 0 |
 | 2260 | [ariel_conti](https://www.raycast.com/ariel_conti) | 1 | 0 |
 | 2261 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2262 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2263 | [kdmsnr](https://www.raycast.com/kdmsnr) | 1 | 0 |
-| 2264 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2265 | [Marcelismus](https://www.raycast.com/Marcelismus) | 1 | 0 |
-| 2266 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2267 | [sbd530](https://www.raycast.com/sbd530) | 1 | 0 |
-| 2268 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2269 | github-next | 2 | — |
-| 2270 | derJan | 1 | — |
+| 2262 | [derJan](https://www.raycast.com/derJan) | 1 | 0 |
+| 2263 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2264 | [kdmsnr](https://www.raycast.com/kdmsnr) | 1 | 0 |
+| 2265 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2266 | [Marcelismus](https://www.raycast.com/Marcelismus) | 1 | 0 |
+| 2267 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2268 | [sbd530](https://www.raycast.com/sbd530) | 1 | 0 |
+| 2269 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2270 | github-next | 2 | — |
 | 2271 | eugenio | 1 | — |
 | 2272 | multi | 1 | — |
+| 2273 | tetracorellc | 1 | — |

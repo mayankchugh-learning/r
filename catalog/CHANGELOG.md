@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-07 — upstream `b3b89df757`
+
+**Added (1):** [LinkPilot](https://github.com/raycast/extensions/tree/main/extensions/linkpilot)
+
 ## 2026-10-07 — upstream `7f3146a019`
 
 **Added (1):** [QRZ Lookup](https://github.com/raycast/extensions/tree/main/extensions/qrz-lookup)

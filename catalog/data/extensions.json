@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7f3146a01917abe446e77899c3ec89b588f6010b",
-  "generatedAt": "2026-10-07T09:14:25.821Z",
-  "downloadsRefreshedAt": "2026-10-07T09:14:25.257Z",
-  "count": 3380,
+  "commit": "b3b89df7579d1d9bad7e355f160e1feeda6cfac2",
+  "generatedAt": "2026-10-07T09:23:34.456Z",
+  "downloadsRefreshedAt": "2026-10-07T09:23:34.091Z",
+  "count": 3381,
   "extensions": [
     {
       "dir": "0x0",
@@ -10400,7 +10400,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 614187
+      "downloads": 614196
     },
     {
       "dir": "color-shades",
@@ -23215,7 +23215,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 569630
+      "downloads": 569637
     },
     {
       "dir": "google-chrome-profiles",
@@ -29727,7 +29727,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 774081
+      "downloads": 774093
     },
     {
       "dir": "kimai",
@@ -31979,6 +31979,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linkinize",
       "treeSha": "706179a29d19a51d6ea5ed1ed1b0f50e30e90100",
       "downloads": 8
+    },
+    {
+      "dir": "linkpilot",
+      "name": "linkpilot",
+      "title": "LinkPilot",
+      "description": "Share a password or API key as a link that opens once, and shorten URLs, without leaving Raycast",
+      "author": "tetracorellc",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Security",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/linkpilot",
+      "treeSha": "6b3d8f251b2e66e7e6dfee0a4ef2ef652d417829",
+      "downloads": null
     },
     {
       "dir": "links-folder",
@@ -47611,10 +47633,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/derJan/qrz-lookup",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/qrz-lookup",
       "treeSha": "727161a361966bfcb2706a6d13cd9013edec8dd6",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "quarantine-manager",

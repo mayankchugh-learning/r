@@ -54,4 +54,4 @@
 | [Quick Groups](https://github.com/raycast/extensions/tree/main/extensions/quick-groups) | 10 | Search and act on grouped reference data from local YAML files | neilbartlett | macOS | [store](https://www.raycast.com/neilbartlett/quick-groups) |
 | [Quick Access Infomaniak](https://github.com/raycast/extensions/tree/main/extensions/quick-access-infomaniak) | 5 | Quick access to Infomaniak's manager pages | apiaget | macOS, Windows | [store](https://www.raycast.com/apiaget/quick-access-infomaniak) |
 | [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) | 5 | Add expense and income to your Toshl account | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/quick-toshl) |
-| [QRZ Lookup](https://github.com/raycast/extensions/tree/main/extensions/qrz-lookup) | — | Look up amateur radio callsigns on QRZ.com | derJan | macOS | — |
+| [QRZ Lookup](https://github.com/raycast/extensions/tree/main/extensions/qrz-lookup) | 0 | Look up amateur radio callsigns on QRZ.com | derJan | macOS | [store](https://www.raycast.com/derJan/qrz-lookup) |

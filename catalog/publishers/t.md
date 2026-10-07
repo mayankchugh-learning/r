@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · **T** · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-128 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+129 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -35,6 +35,7 @@
 | [teologov](https://www.raycast.com/teologov) | 1 | 17 | **Developer Tools:** [SnipperApp](https://github.com/raycast/extensions/tree/main/extensions/snipperapp) |
 | [terminaldotshop](https://www.raycast.com/terminaldotshop) | 1 | 1,365 | **Applications:** [Terminal Shop](https://github.com/raycast/extensions/tree/main/extensions/terminaldotshop) |
 | [tessak22](https://www.raycast.com/tessak22) | 1 | 20 | **Web:** [Tabstack](https://github.com/raycast/extensions/tree/main/extensions/tabstack) |
+| tetracorellc | 1 | — | **Security:** [LinkPilot](https://github.com/raycast/extensions/tree/main/extensions/linkpilot) |
 | [TetraTsunami](https://www.raycast.com/TetraTsunami) | 1 | 43 | **Productivity:** [Unblocked Answers](https://github.com/raycast/extensions/tree/main/extensions/unblocked-answers) |
 | [textnav](https://www.raycast.com/textnav) | 1 | 5,069 | **Data:** [Random Password Generator](https://github.com/raycast/extensions/tree/main/extensions/random-password-generator) |
 | [teziovsky](https://www.raycast.com/teziovsky) | 5 | 5,274 | **Documentation:** [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs)<br>**Developer Tools:** [CSS Calculations](https://github.com/raycast/extensions/tree/main/extensions/css-calculations)<br>**Applications:** [Height](https://github.com/raycast/extensions/tree/main/extensions/height)<br>**Media:** [Meta Music](https://github.com/raycast/extensions/tree/main/extensions/meta-music)<br>**Finance:** [InFakt](https://github.com/raycast/extensions/tree/main/extensions/infakt) |
@@ -68,7 +69,7 @@
 | [third774](https://www.raycast.com/third774) | 3 | 68,820 | **Developer Tools:** [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity), [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent)<br>**Applications:** [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) |
 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 | **Productivity:** [Fenn Search](https://github.com/raycast/extensions/tree/main/extensions/fenn-search) |
 | [tholanda](https://www.raycast.com/tholanda) | 1 | 9,452 | **Developer Tools:** [Script Commands Store – Find and manage your Rayc…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) |
-| [thomas](./id/thomas.md) | 15 | 1,298,304 | [see all 15 →](./id/thomas.md) |
+| [thomas](./id/thomas.md) | 15 | 1,298,313 | [see all 15 →](./id/thomas.md) |
 | [thomas.harmond](https://www.raycast.com/thomas.harmond) | 1 | 41 | **Developer Tools:** [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) |
 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 65,559 | **Productivity:** [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages)<br>**Developer Tools:** [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) |
 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,928 | **Productivity:** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage), [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) |

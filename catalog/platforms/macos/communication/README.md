@@ -220,5 +220,5 @@
 | [Zenblog](https://github.com/raycast/extensions/tree/main/extensions/zenblog) | 4 | A tiny blogging CMS | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zenblog) |
 | [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse) | 3 | Search your dictations, transcribe files, and control Glimpse from Raycast. | garon | macOS, Windows | [store](https://www.raycast.com/garon/glimpse) |
 | [KuandoHUB](https://github.com/raycast/extensions/tree/main/extensions/kuandohub) | 1 | Control your Kuando Busylight through the kuandoHUB HTTP API | lyager | macOS | [store](https://www.raycast.com/lyager/kuandohub) |
+| [QRZ Lookup](https://github.com/raycast/extensions/tree/main/extensions/qrz-lookup) | 0 | Look up amateur radio callsigns on QRZ.com | derJan | macOS | [store](https://www.raycast.com/derJan/qrz-lookup) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |
-| [QRZ Lookup](https://github.com/raycast/extensions/tree/main/extensions/qrz-lookup) | — | Look up amateur radio callsigns on QRZ.com | derJan | macOS | — |
