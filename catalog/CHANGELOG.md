@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-07 — upstream `06c9066161`
+
+**Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
+
 ## 2026-10-07 — upstream `ed15d3e084`
 
 **Updated (1):** [Paper Agent](https://github.com/raycast/extensions/tree/main/extensions/paper-agent)
