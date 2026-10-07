@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-07 — upstream `2385a62b68`
+
+**Updated (1):** [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab)
+
 ## 2026-10-07 — upstream `eec9950e6e`
 
 **Updated (1):** [Railway Project Search](https://github.com/raycast/extensions/tree/main/extensions/railway)

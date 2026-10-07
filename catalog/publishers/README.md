@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,298,275 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,298,281 |
 | 2 | [raycast](./id/raycast.md) | 11 | 907,359 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 774,052 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 569,608 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 774,058 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 569,612 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 497,756 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 494,005 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 460,252 |
@@ -546,7 +546,7 @@
 | 536 | [prasadsunny1](https://www.raycast.com/prasadsunny1) | 1 | 1,524 |
 | 537 | [gkpln3](https://www.raycast.com/gkpln3) | 1 | 1,517 |
 | 538 | [rafal_zawadzki](https://www.raycast.com/rafal_zawadzki) | 2 | 1,514 |
-| 539 | [CodetaroMiura](https://www.raycast.com/CodetaroMiura) | 1 | 1,512 |
+| 539 | [CodetaroMiura](https://www.raycast.com/CodetaroMiura) | 1 | 1,513 |
 | 540 | [supermemory](https://www.raycast.com/supermemory) | 1 | 1,512 |
 | 541 | [crazyczy](https://www.raycast.com/crazyczy) | 1 | 1,508 |
 | 542 | [naqet](https://www.raycast.com/naqet) | 1 | 1,496 |
