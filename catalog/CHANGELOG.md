@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-07 — upstream `77eb2064fe`
+
+**Updated (1):** [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail)
+
 ## 2026-10-07 — upstream `2385a62b68`
 
 **Updated (1):** [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab)
