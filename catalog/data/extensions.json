@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6dbdc8c7083ba21411963605bad6933b1756db36",
-  "generatedAt": "2026-10-07T13:58:55.996Z",
-  "downloadsRefreshedAt": "2026-10-07T13:58:55.555Z",
+  "commit": "3ea813b3fe38f8e976636022977e8a188ea5f772",
+  "generatedAt": "2026-10-07T14:04:40.653Z",
+  "downloadsRefreshedAt": "2026-10-07T14:04:40.215Z",
   "count": 3388,
   "extensions": [
     {
@@ -10442,7 +10442,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 614441
+      "downloads": 614444
     },
     {
       "dir": "color-shades",
@@ -23597,7 +23597,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 496952
+      "downloads": 496956
     },
     {
       "dir": "google-trends",
@@ -25680,10 +25680,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/szamski/hora-calendar",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/hora-calendar",
       "treeSha": "d66d20fcf98bd5346fd8aa5d8328f2006a2a0d74",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "horoscope",
@@ -29811,7 +29811,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 774376
+      "downloads": 774382
     },
     {
       "dir": "kimai",
@@ -31854,7 +31854,7 @@
       "store": "https://www.raycast.com/linear/linear",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linear",
       "treeSha": "5cef56336ab244c495c94f28926278ecf2ce1014",
-      "downloads": 401715
+      "downloads": 401958
     },
     {
       "dir": "lingo-rep-raycast",
@@ -53876,7 +53876,7 @@
       ],
       "store": "https://www.raycast.com/franzwilhelm/search-router",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/search-router",
-      "treeSha": "ddaed8fe7ff8889628fb9eb007d5bdfc707050d2",
+      "treeSha": "fe04f3ec2917115c5575b2fa9bf56aaac2be6b05",
       "downloads": 1466
     },
     {

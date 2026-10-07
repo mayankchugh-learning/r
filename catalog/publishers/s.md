@@ -180,6 +180,6 @@
 | [syhchen](https://www.raycast.com/syhchen) | 1 | 560 | **Applications:** [Capture](https://github.com/raycast/extensions/tree/main/extensions/capture) |
 | [Synacek](https://www.raycast.com/Synacek) | 1 | 440 | **Developer Tools:** [HTML Colors](https://github.com/raycast/extensions/tree/main/extensions/html-colors) |
 | [syropian](https://www.raycast.com/syropian) | 1 | 145 | **Applications:** [Leafcast](https://github.com/raycast/extensions/tree/main/extensions/leafcast) |
-| szamski | 1 | — | **Productivity:** [Hora Calendar](https://github.com/raycast/extensions/tree/main/extensions/hora-calendar) |
+| [szamski](https://www.raycast.com/szamski) | 1 | 0 | **Productivity:** [Hora Calendar](https://github.com/raycast/extensions/tree/main/extensions/hora-calendar) |
 | [szarbartosz](https://www.raycast.com/szarbartosz) | 1 | 32 | **Fun:** [Ekstraklasa](https://github.com/raycast/extensions/tree/main/extensions/ekstraklasa) |
 | [szy.fr](https://www.raycast.com/szy.fr) | 1 | 701 | **Fun:** [Random Fart](https://github.com/raycast/extensions/tree/main/extensions/random-fart) |

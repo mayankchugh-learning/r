@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-07 — upstream `3ea813b3fe`
+
+**Updated (1):** [Search Router](https://github.com/raycast/extensions/tree/main/extensions/search-router)
+
 ## 2026-10-07 — upstream `6dbdc8c708`
 
 **Added (1):** [Hora Calendar](https://github.com/raycast/extensions/tree/main/extensions/hora-calendar)

@@ -49,7 +49,7 @@
 | [liluo](https://www.raycast.com/liluo) | 1 | 125 | **Developer Tools:** [HTTP Performance Analyzer](https://github.com/raycast/extensions/tree/main/extensions/httpperf) |
 | [limonkufu](https://www.raycast.com/limonkufu) | 1 | 17,234 | **Productivity:** [AeroSpace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) |
 | [lin](https://www.raycast.com/lin) | 3 | 7,041 | **Developer Tools:** [Prettier Code](https://github.com/raycast/extensions/tree/main/extensions/prettier)<br>**Productivity:** [Browser AI Companion](https://github.com/raycast/extensions/tree/main/extensions/browser-ai)<br>**Documentation:** [DEV Community](https://github.com/raycast/extensions/tree/main/extensions/dev-to) |
-| [linear](https://www.raycast.com/linear) | 1 | 401,715 | **Developer Tools:** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) |
+| [linear](https://www.raycast.com/linear) | 1 | 401,958 | **Developer Tools:** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) |
 | [linkinize](https://www.raycast.com/linkinize) | 1 | 8 | **Productivity:** [Linkinize](https://github.com/raycast/extensions/tree/main/extensions/linkinize) |
 | [litomore](./id/litomore.md) | 13 | 14,456 | [see all 13 →](./id/litomore.md) |
 | [liualexiang](https://www.raycast.com/liualexiang) | 1 | 170 | **Productivity:** [Azure Speech TTS](https://github.com/raycast/extensions/tree/main/extensions/azure-tts-raycast-extension) |
