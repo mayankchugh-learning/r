@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "d0f88727ce24c6cb24ace63fd9dee2add71cc69f",
-  "generatedAt": "2026-10-07T05:24:27.198Z",
-  "downloadsRefreshedAt": "2026-10-07T05:24:26.946Z",
+  "commit": "ed15d3e0847c8efab9caf4eeadfbc11abc4c6ff2",
+  "generatedAt": "2026-10-07T05:26:41.244Z",
+  "downloadsRefreshedAt": "2026-10-07T05:26:40.365Z",
   "count": 3379,
   "extensions": [
     {
@@ -23215,7 +23215,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 569469
+      "downloads": 569470
     },
     {
       "dir": "google-chrome-profiles",
@@ -29727,7 +29727,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 773837
+      "downloads": 773839
     },
     {
       "dir": "kimai",
@@ -36353,7 +36353,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "2bb853a6cae5749ea1e5454e589b1e34bc28e4c9",
-      "downloads": 43120
+      "downloads": 43123
     },
     {
       "dir": "models-dev",
@@ -42844,7 +42844,7 @@
       ],
       "store": "https://www.raycast.com/marvel940804836/paper-agent",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/paper-agent",
-      "treeSha": "f17f7e91ef36aae04e76d239ef58659c4a01c4a0",
+      "treeSha": "209cf4fb317e738078c90c723287ba9004201eb9",
       "downloads": 29
     },
     {
