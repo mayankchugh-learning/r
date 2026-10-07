@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6f7a41962c72e24b3a4e2d840a983d35078173ff",
-  "generatedAt": "2026-10-07T09:03:34.618Z",
-  "downloadsRefreshedAt": "2026-10-07T09:03:33.948Z",
-  "count": 3379,
+  "commit": "7f3146a01917abe446e77899c3ec89b588f6010b",
+  "generatedAt": "2026-10-07T09:14:25.821Z",
+  "downloadsRefreshedAt": "2026-10-07T09:14:25.257Z",
+  "count": 3380,
   "extensions": [
     {
       "dir": "0x0",
@@ -10400,7 +10400,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 614177
+      "downloads": 614187
     },
     {
       "dir": "color-shades",
@@ -23215,7 +23215,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 569621
+      "downloads": 569630
     },
     {
       "dir": "google-chrome-profiles",
@@ -29727,7 +29727,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 774067
+      "downloads": 774081
     },
     {
       "dir": "kimai",
@@ -47594,6 +47594,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/qrcp",
       "treeSha": "95149ddbf115f8918285ee34f920bd9ac9d970b0",
       "downloads": 483
+    },
+    {
+      "dir": "qrz-lookup",
+      "name": "qrz-lookup",
+      "title": "QRZ Lookup",
+      "description": "Look up amateur radio callsigns on QRZ.com",
+      "author": "derJan",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Communication",
+        "Web"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/qrz-lookup",
+      "treeSha": "727161a361966bfcb2706a6d13cd9013edec8dd6",
+      "downloads": null
     },
     {
       "dir": "quarantine-manager",

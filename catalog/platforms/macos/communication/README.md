@@ -1,8 +1,8 @@
 # macOS · Communication
 
-162 extensions · [← macOS](../README.md)
+163 extensions · [← macOS](../README.md)
 
-[Messaging & Chat](#messaging-chat) (31) · [Video Calls & Meetings](#video-calls-meetings) (15) · [Email](#email) (24) · [Social & Fediverse](#social-fediverse) (12) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (5) · [Language & Dictionaries](#language-dictionaries) (5) · [Links & Sharing](#links-sharing) (7) · [General](#general) (57)
+[Messaging & Chat](#messaging-chat) (31) · [Video Calls & Meetings](#video-calls-meetings) (15) · [Email](#email) (24) · [Social & Fediverse](#social-fediverse) (12) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (5) · [Language & Dictionaries](#language-dictionaries) (5) · [Links & Sharing](#links-sharing) (7) · [General](#general) (58)
 
 ## Conversations
 
@@ -221,3 +221,4 @@
 | [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse) | 3 | Search your dictations, transcribe files, and control Glimpse from Raycast. | garon | macOS, Windows | [store](https://www.raycast.com/garon/glimpse) |
 | [KuandoHUB](https://github.com/raycast/extensions/tree/main/extensions/kuandohub) | 1 | Control your Kuando Busylight through the kuandoHUB HTTP API | lyager | macOS | [store](https://www.raycast.com/lyager/kuandohub) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |
+| [QRZ Lookup](https://github.com/raycast/extensions/tree/main/extensions/qrz-lookup) | — | Look up amateur radio callsigns on QRZ.com | derJan | macOS | — |

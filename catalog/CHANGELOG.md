@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-07 — upstream `7f3146a019`
+
+**Added (1):** [QRZ Lookup](https://github.com/raycast/extensions/tree/main/extensions/qrz-lookup)
+
 ## 2026-10-07 — upstream `6f7a41962c`
 
 **Updated (1):** [massCode](https://github.com/raycast/extensions/tree/main/extensions/masscode)

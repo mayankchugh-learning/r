@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-157 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+158 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -72,6 +72,7 @@
 | [dennis_cheng](https://www.raycast.com/dennis_cheng) | 1 | 35 | **Productivity:** [CalTask](https://github.com/raycast/extensions/tree/main/extensions/caltask) |
 | [denniseilander](https://www.raycast.com/denniseilander) | 2 | 665 | **Developer Tools:** [Laravel Valet](https://github.com/raycast/extensions/tree/main/extensions/laravel-valet), [Laravel Shift for Docker](https://github.com/raycast/extensions/tree/main/extensions/laravel-shift) |
 | [depsimon](https://www.raycast.com/depsimon) | 1 | 49 | **Productivity:** [Neurooo Translate](https://github.com/raycast/extensions/tree/main/extensions/neurooo-translate) |
+| derJan | 1 | — | **Communication:** [QRZ Lookup](https://github.com/raycast/extensions/tree/main/extensions/qrz-lookup) |
 | [Dervex](https://www.raycast.com/Dervex) | 1 | 269 | **Developer Tools:** [Evaluate Math Expression](https://github.com/raycast/extensions/tree/main/extensions/evaluate-math-expression) |
 | [desmondsofua](https://www.raycast.com/desmondsofua) | 1 | 161 | **Productivity:** [Mound](https://github.com/raycast/extensions/tree/main/extensions/mound-for-pile) |
 | [destiner](https://www.raycast.com/destiner) | 9 | 236,378 | **Data:** [Format JSON](https://github.com/raycast/extensions/tree/main/extensions/json-format), [Unix Timestamp](https://github.com/raycast/extensions/tree/main/extensions/unix-timestamp), [Diff Checker](https://github.com/raycast/extensions/tree/main/extensions/diff-checker), [Ethereum Utils — EVM Development](https://github.com/raycast/extensions/tree/main/extensions/ethereum-utils)<br>**Documentation:** [Cheatsheets](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets)<br>**Design Tools:** [Iconify — Search Icons](https://github.com/raycast/extensions/tree/main/extensions/iconify)<br>**Developer Tools:** [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare), [Render](https://github.com/raycast/extensions/tree/main/extensions/render)<br>**Finance:** [Coingecko](https://github.com/raycast/extensions/tree/main/extensions/coingecko) |

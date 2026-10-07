@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · **Q** · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-48 extensions · [← catalog index](../README.md)
+49 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -54,3 +54,4 @@
 | [Quick Groups](https://github.com/raycast/extensions/tree/main/extensions/quick-groups) | 10 | Search and act on grouped reference data from local YAML files | neilbartlett | macOS | [store](https://www.raycast.com/neilbartlett/quick-groups) |
 | [Quick Access Infomaniak](https://github.com/raycast/extensions/tree/main/extensions/quick-access-infomaniak) | 5 | Quick access to Infomaniak's manager pages | apiaget | macOS, Windows | [store](https://www.raycast.com/apiaget/quick-access-infomaniak) |
 | [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) | 5 | Add expense and income to your Toshl account | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/quick-toshl) |
+| [QRZ Lookup](https://github.com/raycast/extensions/tree/main/extensions/qrz-lookup) | — | Look up amateur radio callsigns on QRZ.com | derJan | macOS | — |

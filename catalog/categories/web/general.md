@@ -1,6 +1,6 @@
 # General
 
-93 extensions · [← Web](./README.md)
+90 extensions · [← Web](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -44,7 +44,6 @@
 | [Udemy Coupons](https://github.com/raycast/extensions/tree/main/extensions/udemy-coupons) | 347 | Get instant access to 1000+ premium Udemy courses for FREE with verified coupons. Updated hourly. Learn programming, design, business, marketing & more. Save $… | dharmendra | macOS, Windows | [store](https://www.raycast.com/dharmendra/udemy-coupons) |
 | [SupaHabits](https://github.com/raycast/extensions/tree/main/extensions/supahabits) | 342 | Extension for quickly adding habits to your daily routine, tracking your progress and add journal entries | gbarba | macOS | [store](https://www.raycast.com/gbarba/habits) |
 | [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) | 335 | Feedbin reader in Raycast | third774 | macOS | [store](https://www.raycast.com/third774/feedbin) |
-| [LookSee - A MAC, OUI, IAB Lookup](https://github.com/raycast/extensions/tree/main/extensions/looksee) | 312 | Use www.macvendorlookup.com from Raycast | olavgjerde | macOS | [store](https://www.raycast.com/olavgjerde/looksee) |
 | [Miniflux](https://github.com/raycast/extensions/tree/main/extensions/miniflux) | 278 | A Raycast extension for Miniflux | SevicheCC | macOS | [store](https://www.raycast.com/SevicheCC/miniflux) |
 | [Bazinga Tools](https://github.com/raycast/extensions/tree/main/extensions/bazinga-tools) | 258 | A shortcut to open tools on Bazinga.tools | luin | macOS | [store](https://www.raycast.com/luin/bazinga-tools) |
 | [Minion Ipsum](https://github.com/raycast/extensions/tree/main/extensions/minion-ipsum) | 252 | Generate Minion Ipsum like: Minions ipsum hahaha wiiiii gelatooo poopayee aaaaaah. | vigosan | macOS | [store](https://www.raycast.com/vigosan/minion-ipsum) |
@@ -66,7 +65,6 @@
 | [Deno Deploy](https://github.com/raycast/extensions/tree/main/extensions/deno-deploy) | 139 | View and modify your Deno Deploy projects | j3lte | macOS | [store](https://www.raycast.com/j3lte/deno-deploy) |
 | [Norwegian Public Transport](https://github.com/raycast/extensions/tree/main/extensions/norwegian-public-transport) | 134 | Real-time departures for Norwegian public transport. Data made available by Entur. | rosvik | macOS | [store](https://www.raycast.com/rosvik/raycast-norwegian-public-transport) |
 | [Deta Space](https://github.com/raycast/extensions/tree/main/extensions/deta-space) | 126 | Raycast Integration for Deta Space | detahq | macOS | [store](https://www.raycast.com/detahq/deta-space) |
-| [CNPJ Lookup](https://github.com/raycast/extensions/tree/main/extensions/cnpj-lookup) | 123 | Instantly access Brazilian CNPJ information | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/cnpj-lookup) |
 | [Raycaster](https://github.com/raycast/extensions/tree/main/extensions/raycaster) | 121 | Send casts to Farcaster from Raycast | stevedylandev | macOS | [store](https://www.raycast.com/stevedylandev/raycaster) |
 | [gg.deals](https://github.com/raycast/extensions/tree/main/extensions/gg-deals) | 120 | Fetch the latest deals from gg.deals | Whitespace | macOS | [store](https://www.raycast.com/Whitespace/gg-deals) |
 | [AList Downloder](https://github.com/raycast/extensions/tree/main/extensions/alist-downloder) | 110 | Mini AList downloader in Raycast | SGGb0nd | macOS | [store](https://www.raycast.com/SGGb0nd/alist-downloder) |
@@ -95,5 +93,4 @@
 | [BuiltByBit](https://github.com/raycast/extensions/tree/main/extensions/builtbybit) | 14 | Streamlined access to BuiltByBit, with a focus on productivity and quality of life enhancements. | YourMCGeek | macOS | [store](https://www.raycast.com/YourMCGeek/builtbybit) |
 | [Quick Access for zeroheight](https://github.com/raycast/extensions/tree/main/extensions/quick-access-for-zeroheight) | 14 | Find and view pages in zeroheight | zeroheight | macOS | [store](https://www.raycast.com/zeroheight/quick-access-for-zeroheight) |
 | [QuickLinker](https://github.com/raycast/extensions/tree/main/extensions/quicklinker) | 13 | Resolve your QuickLinker shortcuts directly from Raycast | n-winspear | macOS | [store](https://www.raycast.com/n-winspear/quicklinker) |
-| [FBL - Finnish Business Lookup](https://github.com/raycast/extensions/tree/main/extensions/finnish-business-lookup) | 6 | Look up Finnish businesses by name or Business ID using PRH YTJ open data | eljn | macOS | [store](https://www.raycast.com/eljn/finnish-business-lookup) |
 | [Techgedöns.de](https://github.com/raycast/extensions/tree/main/extensions/techgedoens) | 0 | The official Raycast extension for the German tech blog Techgedöns.de | Marcelismus | macOS | [store](https://www.raycast.com/Marcelismus/techgedoens) |

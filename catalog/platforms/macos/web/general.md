@@ -2,7 +2,7 @@
 
 [AI Services](./ai-services.md) · [Social & Communities](./social-communities.md) · [Search Engines](./search-engines.md) · [Bookmarks & Read Later](./bookmarks-read-later.md) · [URL & Domain Tools](./url-domain-tools.md) · [Browsers & Tabs](./browsers-tabs.md) · [Crypto & Markets](./crypto-markets.md) · [Screenshots & Capture](./screenshots-capture.md) · [Monitoring & SEO](./monitoring-seo.md) · [Downloads & Torrents](./downloads-torrents.md) · [Web Apps & Services](./web-apps-services.md) · **General**
 
-128 of 479 extensions · [← macOS · Web](./README.md)
+129 of 480 extensions · [← macOS · Web](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -134,3 +134,4 @@
 | [QuickLinker](https://github.com/raycast/extensions/tree/main/extensions/quicklinker) | 13 | Resolve your QuickLinker shortcuts directly from Raycast | n-winspear | macOS | [store](https://www.raycast.com/n-winspear/quicklinker) |
 | [FBL - Finnish Business Lookup](https://github.com/raycast/extensions/tree/main/extensions/finnish-business-lookup) | 6 | Look up Finnish businesses by name or Business ID using PRH YTJ open data | eljn | macOS | [store](https://www.raycast.com/eljn/finnish-business-lookup) |
 | [Techgedöns.de](https://github.com/raycast/extensions/tree/main/extensions/techgedoens) | 0 | The official Raycast extension for the German tech blog Techgedöns.de | Marcelismus | macOS | [store](https://www.raycast.com/Marcelismus/techgedoens) |
+| [QRZ Lookup](https://github.com/raycast/extensions/tree/main/extensions/qrz-lookup) | — | Look up amateur radio callsigns on QRZ.com | derJan | macOS | — |

@@ -8,7 +8,7 @@
 | --- | --- |
 | [Productivity](./productivity/README.md) | 1547 |
 | [Applications](./applications/README.md) | 395 |
-| [Communication](./communication/README.md) | 164 |
+| [Communication](./communication/README.md) | 165 |
 
 ### Development
 
@@ -31,7 +31,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Web](./web/README.md) | 481 |
+| [Web](./web/README.md) | 482 |
 | [Finance](./finance/README.md) | 157 |
 | [News](./news/README.md) | 98 |
 
