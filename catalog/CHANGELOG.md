@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-07 — upstream `bb3110ad8f`
+
+**Updated (1):** [Library Genesis](https://github.com/raycast/extensions/tree/main/extensions/library-genesis)
+
 ## 2026-10-07 — upstream `6f46753d6c`
 
 **Updated (1):** [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager)
