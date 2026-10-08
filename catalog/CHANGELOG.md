@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `79d8c33417`
+
+**Updated (1):** [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say)
+
 ## 2026-10-08 — upstream `80523b86fd`
 
 **Updated (1):** [rhttp](https://github.com/raycast/extensions/tree/main/extensions/rhttp)

@@ -8,11 +8,11 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,300,449 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,300,466 |
 | 2 | [raycast](./id/raycast.md) | 11 | 908,827 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,380 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,397 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 570,207 |
-| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,737 |
+| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,750 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 494,648 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 460,929 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 402,202 |
@@ -147,7 +147,7 @@
 | 137 | [ryan](https://www.raycast.com/ryan) | 1 | 14,994 |
 | 138 | [sfkmk](https://www.raycast.com/sfkmk) | 1 | 14,923 |
 | 139 | [KartikKumarSahoo](https://www.raycast.com/KartikKumarSahoo) | 1 | 14,538 |
-| 140 | [litomore](./id/litomore.md) | 13 | 14,476 |
+| 140 | [litomore](./id/litomore.md) | 13 | 14,478 |
 | 141 | [vercel](https://www.raycast.com/vercel) | 2 | 14,356 |
 | 142 | [reclaim-ai](https://www.raycast.com/reclaim-ai) | 1 | 14,345 |
 | 143 | [nyatinte](https://www.raycast.com/nyatinte) | 1 | 14,108 |
