@@ -2,11 +2,11 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · **General**
 
-518 of 1536 extensions · [← macOS · Productivity](./README.md)
+519 of 1537 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 497,602 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
+| [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 497,627 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
 | [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) | 411,834 | Control VS Code and compatible editors directly from Raycast | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/visual-studio-code) |
 | [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 79,391 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
 | [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 76,608 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
@@ -523,4 +523,5 @@
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
 | [N-Term Grade Calculator](https://github.com/raycast/extensions/tree/main/extensions/nterm-calculator) | 0 | Calculate Dutch exam grades with the official N-term (CvTE) formula. | maarten_boelens | macOS, Windows | [store](https://www.raycast.com/maarten_boelens/nterm-calculator) |
 | [NUST Mess Menu](https://github.com/raycast/extensions/tree/main/extensions/nust-mess-menu) | 0 | Today's and this week's NUST hostel mess menu. | muhammadaljoufi | macOS | [store](https://www.raycast.com/muhammadaljoufi/nust-mess-menu) |
+| [Hide Details](https://github.com/raycast/extensions/tree/main/extensions/hide-details) | — | Redact names, emails, cards, secrets, and faces in a screenshot before you share. On-device. | 0xdhrv | macOS | — |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |

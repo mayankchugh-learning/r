@@ -1,14 +1,14 @@
 # Security
 
-90 extensions · [← all categories](../README.md)
+91 extensions · [← all categories](../README.md)
 
-macOS: 90 · Windows: 33
+macOS: 91 · Windows: 33
 
 ## Credentials & Access
 
 | Topic | Extensions |
 | --- | --- |
-| [Passwords & Secrets](./passwords-secrets.md) | 37 |
+| [Passwords & Secrets](./passwords-secrets.md) | 38 |
 | [2FA & Authentication](./2fa-authentication.md) | 8 |
 | [Access & Identity](./access-identity.md) | 7 |
 

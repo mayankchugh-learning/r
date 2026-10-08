@@ -1,14 +1,15 @@
 # 0xdhrv
 
-16 extensions · 1,927 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
+17 extensions · 1,927 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
 
-## Productivity (3)
+## Productivity (4)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Shiori](https://github.com/raycast/extensions/tree/main/extensions/shiori-sh) | 830 | Search, save, and manage your Shiori bookmarks. Mark links as read, delete them, save from clipboard, and track unread count in the menu bar. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shiori-sh) |
 | [JSON Resume](https://github.com/raycast/extensions/tree/main/extensions/json-resume) | 152 | Parse JSON Resume | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/json-resume) |
 | [Shopify Shop](https://github.com/raycast/extensions/tree/main/extensions/shopify-shop) | 14 | Browse and search products from a Shopify store. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shopify-shop) |
+| [Hide Details](https://github.com/raycast/extensions/tree/main/extensions/hide-details) | — | Redact names, emails, cards, secrets, and faces in a screenshot before you share. On-device. | 0xdhrv | macOS | — |
 
 ## Developer Tools (8)
 

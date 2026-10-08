@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · **H** · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-98 extensions · [← catalog index](../README.md)
+99 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -104,3 +104,4 @@
 | [Hyperliquid](https://github.com/raycast/extensions/tree/main/extensions/hyperliquid) | 2 | Browse Hyperliquid perp markets, track your positions and PnL, and pin live prices to your menu bar — all read-only. | insuline | macOS | [store](https://www.raycast.com/Insuline/hyperliquid) |
 | [Hora Calendar](https://github.com/raycast/extensions/tree/main/extensions/hora-calendar) | 1 | The official hora Calendar extension. Create events and tasks in plain language and join your next meeting, without leaving Raycast. | szamski | macOS | [store](https://www.raycast.com/szamski/hora-calendar) |
 | [Hostbeam](https://github.com/raycast/extensions/tree/main/extensions/hostbeam) | 0 | Control the Hostbeam Mac app — beam the screenshot on your clipboard to a remote host and get the paste-ready path back. | PunkABeat | macOS | [store](https://www.raycast.com/PunkABeat/hostbeam) |
+| [Hide Details](https://github.com/raycast/extensions/tree/main/extensions/hide-details) | — | Redact names, emails, cards, secrets, and faces in a screenshot before you share. On-device. | 0xdhrv | macOS | — |

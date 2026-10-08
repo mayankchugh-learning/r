@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "79d8c33417f5d19c96eee7a1b9ef43efcd30d1ab",
-  "generatedAt": "2026-10-08T12:42:35.150Z",
-  "downloadsRefreshedAt": "2026-10-08T12:42:34.200Z",
-  "count": 3392,
+  "commit": "68f2458dbcebb489e3fa2b8a66696cf9f7850e30",
+  "generatedAt": "2026-10-08T13:24:57.181Z",
+  "downloadsRefreshedAt": "2026-10-08T13:24:56.871Z",
+  "count": 3393,
   "extensions": [
     {
       "dir": "0x0",
@@ -10463,7 +10463,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 615332
+      "downloads": 615374
     },
     {
       "dir": "color-shades",
@@ -23618,7 +23618,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 497602
+      "downloads": 497627
     },
     {
       "dir": "google-trends",
@@ -25348,6 +25348,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps",
       "treeSha": "2c5bd724f98332a932c5324fa4f985f228326350",
       "downloads": 8607
+    },
+    {
+      "dir": "hide-details",
+      "name": "hide-details",
+      "title": "Hide Details",
+      "description": "Redact names, emails, cards, secrets, and faces in a screenshot before you share. On-device.",
+      "author": "0xdhrv",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Security"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/hide-details",
+      "treeSha": "36dcc44eb3b540458fd425733eaf44d246710a3a",
+      "downloads": null
     },
     {
       "dir": "hide-files",
@@ -29832,7 +29853,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 775397
+      "downloads": 775447
     },
     {
       "dir": "kimai",
@@ -55814,7 +55835,7 @@
       "store": "https://www.raycast.com/klotzbrocken/simplebanking",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/simplebanking",
       "treeSha": "2ab70fe79ecf6fff2fad6444a5e3e2ebeb0f9af6",
-      "downloads": 1
+      "downloads": 0
     },
     {
       "dir": "simplelogin",

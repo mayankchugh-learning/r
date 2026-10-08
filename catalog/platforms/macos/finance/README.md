@@ -121,7 +121,7 @@
 | [Wise Lens](https://github.com/raycast/extensions/tree/main/extensions/wise-lens) | 22 | A clear overview of your Wise balances in Raycast: spending, combined total and live rates. | jorgetoh | macOS, Windows | [store](https://www.raycast.com/jorgetoh/wise-lens) |
 | [Bunq](https://github.com/raycast/extensions/tree/main/extensions/bunq) | 12 | Banking client for bunq - manage accounts, cards, and payments | TurboCoder13 | macOS, Windows | [store](https://www.raycast.com/TurboCoder13/bunq) |
 | [VietQR Transfer Generator](https://github.com/raycast/extensions/tree/main/extensions/vietqr-transfer) | 10 | Quickly generate VietQR payment codes for Vietnamese banks with customizable templates, amounts, and descriptions. | annguyen | macOS, Windows | [store](https://www.raycast.com/annguyen/vietqr-transfer) |
-| [Simplebanking](https://github.com/raycast/extensions/tree/main/extensions/simplebanking) | 1 | Balances, transactions and a monthly overview from simplebanking — reads the local cache, without contacting a bank. | klotzbrocken | macOS | [store](https://www.raycast.com/klotzbrocken/simplebanking) |
+| [Simplebanking](https://github.com/raycast/extensions/tree/main/extensions/simplebanking) | 0 | Balances, transactions and a monthly overview from simplebanking — reads the local cache, without contacting a bank. | klotzbrocken | macOS | [store](https://www.raycast.com/klotzbrocken/simplebanking) |
 
 ## Business & Reference
 
