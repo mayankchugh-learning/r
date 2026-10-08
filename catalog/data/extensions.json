@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ba878a209302a306b86d13daf68782ac8b12ae84",
-  "generatedAt": "2026-10-08T09:16:41.481Z",
-  "downloadsRefreshedAt": "2026-10-08T09:16:41.005Z",
+  "commit": "882d6e81effde5077e627f5e1b61a69f9c2c7ef4",
+  "generatedAt": "2026-10-08T09:35:32.007Z",
+  "downloadsRefreshedAt": "2026-10-08T09:35:31.414Z",
   "count": 3390,
   "extensions": [
     {
@@ -2204,7 +2204,7 @@
       ],
       "store": "https://www.raycast.com/advaitthakur/apexconnect",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apexconnect",
-      "treeSha": "5514e339c9d8869855e73b64d49bcee8592bba78",
+      "treeSha": "d68b90042309fa6dcb6401c8be8b34cf749563f5",
       "downloads": 1
     },
     {
@@ -10463,7 +10463,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 615164
+      "downloads": 615186
     },
     {
       "dir": "color-shades",
@@ -23618,7 +23618,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 497468
+      "downloads": 497480
     },
     {
       "dir": "google-trends",
@@ -29832,7 +29832,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 775223
+      "downloads": 775246
     },
     {
       "dir": "kimai",

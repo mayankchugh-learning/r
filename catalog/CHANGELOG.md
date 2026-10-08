@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `882d6e81ef`
+
+**Updated (1):** [Apex Connect+](https://github.com/raycast/extensions/tree/main/extensions/apexconnect)
+
 ## 2026-10-08 — upstream `ba878a2093`
 
 **Updated (1):** [Bilibili Search](https://github.com/raycast/extensions/tree/main/extensions/bilibili-search)
