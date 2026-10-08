@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 497,635 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
+| [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 497,651 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
 | [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) | 411,834 | Control VS Code and compatible editors directly from Raycast | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/visual-studio-code) |
 | [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 79,391 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
 | [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 76,608 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
@@ -516,12 +516,12 @@
 | [MarkdownOS](https://github.com/raycast/extensions/tree/main/extensions/markdownos) | 3 | Quick actions for MarkdownOS, right from Raycast. | azlandotgg | macOS | [store](https://www.raycast.com/azlandotgg/markdownos) |
 | [Tesla Clips](https://github.com/raycast/extensions/tree/main/extensions/tesla-clips) | 3 | Manage Tesla dashcam and Sentry clips — merge split recordings or remove merged outputs. | TurboCoder13 | macOS | [store](https://www.raycast.com/TurboCoder13/tesla-clips) |
 | [Tinker](https://github.com/raycast/extensions/tree/main/extensions/tinker) | 3 | Control Tinker from Raycast. | jrl | macOS | [store](https://www.raycast.com/jrl/tinker) |
+| [Hide Details](https://github.com/raycast/extensions/tree/main/extensions/hide-details) | 2 | Redact names, emails, cards, secrets, and faces in a screenshot before you share. On-device. | 0xdhrv | macOS | [store](https://www.raycast.com/0xdhrv/hide-details) |
 | [Postproxy](https://github.com/raycast/extensions/tree/main/extensions/postproxy) | 2 | Publish posts, manage comments, and answer DMs across your social profiles with Postproxy. | dmitrysereda | macOS | [store](https://www.raycast.com/dmitrysereda/postproxy) |
 | [Switcheroo](https://github.com/raycast/extensions/tree/main/extensions/switcheroo) | 2 | Manage Switcheroo keyboard remapper configuration | mjphayes | macOS | [store](https://www.raycast.com/mjphayes/switcheroo) |
 | [Calliday](https://github.com/raycast/extensions/tree/main/extensions/calliday) | 1 | Companion for Calliday, the automatic time tracker for macOS. Requires the Calliday app. | yaanisy | macOS | [store](https://www.raycast.com/yaanisy/calliday) |
 | [Nbnhhsh – Chinese Abbreviations](https://github.com/raycast/extensions/tree/main/extensions/nbnhhsh) | 1 | Decode Chinese pinyin abbreviations and internet slang with 能不能好好说话 (nbnhhsh). | Astatine-213 | macOS | [store](https://www.raycast.com/Astatine-213/nbnhhsh) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
-| [Hide Details](https://github.com/raycast/extensions/tree/main/extensions/hide-details) | 0 | Redact names, emails, cards, secrets, and faces in a screenshot before you share. On-device. | 0xdhrv | macOS | [store](https://www.raycast.com/0xdhrv/hide-details) |
 | [N-Term Grade Calculator](https://github.com/raycast/extensions/tree/main/extensions/nterm-calculator) | 0 | Calculate Dutch exam grades with the official N-term (CvTE) formula. | maarten_boelens | macOS, Windows | [store](https://www.raycast.com/maarten_boelens/nterm-calculator) |
 | [NUST Mess Menu](https://github.com/raycast/extensions/tree/main/extensions/nust-mess-menu) | 0 | Today's and this week's NUST hostel mess menu. | muhammadaljoufi | macOS | [store](https://www.raycast.com/muhammadaljoufi/nust-mess-menu) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |

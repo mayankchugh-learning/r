@@ -8,11 +8,11 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,300,518 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,300,555 |
 | 2 | [raycast](./id/raycast.md) | 11 | 908,827 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,462 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,504 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 570,207 |
-| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,783 |
+| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,799 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 494,648 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 460,929 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 402,202 |
@@ -476,7 +476,7 @@
 | 466 | [izyuumi](https://www.raycast.com/izyuumi) | 1 | 1,949 |
 | 467 | [mutewinter](https://www.raycast.com/mutewinter) | 2 | 1,946 |
 | 468 | [frugoman](https://www.raycast.com/frugoman) | 1 | 1,942 |
-| 469 | [0xdhrv](./id/0xdhrv.md) | 17 | 1,927 |
+| 469 | [0xdhrv](./id/0xdhrv.md) | 17 | 1,929 |
 | 470 | [jwickers](https://www.raycast.com/jwickers) | 2 | 1,920 |
 | 471 | [MuhaddiMu](https://www.raycast.com/MuhaddiMu) | 2 | 1,914 |
 | 472 | [lunaris](https://www.raycast.com/lunaris) | 1 | 1,903 |
