@@ -44,7 +44,7 @@
 | [that70schris](https://www.raycast.com/that70schris) | 1 | 459 | **System:** [Bonjour](https://github.com/raycast/extensions/tree/main/extensions/bonjour) |
 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 123,404 | **Productivity:** [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) |
 | [the_revolution](https://www.raycast.com/the_revolution) | 1 | 703 | **Media:** [ShareX](https://github.com/raycast/extensions/tree/main/extensions/sharex) |
-| [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 266,920 | **Web:** [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc)<br>**Productivity:** [Dia](https://github.com/raycast/extensions/tree/main/extensions/dia) |
+| [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 266,998 | **Web:** [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc)<br>**Productivity:** [Dia](https://github.com/raycast/extensions/tree/main/extensions/dia) |
 | [the3ash](https://www.raycast.com/the3ash) | 2 | 2,248 | **Applications:** [Window Sizer](https://github.com/raycast/extensions/tree/main/extensions/window-sizer)<br>**Web:** [Surge Outbound Switcher](https://github.com/raycast/extensions/tree/main/extensions/surge-outbound-switcher) |
 | [theapache64](https://www.raycast.com/theapache64) | 1 | 878 | **Developer Tools:** [Percentage Calculator](https://github.com/raycast/extensions/tree/main/extensions/percentage-calculator) |
 | [thebrokenfinger](https://www.raycast.com/thebrokenfinger) | 1 | 287 | **Web:** [Plausible Analytics](https://github.com/raycast/extensions/tree/main/extensions/plausible-analytics) |

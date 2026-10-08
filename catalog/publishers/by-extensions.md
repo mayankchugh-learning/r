@@ -170,7 +170,7 @@
 | 160 | [fhf1121](https://www.raycast.com/fhf1121) | 3 | 115 |
 | 161 | [glct26](https://www.raycast.com/glct26) | 3 | 74 |
 | 162 | [wdeu](https://www.raycast.com/wdeu) | 3 | 41 |
-| 163 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 266,920 |
+| 163 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 266,998 |
 | 164 | [abielzulio](https://www.raycast.com/abielzulio) | 2 | 260,970 |
 | 165 | [mooxl](https://www.raycast.com/mooxl) | 2 | 214,910 |
 | 166 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 189,275 |

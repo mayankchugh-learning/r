@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6512188c1a0b54bcd404603c9b6d6de5ca9703e1",
-  "generatedAt": "2026-10-08T20:22:43.957Z",
-  "downloadsRefreshedAt": "2026-10-08T20:22:43.232Z",
+  "commit": "b66491790834a6397f55a1fa2bbdc32aa9ceb9f4",
+  "generatedAt": "2026-10-08T20:23:28.784Z",
+  "downloadsRefreshedAt": "2026-10-08T20:23:27.762Z",
   "count": 3394,
   "extensions": [
     {
@@ -2874,7 +2874,7 @@
       "store": "https://www.raycast.com/the-browser-company/arc",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/arc",
       "treeSha": "d3b7aae25b84d30a76b44d2d27de62adfdcdb770",
-      "downloads": 251851
+      "downloads": 251929
     },
     {
       "dir": "arc-helper",
@@ -36522,7 +36522,7 @@
       ],
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
-      "treeSha": "413c417c658d3b0238cf8db2eeb5de69c4173d95",
+      "treeSha": "3f65c8a921a4c40864412698acd062673d2d460c",
       "downloads": 43238
     },
     {

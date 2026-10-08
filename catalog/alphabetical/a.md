@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 251,851 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
+| [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 251,929 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
 | [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 155,382 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
 | [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) | 122,208 | Manage Apple Reminders. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-reminders) |
 | [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 46,676 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |

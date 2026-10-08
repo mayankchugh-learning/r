@@ -21,7 +21,7 @@
 | 11 | [nhojb](https://www.raycast.com/nhojb) | 1 | 294,459 |
 | 12 | [koinzhang](./id/koinzhang.md) | 50 | 291,334 |
 | 13 | [notion](https://www.raycast.com/notion) | 1 | 280,556 |
-| 14 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 266,920 |
+| 14 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 266,998 |
 | 15 | [abielzulio](https://www.raycast.com/abielzulio) | 2 | 260,970 |
 | 16 | [khasbilegt](https://www.raycast.com/khasbilegt) | 1 | 251,896 |
 | 17 | [destiner](https://www.raycast.com/destiner) | 9 | 237,007 |
