@@ -47,7 +47,7 @@
 | [RPass](https://github.com/raycast/extensions/tree/main/extensions/rpass) | 15 | Search, edit, generate, and sync your pass-compatible passwords from Raycast. | rxtsel | Windows, macOS | [store](https://www.raycast.com/rxtsel/rpass) |
 | [DinoPass](https://github.com/raycast/extensions/tree/main/extensions/dinopass) | 11 | Generate passwords from dinopass.com | campo | macOS, Windows | [store](https://www.raycast.com/campo/dinopass) |
 | [LinkPilot](https://github.com/raycast/extensions/tree/main/extensions/linkpilot) | 1 | Share a password or API key as a link that opens once, and shorten URLs, without leaving Raycast | tetracorellc | macOS, Windows | [store](https://www.raycast.com/tetracorellc/linkpilot) |
-| [Hide Details](https://github.com/raycast/extensions/tree/main/extensions/hide-details) | — | Redact names, emails, cards, secrets, and faces in a screenshot before you share. On-device. | 0xdhrv | macOS | — |
+| [Hide Details](https://github.com/raycast/extensions/tree/main/extensions/hide-details) | 0 | Redact names, emails, cards, secrets, and faces in a screenshot before you share. On-device. | 0xdhrv | macOS | [store](https://www.raycast.com/0xdhrv/hide-details) |
 
 ### 2FA & Authentication
 

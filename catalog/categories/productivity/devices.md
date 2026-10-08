@@ -20,5 +20,5 @@
 | [Wemo](https://github.com/raycast/extensions/tree/main/extensions/raycast-wemo) | 65 | Control your Wemo devices from Raycast | iamnatch | macOS | [store](https://www.raycast.com/iamnatch/raycast-wemo) |
 | [Magic Home](https://github.com/raycast/extensions/tree/main/extensions/magic-home) | 21 | Interacts with Magic Home compatible devices | bruno_caruso | macOS | [store](https://www.raycast.com/bruno_caruso/magic-home) |
 | [WiiM Remote](https://github.com/raycast/extensions/tree/main/extensions/wiim-remote) | 17 | Control your WiiM device | roele | macOS, Windows | [store](https://www.raycast.com/roele/wiim-remote) |
-| [Hide Details](https://github.com/raycast/extensions/tree/main/extensions/hide-details) | — | Redact names, emails, cards, secrets, and faces in a screenshot before you share. On-device. | 0xdhrv | macOS | — |
+| [Hide Details](https://github.com/raycast/extensions/tree/main/extensions/hide-details) | 0 | Redact names, emails, cards, secrets, and faces in a screenshot before you share. On-device. | 0xdhrv | macOS | [store](https://www.raycast.com/0xdhrv/hide-details) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |

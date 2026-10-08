@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "68f2458dbcebb489e3fa2b8a66696cf9f7850e30",
-  "generatedAt": "2026-10-08T13:24:57.181Z",
-  "downloadsRefreshedAt": "2026-10-08T13:24:56.871Z",
+  "commit": "ea7574cb989b7e4552ec5fa467dd30c3d2fa556f",
+  "generatedAt": "2026-10-08T13:40:40.201Z",
+  "downloadsRefreshedAt": "2026-10-08T13:40:39.779Z",
   "count": 3393,
   "extensions": [
     {
@@ -1660,7 +1660,7 @@
       ],
       "store": "https://www.raycast.com/nhkhang/amp-runner-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/amp-runner-manager",
-      "treeSha": "4c5f2725ee17b1558f02b3389a88759a54ff381d",
+      "treeSha": "1a467a86797196854277ab1e7f13c832ba263f54",
       "downloads": 3
     },
     {
@@ -10463,7 +10463,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 615374
+      "downloads": 615384
     },
     {
       "dir": "color-shades",
@@ -23618,7 +23618,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 497627
+      "downloads": 497635
     },
     {
       "dir": "google-trends",
@@ -25365,10 +25365,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/0xdhrv/hide-details",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/hide-details",
       "treeSha": "36dcc44eb3b540458fd425733eaf44d246710a3a",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "hide-files",
@@ -29853,7 +29853,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 775447
+      "downloads": 775462
     },
     {
       "dir": "kimai",
