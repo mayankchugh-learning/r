@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `3b33c8cd12`
+
+**Updated (1):** [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc)
+
 ## 2026-10-08 — upstream `5f0d9cc349`
 
 **Updated (1):** [T3 Code](https://github.com/raycast/extensions/tree/main/extensions/t3-code)

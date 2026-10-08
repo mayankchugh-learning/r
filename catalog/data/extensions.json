@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "5f0d9cc349b48c1d7bf79dc22c5976fbe422d0a5",
-  "generatedAt": "2026-10-08T20:18:38.132Z",
-  "downloadsRefreshedAt": "2026-10-08T20:18:37.491Z",
+  "commit": "3b33c8cd12d19ef35c86ddb8d536096d48318196",
+  "generatedAt": "2026-10-08T20:20:25.895Z",
+  "downloadsRefreshedAt": "2026-10-08T20:20:25.574Z",
   "count": 3393,
   "extensions": [
     {
@@ -2861,7 +2861,7 @@
       "description": "Search and quickly navigate Arc's history and open tabs",
       "author": "thomas",
       "owner": "the-browser-company",
-      "contributors": 21,
+      "contributors": 22,
       "categories": [
         "Web",
         "Applications",
@@ -2873,7 +2873,7 @@
       ],
       "store": "https://www.raycast.com/the-browser-company/arc",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/arc",
-      "treeSha": "6b6cdce77c1be0b29a62d29af4d9ac983b32513b",
+      "treeSha": "d3b7aae25b84d30a76b44d2d27de62adfdcdb770",
       "downloads": 251851
     },
     {
@@ -10463,7 +10463,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "2426fd8c88510544f6bdb68017a3fbbe7d132fd7",
-      "downloads": 615688
+      "downloads": 615690
     },
     {
       "dir": "color-shades",
@@ -23618,7 +23618,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 497835
+      "downloads": 497836
     },
     {
       "dir": "google-trends",
@@ -29854,7 +29854,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 775824
+      "downloads": 775825
     },
     {
       "dir": "kimai",
