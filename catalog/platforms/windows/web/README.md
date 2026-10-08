@@ -1,8 +1,8 @@
 # Windows · Web
 
-150 extensions · [← Windows](../README.md)
+151 extensions · [← Windows](../README.md)
 
-[AI Services](#ai-services) (18) · [Social & Communities](#social-communities) (8) · [Search Engines](#search-engines) (50) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (22) · [Browsers & Tabs](#browsers-tabs) (2) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (5) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (5) · [General](#general) (33)
+[AI Services](#ai-services) (18) · [Social & Communities](#social-communities) (8) · [Search Engines](#search-engines) (51) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (22) · [Browsers & Tabs](#browsers-tabs) (2) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (5) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (5) · [General](#general) (33)
 
 ## Browse & Search
 
@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 497,310 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
+| [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 497,468 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
 | [Google Search](https://github.com/raycast/extensions/tree/main/extensions/google-search) | 151,371 | Google search with autosuggestions | mblode | macOS, Windows | [store](https://www.raycast.com/mblode/google-search) |
 | [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 107,665 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 68,438 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -55,6 +55,7 @@
 | [Link Transformer](https://github.com/raycast/extensions/tree/main/extensions/link-transformer) | 62 | Link Transformer lets you save, search, and transform links using your own javascript custom actions. | dangkhoipro | macOS, Windows | [store](https://www.raycast.com/dangkhoipro/link-transformer) |
 | [NeoDB](https://github.com/raycast/extensions/tree/main/extensions/neodb) | 57 | Search NeoDB items and view item details | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/neodb) |
 | [Raycall](https://github.com/raycast/extensions/tree/main/extensions/raycall) | 56 | Semantic bookmark search - save any URL and find it later in natural language. | rithmic | macOS, Windows | [store](https://www.raycast.com/rithmic/raycall) |
+| [Bilibili Search](https://github.com/raycast/extensions/tree/main/extensions/bilibili-search) | 43 | Search Bilibili videos with autosuggestions | 55b | macOS, Windows | [store](https://www.raycast.com/55b/bilibili-search) |
 | [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) | 21 | Search, browse, and manage your Keeply bookmarks | rolfkoenders | macOS, Windows | [store](https://www.raycast.com/RolfKoenders/keeply) |
 | [TinyFish Search](https://github.com/raycast/extensions/tree/main/extensions/tinyfish-search) | 21 | Search the web with TinyFish, open result URLs, and fetch clean page content. | pranav_janakiraman | macOS, Windows | [store](https://www.raycast.com/pranav_janakiraman/tinyfish-search) |
 | [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) | 20 | Search for a definition on WebGlossary.info | aashwin_patki | macOS, Windows | [store](https://www.raycast.com/aashwin_patki/webglossary-search) |

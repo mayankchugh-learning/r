@@ -41,7 +41,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 497,310 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
+| [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 497,468 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
 | [Google Search](https://github.com/raycast/extensions/tree/main/extensions/google-search) | 151,371 | Google search with autosuggestions | mblode | macOS, Windows | [store](https://www.raycast.com/mblode/google-search) |
 | [Google Maps Search](https://github.com/raycast/extensions/tree/main/extensions/google-maps-search) | 52,381 | Quickly search Google Maps or get directions. | ratoru | macOS, Windows | [store](https://www.raycast.com/ratoru/google-maps-search) |
 | [Google Fonts](https://github.com/raycast/extensions/tree/main/extensions/google-fonts) | 30,276 | Search and use fonts from Google Fonts | GastroGeek | macOS, Windows | [store](https://www.raycast.com/GastroGeek/google-fonts) |
@@ -85,7 +85,7 @@
 | [Brave Search](https://github.com/raycast/extensions/tree/main/extensions/brave-search) | 4,130 | Brave search with autosuggestions | VishwasShashidhar | macOS | [store](https://www.raycast.com/VishwasShashidhar/brave-search) |
 | [Bing Search](https://github.com/raycast/extensions/tree/main/extensions/bing-search) | 2,706 | Bing search with autosuggestions | maver1ck | macOS | [store](https://www.raycast.com/maver1ck/bing-search) |
 | [Ecosia Search](https://github.com/raycast/extensions/tree/main/extensions/ecosia-search) | 532 | Ecosia Search with autosuggestion | mcocirio | macOS | [store](https://www.raycast.com/mcocirio/ecosia-search) |
-| [Bilibili Search](https://github.com/raycast/extensions/tree/main/extensions/bilibili-search) | 43 | Search Bilibili videos with autosuggestions | 55b | macOS | [store](https://www.raycast.com/55b/bilibili-search) |
+| [Bilibili Search](https://github.com/raycast/extensions/tree/main/extensions/bilibili-search) | 43 | Search Bilibili videos with autosuggestions | 55b | macOS, Windows | [store](https://www.raycast.com/55b/bilibili-search) |
 
 ## Packages ✦
 

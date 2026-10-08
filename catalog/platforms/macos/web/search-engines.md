@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 497,310 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
+| [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 497,468 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
 | [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 251,667 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
 | [Google Search](https://github.com/raycast/extensions/tree/main/extensions/google-search) | 151,371 | Google search with autosuggestions | mblode | macOS, Windows | [store](https://www.raycast.com/mblode/google-search) |
 | [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 107,665 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
@@ -147,7 +147,7 @@
 | [Raycall](https://github.com/raycast/extensions/tree/main/extensions/raycall) | 56 | Semantic bookmark search - save any URL and find it later in natural language. | rithmic | macOS, Windows | [store](https://www.raycast.com/rithmic/raycall) |
 | [Glean Search](https://github.com/raycast/extensions/tree/main/extensions/glean-search) | 55 | Search your company's knowledge base via Glean | faizhasim | macOS | [store](https://www.raycast.com/faizhasim/glean-search) |
 | [Odoo Companion](https://github.com/raycast/extensions/tree/main/extensions/odoo-companion) | 50 | Search data into your own Odoo instance directly from Raycast | Taewenn | macOS | [store](https://www.raycast.com/Taewenn/odoo-companion) |
-| [Bilibili Search](https://github.com/raycast/extensions/tree/main/extensions/bilibili-search) | 43 | Search Bilibili videos with autosuggestions | 55b | macOS | [store](https://www.raycast.com/55b/bilibili-search) |
+| [Bilibili Search](https://github.com/raycast/extensions/tree/main/extensions/bilibili-search) | 43 | Search Bilibili videos with autosuggestions | 55b | macOS, Windows | [store](https://www.raycast.com/55b/bilibili-search) |
 | [Tableau Navigator](https://github.com/raycast/extensions/tree/main/extensions/tableau-navigator) | 38 | Search and open Tableau Dashboards and Views quickly. | endiruslan | macOS | [store](https://www.raycast.com/endiruslan/tableau-navigator) |
 | [TabStash](https://github.com/raycast/extensions/tree/main/extensions/tabstash) | 34 | Search, browse, and capture bookmarks with TabStash | mkhnsn | macOS | [store](https://www.raycast.com/mkhnsn/tabstash) |
 | [Google Cloud Platform IP Search](https://github.com/raycast/extensions/tree/main/extensions/gcp-ip-search) | 31 | Search for IP addresses across all your GCP projects and quickly navigate to the GCP console | pin-yi | macOS | [store](https://www.raycast.com/pin-yi/gcp-ip-search) |

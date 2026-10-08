@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4c41a8e66b63a33e1f2327868bd6a420a4110bad",
-  "generatedAt": "2026-10-08T05:26:51.995Z",
-  "downloadsRefreshedAt": "2026-10-08T05:26:50.897Z",
+  "commit": "ba878a209302a306b86d13daf68782ac8b12ae84",
+  "generatedAt": "2026-10-08T09:16:41.481Z",
+  "downloadsRefreshedAt": "2026-10-08T09:16:41.005Z",
   "count": 3390,
   "extensions": [
     {
@@ -5280,17 +5280,18 @@
       "description": "Search Bilibili videos with autosuggestions",
       "author": "55b",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Web"
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/55b/bilibili-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bilibili-search",
-      "treeSha": "f0c83272736025dab6f21b88de5a286dbb2473fa",
+      "treeSha": "0632af7d0a88e8a7ee2c7448aeec5f8f01bbab93",
       "downloads": 43
     },
     {
@@ -10462,7 +10463,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 614970
+      "downloads": 615164
     },
     {
       "dir": "color-shades",
@@ -23617,7 +23618,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 497310
+      "downloads": 497468
     },
     {
       "dir": "google-trends",
@@ -29831,7 +29832,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 774989
+      "downloads": 775223
     },
     {
       "dir": "kimai",

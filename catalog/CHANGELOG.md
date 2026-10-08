@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `ba878a2093`
+
+**Updated (1):** [Bilibili Search](https://github.com/raycast/extensions/tree/main/extensions/bilibili-search)
+
 ## 2026-10-08 — upstream `4c41a8e66b`
 
 **Updated (1):** [Simple Draw](https://github.com/raycast/extensions/tree/main/extensions/simple-draw)
