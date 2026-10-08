@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7868b212f881d70c264d9ca9b5dfc430716792ce",
-  "generatedAt": "2026-10-08T10:13:48.929Z",
-  "downloadsRefreshedAt": "2026-10-08T10:13:48.076Z",
+  "commit": "ffe2d88c1ad1c5c57275b270c3f7d2000ff81863",
+  "generatedAt": "2026-10-08T10:27:40.891Z",
+  "downloadsRefreshedAt": "2026-10-08T10:27:40.500Z",
   "count": 3390,
   "extensions": [
     {
@@ -10463,7 +10463,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 615208
+      "downloads": 615215
     },
     {
       "dir": "color-shades",
@@ -23618,7 +23618,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 497493
+      "downloads": 497500
     },
     {
       "dir": "google-trends",
@@ -25578,7 +25578,7 @@
       ],
       "store": "https://www.raycast.com/tonka3000/homeassistant",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/homeassistant",
-      "treeSha": "e68ac3e26f32f73a302522b23c12253229c47a4f",
+      "treeSha": "3658190925de6e105c107ff0243834dcdd9743b0",
       "downloads": 30283
     },
     {
@@ -29832,7 +29832,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 775268
+      "downloads": 775275
     },
     {
       "dir": "kimai",

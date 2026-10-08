@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `ffe2d88c1a`
+
+**Updated (1):** [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant)
+
 ## 2026-10-08 — upstream `7868b212f8`
 
 **Updated (1):** [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager)
