@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `5f0d9cc349`
+
+**Updated (1):** [T3 Code](https://github.com/raycast/extensions/tree/main/extensions/t3-code)
+
 ## 2026-10-08 — upstream `188f78ba2d`
 
 **Updated (1):** [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons)
