@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e8e1042d20bd815538284d7d676e48593209aedd",
-  "generatedAt": "2026-10-08T20:06:42.792Z",
-  "downloadsRefreshedAt": "2026-10-08T20:06:42.424Z",
+  "commit": "17b40594f6b63bb028d713fbd6bcce263522be6f",
+  "generatedAt": "2026-10-08T20:07:43.410Z",
+  "downloadsRefreshedAt": "2026-10-08T20:07:42.064Z",
   "count": 3393,
   "extensions": [
     {
@@ -29853,7 +29853,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 775817
+      "downloads": 775818
     },
     {
       "dir": "kimai",
@@ -49513,7 +49513,7 @@
       "store": "https://www.raycast.com/EvanZhouDev/raycast-gemini",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini",
       "treeSha": "c4853e889bc117649d536f55ddfdd3b5f0a0625b",
-      "downloads": 85600
+      "downloads": 85626
     },
     {
       "dir": "raycast-google-palm",
@@ -53045,7 +53045,7 @@
       "description": "Use the built-in text-to-speech engine to say the text you provide.",
       "author": "litomore",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Communication",
         "Productivity",
@@ -53059,7 +53059,7 @@
       ],
       "store": "https://www.raycast.com/litomore/say",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/say",
-      "treeSha": "2a9d02eec217d08e8568fee66ac7f25aaa476008",
+      "treeSha": "4777fd9002a63f42eff2b0db8f2d8feba3f755d1",
       "downloads": 3170
     },
     {

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `17b40594f6`
+
+**Updated (1):** [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say)
+
 ## 2026-10-08 — upstream `e8e1042d20`
 
 **Updated (1):** [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini)

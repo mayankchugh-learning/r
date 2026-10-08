@@ -11,7 +11,7 @@
 | 1 | [xmok](./id/xmok.md) | 114 | 13,164 |
 | 2 | [koinzhang](./id/koinzhang.md) | 50 | 291,334 |
 | 3 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 104,345 |
-| 4 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 187,677 |
+| 4 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 187,703 |
 | 5 | [chrismessina](./id/chrismessina.md) | 18 | 7,720 |
 | 6 | [alexi.build](./id/alexi-build.md) | 18 | 2,313 |
 | 7 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 29,998 |
@@ -407,7 +407,7 @@
 | 397 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 17 |
 | 398 | [frdmn](https://www.raycast.com/frdmn) | 2 | 1 |
 | 399 | github-next | 2 | — |
-| 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,817 |
+| 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,818 |
 | 401 | [Codely](https://www.raycast.com/Codely) | 1 | 570,667 |
 | 402 | [linear](https://www.raycast.com/linear) | 1 | 402,490 |
 | 403 | [mommertf](https://www.raycast.com/mommertf) | 1 | 335,414 |
