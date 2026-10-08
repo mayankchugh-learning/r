@@ -10,9 +10,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Stock Tracker](https://github.com/raycast/extensions/tree/main/extensions/stock-tracker) | 6,664 | Shows stock market data for individual stocks or your portfolio by using Yahoo Finance. | hmarr | macOS | [store](https://www.raycast.com/hmarr/stock-tracker) |
-| [Stock Lookup](https://github.com/raycast/extensions/tree/main/extensions/stock-lookup) | 2,172 | Retrieves stock information from the alphavantage API. Get a free API Key from https://www.alphavantage.co/support/#api-key, or a paid one from https://www.alp… | jones-sam | macOS | [store](https://www.raycast.com/jones-sam/stock-lookup) |
-| [Apple Stocks Search](https://github.com/raycast/extensions/tree/main/extensions/apple-stocks-search) | 1,228 | Apple Stocks Extension for Raycast with Autosuggestions | hayden_barnes | macOS | [store](https://www.raycast.com/hayden_barnes/apple-stocks-search) |
+| [Stock Tracker](https://github.com/raycast/extensions/tree/main/extensions/stock-tracker) | 6,667 | Shows stock market data for individual stocks or your portfolio by using Yahoo Finance. | hmarr | macOS | [store](https://www.raycast.com/hmarr/stock-tracker) |
+| [Stock Lookup](https://github.com/raycast/extensions/tree/main/extensions/stock-lookup) | 2,173 | Retrieves stock information from the alphavantage API. Get a free API Key from https://www.alphavantage.co/support/#api-key, or a paid one from https://www.alp… | jones-sam | macOS | [store](https://www.raycast.com/jones-sam/stock-lookup) |
+| [Apple Stocks Search](https://github.com/raycast/extensions/tree/main/extensions/apple-stocks-search) | 1,229 | Apple Stocks Extension for Raycast with Autosuggestions | hayden_barnes | macOS | [store](https://www.raycast.com/hayden_barnes/apple-stocks-search) |
 | [Coinbase Pro](https://github.com/raycast/extensions/tree/main/extensions/coinbase-pro) | 378 | View your Coinbase Pro portfolio | farisaziz12 | macOS | [store](https://www.raycast.com/farisaziz12/coinbase-pro) |
 | [Polymarket](https://github.com/raycast/extensions/tree/main/extensions/polymarket) | 340 | Search and view markets on Polymarket | Osprey | macOS | [store](https://www.raycast.com/Osprey/polymarket) |
 | [Google Finance](https://github.com/raycast/extensions/tree/main/extensions/google-finance) | 224 | Track stock prices powered by Google Finance | kyle_samani | macOS | [store](https://www.raycast.com/kyle_samani/google-finance) |
@@ -23,7 +23,7 @@
 | [Zacks Stock Ranking](https://github.com/raycast/extensions/tree/main/extensions/zacks-stock-ranking) | 65 | Zacks.com is the website for Zacks Investment Research, an independent investment research firm known for its proprietary Zacks Rank, a stock rating system (1=… | joshmillgate | macOS, Windows | [store](https://www.raycast.com/joshmillgate/zacks-stock-ranking) |
 | [Midas](https://github.com/raycast/extensions/tree/main/extensions/midas) | 56 | Midas is an AI Agent that manages on-chain trading, voting and more for you. | sunosuporno | macOS | [store](https://www.raycast.com/sunosuporno/midas) |
 | [Alpaca Trading](https://github.com/raycast/extensions/tree/main/extensions/alpaca-trading) | 53 | Interact with your Alpaca trading account | stelo | macOS | [store](https://www.raycast.com/stelo/alpaca-trading) |
-| [Schwab Portfolio](https://github.com/raycast/extensions/tree/main/extensions/schwab-portfolio) | 14 | View your Charles Schwab brokerage accounts, positions, and charts | drew_levinson | macOS, Windows | [store](https://www.raycast.com/drew_levinson/schwab-portfolio) |
+| [Schwab Portfolio](https://github.com/raycast/extensions/tree/main/extensions/schwab-portfolio) | 15 | View your Charles Schwab brokerage accounts, positions, and charts | drew_levinson | macOS, Windows | [store](https://www.raycast.com/drew_levinson/schwab-portfolio) |
 | [Adjacent](https://github.com/raycast/extensions/tree/main/extensions/adjacent) | 3 | Browse, search, and read news on Adjacent prediction markets, indices, and rates. | Lucas-Kohorst | macOS | [store](https://www.raycast.com/Lucas-Kohorst/adjacent) |
 | [Average Saham Indonesia](https://github.com/raycast/extensions/tree/main/extensions/average-saham-indonesia) | 3 | Calculate your Indonesian stock average price (Average Up / Average Down) instantly, right from Raycast. | uluumbch | macOS, Windows | [store](https://www.raycast.com/uluumbch/average-saham-indonesia) |
 | [Hyperliquid](https://github.com/raycast/extensions/tree/main/extensions/hyperliquid) | 2 | Browse Hyperliquid perp markets, track your positions and PnL, and pin live prices to your menu bar — all read-only. | insuline | macOS | [store](https://www.raycast.com/Insuline/hyperliquid) |
@@ -33,7 +33,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Coinmarketcap Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/coinmarketcap-crypto-crawler) | 5,605 | A price crawler to search crypto price from Coinmarketcap. | SonicSpark | macOS | [store](https://www.raycast.com/SonicSpark/coinmarketcap-crypto-price-crawler) |
+| [Coinmarketcap Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/coinmarketcap-crypto-crawler) | 5,606 | A price crawler to search crypto price from Coinmarketcap. | SonicSpark | macOS | [store](https://www.raycast.com/SonicSpark/coinmarketcap-crypto-price-crawler) |
 | [Coingecko](https://github.com/raycast/extensions/tree/main/extensions/coingecko) | 2,838 | Get crypto data from Coingecko (price, ticker, ranking) | destiner | macOS | [store](https://www.raycast.com/destiner/coingecko) |
 | [Binance Portfolio](https://github.com/raycast/extensions/tree/main/extensions/binance) | 1,155 | Track your Binance portfolio | grzegorzkrukowski | macOS | [store](https://www.raycast.com/grzegorzkrukowski/binance) |
 | [Crypto Price](https://github.com/raycast/extensions/tree/main/extensions/crypto-price) | 1,139 | Keep an eye on Bitcoin (BTC), Ethereum (ETH), and other cryptocurrency prices and more directly from your system menu bar | gutenye | macOS, Windows | [store](https://www.raycast.com/gutenye/crypto-price) |
@@ -70,8 +70,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Currency Exchange](https://github.com/raycast/extensions/tree/main/extensions/currency-exchange) | 20,035 | Simple Currency Exchange with a selectable rate provider (ExchangeRate-API or UniRateAPI) | xeric | Windows, macOS | [store](https://www.raycast.com/xeric/currency-exchange) |
-| [Wise Quotes](https://github.com/raycast/extensions/tree/main/extensions/wise-quotes) | 753 | Effortlessly calculate international money transfers between USD and any target currency using the Wise API. Instantly generate quotes, access exchange rates,… | hugoliconv | macOS | [store](https://www.raycast.com/hugoliconv/wise-quotes) |
+| [Currency Exchange](https://github.com/raycast/extensions/tree/main/extensions/currency-exchange) | 20,051 | Simple Currency Exchange with a selectable rate provider (ExchangeRate-API or UniRateAPI) | xeric | Windows, macOS | [store](https://www.raycast.com/xeric/currency-exchange) |
+| [Wise Quotes](https://github.com/raycast/extensions/tree/main/extensions/wise-quotes) | 754 | Effortlessly calculate international money transfers between USD and any target currency using the Wise API. Instantly generate quotes, access exchange rates,… | hugoliconv | macOS | [store](https://www.raycast.com/hugoliconv/wise-quotes) |
 | [Banca d'Italia Currency Converter](https://github.com/raycast/extensions/tree/main/extensions/banca-d-italia-currency-converter) | 559 | Convert currencies based on the Banca d'Italia exchange rates. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/banca-d-italia-currency-converter) |
 | [monobank](https://github.com/raycast/extensions/tree/main/extensions/monobank) | 181 | View currency rates and all your accounts in monobank. | danulqua | macOS, Windows | [store](https://www.raycast.com/danulqua/monobank) |
 | [Dollar Blue](https://github.com/raycast/extensions/tree/main/extensions/dollar-blue) | 57 | Gives you the exchange rate of the "Parallel" US Dollar against Argentine Peso | agus | macOS | [store](https://www.raycast.com/agus/dollar-blue) |
@@ -87,7 +87,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Splitwise](https://github.com/raycast/extensions/tree/main/extensions/Splitwise) | 475 | View the balances and add expenses to Splitwise | ilian | macOS | [store](https://www.raycast.com/ilian/splitwise) |
+| [Splitwise](https://github.com/raycast/extensions/tree/main/extensions/Splitwise) | 476 | View the balances and add expenses to Splitwise | ilian | macOS | [store](https://www.raycast.com/ilian/splitwise) |
 | [Better Deal](https://github.com/raycast/extensions/tree/main/extensions/better-deal) | 319 | Calculates unit costs and tracks purchasing history to help you find the best deals. | juxtdesigncc | macOS | [store](https://www.raycast.com/juxtdesigncc/better-deal) |
 | [MoneyLover](https://github.com/raycast/extensions/tree/main/extensions/moneylover) | 147 | MoneyLover is a personal finance app that helps you manage your money, budget, and track your spending. | lachero | macOS | [store](https://www.raycast.com/lachero/moneylover) |
 | [Firefly III](https://github.com/raycast/extensions/tree/main/extensions/firefly-iii) | 112 | A free and open source personal finance manager | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/firefly-iii) |
@@ -113,7 +113,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Monzo](https://github.com/raycast/extensions/tree/main/extensions/monzo) | 307 | View your Monzo bank account balance and recent transactions. | danpalmer | macOS | [store](https://www.raycast.com/danpalmer/monzo) |
+| [Monzo](https://github.com/raycast/extensions/tree/main/extensions/monzo) | 308 | View your Monzo bank account balance and recent transactions. | danpalmer | macOS | [store](https://www.raycast.com/danpalmer/monzo) |
 | [Wise Accounts](https://github.com/raycast/extensions/tree/main/extensions/wise-accounts) | 285 | View Wise Profiles, Balances, and Transactions | robsel118 | macOS | [store](https://www.raycast.com/robsel118/wise-accounts) |
 | [CardPointers](https://github.com/raycast/extensions/tree/main/extensions/cardpointers) | 238 | Search for any credit card details or Amex/Chase offer from the CardPointers database. | emcro | macOS | [store](https://www.raycast.com/emcro/cardpointers) |
 | [Loan Calculator](https://github.com/raycast/extensions/tree/main/extensions/loan-calculator) | 205 | Calculate loan payments with customizable terms and payment schedules | kylinwowo | macOS | [store](https://www.raycast.com/kylinwowo/loan-calculator) |
@@ -121,7 +121,7 @@
 | [Wise Lens](https://github.com/raycast/extensions/tree/main/extensions/wise-lens) | 22 | A clear overview of your Wise balances in Raycast: spending, combined total and live rates. | jorgetoh | macOS, Windows | [store](https://www.raycast.com/jorgetoh/wise-lens) |
 | [Bunq](https://github.com/raycast/extensions/tree/main/extensions/bunq) | 12 | Banking client for bunq - manage accounts, cards, and payments | TurboCoder13 | macOS, Windows | [store](https://www.raycast.com/TurboCoder13/bunq) |
 | [VietQR Transfer Generator](https://github.com/raycast/extensions/tree/main/extensions/vietqr-transfer) | 10 | Quickly generate VietQR payment codes for Vietnamese banks with customizable templates, amounts, and descriptions. | annguyen | macOS, Windows | [store](https://www.raycast.com/annguyen/vietqr-transfer) |
-| [Simplebanking](https://github.com/raycast/extensions/tree/main/extensions/simplebanking) | 0 | Balances, transactions and a monthly overview from simplebanking — reads the local cache, without contacting a bank. | klotzbrocken | macOS | [store](https://www.raycast.com/klotzbrocken/simplebanking) |
+| [Simplebanking](https://github.com/raycast/extensions/tree/main/extensions/simplebanking) | 1 | Balances, transactions and a monthly overview from simplebanking — reads the local cache, without contacting a bank. | klotzbrocken | macOS | [store](https://www.raycast.com/klotzbrocken/simplebanking) |
 
 ## Business & Reference
 
@@ -129,7 +129,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,423 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
+| [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,424 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [Mercury](https://github.com/raycast/extensions/tree/main/extensions/mercury) | 292 | Quickly see your Mercury accounts and transactions directly in Raycast | atkinsmatt101 | macOS | [store](https://www.raycast.com/atkinsmatt101/mercury) |
 | [Polar](https://github.com/raycast/extensions/tree/main/extensions/polar) | 191 | Manage all your Polar products, sales & analytics | emilwidlund | macOS | [store](https://www.raycast.com/emilwidlund/polar) |
 | [Invoice Generator](https://github.com/raycast/extensions/tree/main/extensions/invoice-generator) | 165 | Create invoices using the Invoice Generator API. | alexs | macOS | [store](https://www.raycast.com/alexs/invoice-generator) |
@@ -143,7 +143,7 @@
 | [ChartMogul](https://github.com/raycast/extensions/tree/main/extensions/chartmogul) | 63 | A Raycast extension that gives you quick access to key business metrics from ChartMogul right from your command bar. Instantly view MRR, ARR, churn, customer c… | mattdelliott | macOS | [store](https://www.raycast.com/mattdelliott/chartmogul) |
 | [FreeAgent](https://github.com/raycast/extensions/tree/main/extensions/freeagent) | 61 | Interact with FreeAgent | SteveEdson | macOS, Windows | [store](https://www.raycast.com/SteveEdson/freeagent) |
 | [Dodo Payments](https://github.com/raycast/extensions/tree/main/extensions/dodo-payments) | 43 | Manage all your Dodo Payments orders, payments, subscriptions, discounts, license keys, disputes, refunds and payouts, right from your keyboard. | dodopayments | macOS | [store](https://www.raycast.com/dodopayments/dodo-payments) |
-| [Moneybird](https://github.com/raycast/extensions/tree/main/extensions/moneybird) | 36 | Quickly add new time entries to your Moneybird administration | janyk | macOS | [store](https://www.raycast.com/janyk/moneybird) |
+| [Moneybird](https://github.com/raycast/extensions/tree/main/extensions/moneybird) | 37 | Quickly add new time entries to your Moneybird administration | janyk | macOS | [store](https://www.raycast.com/janyk/moneybird) |
 | [Paystack](https://github.com/raycast/extensions/tree/main/extensions/paystack) | 28 | Manage your Paystack account effortlessly in Raycast—check balances, search transactions, generate links, issue refunds, and track revenue—all from your keyboa… | dominuskelvin | macOS | [store](https://www.raycast.com/dominuskelvin/paystack) |
 | [Easy Invoice](https://github.com/raycast/extensions/tree/main/extensions/easy-invoice) | 27 | Create and manage professional PDF invoices in seconds. Track clients, export records, and get paid faster. | davidosull | macOS | [store](https://www.raycast.com/davidosull/easy-invoice) |
 | [Lemon Squeezy](https://github.com/raycast/extensions/tree/main/extensions/lemon-squeezy) | 26 | Orders and Products in all your Stores | xmok | macOS | [store](https://www.raycast.com/xmok/lemon-squeezy) |
@@ -180,10 +180,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 260,673 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
-| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 6,564 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
-| [LaTeX to Image](https://github.com/raycast/extensions/tree/main/extensions/quick-latex) | 1,675 | Converts LaTeX text to image. Copy the image to the Clipboard. | Noamko | macOS | [store](https://www.raycast.com/Noamko/quick-latex) |
-| [TradingView Controls](https://github.com/raycast/extensions/tree/main/extensions/tradingview-controls) | 1,622 | Controls TradingView from within Raycast | skaj | macOS | [store](https://www.raycast.com/skaj/tradingview-controls) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 260,838 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 6,568 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
+| [LaTeX to Image](https://github.com/raycast/extensions/tree/main/extensions/quick-latex) | 1,678 | Converts LaTeX text to image. Copy the image to the Clipboard. | Noamko | macOS | [store](https://www.raycast.com/Noamko/quick-latex) |
+| [TradingView Controls](https://github.com/raycast/extensions/tree/main/extensions/tradingview-controls) | 1,623 | Controls TradingView from within Raycast | skaj | macOS | [store](https://www.raycast.com/skaj/tradingview-controls) |
 | [TL;DR (Too Long; Didn't Read)](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) | 1,582 | Let AI help you read articles from url. | chessjoe | macOS | [store](https://www.raycast.com/chessjoe/tl-dr-ai-summary-tool) |
 | [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab) | 1,514 | View and manage your YNAB Budgets directly from Raycast | CodetaroMiura | macOS | [store](https://www.raycast.com/CodetaroMiura/raynab) |
 | [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,315 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
@@ -195,7 +195,7 @@
 | [debank](https://github.com/raycast/extensions/tree/main/extensions/debank) | 212 | A Raycast Extension to query DeBank data with its OpenAPI | Yukai | macOS | [store](https://www.raycast.com/Yukai/debank) |
 | [Zerion](https://github.com/raycast/extensions/tree/main/extensions/zerion) | 157 | Browse Zerion from Raycast | imqdee | macOS | [store](https://www.raycast.com/imqdee/zerion) |
 | [Department of Government Efficiency Tracker](https://github.com/raycast/extensions/tree/main/extensions/doge-tracker) | 123 | View information about the work done by the Department of Government Efficiency. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/doge-tracker) |
-| [Tip Calculator](https://github.com/raycast/extensions/tree/main/extensions/tip-calculator) | 107 | Calculate the total per person based on the Bill, Tip %, and Number of People. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/tip-calculator) |
+| [Tip Calculator](https://github.com/raycast/extensions/tree/main/extensions/tip-calculator) | 108 | Calculate the total per person based on the Bill, Tip %, and Number of People. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/tip-calculator) |
 | [Fluctuation](https://github.com/raycast/extensions/tree/main/extensions/fluctuation) | 78 | Calculation for fluctuation | zoffyzhang | macOS | [store](https://www.raycast.com/zoffyzhang/fluctuation) |
 | [DefiScan.live](https://github.com/raycast/extensions/tree/main/extensions/defiscan) | 69 | Search on defiscan.live | adrian-schnell | macOS | [store](https://www.raycast.com/adrian-schnell/defiscan) |
 | [Wave](https://github.com/raycast/extensions/tree/main/extensions/wave) | 60 | Manage your Wave Businesses | xmok | macOS | [store](https://www.raycast.com/xmok/wave) |

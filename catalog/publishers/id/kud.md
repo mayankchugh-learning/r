@@ -1,12 +1,12 @@
 # kud
 
-13 extensions · 7,363 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
+13 extensions · 7,367 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 2,341 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
+| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 2,345 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
 | [VLC](https://github.com/raycast/extensions/tree/main/extensions/vlc) | 574 | Seamlessly control VLC Media Player from Raycast. Play, pause, skip tracks, adjust volume, seek, toggle fullscreen, and more—all from your keyboard. Requires V… | kud | macOS | [store](https://www.raycast.com/kud/vlc) |
 
 ## Developer Tools (5)

@@ -10,33 +10,33 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 4,512 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
-| [Bash Commands](https://github.com/raycast/extensions/tree/main/extensions/bash-commands) | 154 | A quick reference for bash commands with search, and categories. | koala1206 | macOS, Windows | [store](https://www.raycast.com/koala1206/bash-commands) |
+| [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 4,518 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
+| [Bash Commands](https://github.com/raycast/extensions/tree/main/extensions/bash-commands) | 155 | A quick reference for bash commands with search, and categories. | koala1206 | macOS, Windows | [store](https://www.raycast.com/koala1206/bash-commands) |
 | [Rust Documentation](https://github.com/raycast/extensions/tree/main/extensions/rust-docs) | 150 | Search Rust Standard Library documentation | patrick-ehimen | macOS, Windows | [store](https://www.raycast.com/patrick-ehimen/rust-docs) |
 
 ### Framework & Library Docs
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 80,680 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
-| [Laravel Docs](https://github.com/raycast/extensions/tree/main/extensions/laravel-docs) | 6,404 | This extension allows you to search through the Laravel docs directly from Raycast. | indykoning | macOS, Windows | [store](https://www.raycast.com/indykoning/laravel-docs) |
-| [shadcn/ui](https://github.com/raycast/extensions/tree/main/extensions/shadcn-ui) | 4,769 | Browse shadcn/ui documentation, components and examples | luisFilipePT | macOS, Windows | [store](https://www.raycast.com/luisFilipePT/shadcn-ui) |
-| [Next.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/nextjs-docs) | 3,076 | Efficiently search Next.js documentation | PrasadChinwal | Windows, macOS | [store](https://www.raycast.com/PrasadChinwal/nextjs-docs) |
-| [Laravel Artisan](https://github.com/raycast/extensions/tree/main/extensions/laravel-artisan) | 1,137 | View and search Laravel Artisan commands. | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/laravel-artisan) |
-| [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 1,089 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
-| [Search Svelte Docs](https://github.com/raycast/extensions/tree/main/extensions/svelte-docs) | 680 | Search the svelte docs directly in Raycast | paolo_ricciuti | macOS, Windows | [store](https://www.raycast.com/paolo_ricciuti/svelte-docs) |
+| [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 80,756 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
+| [Laravel Docs](https://github.com/raycast/extensions/tree/main/extensions/laravel-docs) | 6,407 | This extension allows you to search through the Laravel docs directly from Raycast. | indykoning | macOS, Windows | [store](https://www.raycast.com/indykoning/laravel-docs) |
+| [shadcn/ui](https://github.com/raycast/extensions/tree/main/extensions/shadcn-ui) | 4,772 | Browse shadcn/ui documentation, components and examples | luisFilipePT | macOS, Windows | [store](https://www.raycast.com/luisFilipePT/shadcn-ui) |
+| [Next.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/nextjs-docs) | 3,079 | Efficiently search Next.js documentation | PrasadChinwal | Windows, macOS | [store](https://www.raycast.com/PrasadChinwal/nextjs-docs) |
+| [Laravel Artisan](https://github.com/raycast/extensions/tree/main/extensions/laravel-artisan) | 1,138 | View and search Laravel Artisan commands. | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/laravel-artisan) |
+| [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 1,090 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
+| [Search Svelte Docs](https://github.com/raycast/extensions/tree/main/extensions/svelte-docs) | 681 | Search the svelte docs directly in Raycast | paolo_ricciuti | macOS, Windows | [store](https://www.raycast.com/paolo_ricciuti/svelte-docs) |
 | [Django Docs](https://github.com/raycast/extensions/tree/main/extensions/django-docs) | 52 | Navigate and search through Django documentation | JensAstrup | macOS, Windows | [store](https://www.raycast.com/JensAstrup/django-docs) |
 | [Open Props](https://github.com/raycast/extensions/tree/main/extensions/open-props) | 21 | Search and copy CSS custom properties from the Open Props design system. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/open-props) |
-| [UI Component Search](https://github.com/raycast/extensions/tree/main/extensions/ui-component-search) | 19 | Search and browse components across shadcn/ui, PrimeNG, Angular Material, spartan/ui, Taiga UI, Mantine, React Spectrum, and Chakra UI | tomer_meirov | Windows, macOS | [store](https://www.raycast.com/tomer_meirov/ui-component-search) |
+| [UI Component Search](https://github.com/raycast/extensions/tree/main/extensions/ui-component-search) | 20 | Search and browse components across shadcn/ui, PrimeNG, Angular Material, spartan/ui, Taiga UI, Mantine, React Spectrum, and Chakra UI | tomer_meirov | Windows, macOS | [store](https://www.raycast.com/tomer_meirov/ui-component-search) |
 
 ### Developer References
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 21,415 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
-| [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn) | 20,362 | Search MDN Web Docs | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/search-mdn) |
-| [DevDocs](https://github.com/raycast/extensions/tree/main/extensions/devdocs) | 9,185 | Search through DevDocs documentation sets from Raycast. | djpowers | macOS, Windows | [store](https://www.raycast.com/djpowers/devdocs) |
-| [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs) | 2,998 | Search Raycast's documentation quickly, copy the URL, or open it in your browser | teziovsky | macOS, Windows | [store](https://www.raycast.com/teziovsky/raydocs) |
+| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 21,432 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
+| [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn) | 20,376 | Search MDN Web Docs | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/search-mdn) |
+| [DevDocs](https://github.com/raycast/extensions/tree/main/extensions/devdocs) | 9,191 | Search through DevDocs documentation sets from Raycast. | djpowers | macOS, Windows | [store](https://www.raycast.com/djpowers/devdocs) |
+| [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs) | 3,000 | Search Raycast's documentation quickly, copy the URL, or open it in your browser | teziovsky | macOS, Windows | [store](https://www.raycast.com/teziovsky/raydocs) |
 | [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 978 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
 | [DICOM](https://github.com/raycast/extensions/tree/main/extensions/dicom) | 75 | DICOM tag lookup | sedghi | macOS, Windows | [store](https://www.raycast.com/sedghi/dicom) |
 | [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) | 41 | Quickly find and copy the docs you need for the Planning Center API. | thomas.harmond | macOS, Windows | [store](https://www.raycast.com/thomas.harmond/planning-center-api-docs) |
@@ -48,11 +48,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Cheatsheets](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets) | 42,977 | Search and view programming cheatsheets | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/cheatsheets) |
-| [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) | 23,098 | Search Vim commands | ajaypremshankar | macOS, Windows | [store](https://www.raycast.com/ajaypremshankar/vim-bro) |
-| [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) | 12,727 | Markdown documentation at your fingertips | codedbyjordan | macOS, Windows | [store](https://www.raycast.com/codedbyjordan/markdown-reference) |
-| [TLDR Pages](https://github.com/raycast/extensions/tree/main/extensions/tldr) | 11,474 | Search TLDR command cheatsheets. | pomdtr | macOS, Windows | [store](https://www.raycast.com/pomdtr/tldr) |
-| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 10,339 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
+| [Cheatsheets](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets) | 43,016 | Search and view programming cheatsheets | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/cheatsheets) |
+| [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) | 23,111 | Search Vim commands | ajaypremshankar | macOS, Windows | [store](https://www.raycast.com/ajaypremshankar/vim-bro) |
+| [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) | 12,729 | Markdown documentation at your fingertips | codedbyjordan | macOS, Windows | [store](https://www.raycast.com/codedbyjordan/markdown-reference) |
+| [TLDR Pages](https://github.com/raycast/extensions/tree/main/extensions/tldr) | 11,486 | Search TLDR command cheatsheets. | pomdtr | macOS, Windows | [store](https://www.raycast.com/pomdtr/tldr) |
+| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 10,349 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
 | [SQL Reference Search](https://github.com/raycast/extensions/tree/main/extensions/sql-reference-search) | 198 | Dialect-aware SQL reference with syntax, examples, and practical query patterns for PostgreSQL, MySQL, SQLite, and T-SQL. | FariaF22 | macOS, Windows | [store](https://www.raycast.com/FariaF22/sql-reference-search) |
 
 ### Dictionaries & Language
@@ -67,10 +67,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Confluence](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) | 15,390 | Quickly navigate, create and search Confluence through Raycast. | tbrown | macOS, Windows | [store](https://www.raycast.com/tbrown/confluence) |
-| [Supabase Documentation](https://github.com/raycast/extensions/tree/main/extensions/supabase-docs) | 1,338 | Quickly search Supabase documentation and open it in the browser | supabase (org) | macOS, Windows | [store](https://www.raycast.com/supabase/supabase-docs) |
-| [Code Review Emoji Guide](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis) | 1,197 | A simple emoji legend to help convey intention and added meaning in code review comments. | russellyeo | macOS, Windows | [store](https://www.raycast.com/russellyeo/code-review-emojis) |
-| [Prisma Docs Search](https://github.com/raycast/extensions/tree/main/extensions/prisma-docs-search) | 737 | Quickly access Prisma's AI-powered docs search feature, powered by kapa.ai, right from Raycast. | petra | macOS, Windows | [store](https://www.raycast.com/petra/prisma-docs-search) |
+| [Confluence](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) | 15,403 | Quickly navigate, create and search Confluence through Raycast. | tbrown | macOS, Windows | [store](https://www.raycast.com/tbrown/confluence) |
+| [Supabase Documentation](https://github.com/raycast/extensions/tree/main/extensions/supabase-docs) | 1,339 | Quickly search Supabase documentation and open it in the browser | supabase (org) | macOS, Windows | [store](https://www.raycast.com/supabase/supabase-docs) |
+| [Code Review Emoji Guide](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis) | 1,198 | A simple emoji legend to help convey intention and added meaning in code review comments. | russellyeo | macOS, Windows | [store](https://www.raycast.com/russellyeo/code-review-emojis) |
+| [Prisma Docs Search](https://github.com/raycast/extensions/tree/main/extensions/prisma-docs-search) | 739 | Quickly access Prisma's AI-powered docs search feature, powered by kapa.ai, right from Raycast. | petra | macOS, Windows | [store](https://www.raycast.com/petra/prisma-docs-search) |
 | [Playwright Documentation](https://github.com/raycast/extensions/tree/main/extensions/playwright-docs) | 579 | Quickly search the Playwright docs and open them in the browser | AndrewUsher | macOS, Windows | [store](https://www.raycast.com/AndrewUsher/playwright-docs) |
 | [Context7](https://github.com/raycast/extensions/tree/main/extensions/context7) | 369 | Search up-to-date documentation for any library, framework, or SDK — keep the ones you use offline, and ask Raycast AI about them | loris | macOS, Windows | [store](https://www.raycast.com/loris/context7) |
 | [dbt Documentation](https://github.com/raycast/extensions/tree/main/extensions/dbt-documentation) | 276 | Search the dbt documentation website https://docs.getdbt.com/ | b-per | macOS, Windows | [store](https://www.raycast.com/b-per/dbt-documentation) |
@@ -90,21 +90,21 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 889 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
+| [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 890 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
 
 ### General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq) | 8,225 | Add notes quickly in Logseq | futantan | macOS, Windows | [store](https://www.raycast.com/futantan/logseq) |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 8,164 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
-| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 5,096 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
-| [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,931 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
-| [Miro](https://github.com/raycast/extensions/tree/main/extensions/miro) | 3,362 | Create, search and copy link, open Miro boards and more. | felixhaeberle | macOS, Windows | [store](https://www.raycast.com/felixhaeberle/miro) |
-| [OpenRouter Model Search](https://github.com/raycast/extensions/tree/main/extensions/openrouter-model-search) | 1,851 | Search OpenRouter's AI model catalog. | mutewinter | macOS, Windows | [store](https://www.raycast.com/mutewinter/openrouter-model-search) |
-| [Phosphor Icons](https://github.com/raycast/extensions/tree/main/extensions/phosphor-icons) | 1,640 | Search, preview and copy Phosphor Icons | marinsokol | macOS, Windows | [store](https://www.raycast.com/marinsokol/phosphor-icons) |
+| [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq) | 8,233 | Add notes quickly in Logseq | futantan | macOS, Windows | [store](https://www.raycast.com/futantan/logseq) |
+| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 8,173 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 5,098 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
+| [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,938 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
+| [Miro](https://github.com/raycast/extensions/tree/main/extensions/miro) | 3,363 | Create, search and copy link, open Miro boards and more. | felixhaeberle | macOS, Windows | [store](https://www.raycast.com/felixhaeberle/miro) |
+| [OpenRouter Model Search](https://github.com/raycast/extensions/tree/main/extensions/openrouter-model-search) | 1,853 | Search OpenRouter's AI model catalog. | mutewinter | macOS, Windows | [store](https://www.raycast.com/mutewinter/openrouter-model-search) |
+| [Phosphor Icons](https://github.com/raycast/extensions/tree/main/extensions/phosphor-icons) | 1,641 | Search, preview and copy Phosphor Icons | marinsokol | macOS, Windows | [store](https://www.raycast.com/marinsokol/phosphor-icons) |
 | [Pianoman](https://github.com/raycast/extensions/tree/main/extensions/pianoman) | 1,293 | Show piano chords and scales | juhamust | macOS, Windows | [store](https://www.raycast.com/juhamust/pianoman) |
-| [Conventional Comments](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) | 1,288 | Paste conventional comment into your foremost application | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/conventional-comments) |
+| [Conventional Comments](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) | 1,290 | Paste conventional comment into your foremost application | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/conventional-comments) |
 | [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 757 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |
 | [PDSls](https://github.com/raycast/extensions/tree/main/extensions/pdsls) | 172 | Browse the public data on atproto. | juliet_philippe | macOS, Windows | [store](https://www.raycast.com/juliet_philippe/pdsls) |
 | [Zeabur](https://github.com/raycast/extensions/tree/main/extensions/zeabur) | 137 | The Raycast extension for Zeabur. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/zeabur) |

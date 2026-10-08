@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `e8e1042d20`
+
+**Updated (1):** [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini)
+
 ## 2026-10-08 — upstream `b6b420bb09`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)

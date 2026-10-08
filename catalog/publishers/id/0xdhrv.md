@@ -1,22 +1,22 @@
 # 0xdhrv
 
-17 extensions · 1,929 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
+17 extensions · 1,939 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
 
 ## Productivity (4)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Shiori](https://github.com/raycast/extensions/tree/main/extensions/shiori-sh) | 830 | Search, save, and manage your Shiori bookmarks. Mark links as read, delete them, save from clipboard, and track unread count in the menu bar. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shiori-sh) |
+| [Shiori](https://github.com/raycast/extensions/tree/main/extensions/shiori-sh) | 834 | Search, save, and manage your Shiori bookmarks. Mark links as read, delete them, save from clipboard, and track unread count in the menu bar. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shiori-sh) |
 | [JSON Resume](https://github.com/raycast/extensions/tree/main/extensions/json-resume) | 152 | Parse JSON Resume | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/json-resume) |
 | [Shopify Shop](https://github.com/raycast/extensions/tree/main/extensions/shopify-shop) | 14 | Browse and search products from a Shopify store. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shopify-shop) |
-| [Hide Details](https://github.com/raycast/extensions/tree/main/extensions/hide-details) | 2 | Redact names, emails, cards, secrets, and faces in a screenshot before you share. On-device. | 0xdhrv | macOS | [store](https://www.raycast.com/0xdhrv/hide-details) |
+| [Hide Details](https://github.com/raycast/extensions/tree/main/extensions/hide-details) | 7 | Redact names, emails, cards, secrets, and faces in a screenshot before you share. On-device. | 0xdhrv | macOS | [store](https://www.raycast.com/0xdhrv/hide-details) |
 
 ## Developer Tools (8)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Integrations.sh](https://github.com/raycast/extensions/tree/main/extensions/integrations-sh) | 146 | Search integrations.sh for MCP, OpenAPI, GraphQL, and CLI integration surfaces, and inspect setup and credentials per domain. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/integrations-sh) |
-| [Agent Browser](https://github.com/raycast/extensions/tree/main/extensions/agent-browser) | 105 | Control the agent-browser CLI from Raycast and Raycast AI | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/agent-browser) |
+| [Agent Browser](https://github.com/raycast/extensions/tree/main/extensions/agent-browser) | 106 | Control the agent-browser CLI from Raycast and Raycast AI | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/agent-browser) |
 | [Defuddle](https://github.com/raycast/extensions/tree/main/extensions/defuddle) | 71 | Extract readable web pages to Markdown with Defuddle | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/defuddle) |
 | [Litterbox](https://github.com/raycast/extensions/tree/main/extensions/litterbox) | 47 | Upload files to Litterbox from Raycast with a file picker, set expiry (1h, 12h, 24h, or 72h), and get shareable links. Recent uploads are listed until they exp… | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/litterbox) |
 | [Is Agentic](https://github.com/raycast/extensions/tree/main/extensions/is-agentic) | 42 | Check how ready a website is for AI agents | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/is-agentic) |

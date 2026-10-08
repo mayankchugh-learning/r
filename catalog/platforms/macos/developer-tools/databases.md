@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Format SQL](https://github.com/raycast/extensions/tree/main/extensions/sql-format) | 1,128 | Format a SQL clause use standard SQL format | tonngw | macOS | [store](https://www.raycast.com/tonngw/sql-format) |
+| [Format SQL](https://github.com/raycast/extensions/tree/main/extensions/sql-format) | 1,130 | Format a SQL clause use standard SQL format | tonngw | macOS | [store](https://www.raycast.com/tonngw/sql-format) |
 | [Redis](https://github.com/raycast/extensions/tree/main/extensions/redis) | 731 | Redis extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/redis) |
-| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 350 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |
-| [Prisma CLI Commands](https://github.com/raycast/extensions/tree/main/extensions/prisma-cli-commands) | 209 | Quickly search and use Prisma CLI Commands along with command details. | raj_asha | macOS | [store](https://www.raycast.com/raj_asha/prisma-cli-commands) |
+| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 351 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |
+| [Prisma CLI Commands](https://github.com/raycast/extensions/tree/main/extensions/prisma-cli-commands) | 210 | Quickly search and use Prisma CLI Commands along with command details. | raj_asha | macOS | [store](https://www.raycast.com/raj_asha/prisma-cli-commands) |
 | [SQL Reference Search](https://github.com/raycast/extensions/tree/main/extensions/sql-reference-search) | 198 | Dialect-aware SQL reference with syntax, examples, and practical query patterns for PostgreSQL, MySQL, SQLite, and T-SQL. | FariaF22 | macOS, Windows | [store](https://www.raycast.com/FariaF22/sql-reference-search) |
 | [MongoDB ObjectId](https://github.com/raycast/extensions/tree/main/extensions/mongodb-objectid) | 126 | A Raycast extension that transform between MongoDB ObjectId and timestamps. | tssujt | macOS | [store](https://www.raycast.com/tssujt/mongodb-objectid) |
 | [Convex](https://github.com/raycast/extensions/tree/main/extensions/convex) | 117 | Interact with your Convex projects directly from Raycast | devwithbobby | macOS | [store](https://www.raycast.com/devwithbobby/convex) |

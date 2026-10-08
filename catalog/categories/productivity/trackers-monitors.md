@@ -10,12 +10,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 121,207 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
-| [OpenClaw](https://github.com/raycast/extensions/tree/main/extensions/openclaw) | 1,383 | Monitor and chat with your OpenClaw Gateway from Raycast | leveragedrobot | macOS | [store](https://www.raycast.com/leveragedrobot/openclaw) |
-| [Codex](https://github.com/raycast/extensions/tree/main/extensions/codex) | 762 | Monitor and manage your Codex threads, MCPs, projects, and usage directly from Raycast. | asifk | macOS | [store](https://www.raycast.com/asifk/codex) |
+| [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 121,340 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
+| [OpenClaw](https://github.com/raycast/extensions/tree/main/extensions/openclaw) | 1,386 | Monitor and chat with your OpenClaw Gateway from Raycast | leveragedrobot | macOS | [store](https://www.raycast.com/leveragedrobot/openclaw) |
+| [Codex](https://github.com/raycast/extensions/tree/main/extensions/codex) | 763 | Monitor and manage your Codex threads, MCPs, projects, and usage directly from Raycast. | asifk | macOS | [store](https://www.raycast.com/asifk/codex) |
 | [WHOOP](https://github.com/raycast/extensions/tree/main/extensions/whoop) | 651 | Your WHOOP data, now at your fingertips. Monitor your recovery, sleep, strain, workouts and more! Favourite the Overview command for quick access to your WHOOP… | josha1len | macOS | [store](https://www.raycast.com/josha1len/whoop) |
 | [MonitorMate](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) | 339 | MonitorMate is a simple monitoring tool that helps you keep track of your resources uptime and downtime. It allows you to add resources to monitor and check th… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/monitor-mate) |
-| [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) | 171 | Monitor your macOS launchd jobs from the menu bar. See job status, last run times, failures, and re-run jobs on demand. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/launchd-monitor) |
+| [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) | 172 | Monitor your macOS launchd jobs from the menu bar. See job status, last run times, failures, and re-run jobs on demand. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/launchd-monitor) |
 | [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) | 73 | Use 240+ LLMs through the EveryAPI gateway from Raycast — chat, switch models, and monitor account activity. | everyapi_dev | macOS, Windows | [store](https://www.raycast.com/everyapi_dev/everyapi) |
 | [GPU Fleet Monitor](https://github.com/raycast/extensions/tree/main/extensions/gpu-fleet-monitor) | 71 | Monitor GPU/CPU usage across SSH hosts. Connect via Ghostty, Cursor, or tmux. | kazzart | macOS | [store](https://www.raycast.com/kazzart/gpu-fleet-monitor) |
 | [Descript](https://github.com/raycast/extensions/tree/main/extensions/descript) | 26 | Import media, browse projects, monitor jobs, and run Underlord prompts in Descript without leaving Raycast. | luarmr | macOS | [store](https://www.raycast.com/luarmr/descript) |
@@ -25,8 +25,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Flight Tracker](https://github.com/raycast/extensions/tree/main/extensions/trackflight) | 3,785 | Track your flight with your flight number by using AeroData Box API directly in Raycast. | cojmeister | macOS | [store](https://www.raycast.com/cojmeister/trackflight) |
-| [Parcel Tracker - 17track](https://github.com/raycast/extensions/tree/main/extensions/package-tracker) | 994 | A Raycast extension that allows you to track your packages using 17track's REST API. All supported agencies are those of 17track. | cojmeister | macOS | [store](https://www.raycast.com/cojmeister/package-tracker) |
+| [Flight Tracker](https://github.com/raycast/extensions/tree/main/extensions/trackflight) | 3,788 | Track your flight with your flight number by using AeroData Box API directly in Raycast. | cojmeister | macOS | [store](https://www.raycast.com/cojmeister/trackflight) |
+| [Parcel Tracker - 17track](https://github.com/raycast/extensions/tree/main/extensions/package-tracker) | 995 | A Raycast extension that allows you to track your packages using 17track's REST API. All supported agencies are those of 17track. | cojmeister | macOS | [store](https://www.raycast.com/cojmeister/package-tracker) |
 | [Tyme 3 Time Tracker](https://github.com/raycast/extensions/tree/main/extensions/tyme-3-time-tracker) | 652 | Interact with Tyme 3 to track your time | melkstam | macOS | [store](https://www.raycast.com/melkstam/tyme-3-time-tracker) |
 | [Parcel Tracker](https://github.com/raycast/extensions/tree/main/extensions/parcel-tracker) | 373 | Track packages (only available in South Korea) | junhyukjin | macOS | [store](https://www.raycast.com/junhyukjin/parcel-tracker) |
 | [Blockchain Gas Tracker](https://github.com/raycast/extensions/tree/main/extensions/blockchain-gas-tracker) | 349 | Track and caculate blockchain gas fees right in your Raycast! | Vonernue | macOS | [store](https://www.raycast.com/Vonernue/blockchain-gas-tracker) |
@@ -46,12 +46,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 775,504 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
-| [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,931 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
-| [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,423 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 775,817 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,938 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
+| [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,424 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [DeepL API Usage](https://github.com/raycast/extensions/tree/main/extensions/deepl-api-usage) | 796 | Manage your DeepL API usage with ease. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/deepl-api-usage) |
-| [Everhour Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/everhour) | 621 | Track time against projects | farisaziz12 | macOS | [store](https://www.raycast.com/farisaziz12/everhour) |
-| [Cursor Costs](https://github.com/raycast/extensions/tree/main/extensions/cursor-costs) | 530 | Track your Cursor costs in real-time directly from macOS menu bar | shadeov | macOS | [store](https://www.raycast.com/Shadeov/cursor-costs) |
+| [Everhour Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/everhour) | 622 | Track time against projects | farisaziz12 | macOS | [store](https://www.raycast.com/farisaziz12/everhour) |
+| [Cursor Costs](https://github.com/raycast/extensions/tree/main/extensions/cursor-costs) | 531 | Track your Cursor costs in real-time directly from macOS menu bar | shadeov | macOS | [store](https://www.raycast.com/Shadeov/cursor-costs) |
 | [PagerDuty](https://github.com/raycast/extensions/tree/main/extensions/pagerduty) | 447 | Display PagerDuty incidents and helps updating status. | horimislime | macOS | [store](https://www.raycast.com/horimislime/pagerduty) |
 | [Timeular](https://github.com/raycast/extensions/tree/main/extensions/timeular) | 423 | Track time with Timeular | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-timeular) |
 | [Personio](https://github.com/raycast/extensions/tree/main/extensions/personio) | 156 | Track your time with Personio. | boosteblume | macOS | [store](https://www.raycast.com/boosteblume/personio) |

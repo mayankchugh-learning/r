@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 36,764 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
-| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 24,536 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
-| [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,797 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
-| [JSR](https://github.com/raycast/extensions/tree/main/extensions/jsr) | 260 | Search through JSR, the Open Source Package Registry for Javascript/Typescript | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/jsr) |
+| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 36,802 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
+| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 24,553 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
+| [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,801 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
+| [JSR](https://github.com/raycast/extensions/tree/main/extensions/jsr) | 261 | Search through JSR, the Open Source Package Registry for Javascript/Typescript | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/jsr) |
 | [Rust Documentation](https://github.com/raycast/extensions/tree/main/extensions/rust-docs) | 150 | Search Rust Standard Library documentation | patrick-ehimen | macOS, Windows | [store](https://www.raycast.com/patrick-ehimen/rust-docs) |
-| [Repology Search](https://github.com/raycast/extensions/tree/main/extensions/repology-search) | 101 | Search packages from repology.org | sebdanielsson | macOS, Windows | [store](https://www.raycast.com/sebdanielsson/repology-search) |
+| [Repology Search](https://github.com/raycast/extensions/tree/main/extensions/repology-search) | 102 | Search packages from repology.org | sebdanielsson | macOS, Windows | [store](https://www.raycast.com/sebdanielsson/repology-search) |
 | [npm Claimer](https://github.com/raycast/extensions/tree/main/extensions/npm-claimer) | 69 | Instantly claim npm package names in one click | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/npm-claimer) |
 | [Django Packages](https://github.com/raycast/extensions/tree/main/extensions/djangopackages) | 64 | Search and explore djangopackages.org without leaving Raycast. | saadmk11 | macOS, Windows | [store](https://www.raycast.com/saadmk11/djangopackages) |
 | [cdnjs](https://github.com/raycast/extensions/tree/main/extensions/cdnjs) | 45 | Search libraries on cdnjs | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cdnjs) |
