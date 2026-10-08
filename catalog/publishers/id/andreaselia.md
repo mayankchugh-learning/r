@@ -1,6 +1,6 @@
 # andreaselia
 
-10 extensions · 4,193 downloads · [store](https://www.raycast.com/andreaselia) · [← publishers](../README.md)
+10 extensions · 4,194 downloads · [store](https://www.raycast.com/andreaselia) · [← publishers](../README.md)
 
 ## Data (7)
 
@@ -18,7 +18,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Simon](https://github.com/raycast/extensions/tree/main/extensions/simon) | 586 | Play a game of Simon. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/simon) |
+| [Simon](https://github.com/raycast/extensions/tree/main/extensions/simon) | 587 | Play a game of Simon. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/simon) |
 | [Disney](https://github.com/raycast/extensions/tree/main/extensions/disney) | 147 | Explore information about your beloved Disney characters by searching for them. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/disney) |
 
 ## Applications (1)

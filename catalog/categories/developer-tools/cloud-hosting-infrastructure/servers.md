@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) | 2,387 | Displays a list of servers bookmarked in Transmit for quick connecting. | kennonb | macOS | [store](https://www.raycast.com/kennonb/transmit) |
-| [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge) | 1,566 | View and manage your Laravel Forge-managed servers | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/laravel-forge) |
+| [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) | 2,389 | Displays a list of servers bookmarked in Transmit for quick connecting. | kennonb | macOS | [store](https://www.raycast.com/kennonb/transmit) |
+| [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge) | 1,567 | View and manage your Laravel Forge-managed servers | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/laravel-forge) |
 | [FileZilla](https://github.com/raycast/extensions/tree/main/extensions/filezilla) | 1,496 | Connect to the FTP/SFTP server via FileZilla by just using your keyboard! | naqet | macOS | [store](https://www.raycast.com/naqet/filezilla) |
 | [Proxmox](https://github.com/raycast/extensions/tree/main/extensions/proxmox) | 1,327 | Manage your Proxmox server from Raycast | CzBiX | Windows, macOS | [store](https://www.raycast.com/CzBiX/proxmox) |
 | [Coolify](https://github.com/raycast/extensions/tree/main/extensions/coolify) | 603 | View Servers, Resources, Teams and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/coolify) |
@@ -20,7 +20,7 @@
 | [Rsync File Transfer](https://github.com/raycast/extensions/tree/main/extensions/raycast-rsync-extension) | 137 | Transfer files between local and remote servers using rsync with SSH config integration | dytsou | macOS | [store](https://www.raycast.com/dytsou/raycast-rsync-extension) |
 | [Atomic Data](https://github.com/raycast/extensions/tree/main/extensions/atomic) | 90 | Search inside your Atomic-Server data | joepio | macOS | [store](https://www.raycast.com/joepio/atomic) |
 | [RunCloud](https://github.com/raycast/extensions/tree/main/extensions/runcloud) | 77 | Search Your RunCloud Servers + Webapps | itsjustxan | macOS | [store](https://www.raycast.com/itsjustxan/runcloud) |
-| [Ottomatic](https://github.com/raycast/extensions/tree/main/extensions/ottomatic) | 53 | Manage your Ottomatic servers and projects | eluce2 | macOS | [store](https://www.raycast.com/eluce2/ottomatic) |
+| [Ottomatic](https://github.com/raycast/extensions/tree/main/extensions/ottomatic) | 54 | Manage your Ottomatic servers and projects | eluce2 | macOS | [store](https://www.raycast.com/eluce2/ottomatic) |
 | [VirtFusion](https://github.com/raycast/extensions/tree/main/extensions/virtfusion) | 40 | Manage Servers, SSH Keys | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/virtfusion) |
 | [SpinupWP](https://github.com/raycast/extensions/tree/main/extensions/spinupwp) | 36 | Quickly manage your SpinupWP servers and websites. | damiengorin | macOS, Windows | [store](https://www.raycast.com/damiengorin/spinupwp) |
 | [Portreaper](https://github.com/raycast/extensions/tree/main/extensions/portreaper) | 24 | Find and kill orphaned dev-server processes — the same classification engine as the Portreaper desktop app. | fhf1121 | macOS | [store](https://www.raycast.com/fhf1121/portreaper) |

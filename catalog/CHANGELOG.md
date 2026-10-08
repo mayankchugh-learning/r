@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `4c41a8e66b`
+
+**Updated (1):** [Simple Draw](https://github.com/raycast/extensions/tree/main/extensions/simple-draw)
+
 ## 2026-10-07 — upstream `9a0386d349`
 
 **Added (1):** [Microsoft To Do via ms-todo](https://github.com/raycast/extensions/tree/main/extensions/ms-todo)
