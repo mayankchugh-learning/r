@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6cbda2f8ad2365219417b501ff062a58fc31854b",
-  "generatedAt": "2026-10-08T20:09:35.634Z",
-  "downloadsRefreshedAt": "2026-10-08T20:09:35.357Z",
+  "commit": "c9a4814ff9777d77bcdfff7e09790cbb454e54d5",
+  "generatedAt": "2026-10-08T20:11:37.611Z",
+  "downloadsRefreshedAt": "2026-10-08T20:11:36.689Z",
   "count": 3393,
   "extensions": [
     {
@@ -37512,7 +37512,7 @@
       "description": "Control the Apple Music app with your keyboard.",
       "author": "fedevitaledev",
       "owner": null,
-      "contributors": 13,
+      "contributors": 14,
       "categories": [
         "Media",
         "Fun"
@@ -37523,7 +37523,7 @@
       ],
       "store": "https://www.raycast.com/fedevitaledev/music",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/music",
-      "treeSha": "18361c0b095e1214021f407de4be0b7ed09a40c8",
+      "treeSha": "5c4b38552302ab8bedeae1f0da6a98fa39fed49c",
       "downloads": 101407
     },
     {

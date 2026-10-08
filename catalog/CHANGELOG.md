@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `c9a4814ff9`
+
+**Updated (1):** [Music](https://github.com/raycast/extensions/tree/main/extensions/music)
+
 ## 2026-10-08 — upstream `6cbda2f8ad`
 
 **Updated (1):** [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker)
