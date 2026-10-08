@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · **R** · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-117 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+118 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -94,7 +94,7 @@
 | [rogovk](https://www.raycast.com/rogovk) | 1 | 8 | **Productivity:** [Keyboard Layout Search](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search) |
 | [rokartur](https://www.raycast.com/rokartur) | 2 | 1,048 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
 | [rokcso](https://www.raycast.com/rokcso) | 1 | 733 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
-| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,825 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
+| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,826 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
 | [rolfkoenders](https://www.raycast.com/RolfKoenders) | 1 | 21 | **Productivity:** [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) |
 | [Romain](https://www.raycast.com/Romain) | 1 | 638 | **Applications:** [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) |
 | [romain_lajeunesse](https://www.raycast.com/romain_lajeunesse) | 1 | 4 | **Developer Tools:** [Gatus Status](https://github.com/raycast/extensions/tree/main/extensions/gatus-status) |
@@ -122,4 +122,5 @@
 | [ryan](https://www.raycast.com/ryan) | 1 | 15,004 | **Media:** [IMDb Search](https://github.com/raycast/extensions/tree/main/extensions/imdb) |
 | [ryan_feigenbaum](https://www.raycast.com/ryan_feigenbaum) | 1 | 279 | **Documentation:** [Ghost - Docs Search](https://github.com/raycast/extensions/tree/main/extensions/ghost-docs) |
 | [ryanmiville](https://www.raycast.com/ryanmiville) | 1 | 97 | **Documentation:** [Gleam Packages](https://github.com/raycast/extensions/tree/main/extensions/gleam-packages) |
+| [ryohei-62](https://www.raycast.com/ryohei-62) | 1 | 0 | **Productivity:** [Linqlo](https://github.com/raycast/extensions/tree/main/extensions/linqlo) |
 | [ryon](https://www.raycast.com/ryon) | 1 | 2,292 | **Applications:** [Reflect](https://github.com/raycast/extensions/tree/main/extensions/reflect) |

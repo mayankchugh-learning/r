@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · **L** · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-133 extensions · [← catalog index](../README.md)
+134 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -139,3 +139,4 @@
 | [LinkPilot](https://github.com/raycast/extensions/tree/main/extensions/linkpilot) | 2 | Share a password or API key as a link that opens once, and shorten URLs, without leaving Raycast | tetracorellc | macOS, Windows | [store](https://www.raycast.com/tetracorellc/linkpilot) |
 | [LDAP Contacts](https://github.com/raycast/extensions/tree/main/extensions/ldap-contacts) | 1 | Lookup names and telephone numbers within an LDAP (AD) directory | frdmn | macOS | [store](https://www.raycast.com/frdmn/ldap-contacts) |
 | [League Stats](https://github.com/raycast/extensions/tree/main/extensions/league-stats) | 1 | Look up League of Legends players: ranked and recent win rates, recent matches with KDA, champions and items, and full match breakdowns. | mert_tufekci | macOS | [store](https://www.raycast.com/mert_tufekci/league-stats) |
+| [Linqlo](https://github.com/raycast/extensions/tree/main/extensions/linqlo) | 0 | Search your saved links, save clipboard URLs, and open Linqlo collections. | ryohei-62 | macOS | [store](https://www.raycast.com/ryohei-62/linqlo) |

@@ -1,6 +1,6 @@
 # Clipboard & Text Expansion
 
-77 extensions · [← Productivity](./README.md)
+78 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -81,3 +81,4 @@
 | [FlowSpeech TTS](https://github.com/raycast/extensions/tree/main/extensions/flowspeech-tts) | 1 | Turn selected or copied text into natural speech with FlowSpeech | waeckerlinfederowicz66-sketch | macOS | [store](https://www.raycast.com/waeckerlinfederowicz66-sketch/flowspeech-tts) |
 | [Nepali Typing](https://github.com/raycast/extensions/tree/main/extensions/nepali-typing) | 1 | Convert romanized Nepali to Devanagari and paste it anywhere. | viper_x | macOS | [store](https://www.raycast.com/viper_x/nepali-typing) |
 | [Hostbeam](https://github.com/raycast/extensions/tree/main/extensions/hostbeam) | 0 | Control the Hostbeam Mac app — beam the screenshot on your clipboard to a remote host and get the paste-ready path back. | PunkABeat | macOS | [store](https://www.raycast.com/PunkABeat/hostbeam) |
+| [Linqlo](https://github.com/raycast/extensions/tree/main/extensions/linqlo) | 0 | Search your saved links, save clipboard URLs, and open Linqlo collections. | ryohei-62 | macOS | [store](https://www.raycast.com/ryohei-62/linqlo) |

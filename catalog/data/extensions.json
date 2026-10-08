@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3b33c8cd12d19ef35c86ddb8d536096d48318196",
-  "generatedAt": "2026-10-08T20:20:25.895Z",
-  "downloadsRefreshedAt": "2026-10-08T20:20:25.574Z",
-  "count": 3393,
+  "commit": "6512188c1a0b54bcd404603c9b6d6de5ca9703e1",
+  "generatedAt": "2026-10-08T20:22:43.957Z",
+  "downloadsRefreshedAt": "2026-10-08T20:22:43.232Z",
+  "count": 3394,
   "extensions": [
     {
       "dir": "0x0",
@@ -23618,7 +23618,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 497836
+      "downloads": 497837
     },
     {
       "dir": "google-trends",
@@ -29854,7 +29854,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 775825
+      "downloads": 775826
     },
     {
       "dir": "kimai",
@@ -32169,6 +32169,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linkwarden",
       "treeSha": "beb5fc50479232e4d69b0a956a9cd9cdda227927",
       "downloads": 594
+    },
+    {
+      "dir": "linqlo",
+      "name": "linqlo",
+      "title": "Linqlo",
+      "description": "Search your saved links, save clipboard URLs, and open Linqlo collections.",
+      "author": "ryohei-62",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Web"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/ryohei-62/linqlo",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/linqlo",
+      "treeSha": "8cfd2f04a65666cc3467e611bc56ad5a713922d7",
+      "downloads": 0
     },
     {
       "dir": "linux-command",

@@ -1,6 +1,6 @@
 # Publishers
 
-2283 publishers · [← catalog index](../README.md)
+2284 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -10,9 +10,9 @@
 | --- | --- | --- | --- |
 | 1 | [thomas](./id/thomas.md) | 15 | 1,301,412 |
 | 2 | [raycast](./id/raycast.md) | 11 | 909,609 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,825 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,826 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 570,667 |
-| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,984 |
+| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,985 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 495,032 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 461,288 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 402,490 |
@@ -2287,7 +2287,8 @@
 | 2277 | [Marcelismus](https://www.raycast.com/Marcelismus) | 1 | 0 |
 | 2278 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
 | 2279 | [PunkABeat](https://www.raycast.com/PunkABeat) | 1 | 0 |
-| 2280 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2281 | github-next | 2 | — |
-| 2282 | eugenio | 1 | — |
-| 2283 | multi | 1 | — |
+| 2280 | [ryohei-62](https://www.raycast.com/ryohei-62) | 1 | 0 |
+| 2281 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2282 | github-next | 2 | — |
+| 2283 | eugenio | 1 | — |
+| 2284 | multi | 1 | — |

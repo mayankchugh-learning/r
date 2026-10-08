@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `6512188c1a`
+
+**Added (1):** [Linqlo](https://github.com/raycast/extensions/tree/main/extensions/linqlo)
+
 ## 2026-10-08 — upstream `3b33c8cd12`
 
 **Updated (1):** [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc)
