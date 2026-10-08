@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `8b4e5dda00`
+
+**Updated (1):** [TypeWhisper](https://github.com/raycast/extensions/tree/main/extensions/typewhisper)
+
 ## 2026-10-08 — upstream `316177fcd4`
 
 **Updated (1):** [Teak](https://github.com/raycast/extensions/tree/main/extensions/teak-raycast)
