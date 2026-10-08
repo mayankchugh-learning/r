@@ -1,8 +1,8 @@
 # Finance
 
-159 extensions · [← all categories](../README.md)
+160 extensions · [← all categories](../README.md)
 
-macOS: 159 · Windows: 49
+macOS: 160 · Windows: 50
 
 ## Markets & Investing
 
@@ -23,7 +23,7 @@ macOS: 159 · Windows: 49
 
 | Topic | Extensions |
 | --- | --- |
-| [Business, Billing & Sales](./business-billing-sales.md) | 26 |
+| [Business, Billing & Sales](./business-billing-sales.md) | 27 |
 | [Regional & Company Lookups](./regional-company-lookups.md) | 7 |
 | [Energy & Utility Prices](./energy-utility-prices.md) | 2 |
 

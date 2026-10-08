@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `1db9839031`
+
+**Added (1):** [RevenueCat](https://github.com/raycast/extensions/tree/main/extensions/revenuecat)
+
 ## 2026-10-08 — upstream `ac5f51bc32`
 
 **Added (1):** [Simplebanking](https://github.com/raycast/extensions/tree/main/extensions/simplebanking)

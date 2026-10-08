@@ -1,8 +1,8 @@
 # macOS · Finance
 
-159 extensions · [← macOS](../README.md)
+160 extensions · [← macOS](../README.md)
 
-[Crypto & Web3](#crypto-web3) (32) · [Stocks & Trading](#stocks-trading) (18) · [Currency & Exchange](#currency-exchange) (10) · [Business, Billing & Sales](#business-billing-sales) (26) · [Banking & Payments](#banking-payments) (9) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (7) · [Personal Finance & Budgeting](#personal-finance-budgeting) (21) · [General](#general) (34)
+[Crypto & Web3](#crypto-web3) (32) · [Stocks & Trading](#stocks-trading) (18) · [Currency & Exchange](#currency-exchange) (10) · [Business, Billing & Sales](#business-billing-sales) (27) · [Banking & Payments](#banking-payments) (9) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (7) · [Personal Finance & Budgeting](#personal-finance-budgeting) (21) · [General](#general) (34)
 
 ## Markets & Investing
 
@@ -121,7 +121,7 @@
 | [Wise Lens](https://github.com/raycast/extensions/tree/main/extensions/wise-lens) | 22 | A clear overview of your Wise balances in Raycast: spending, combined total and live rates. | jorgetoh | macOS, Windows | [store](https://www.raycast.com/jorgetoh/wise-lens) |
 | [Bunq](https://github.com/raycast/extensions/tree/main/extensions/bunq) | 12 | Banking client for bunq - manage accounts, cards, and payments | TurboCoder13 | macOS, Windows | [store](https://www.raycast.com/TurboCoder13/bunq) |
 | [VietQR Transfer Generator](https://github.com/raycast/extensions/tree/main/extensions/vietqr-transfer) | 10 | Quickly generate VietQR payment codes for Vietnamese banks with customizable templates, amounts, and descriptions. | annguyen | macOS, Windows | [store](https://www.raycast.com/annguyen/vietqr-transfer) |
-| [Simplebanking](https://github.com/raycast/extensions/tree/main/extensions/simplebanking) | — | Balances, transactions and a monthly overview from simplebanking — reads the local cache, without contacting a bank. | klotzbrocken | macOS | — |
+| [Simplebanking](https://github.com/raycast/extensions/tree/main/extensions/simplebanking) | 1 | Balances, transactions and a monthly overview from simplebanking — reads the local cache, without contacting a bank. | klotzbrocken | macOS | [store](https://www.raycast.com/klotzbrocken/simplebanking) |
 
 ## Business & Reference
 
@@ -155,6 +155,7 @@
 | [Paynow.gg](https://github.com/raycast/extensions/tree/main/extensions/paynow) | 11 | Unofficial PayNow.gg extension | maxijonson | macOS, Windows | [store](https://www.raycast.com/maxijonson/paynow) |
 | [SaaSFlow](https://github.com/raycast/extensions/tree/main/extensions/saasflow) | 11 | Track MRR, browse customers and transactions, and ask AI questions about your SaaSFlow data — without leaving Raycast. | saasflow (org) | macOS | [store](https://www.raycast.com/saasflow/saasflow) |
 | [Contra](https://github.com/raycast/extensions/tree/main/extensions/contra) | 5 | Track Contra finances, create and send invoices, and manage freelance projects — right from Raycast. | agusdellaquila | macOS, Windows | [store](https://www.raycast.com/agusdellaquila/contra) |
+| [RevenueCat](https://github.com/raycast/extensions/tree/main/extensions/revenuecat) | 0 | Explore RevenueCat revenue, customers, subscriptions, and products, and use its official MCP tools with Raycast AI. | samuelkraft | macOS, Windows | [store](https://www.raycast.com/samuelkraft/revenuecat) |
 
 ### Regional & Company Lookups
 

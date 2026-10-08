@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ac5f51bc322ebafa99e78323bbecf86209375d09",
-  "generatedAt": "2026-10-08T10:50:41.632Z",
-  "downloadsRefreshedAt": "2026-10-08T10:50:41.087Z",
-  "count": 3391,
+  "commit": "1db9839031b11997a146f59c7040614bf0bde2cb",
+  "generatedAt": "2026-10-08T11:57:50.640Z",
+  "downloadsRefreshedAt": "2026-10-08T11:57:49.585Z",
+  "count": 3392,
   "extensions": [
     {
       "dir": "0x0",
@@ -10463,7 +10463,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 615231
+      "downloads": 615289
     },
     {
       "dir": "color-shades",
@@ -23618,7 +23618,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 497513
+      "downloads": 497563
     },
     {
       "dir": "google-trends",
@@ -29832,7 +29832,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 775294
+      "downloads": 775352
     },
     {
       "dir": "kimai",
@@ -51887,6 +51887,28 @@
       "downloads": 41
     },
     {
+      "dir": "revenuecat",
+      "name": "revenuecat",
+      "title": "RevenueCat",
+      "description": "Explore RevenueCat revenue, customers, subscriptions, and products, and use its official MCP tools with Raycast AI.",
+      "author": "samuelkraft",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Finance",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/samuelkraft/revenuecat",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/revenuecat",
+      "treeSha": "68416c8bc7a0b1ab9cc50b0a91039811c939ef56",
+      "downloads": 0
+    },
+    {
       "dir": "reverso-context",
       "name": "reverso-context",
       "title": "Reverso Context",
@@ -55789,10 +55811,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/klotzbrocken/simplebanking",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/simplebanking",
       "treeSha": "2ab70fe79ecf6fff2fad6444a5e3e2ebeb0f9af6",
-      "downloads": null
+      "downloads": 1
     },
     {
       "dir": "simplelogin",

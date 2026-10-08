@@ -1,8 +1,8 @@
 # Windows · Finance
 
-49 extensions · [← Windows](../README.md)
+50 extensions · [← Windows](../README.md)
 
-[Crypto & Web3](#crypto-web3) (7) · [Stocks & Trading](#stocks-trading) (5) · [Currency & Exchange](#currency-exchange) (4) · [Business, Billing & Sales](#business-billing-sales) (10) · [Banking & Payments](#banking-payments) (3) · [Regional & Company Lookups](#regional-company-lookups) (3) · [Personal Finance & Budgeting](#personal-finance-budgeting) (9) · [General](#general) (8)
+[Crypto & Web3](#crypto-web3) (7) · [Stocks & Trading](#stocks-trading) (5) · [Currency & Exchange](#currency-exchange) (4) · [Business, Billing & Sales](#business-billing-sales) (11) · [Banking & Payments](#banking-payments) (3) · [Regional & Company Lookups](#regional-company-lookups) (3) · [Personal Finance & Budgeting](#personal-finance-budgeting) (9) · [General](#general) (8)
 
 ## Markets & Investing
 
@@ -77,6 +77,7 @@
 | [PayPal Invoices](https://github.com/raycast/extensions/tree/main/extensions/paypal-invoices) | 14 | Create and send PayPal invoices without leaving Raycast. | ethananderstandable | macOS, Windows | [store](https://www.raycast.com/ethananderstandable/paypal-invoices) |
 | [Paynow.gg](https://github.com/raycast/extensions/tree/main/extensions/paynow) | 11 | Unofficial PayNow.gg extension | maxijonson | macOS, Windows | [store](https://www.raycast.com/maxijonson/paynow) |
 | [Contra](https://github.com/raycast/extensions/tree/main/extensions/contra) | 5 | Track Contra finances, create and send invoices, and manage freelance projects — right from Raycast. | agusdellaquila | macOS, Windows | [store](https://www.raycast.com/agusdellaquila/contra) |
+| [RevenueCat](https://github.com/raycast/extensions/tree/main/extensions/revenuecat) | 0 | Explore RevenueCat revenue, customers, subscriptions, and products, and use its official MCP tools with Raycast AI. | samuelkraft | macOS, Windows | [store](https://www.raycast.com/samuelkraft/revenuecat) |
 
 ### Regional & Company Lookups
 

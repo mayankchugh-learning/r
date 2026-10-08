@@ -57,7 +57,7 @@
 | [kjbakke](https://www.raycast.com/kjbakke) | 1 | 2 | **Fun:** [Tibia Helper](https://github.com/raycast/extensions/tree/main/extensions/tibia-helper) |
 | [klaa97](https://www.raycast.com/klaa97) | 1 | 2,697 | **Developer Tools:** [Google Cloud Platform Search](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-platform-search) |
 | [klkvsky](https://www.raycast.com/klkvsky) | 1 | 603 | **News:** [Recent News](https://github.com/raycast/extensions/tree/main/extensions/the-verge) |
-| klotzbrocken | 1 | — | **Finance:** [Simplebanking](https://github.com/raycast/extensions/tree/main/extensions/simplebanking) |
+| [klotzbrocken](https://www.raycast.com/klotzbrocken) | 1 | 1 | **Finance:** [Simplebanking](https://github.com/raycast/extensions/tree/main/extensions/simplebanking) |
 | [kmusick](https://www.raycast.com/kmusick) | 1 | 4,553 | **Applications:** [Bartender](https://github.com/raycast/extensions/tree/main/extensions/bartender) |
 | [knealking](https://www.raycast.com/knealking) | 1 | 390 | **Developer Tools:** [Dotmate](https://github.com/raycast/extensions/tree/main/extensions/dotmate) |
 | [knownasilya](https://www.raycast.com/knownasilya) | 1 | 31 | **Productivity:** [TeamGantt](https://github.com/raycast/extensions/tree/main/extensions/teamgantt) |

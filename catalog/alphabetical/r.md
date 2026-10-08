@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · **R** · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-165 extensions · [← catalog index](../README.md)
+166 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -169,5 +169,6 @@
 | [RUT Generator](https://github.com/raycast/extensions/tree/main/extensions/rut-generator) | 5 | Generate valid Chilean RUTs for development and testing. | esteban03 | macOS, Windows | [store](https://www.raycast.com/esteban03/rut-generator) |
 | [Rubiks Cube Timer](https://github.com/raycast/extensions/tree/main/extensions/rubiks-cube-timer) | 3 | Time your Rubik's Cube solves with random scrambles and csTimer import/export. No account required. | nokoniko | macOS, Windows | [store](https://www.raycast.com/nokoniko/rubiks-cube-timer) |
 | [Rake](https://github.com/raycast/extensions/tree/main/extensions/rake) | 0 | Search and run Rake tasks from a configurable directory, with support for task arguments. | kdmsnr | macOS | [store](https://www.raycast.com/kdmsnr/rake) |
+| [RevenueCat](https://github.com/raycast/extensions/tree/main/extensions/revenuecat) | 0 | Explore RevenueCat revenue, customers, subscriptions, and products, and use its official MCP tools with Raycast AI. | samuelkraft | macOS, Windows | [store](https://www.raycast.com/samuelkraft/revenuecat) |
 | [Run Zipper Applet](https://github.com/raycast/extensions/tree/main/extensions/zipper-run) | 0 | Run a zipper applet | ariel_conti | macOS | [store](https://www.raycast.com/ariel_conti/zipper-run) |
 | [Raccoon](https://github.com/raycast/extensions/tree/main/extensions/raccoon) | — | macOS companion toolkit: disk, memory, ports, battery, network and a security audit, powered by the rcc CLI. | eugenio | macOS | — |

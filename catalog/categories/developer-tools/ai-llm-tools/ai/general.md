@@ -1,6 +1,6 @@
 # General
 
-32 extensions · [← AI](./README.md)
+33 extensions · [← AI](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -36,3 +36,4 @@
 | [Executor](https://github.com/raycast/extensions/tree/main/extensions/executor) | 16 | Run connected tools, automate with Raycast AI, and manage your Executor workspaces | jerichosequitin | macOS | [store](https://www.raycast.com/jerichosequitin/executor) |
 | [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) | 4 | Shorten links with U2L AI. Create short links from an argument, selection, or clipboard, search your links, and check click stats. | u2l | macOS, Windows | [store](https://www.raycast.com/u2l/u2l) |
 | [Claude Exit IP](https://github.com/raycast/extensions/tree/main/extensions/claude-exit-ip) | 1 | Show the exit IP address and location claude.ai sees you connecting from | marcuslannister | macOS | [store](https://www.raycast.com/marcuslannister/claude-exit-ip) |
+| [RevenueCat](https://github.com/raycast/extensions/tree/main/extensions/revenuecat) | 0 | Explore RevenueCat revenue, customers, subscriptions, and products, and use its official MCP tools with Raycast AI. | samuelkraft | macOS, Windows | [store](https://www.raycast.com/samuelkraft/revenuecat) |
