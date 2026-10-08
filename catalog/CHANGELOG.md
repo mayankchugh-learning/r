@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `6cbda2f8ad`
+
+**Updated (1):** [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker)
+
 ## 2026-10-08 — upstream `17b40594f6`
 
 **Updated (1):** [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say)
