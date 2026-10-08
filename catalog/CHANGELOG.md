@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `9eddad57d8`
+
+**Updated (1):** [Arc Helper](https://github.com/raycast/extensions/tree/main/extensions/arc-helper)
+
 ## 2026-10-08 — upstream `1db9839031`
 
 **Added (1):** [RevenueCat](https://github.com/raycast/extensions/tree/main/extensions/revenuecat)
