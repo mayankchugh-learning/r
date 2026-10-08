@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `316177fcd4`
+
+**Updated (1):** [Teak](https://github.com/raycast/extensions/tree/main/extensions/teak-raycast)
+
 ## 2026-10-08 — upstream `3bc7e780f0`
 
 **Updated (1):** [Webhook Sender](https://github.com/raycast/extensions/tree/main/extensions/webhook-sender)
