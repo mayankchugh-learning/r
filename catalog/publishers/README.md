@@ -38,7 +38,7 @@
 | 28 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 117,582 |
 | 29 | [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 116,162 |
 | 30 | [erics118](https://www.raycast.com/erics118) | 3 | 107,370 |
-| 31 | [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 106,616 |
+| 31 | [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 106,652 |
 | 32 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 104,345 |
 | 33 | [HelloImSteven](https://www.raycast.com/HelloImSteven) | 9 | 103,712 |
 | 34 | [GastroGeek](https://www.raycast.com/GastroGeek) | 6 | 103,182 |

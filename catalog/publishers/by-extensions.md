@@ -103,7 +103,7 @@
 | 93 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 495,032 |
 | 94 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 117,582 |
 | 95 | [erics118](https://www.raycast.com/erics118) | 3 | 107,370 |
-| 96 | [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 106,616 |
+| 96 | [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 106,652 |
 | 97 | [third774](https://www.raycast.com/third774) | 3 | 68,977 |
 | 98 | [Kang](https://www.raycast.com/Kang) | 3 | 67,061 |
 | 99 | [michaelschultz](https://www.raycast.com/michaelschultz) | 3 | 50,207 |

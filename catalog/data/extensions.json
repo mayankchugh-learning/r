@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6ae59ee35c984a393d178328e44eace9ad17d34b",
-  "generatedAt": "2026-10-08T20:15:36.203Z",
-  "downloadsRefreshedAt": "2026-10-08T20:15:35.876Z",
+  "commit": "188f78ba2ddb740ed3b8b8b20592d6d0a0d2b0bd",
+  "generatedAt": "2026-10-08T20:16:23.382Z",
+  "downloadsRefreshedAt": "2026-10-08T20:16:22.749Z",
   "count": 3393,
   "extensions": [
     {
@@ -37525,7 +37525,7 @@
       "store": "https://www.raycast.com/fedevitaledev/music",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/music",
       "treeSha": "5c4b38552302ab8bedeae1f0da6a98fa39fed49c",
-      "downloads": 101407
+      "downloads": 101443
     },
     {
       "dir": "music-assistant-controls",
@@ -55709,7 +55709,7 @@
       ],
       "store": "https://www.raycast.com/litomore/simple-icons",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/simple-icons",
-      "treeSha": "c49bdbd39df0ec4d0ddd193a7462d0e75531de87",
+      "treeSha": "0ffa42ebcf844e15af14e63b2f344f91740a6f83",
       "downloads": 4849
     },
     {
