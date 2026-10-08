@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `80523b86fd`
+
+**Updated (1):** [rhttp](https://github.com/raycast/extensions/tree/main/extensions/rhttp)
+
 ## 2026-10-08 — upstream `fcacc488ce`
 
 **Updated (1):** [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive)

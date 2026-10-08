@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "fcacc488ce40f71249b130827447e13fd603864f",
-  "generatedAt": "2026-10-08T12:21:25.681Z",
-  "downloadsRefreshedAt": "2026-10-08T12:21:25.269Z",
+  "commit": "80523b86fd70550c1ec0c28b2765f496f404dc23",
+  "generatedAt": "2026-10-08T12:24:36.244Z",
+  "downloadsRefreshedAt": "2026-10-08T12:24:35.545Z",
   "count": 3392,
   "extensions": [
     {
@@ -1911,7 +1911,7 @@
       "store": "https://www.raycast.com/j3lte/anna-s-archive",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive",
       "treeSha": "269a2dc8f5e9bf7cc8fff36fbef74ce66832abd4",
-      "downloads": 5093
+      "downloads": 5096
     },
     {
       "dir": "annotely",
@@ -23618,7 +23618,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 497585
+      "downloads": 497589
     },
     {
       "dir": "google-trends",
@@ -29832,7 +29832,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 775375
+      "downloads": 775380
     },
     {
       "dir": "kimai",
@@ -52000,7 +52000,7 @@
       "description": "Full-featured HTTP client with environments, variables, and request chaining",
       "author": "SebastianJarsve",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Developer Tools"
       ],
@@ -52010,7 +52010,7 @@
       ],
       "store": "https://www.raycast.com/SebastianJarsve/rhttp",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/rhttp",
-      "treeSha": "9164e0a61fb68e20e42a85dd4948f692dd5f8ca0",
+      "treeSha": "c7939a4d3fbe060111b9e6491f4063ae71370503",
       "downloads": 297
     },
     {

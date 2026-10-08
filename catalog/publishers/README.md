@@ -10,9 +10,9 @@
 | --- | --- | --- | --- |
 | 1 | [thomas](./id/thomas.md) | 15 | 1,300,449 |
 | 2 | [raycast](./id/raycast.md) | 11 | 908,827 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,375 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,380 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 570,207 |
-| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,733 |
+| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,737 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 494,648 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 460,929 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 402,202 |
@@ -170,7 +170,7 @@
 | 160 | [douo](https://www.raycast.com/douo) | 2 | 11,665 |
 | 161 | [jffrykkn](https://www.raycast.com/jffrykkn) | 1 | 11,464 |
 | 162 | [elliotdes](https://www.raycast.com/elliotdes) | 1 | 11,406 |
-| 163 | [j3lte](./id/j3lte.md) | 13 | 11,297 |
+| 163 | [j3lte](./id/j3lte.md) | 13 | 11,300 |
 | 164 | [github](https://www.raycast.com/github) | 1 | 11,237 |
 | 165 | [say4n](https://www.raycast.com/say4n) | 2 | 11,145 |
 | 166 | [Falcon](https://www.raycast.com/Falcon) | 2 | 11,111 |

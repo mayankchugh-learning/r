@@ -1,12 +1,12 @@
 # j3lte
 
-13 extensions · 11,297 downloads · [store](https://www.raycast.com/j3lte) · [← publishers](../README.md)
+13 extensions · 11,300 downloads · [store](https://www.raycast.com/j3lte) · [← publishers](../README.md)
 
 ## Media (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 5,093 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
+| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 5,096 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
 | [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 379 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
 
 ## Developer Tools (6)
