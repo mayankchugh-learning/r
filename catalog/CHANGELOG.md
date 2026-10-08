@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `6ae59ee35c`
+
+**Updated (1):** [Teak](https://github.com/raycast/extensions/tree/main/extensions/teak-raycast)
+
 ## 2026-10-08 — upstream `1d73cdaf93`
 
 **Updated (1):** [Jira Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/jira-time-tracking)

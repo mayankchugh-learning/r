@@ -11,7 +11,7 @@
 | 1 | [xmok](./id/xmok.md) | 114 | 13,164 |
 | 2 | [koinzhang](./id/koinzhang.md) | 50 | 291,334 |
 | 3 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 104,345 |
-| 4 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 187,677 |
+| 4 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 187,703 |
 | 5 | [chrismessina](./id/chrismessina.md) | 18 | 7,720 |
 | 6 | [alexi.build](./id/alexi-build.md) | 18 | 2,313 |
 | 7 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 29,998 |
@@ -19,10 +19,10 @@
 | 9 | [vimtor](./id/vimtor.md) | 16 | 339,137 |
 | 10 | [Aayush9029](./id/aayush9029.md) | 16 | 170,407 |
 | 11 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,904 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,301,408 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,301,409 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 461,288 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,956 |
-| 15 | [litomore](./id/litomore.md) | 13 | 14,490 |
+| 15 | [litomore](./id/litomore.md) | 13 | 14,492 |
 | 16 | [j3lte](./id/j3lte.md) | 13 | 11,306 |
 | 17 | [kud](./id/kud.md) | 13 | 7,367 |
 | 18 | [raycast](./id/raycast.md) | 11 | 909,609 |

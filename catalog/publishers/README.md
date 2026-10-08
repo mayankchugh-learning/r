@@ -8,7 +8,7 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,301,408 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,301,409 |
 | 2 | [raycast](./id/raycast.md) | 11 | 909,609 |
 | 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,822 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 570,667 |
@@ -28,7 +28,7 @@
 | 18 | [mooxl](https://www.raycast.com/mooxl) | 2 | 214,910 |
 | 19 | [mblode](https://www.raycast.com/mblode) | 4 | 206,321 |
 | 20 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 189,275 |
-| 21 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 187,677 |
+| 21 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 187,703 |
 | 22 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 175,697 |
 | 23 | [Aayush9029](./id/aayush9029.md) | 16 | 170,407 |
 | 24 | [loris](https://www.raycast.com/loris) | 6 | 139,909 |
@@ -147,7 +147,7 @@
 | 137 | [ryan](https://www.raycast.com/ryan) | 1 | 15,004 |
 | 138 | [sfkmk](https://www.raycast.com/sfkmk) | 1 | 14,935 |
 | 139 | [KartikKumarSahoo](https://www.raycast.com/KartikKumarSahoo) | 1 | 14,556 |
-| 140 | [litomore](./id/litomore.md) | 13 | 14,490 |
+| 140 | [litomore](./id/litomore.md) | 13 | 14,492 |
 | 141 | [vercel](https://www.raycast.com/vercel) | 2 | 14,366 |
 | 142 | [reclaim-ai](https://www.raycast.com/reclaim-ai) | 1 | 14,352 |
 | 143 | [nyatinte](https://www.raycast.com/nyatinte) | 1 | 14,131 |

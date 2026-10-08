@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1d73cdaf93aa4afed3a771db7d584d82727fb074",
-  "generatedAt": "2026-10-08T20:13:43.621Z",
-  "downloadsRefreshedAt": "2026-10-08T20:13:42.685Z",
+  "commit": "6ae59ee35c984a393d178328e44eace9ad17d34b",
+  "generatedAt": "2026-10-08T20:15:36.203Z",
+  "downloadsRefreshedAt": "2026-10-08T20:15:35.876Z",
   "count": 3393,
   "extensions": [
     {
@@ -10463,7 +10463,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "2426fd8c88510544f6bdb68017a3fbbe7d132fd7",
-      "downloads": 615686
+      "downloads": 615687
     },
     {
       "dir": "color-shades",
@@ -49514,7 +49514,7 @@
       "store": "https://www.raycast.com/EvanZhouDev/raycast-gemini",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini",
       "treeSha": "c4853e889bc117649d536f55ddfdd3b5f0a0625b",
-      "downloads": 85600
+      "downloads": 85626
     },
     {
       "dir": "raycast-google-palm",
@@ -53061,7 +53061,7 @@
       "store": "https://www.raycast.com/litomore/say",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/say",
       "treeSha": "4777fd9002a63f42eff2b0db8f2d8feba3f755d1",
-      "downloads": 3170
+      "downloads": 3172
     },
     {
       "dir": "say-no-to-notch",
@@ -60554,7 +60554,7 @@
       ],
       "store": "https://www.raycast.com/praveenjuge/teak-raycast",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/teak-raycast",
-      "treeSha": "92158eae3284357a8079abd75b4ad2d48473ceab",
+      "treeSha": "b312efba2683d8f1c220b98d4b88fda5cb937480",
       "downloads": 20
     },
     {
