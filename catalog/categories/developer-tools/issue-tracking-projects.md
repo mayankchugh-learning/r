@@ -1,8 +1,8 @@
 # Issue Tracking & Projects
 
-12 extensions · [← Developer Tools](./README.md)
+13 extensions · [← Developer Tools](./README.md)
 
-[Issues ✦](#issues) (5) · [Height ✦](#height) (4) · [General](#general) (3)
+[Issues ✦](#issues) (6) · [Height ✦](#height) (4) · [General](#general) (3)
 
 *✦ auto-discovered topic group*
 
@@ -13,6 +13,7 @@
 | [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) | 402,490 | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | linear (org) | macOS, Windows | [store](https://www.raycast.com/linear/linear) |
 | [Jira Search](https://github.com/raycast/extensions/tree/main/extensions/jira-search) | 8,522 | Search for Jira issues (more tolerant and powerful than built-in), projects, boards and filters. | sven | macOS | [store](https://www.raycast.com/sven/jira-search) |
 | [Jira Search (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/jira-search-self-hosted) | 4,980 | Search for Jira issues (more tolerant and powerful than built-in), projects, and boards on Jira Server instances. | emanguy | macOS | [store](https://www.raycast.com/emanguy/jira-search-self-hosted) |
+| [Jira Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/jira-time-tracking) | 1,174 | Log, view, and manage time against Jira issues | niallpaterson | macOS | [store](https://www.raycast.com/niallpaterson/jira-time-tracking) |
 | [Atlassian (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/atlassian-data-center) | 406 | Search and manage Confluence contents and Jira issues | tofrankie | macOS, Windows | [store](https://www.raycast.com/tofrankie/atlassian-data-center) |
 | [Paystack](https://github.com/raycast/extensions/tree/main/extensions/paystack) | 28 | Manage your Paystack account effortlessly in Raycast—check balances, search transactions, generate links, issue refunds, and track revenue—all from your keyboa… | dominuskelvin | macOS | [store](https://www.raycast.com/dominuskelvin/paystack) |
 

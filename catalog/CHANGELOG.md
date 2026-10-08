@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `1d73cdaf93`
+
+**Updated (1):** [Jira Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/jira-time-tracking)
+
 ## 2026-10-08 — upstream `c9a4814ff9`
 
 **Updated (1):** [Music](https://github.com/raycast/extensions/tree/main/extensions/music)

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c9a4814ff9777d77bcdfff7e09790cbb454e54d5",
-  "generatedAt": "2026-10-08T20:11:37.611Z",
-  "downloadsRefreshedAt": "2026-10-08T20:11:36.689Z",
+  "commit": "1d73cdaf93aa4afed3a771db7d584d82727fb074",
+  "generatedAt": "2026-10-08T20:13:43.621Z",
+  "downloadsRefreshedAt": "2026-10-08T20:13:42.685Z",
   "count": 3393,
   "extensions": [
     {
@@ -10463,7 +10463,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "2426fd8c88510544f6bdb68017a3fbbe7d132fd7",
-      "downloads": 615685
+      "downloads": 615686
     },
     {
       "dir": "color-shades",
@@ -28454,20 +28454,21 @@
       "dir": "jira-time-tracking",
       "name": "jira-time-tracking",
       "title": "Jira Time Tracking",
-      "description": "Log time against Jira issues",
+      "description": "Log, view, and manage time against Jira issues",
       "author": "niallpaterson",
       "owner": null,
-      "contributors": 2,
+      "contributors": 3,
       "categories": [
-        "Productivity"
+        "Productivity",
+        "Developer Tools"
       ],
-      "manifestCategorized": false,
+      "manifestCategorized": true,
       "platforms": [
         "macOS"
       ],
       "store": "https://www.raycast.com/niallpaterson/jira-time-tracking",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/jira-time-tracking",
-      "treeSha": "4afbccc3b024f83c94125b0c9a252c1e702fadc4",
+      "treeSha": "8ed7033af0f4cb8277eb3748ba47c2da1a605a41",
       "downloads": 1174
     },
     {
@@ -29853,7 +29854,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 775821
+      "downloads": 775822
     },
     {
       "dir": "kimai",
@@ -49513,7 +49514,7 @@
       "store": "https://www.raycast.com/EvanZhouDev/raycast-gemini",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini",
       "treeSha": "c4853e889bc117649d536f55ddfdd3b5f0a0625b",
-      "downloads": 85626
+      "downloads": 85600
     },
     {
       "dir": "raycast-google-palm",
