@@ -1,8 +1,8 @@
 # macOS · Finance
 
-158 extensions · [← macOS](../README.md)
+159 extensions · [← macOS](../README.md)
 
-[Crypto & Web3](#crypto-web3) (32) · [Stocks & Trading](#stocks-trading) (18) · [Currency & Exchange](#currency-exchange) (10) · [Business, Billing & Sales](#business-billing-sales) (26) · [Banking & Payments](#banking-payments) (8) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (7) · [Personal Finance & Budgeting](#personal-finance-budgeting) (21) · [General](#general) (34)
+[Crypto & Web3](#crypto-web3) (32) · [Stocks & Trading](#stocks-trading) (18) · [Currency & Exchange](#currency-exchange) (10) · [Business, Billing & Sales](#business-billing-sales) (26) · [Banking & Payments](#banking-payments) (9) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (7) · [Personal Finance & Budgeting](#personal-finance-budgeting) (21) · [General](#general) (34)
 
 ## Markets & Investing
 
@@ -121,6 +121,7 @@
 | [Wise Lens](https://github.com/raycast/extensions/tree/main/extensions/wise-lens) | 22 | A clear overview of your Wise balances in Raycast: spending, combined total and live rates. | jorgetoh | macOS, Windows | [store](https://www.raycast.com/jorgetoh/wise-lens) |
 | [Bunq](https://github.com/raycast/extensions/tree/main/extensions/bunq) | 12 | Banking client for bunq - manage accounts, cards, and payments | TurboCoder13 | macOS, Windows | [store](https://www.raycast.com/TurboCoder13/bunq) |
 | [VietQR Transfer Generator](https://github.com/raycast/extensions/tree/main/extensions/vietqr-transfer) | 10 | Quickly generate VietQR payment codes for Vietnamese banks with customizable templates, amounts, and descriptions. | annguyen | macOS, Windows | [store](https://www.raycast.com/annguyen/vietqr-transfer) |
+| [Simplebanking](https://github.com/raycast/extensions/tree/main/extensions/simplebanking) | — | Balances, transactions and a monthly overview from simplebanking — reads the local cache, without contacting a bank. | klotzbrocken | macOS | — |
 
 ## Business & Reference
 

@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "8b4e5dda009f130420fc6014422ffbd9226673ee",
-  "generatedAt": "2026-10-08T10:38:39.547Z",
-  "downloadsRefreshedAt": "2026-10-08T10:38:38.615Z",
-  "count": 3390,
+  "commit": "ac5f51bc322ebafa99e78323bbecf86209375d09",
+  "generatedAt": "2026-10-08T10:50:41.632Z",
+  "downloadsRefreshedAt": "2026-10-08T10:50:41.087Z",
+  "count": 3391,
   "extensions": [
     {
       "dir": "0x0",
@@ -10463,7 +10463,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 615223
+      "downloads": 615231
     },
     {
       "dir": "color-shades",
@@ -23618,7 +23618,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 497506
+      "downloads": 497513
     },
     {
       "dir": "google-trends",
@@ -29832,7 +29832,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 775283
+      "downloads": 775294
     },
     {
       "dir": "kimai",
@@ -55775,6 +55775,26 @@
       "downloads": 63
     },
     {
+      "dir": "simplebanking",
+      "name": "simplebanking",
+      "title": "Simplebanking",
+      "description": "Balances, transactions and a monthly overview from simplebanking — reads the local cache, without contacting a bank.",
+      "author": "klotzbrocken",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Finance"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/simplebanking",
+      "treeSha": "2ab70fe79ecf6fff2fad6444a5e3e2ebeb0f9af6",
+      "downloads": null
+    },
+    {
       "dir": "simplelogin",
       "name": "simplelogin",
       "title": "SimpleLogin",
@@ -64400,7 +64420,7 @@
       "store": "https://www.raycast.com/SeoFood/typewhisper",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/typewhisper",
       "treeSha": "b805b92977381f4bef8e55d2e8b80d30b1cc9d6c",
-      "downloads": 3641
+      "downloads": 3642
     },
     {
       "dir": "typographer",

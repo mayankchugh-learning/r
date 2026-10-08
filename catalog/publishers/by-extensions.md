@@ -1,6 +1,6 @@
 # Publishers
 
-2282 publishers · [← catalog index](../README.md)
+2283 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 170,254 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,892 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,927 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,300,357 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,300,365 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 460,929 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,935 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,476 |
@@ -99,7 +99,7 @@
 | 89 | [SevicheCC](https://www.raycast.com/SevicheCC) | 4 | 1,056 |
 | 90 | [aic](https://www.raycast.com/aic) | 4 | 520 |
 | 91 | [Olli0103](https://www.raycast.com/Olli0103) | 4 | 206 |
-| 92 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,654 |
+| 92 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,661 |
 | 93 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 494,648 |
 | 94 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 117,478 |
 | 95 | [erics118](https://www.raycast.com/erics118) | 3 | 107,287 |
@@ -407,7 +407,7 @@
 | 397 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 17 |
 | 398 | [frdmn](https://www.raycast.com/frdmn) | 2 | 1 |
 | 399 | github-next | 2 | — |
-| 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,283 |
+| 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,294 |
 | 401 | [Codely](https://www.raycast.com/Codely) | 1 | 570,207 |
 | 402 | [linear](https://www.raycast.com/linear) | 1 | 402,202 |
 | 403 | [mommertf](https://www.raycast.com/mommertf) | 1 | 335,110 |
@@ -562,7 +562,7 @@
 | 552 | [plonq](https://www.raycast.com/plonq) | 1 | 3,718 |
 | 553 | [cheslip](https://www.raycast.com/cheslip) | 1 | 3,716 |
 | 554 | [bgreenlee](https://www.raycast.com/bgreenlee) | 1 | 3,709 |
-| 555 | [SeoFood](https://www.raycast.com/SeoFood) | 1 | 3,641 |
+| 555 | [SeoFood](https://www.raycast.com/SeoFood) | 1 | 3,642 |
 | 556 | [d3caf](https://www.raycast.com/d3caf) | 1 | 3,638 |
 | 557 | [any](https://www.raycast.com/any) | 1 | 3,618 |
 | 558 | [hieudinh](https://www.raycast.com/hieudinh) | 1 | 3,612 |
@@ -2289,4 +2289,5 @@
 | 2279 | [sbd530](https://www.raycast.com/sbd530) | 1 | 0 |
 | 2280 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
 | 2281 | eugenio | 1 | — |
-| 2282 | multi | 1 | — |
+| 2282 | klotzbrocken | 1 | — |
+| 2283 | multi | 1 | — |

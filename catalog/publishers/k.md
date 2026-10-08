@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · **K** · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-87 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+88 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -57,6 +57,7 @@
 | [kjbakke](https://www.raycast.com/kjbakke) | 1 | 2 | **Fun:** [Tibia Helper](https://github.com/raycast/extensions/tree/main/extensions/tibia-helper) |
 | [klaa97](https://www.raycast.com/klaa97) | 1 | 2,697 | **Developer Tools:** [Google Cloud Platform Search](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-platform-search) |
 | [klkvsky](https://www.raycast.com/klkvsky) | 1 | 603 | **News:** [Recent News](https://github.com/raycast/extensions/tree/main/extensions/the-verge) |
+| klotzbrocken | 1 | — | **Finance:** [Simplebanking](https://github.com/raycast/extensions/tree/main/extensions/simplebanking) |
 | [kmusick](https://www.raycast.com/kmusick) | 1 | 4,553 | **Applications:** [Bartender](https://github.com/raycast/extensions/tree/main/extensions/bartender) |
 | [knealking](https://www.raycast.com/knealking) | 1 | 390 | **Developer Tools:** [Dotmate](https://github.com/raycast/extensions/tree/main/extensions/dotmate) |
 | [knownasilya](https://www.raycast.com/knownasilya) | 1 | 31 | **Productivity:** [TeamGantt](https://github.com/raycast/extensions/tree/main/extensions/teamgantt) |

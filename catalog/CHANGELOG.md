@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-08 — upstream `ac5f51bc32`
+
+**Added (1):** [Simplebanking](https://github.com/raycast/extensions/tree/main/extensions/simplebanking)
+
 ## 2026-10-08 — upstream `8b4e5dda00`
 
 **Updated (1):** [TypeWhisper](https://github.com/raycast/extensions/tree/main/extensions/typewhisper)

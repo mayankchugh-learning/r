@@ -1,6 +1,6 @@
 # Publishers
 
-2282 publishers · [← catalog index](../README.md)
+2283 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,11 +8,11 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,300,357 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,300,365 |
 | 2 | [raycast](./id/raycast.md) | 11 | 908,827 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,283 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,294 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 570,207 |
-| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,654 |
+| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 498,661 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 494,648 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 460,929 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 402,202 |
@@ -327,7 +327,7 @@
 | 317 | [plonq](https://www.raycast.com/plonq) | 1 | 3,718 |
 | 318 | [cheslip](https://www.raycast.com/cheslip) | 1 | 3,716 |
 | 319 | [bgreenlee](https://www.raycast.com/bgreenlee) | 1 | 3,709 |
-| 320 | [SeoFood](https://www.raycast.com/SeoFood) | 1 | 3,641 |
+| 320 | [SeoFood](https://www.raycast.com/SeoFood) | 1 | 3,642 |
 | 321 | [d3caf](https://www.raycast.com/d3caf) | 1 | 3,638 |
 | 322 | [any](https://www.raycast.com/any) | 1 | 3,618 |
 | 323 | [hieudinh](https://www.raycast.com/hieudinh) | 1 | 3,612 |
@@ -2289,4 +2289,5 @@
 | 2279 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
 | 2280 | github-next | 2 | — |
 | 2281 | eugenio | 1 | — |
-| 2282 | multi | 1 | — |
+| 2282 | klotzbrocken | 1 | — |
+| 2283 | multi | 1 | — |
