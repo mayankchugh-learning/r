@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9eddad57d879c840ae4f5af77bacece33536869e",
-  "generatedAt": "2026-10-08T12:20:41.107Z",
-  "downloadsRefreshedAt": "2026-10-08T12:20:40.455Z",
+  "commit": "fcacc488ce40f71249b130827447e13fd603864f",
+  "generatedAt": "2026-10-08T12:21:25.681Z",
+  "downloadsRefreshedAt": "2026-10-08T12:21:25.269Z",
   "count": 3392,
   "extensions": [
     {
@@ -1910,7 +1910,7 @@
       ],
       "store": "https://www.raycast.com/j3lte/anna-s-archive",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive",
-      "treeSha": "5da6b5729b95414fb258fe878ef3951630581981",
+      "treeSha": "269a2dc8f5e9bf7cc8fff36fbef74ce66832abd4",
       "downloads": 5093
     },
     {
@@ -10463,7 +10463,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "ef08e54e0332cafa006e7a468ab7c09f5e952ef3",
-      "downloads": 615314
+      "downloads": 615315
     },
     {
       "dir": "color-shades",
@@ -23618,7 +23618,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 497583
+      "downloads": 497585
     },
     {
       "dir": "google-trends",
