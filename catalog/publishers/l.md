@@ -10,7 +10,7 @@
 | [lacasa](https://www.raycast.com/lacasa) | 1 | 59 | **Productivity:** [TXTodo](https://github.com/raycast/extensions/tree/main/extensions/txtodo) |
 | [lachero](https://www.raycast.com/lachero) | 4 | 4,996 | **Security:** [One Time Password](https://github.com/raycast/extensions/tree/main/extensions/one-time-password)<br>**Productivity:** [Gmail Accounts](https://github.com/raycast/extensions/tree/main/extensions/gmail-accounts)<br>**Developer Tools:** [Markdown Codeblock](https://github.com/raycast/extensions/tree/main/extensions/markdown-codeblock)<br>**Finance:** [MoneyLover](https://github.com/raycast/extensions/tree/main/extensions/moneylover) |
 | [lachie_james](https://www.raycast.com/lachie_james) | 1 | 2,544 | **Productivity:** [ElevenLabs TTS](https://github.com/raycast/extensions/tree/main/extensions/elevenlabs-tts) |
-| lachieh | 1 | — | **Developer Tools:** [Mise](https://github.com/raycast/extensions/tree/main/extensions/mise) |
+| [lachieh](https://www.raycast.com/lachieh) | 1 | 0 | **Developer Tools:** [Mise](https://github.com/raycast/extensions/tree/main/extensions/mise) |
 | [lafkpages](https://www.raycast.com/luisafk) | 2 | 463 | **Fun:** [Minecraft Crafting Recipes](https://github.com/raycast/extensions/tree/main/extensions/minecraft-crafting-recipes)<br>**Productivity:** [Minecraft Color Codes](https://github.com/raycast/extensions/tree/main/extensions/minecraft-color-codes) |
 | [lamalamaMark](https://www.raycast.com/lamalamaMark) | 1 | 90 | **Developer Tools:** [Buddy](https://github.com/raycast/extensions/tree/main/extensions/buddy) |
 | [lamberttraccard](https://www.raycast.com/lamberttraccard) | 1 | 307 | **Developer Tools:** [Teleport](https://github.com/raycast/extensions/tree/main/extensions/teleport) |

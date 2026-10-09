@@ -234,6 +234,6 @@
 | [Mise Window Sets](https://github.com/raycast/extensions/tree/main/extensions/mise-window-sets) | 2 | Apply saved Mise window Sets from Raycast. | carlosaguado04 | macOS | [store](https://www.raycast.com/carlosaguado04/mise-window-sets) |
 | [Modbus Toolkit](https://github.com/raycast/extensions/tree/main/extensions/modbus-toolkit) | 2 | Parse, build, decode, and validate Modbus RTU, TCP, and ASCII frames | TwoMental | macOS | [store](https://www.raycast.com/twomental/modbus-toolkit) |
 | [Markdown Documents](https://github.com/raycast/extensions/tree/main/extensions/markdown-docs) | 1 | Manage and search markdown cheatsheets and documents | craigharman | macOS | [store](https://www.raycast.com/craigharman/markdown-docs) |
+| [Mise](https://github.com/raycast/extensions/tree/main/extensions/mise) | 0 | Search, install and upgrade the dev tools managed by mise. | lachieh | macOS | [store](https://www.raycast.com/lachieh/mise) |
 | [MOEX Bonds](https://github.com/raycast/extensions/tree/main/extensions/moex-bonds) | 0 | Search Russian bonds on the Moscow Exchange by name, ticker or ISIN: price, yield, coupons, offer and maturity. | andrey_tolstikov | macOS | [store](https://www.raycast.com/andrey_tolstikov/moex-bonds) |
-| [Mise](https://github.com/raycast/extensions/tree/main/extensions/mise) | — | Search, install and upgrade the dev tools managed by mise. | lachieh | macOS | — |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |

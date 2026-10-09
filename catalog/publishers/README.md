@@ -8,11 +8,11 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,301,527 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,301,528 |
 | 2 | [raycast](./id/raycast.md) | 11 | 909,626 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,929 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,930 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 570,667 |
-| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 499,049 |
+| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 499,050 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 495,032 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 461,288 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 402,490 |
@@ -2283,13 +2283,13 @@
 | 2273 | [derJan](https://www.raycast.com/derJan) | 1 | 0 |
 | 2274 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2275 | [kdmsnr](https://www.raycast.com/kdmsnr) | 1 | 0 |
-| 2276 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2277 | [Marcelismus](https://www.raycast.com/Marcelismus) | 1 | 0 |
-| 2278 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2279 | [PunkABeat](https://www.raycast.com/PunkABeat) | 1 | 0 |
-| 2280 | [ryohei-62](https://www.raycast.com/ryohei-62) | 1 | 0 |
-| 2281 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
-| 2282 | github-next | 2 | — |
-| 2283 | eugenio | 1 | — |
-| 2284 | lachieh | 1 | — |
+| 2276 | [lachieh](https://www.raycast.com/lachieh) | 1 | 0 |
+| 2277 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2278 | [Marcelismus](https://www.raycast.com/Marcelismus) | 1 | 0 |
+| 2279 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2280 | [PunkABeat](https://www.raycast.com/PunkABeat) | 1 | 0 |
+| 2281 | [ryohei-62](https://www.raycast.com/ryohei-62) | 1 | 0 |
+| 2282 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
+| 2283 | github-next | 2 | — |
+| 2284 | eugenio | 1 | — |
 | 2285 | multi | 1 | — |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-09 — upstream `f561f4f545`
+
+**Updated (1):** [Apfel](https://github.com/raycast/extensions/tree/main/extensions/apfel)
+
 ## 2026-10-09 — upstream `0dab5bb3f8`
 
 **Added (1):** [Mise](https://github.com/raycast/extensions/tree/main/extensions/mise)

@@ -165,4 +165,4 @@
 | [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) | 20 | Search for a definition on WebGlossary.info | aashwin_patki | macOS, Windows | [store](https://www.raycast.com/aashwin_patki/webglossary-search) |
 | [ArgoCD](https://github.com/raycast/extensions/tree/main/extensions/argocd) | 11 | Search applications across several ArgoCD instances, then open, inspect or sync them. | pixibixi | macOS | [store](https://www.raycast.com/pixibixi/argocd) |
 | [LokalBot](https://github.com/raycast/extensions/tree/main/extensions/lokalbot) | 3 | Find what you said or saw on your Mac. Search LokalBot meeting transcripts and summaries from Raycast. | stevan_bogosavljevic | macOS | [store](https://www.raycast.com/stevan_bogosavljevic/lokalbot) |
-| [Mise](https://github.com/raycast/extensions/tree/main/extensions/mise) | — | Search, install and upgrade the dev tools managed by mise. | lachieh | macOS | — |
+| [Mise](https://github.com/raycast/extensions/tree/main/extensions/mise) | 0 | Search, install and upgrade the dev tools managed by mise. | lachieh | macOS | [store](https://www.raycast.com/lachieh/mise) |

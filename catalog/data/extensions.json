@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "0dab5bb3f8c47dae78a275e3dd3fd3777473db97",
-  "generatedAt": "2026-10-09T00:39:24.938Z",
-  "downloadsRefreshedAt": "2026-10-09T00:39:24.081Z",
+  "commit": "f561f4f5458d4198f0af3b9a9e58d6351d0b1f67",
+  "generatedAt": "2026-10-09T00:40:35.802Z",
+  "downloadsRefreshedAt": "2026-10-09T00:40:34.492Z",
   "count": 3395,
   "extensions": [
     {
@@ -2214,7 +2214,7 @@
       "description": "Interact with Apfel CLI from Raycast!",
       "author": "eggsy",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Productivity",
         "Developer Tools"
@@ -2225,7 +2225,7 @@
       ],
       "store": "https://www.raycast.com/eggsy/apfel",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apfel",
-      "treeSha": "c699e97d580fd99ad8f61eeed38d9191084184d2",
+      "treeSha": "c3453b910aed14e4420953d44053f08aa45e1dac",
       "downloads": 158
     },
     {
@@ -10463,7 +10463,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "2426fd8c88510544f6bdb68017a3fbbe7d132fd7",
-      "downloads": 615805
+      "downloads": 615806
     },
     {
       "dir": "color-shades",
@@ -23618,7 +23618,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 497901
+      "downloads": 497902
     },
     {
       "dir": "google-trends",
@@ -29854,7 +29854,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 775929
+      "downloads": 775930
     },
     {
       "dir": "kimai",
@@ -36209,10 +36209,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/lachieh/mise",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mise",
       "treeSha": "70aff5e75079d350e0820859ab02b92546d3ecd0",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "mise-window-sets",
