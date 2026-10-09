@@ -19,7 +19,7 @@
 | 9 | [vimtor](./id/vimtor.md) | 16 | 339,137 |
 | 10 | [Aayush9029](./id/aayush9029.md) | 16 | 170,407 |
 | 11 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,904 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,301,519 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,301,520 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 461,288 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,956 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,492 |
