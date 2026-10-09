@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-09 — upstream `87b74f9893`
+
+**Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
+
 ## 2026-10-09 — upstream `fe974d8222`
 
 **Updated (1):** [Microsoft To Do via ms-todo](https://github.com/raycast/extensions/tree/main/extensions/ms-todo)

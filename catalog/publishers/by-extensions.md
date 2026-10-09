@@ -19,7 +19,7 @@
 | 9 | [vimtor](./id/vimtor.md) | 16 | 339,137 |
 | 10 | [Aayush9029](./id/aayush9029.md) | 16 | 170,407 |
 | 11 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,904 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,301,518 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,301,519 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 461,288 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,956 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,492 |
@@ -99,7 +99,7 @@
 | 89 | [SevicheCC](https://www.raycast.com/SevicheCC) | 4 | 1,057 |
 | 90 | [aic](https://www.raycast.com/aic) | 4 | 525 |
 | 91 | [Olli0103](https://www.raycast.com/Olli0103) | 4 | 206 |
-| 92 | [gebeto](https://www.raycast.com/gebeto) | 3 | 499,042 |
+| 92 | [gebeto](https://www.raycast.com/gebeto) | 3 | 499,044 |
 | 93 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 495,032 |
 | 94 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 117,582 |
 | 95 | [erics118](https://www.raycast.com/erics118) | 3 | 107,370 |
