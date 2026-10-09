@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "382412f8f0dee76fc2babade045304b603396439",
-  "generatedAt": "2026-10-09T00:29:18.217Z",
-  "downloadsRefreshedAt": "2026-10-09T00:29:17.791Z",
-  "count": 3394,
+  "commit": "0dab5bb3f8c47dae78a275e3dd3fd3777473db97",
+  "generatedAt": "2026-10-09T00:39:24.938Z",
+  "downloadsRefreshedAt": "2026-10-09T00:39:24.081Z",
+  "count": 3395,
   "extensions": [
     {
       "dir": "0x0",
@@ -10463,7 +10463,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "2426fd8c88510544f6bdb68017a3fbbe7d132fd7",
-      "downloads": 615798
+      "downloads": 615805
     },
     {
       "dir": "color-shades",
@@ -23618,7 +23618,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
-      "downloads": 497896
+      "downloads": 497901
     },
     {
       "dir": "google-trends",
@@ -29854,7 +29854,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 775922
+      "downloads": 775929
     },
     {
       "dir": "kimai",
@@ -36195,6 +36195,26 @@
       "downloads": 1671
     },
     {
+      "dir": "mise",
+      "name": "mise",
+      "title": "Mise",
+      "description": "Search, install and upgrade the dev tools managed by mise.",
+      "author": "lachieh",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/mise",
+      "treeSha": "70aff5e75079d350e0820859ab02b92546d3ecd0",
+      "downloads": null
+    },
+    {
       "dir": "mise-window-sets",
       "name": "mise-window-sets",
       "title": "Mise Window Sets",
@@ -36523,7 +36543,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "20a41b0b1fe83517af7a440858c396735164052f",
-      "downloads": 43248
+      "downloads": 43255
     },
     {
       "dir": "models-dev",

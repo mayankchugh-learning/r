@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-10-09 — upstream `0dab5bb3f8`
+
+**Added (1):** [Mise](https://github.com/raycast/extensions/tree/main/extensions/mise)
+
 ## 2026-10-09 — upstream `382412f8f0`
 
 **Updated (1):** [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager)

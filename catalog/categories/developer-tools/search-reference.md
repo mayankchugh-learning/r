@@ -1,8 +1,8 @@
 # Search & Reference
 
-120 extensions · [← Developer Tools](./README.md)
+121 extensions · [← Developer Tools](./README.md)
 
-[Documentation ✦](#documentation) (36) · [Docs ✦](#docs) (5) · [Bookmarks ✦](#bookmarks) (5) · [Cheatsheets ✦](#cheatsheets) (5) · [Directory ✦](#directory) (5) · [Recent ✦](#recent) (5) · [Sessions ✦](#sessions) (4) · [General](#general) (55)
+[Documentation ✦](#documentation) (36) · [Docs ✦](#docs) (5) · [Bookmarks ✦](#bookmarks) (5) · [Cheatsheets ✦](#cheatsheets) (5) · [Directory ✦](#directory) (5) · [Recent ✦](#recent) (5) · [Sessions ✦](#sessions) (4) · [General](#general) (56)
 
 *✦ auto-discovered topic group*
 
@@ -165,3 +165,4 @@
 | [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) | 20 | Search for a definition on WebGlossary.info | aashwin_patki | macOS, Windows | [store](https://www.raycast.com/aashwin_patki/webglossary-search) |
 | [ArgoCD](https://github.com/raycast/extensions/tree/main/extensions/argocd) | 11 | Search applications across several ArgoCD instances, then open, inspect or sync them. | pixibixi | macOS | [store](https://www.raycast.com/pixibixi/argocd) |
 | [LokalBot](https://github.com/raycast/extensions/tree/main/extensions/lokalbot) | 3 | Find what you said or saw on your Mac. Search LokalBot meeting transcripts and summaries from Raycast. | stevan_bogosavljevic | macOS | [store](https://www.raycast.com/stevan_bogosavljevic/lokalbot) |
+| [Mise](https://github.com/raycast/extensions/tree/main/extensions/mise) | — | Search, install and upgrade the dev tools managed by mise. | lachieh | macOS | — |

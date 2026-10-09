@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · **L** · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-83 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+84 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -10,6 +10,7 @@
 | [lacasa](https://www.raycast.com/lacasa) | 1 | 59 | **Productivity:** [TXTodo](https://github.com/raycast/extensions/tree/main/extensions/txtodo) |
 | [lachero](https://www.raycast.com/lachero) | 4 | 4,996 | **Security:** [One Time Password](https://github.com/raycast/extensions/tree/main/extensions/one-time-password)<br>**Productivity:** [Gmail Accounts](https://github.com/raycast/extensions/tree/main/extensions/gmail-accounts)<br>**Developer Tools:** [Markdown Codeblock](https://github.com/raycast/extensions/tree/main/extensions/markdown-codeblock)<br>**Finance:** [MoneyLover](https://github.com/raycast/extensions/tree/main/extensions/moneylover) |
 | [lachie_james](https://www.raycast.com/lachie_james) | 1 | 2,544 | **Productivity:** [ElevenLabs TTS](https://github.com/raycast/extensions/tree/main/extensions/elevenlabs-tts) |
+| lachieh | 1 | — | **Developer Tools:** [Mise](https://github.com/raycast/extensions/tree/main/extensions/mise) |
 | [lafkpages](https://www.raycast.com/luisafk) | 2 | 463 | **Fun:** [Minecraft Crafting Recipes](https://github.com/raycast/extensions/tree/main/extensions/minecraft-crafting-recipes)<br>**Productivity:** [Minecraft Color Codes](https://github.com/raycast/extensions/tree/main/extensions/minecraft-color-codes) |
 | [lamalamaMark](https://www.raycast.com/lamalamaMark) | 1 | 90 | **Developer Tools:** [Buddy](https://github.com/raycast/extensions/tree/main/extensions/buddy) |
 | [lamberttraccard](https://www.raycast.com/lamberttraccard) | 1 | 307 | **Developer Tools:** [Teleport](https://github.com/raycast/extensions/tree/main/extensions/teleport) |

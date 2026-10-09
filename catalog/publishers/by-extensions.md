@@ -1,6 +1,6 @@
 # Publishers
 
-2284 publishers · [← catalog index](../README.md)
+2285 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -19,13 +19,13 @@
 | 9 | [vimtor](./id/vimtor.md) | 16 | 339,137 |
 | 10 | [Aayush9029](./id/aayush9029.md) | 16 | 170,407 |
 | 11 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,904 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,301,520 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,301,527 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 461,288 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,956 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,492 |
 | 16 | [j3lte](./id/j3lte.md) | 13 | 11,306 |
 | 17 | [kud](./id/kud.md) | 13 | 7,367 |
-| 18 | [raycast](./id/raycast.md) | 11 | 909,619 |
+| 18 | [raycast](./id/raycast.md) | 11 | 909,626 |
 | 19 | [Rob](./id/rob.md) | 11 | 12,455 |
 | 20 | [Yukai](./id/yukai.md) | 11 | 10,534 |
 | 21 | [xilopaint](./id/xilopaint.md) | 10 | 23,367 |
@@ -99,7 +99,7 @@
 | 89 | [SevicheCC](https://www.raycast.com/SevicheCC) | 4 | 1,057 |
 | 90 | [aic](https://www.raycast.com/aic) | 4 | 525 |
 | 91 | [Olli0103](https://www.raycast.com/Olli0103) | 4 | 206 |
-| 92 | [gebeto](https://www.raycast.com/gebeto) | 3 | 499,044 |
+| 92 | [gebeto](https://www.raycast.com/gebeto) | 3 | 499,049 |
 | 93 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 495,032 |
 | 94 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 117,582 |
 | 95 | [erics118](https://www.raycast.com/erics118) | 3 | 107,370 |
@@ -407,7 +407,7 @@
 | 397 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 17 |
 | 398 | [frdmn](https://www.raycast.com/frdmn) | 2 | 1 |
 | 399 | github-next | 2 | — |
-| 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,922 |
+| 400 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 775,929 |
 | 401 | [Codely](https://www.raycast.com/Codely) | 1 | 570,667 |
 | 402 | [linear](https://www.raycast.com/linear) | 1 | 402,490 |
 | 403 | [mommertf](https://www.raycast.com/mommertf) | 1 | 335,414 |
@@ -2291,4 +2291,5 @@
 | 2281 | [ryohei-62](https://www.raycast.com/ryohei-62) | 1 | 0 |
 | 2282 | [thoddnn](https://www.raycast.com/thoddnn) | 1 | 0 |
 | 2283 | eugenio | 1 | — |
-| 2284 | multi | 1 | — |
+| 2284 | lachieh | 1 | — |
+| 2285 | multi | 1 | — |
